@@ -181,26 +181,43 @@ def _shrink_sankey_html(html: str, min_width: int) -> str:
     return html.replace("1420", str(min_width))
 
 
+_SANKEY_BASE_W = 1000
+_SANKEY_BASE_H = 640
+
+
 def render_sankey_tab(entry: dict | None, period: dict) -> None:
     if entry is not None:
         render_metrics_row(entry)
         st.divider()
     raw_html = load_text(str(period["sankey_path"]))
 
-    # Compact embed: ~970-px chart inside a 1000-px iframe — fits cleanly even
-    # on 1366-px laptop screens with Streamlit's sidebar open, leaves enough
-    # main-column whitespace on both sides that the iframe reads as visibly
-    # centered. Centering is handled by .sankey-frame-wrap below.
-    compact_html = _shrink_sankey_html(raw_html, 970)
-    st.markdown('<div class="sankey-frame-wrap">', unsafe_allow_html=True)
-    components.html(compact_html, height=640, width=1000, scrolling=False)
-    st.markdown("</div>", unsafe_allow_html=True)
+    # Zoom slider — scales the chart visually (everything: bars, links, text)
+    # via a CSS transform injected into the iframe's <body>. The iframe is
+    # sized to the scaled dimensions so the browser shows scrollbars when the
+    # chart overflows.
+    zoom = st.slider(
+        "🔍 Zoom",
+        min_value=0.6, max_value=2.0, value=1.0, step=0.1,
+        key=f"zoom_{period['key']}",
+        help="Drag to make the Sankey bigger or smaller. Scroll inside the chart if it overflows.",
+    )
 
-    # Full-size detail view (opens inline in an expander so users on a wider
-    # screen can inspect labels). Uses the original HTML (1420-px floor) so
-    # the chart is at the size the template was designed for.
-    with st.expander("🔍 Show at full size (1500 px wide)"):
-        components.html(raw_html, height=760, width=1500, scrolling=True)
+    # Render the chart at 970 px inside a 1000-px body, then let CSS scale it.
+    scaled_html = _shrink_sankey_html(raw_html, 970)
+    if zoom != 1.0:
+        zoom_css = (
+            "<style>"
+            f"body{{transform:scale({zoom});transform-origin:top left;"
+            f"width:{_SANKEY_BASE_W}px;height:{_SANKEY_BASE_H}px;}}"
+            "</style>"
+        )
+        scaled_html = scaled_html.replace("</head>", f"{zoom_css}</head>", 1)
+
+    iframe_w = int(_SANKEY_BASE_W * zoom)
+    iframe_h = int(_SANKEY_BASE_H * zoom)
+    st.markdown('<div class="sankey-frame-wrap">', unsafe_allow_html=True)
+    components.html(scaled_html, height=iframe_h, width=iframe_w, scrolling=True)
+    st.markdown("</div>", unsafe_allow_html=True)
 
 
 def render_summary_tab(meta: dict) -> None:
