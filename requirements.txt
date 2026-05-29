@@ -1,0 +1,11 @@
+openai
+yfinance
+plotly
+pandas
+requests
+beautifulsoup4
+lxml
+openpyxl
+pdfplumber
+PyPDF2
+streamlit>=1.30

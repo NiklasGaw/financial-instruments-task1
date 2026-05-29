@@ -1,0 +1,24 @@
+{
+  "ticker": "UNH",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "UnitedHealthcare",
+      "sub_segments": [
+        "UnitedHealthcare Employer & Individual - Domestic",
+        "UnitedHealthcare Employer & Individual - Global",
+        "UnitedHealthcare Medicare & Retirement",
+        "UnitedHealthcare Community & State",
+        "Other UnitedHealthcare"
+      ]
+    },
+    {
+      "name": "Optum Health",
+      "sub_segments": []
+    },
+    {
+      "name": "Optum Insight",
+      "sub_segments": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "ticker": "NOVO-B.CO",
+  "source": "cache: 20-F 2023-12-31",
+  "segments": [
+    {
+      "name": "Obesity and Diabetes care",
+      "sub_segments": [
+        "Wegovy",
+        "Ozempic",
+        "Rybelsus",
+        "Saxenda",
+        "Victoza"
+      ]
+    },
+    {
+      "name": "Diabetes and Obesity care",
+      "sub_segments": [
+        "Ozempic",
+        "Wegovy",
+        "Other Diabetes and Obesity care",
+        "GLP-1 receptor agonists (Ozempic, Wegovy, Saxenda)",
+        "Modern insulins",
+        "Human insulins",
+        "Other diabetes and obesity products"
+      ]
+    },
+    {
+      "name": "Rare disease",
+      "sub_segments": [
+        "Growth hormone therapy",
+        "Haemophilia products",
+        "Other rare disease products"
+      ]
+    }
+  ]
+}

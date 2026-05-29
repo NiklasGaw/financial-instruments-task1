@@ -1,0 +1,608 @@
+6-K
+ 1
+ a7028c.htm
+ FDA ODAC VOTE ON CAMIZESTRANT IN BREAST CANCER
+
+ a7028c 
+
+FORM 6-K 
+
+ &#xA0; 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+ &#xA0; 
+
+ &#xA0; 
+
+ Report
+of Foreign Issuer 
+
+ &#xA0; 
+
+ Pursuant
+to Rule 13a-16 or 15d-16 of 
+
+ the
+Securities Exchange Act of 1934 
+
+ &#xA0; 
+
+ For the
+month of May 2026&#xA0; 
+
+ &#xA0; 
+
+ Commission
+File Number: 001-11960 
+
+ &#xA0; 
+
+AstraZeneca PLC 
+
+ &#xA0; 
+
+ 1
+Francis Crick Avenue 
+
+ Cambridge
+Biomedical Campus 
+
+ Cambridge
+CB2 0AA 
+
+ United
+Kingdom 
+
+ &#xA0; 
+
+ &#xA0; 
+
+ Indicate
+by check mark whether the registrant files or will file annual
+reports under cover of Form 20-F or Form 40-F. 
+
+ &#xA0; 
+
+ Form
+20-F X Form 40-F __ 
+
+ &#xA0; 
+
+ Indicate
+by check mark if the registrant is submitting the Form 6-K in paper
+as permitted by Regulation S-T Rule 101(b)(1): 
+
+ &#xA0; 
+
+ Indicate
+by check mark if the registrant is submitting the Form 6-K in paper
+as permitted by Regulation S-T Rule 101(b)(7): ______ 
+
+ &#xA0; 
+
+ Indicate
+by check mark whether the registrant by furnishing the information
+contained in this Form is also thereby furnishing the information
+to the Commission pursuant to Rule 12g3-2(b) under the Securities
+Exchange Act of 1934. 
+
+ &#xA0; 
+
+ Yes __
+No X 
+
+ &#xA0; 
+
+ If
+&#x201C;Yes&#x201D; is marked, indicate below the file number
+assigned to the Registrant in connection with Rule 12g3-2(b):
+82-_____________ 
+
+ &#xA0; 
+
+ &#xA0; 
+
+ &#xA0; 
+
+AstraZeneca PLC 
+
+ &#xA0; 
+
+ INDEX
+TO EXHIBITS 
+
+ &#xA0; 
+
+ 1.
+FDA ODAC vote on camizestrant in breast cancer 
+
+&#xA0; 
+
+&#xA0; 01 May
+2026 
+
+ &#xA0; 
+
+Update on FDA Advisory Committee vote on camizestrant in
+combination with a CDK4/6 inhibitor for advanced HR-positive breast
+cancer 
+
+ &#xA0; 
+
+The US Food and Drug Administration's (FDA) Oncologic Drugs
+Advisory Committee (ODAC) did not reach a majority vote in favor of
+the benefit risk profile of AstraZeneca's camizestrant in
+combination with a cyclin-dependent kinase (CDK) 4/6 inhibitor
+(palbociclib, ribociclib or abemaciclib) for the 1st-line treatment
+of patients with hormone receptor (HR)-positive, HER2-negative
+advanced breast cancer whose tumours have an
+emergent &#xA0; ESR1 &#xA0; mutation,
+based on the SERENA-6 Phase III trial. The Committee voted 3 to
+6. 
+
+&#xA0; 
+
+In July 2025, the FDA accepted the New Drug Application (NDA) for
+camizestrant in combination with a CDK4/6 inhibitor based on
+positive results from the pivotal SERENA-6 Phase III trial
+presented at the 2025 American Society of Clinical Oncology (ASCO)
+Annual Meeting and simultaneously published in &#xA0; The
+New England Journal of Medicine . 1 &#xA0;The
+FDA granted Breakthrough Therapy Designation (BTD) for the
+camizestrant combination in this setting in May
+2025. 
+
+&#xA0; 
+
+The FDA is not bound by the Committee's guidance but takes its
+advice into consideration. AstraZeneca will continue to work with
+the FDA as it completes its review of the application. 
+
+&#xA0; 
+
+Kevin Kalinsky, MD, MS, FASCO, Division Director of Medical
+Oncology, Winship Cancer Institute of Emory University and
+investigator for the trial, said: "Patients with this specific form
+of breast cancer are in urgent need of new treatments that delay
+disease progression. Today's recommendation by the ODAC is
+disappointing, as new options and innovative treatment strategies
+which address emerging resistance ahead of disease progression and
+deterioration in quality of life are needed in the 1st-line
+setting." 
+
+&#xA0; 
+
+Susan Galbraith, Executive Vice President, Oncology Haematology
+R&D, AstraZeneca, said: "New innovations and novel treatment
+strategies that provide benefit to patients are required to drive
+advances in this 1st-line setting, and so we are disappointed with
+the mixed outcome of today's ODAC meeting. We strongly believe in
+the results of the SERENA-6 trial, and are encouraged that the
+Committee saw camizestrant as a safe and effective potential new
+medicine. We remain confident in the clinical benefit the
+combination can bring to patients by changing therapeutic strategy
+at the earliest opportunity, and are committed to challenging the
+status quo in the pursuit of innovation that optimises outcomes for
+patients." 
+
+&#xA0; 
+
+Results from a planned interim analysis of the SERENA-6 Phase III
+trial showed a highly statistically significant and clinically
+meaningful 56% reduction in the risk of disease progression or
+death with the camizestrant combination versus standard-of-care
+treatment with an aromatase inhibitor (AI) (anastrozole or
+letrozole) in combination with a CDK4/6 inhibitor (based on a
+hazard ratio [HR] of 0.44; 95% confidence interval [CI] 0.31-0.60;
+p 1 &#xA0;Median
+PFS was 16.0 months for patients who switched to the camizestrant
+combination versus 9.2 months for the comparator arm, and nearly
+one third (29.7%) of patients in the camizestrant arm showed
+sustained disease control at 24 months of treatment, versus 5.4%
+patients in the AI arm. 1 
+
+ &#xA0; 
+
+Data&#xA0;for&#xA0;the key secondary endpoints of time to second
+disease progression (PFS2) and overall survival (OS) were immature
+at the time of the interim analysis, however a subsequent
+pre-planned analysis demonstrated a statistically significant and
+clinically meaningful PFS2 benefit of 25.7 months versus 19.1
+months in favour of the camizestrant combination (HR: 0.63; 95% CI:
+0.46, 0.86; p = 0.00373) and OS continued to mature in favour of
+the camizestrant combination (HR: 0.87, CI: 0.57-1.30). The trial
+will continue to assess OS as a key secondary endpoint. Additional
+analyses of patient reported outcome (PRO)
+measures &#xA0; published
+in &#xA0; Annals
+of Oncology &#xA0; showed
+that the&#xA0;camizestrant&#xA0;combination demonstrated consistent
+benefit in delaying time to deterioration (TTD) in quality of life
+and reduced the risk of deterioration in patient-reported cancer
+symptoms and functioning, where
+the&#xA0;camizestrant&#xA0;combination reduced the risk of
+deterioration in global health status and quality of life by 46%
+compared with the AI combination (HR 0.54; 95% CI, 0.34-0.84;
+nominal p 2 
+
+ &#xA0; 
+
+The safety profile of camizestrant in combination with palbociclib,
+ribociclib or abemaciclib in the SERENA-6 trial was consistent with
+the known safety profile of each medicine. No new safety concerns
+were identified and discontinuations were very low and similar in
+both arms. 
+
+&#xA0; 
+
+SERENA-6 is the first global, double-blind, registrational Phase
+III trial to use a circulating tumour DNA (ctDNA)-guided approach
+to detect the emergence of endocrine resistance and inform a switch
+in therapy before disease progression. The innovative trial design
+used ctDNA monitoring via a blood test at the time of routine
+tumour scans every two to three months to identify patients for
+early signs of endocrine resistance via the emergence
+of&#xA0; ESR1 &#xA0;mutations. Following detection of
+an&#xA0; ESR1 &#xA0;mutation without disease progression, the
+endocrine therapy of patients was switched to camizestrant from
+ongoing treatment with an AI, while continuing combination with the
+same CDK4/6 inhibitor. 
+
+&#xA0; 
+
+Regulatory applications for camizestrant in this setting are also
+under review in the EU, Japan and several other
+countries. 
+
+&#xA0; 
+
+&#xA0; 
+
+Notes 
+
+&#xA0; 
+
+HR-positive breast cancer &#xA0; 
+
+Breast cancer is the second most common cancer and one of the
+leading causes of cancer-related deaths
+worldwide. 3&#xA0; More
+than two million patients were diagnosed with breast cancer in
+2022, with more than 665,000 deaths globally. 3 &#xA0;In
+the US, &#xA0; breast
+cancer is the most common cancer in women, with more than 300,000
+new cases of the disease diagnosed annually, and more than 42,000
+deaths. 4 &#xA0;While
+survival rates are high for those diagnosed with early breast
+cancer, only about 30% of patients diagnosed with or who progress
+to metastatic disease are expected to live five years following
+diagnosis. 5 &#xA0; 
+
+&#xA0; 
+
+HR-positive breast cancer, characterised by the expression of
+estrogen or progesterone receptors, or both, is the most common
+subtype of breast cancer with 70% of tumours considered HR-positive
+and HER2-negative. 5 &#xA0; Estrogen
+receptor (ERs) often drive the growth of HR-positive breast cancer
+cells. 6 
+
+&#xA0; 
+
+Globally, approximately 200,000 patients with HR-positive breast
+cancer are treated with a medicine in the 1st-line setting; most
+frequently with endocrine therapies that target ER-driven disease,
+which are often paired with CDK4/6 inhibitors. 7-9 &#xA0;In
+the US, approximately 37,000 patients with HR-positive metastatic
+breast cancer are treated with these therapies in the 1st-line
+setting. 7-9 &#xA0;However,
+resistance to these therapies develops in many
+patients. 9 &#xA0;Once
+this occurs, treatment options are limited and survival rates are
+low with approximately 36% of patients anticipated to live beyond
+five years after diagnosis. 5,9 
+
+&#xA0; 
+
+Mutations in the &#xA0; ESR1 &#xA0; gene
+are a key driver of endocrine resistance and are associated with
+poor outcomes, emerging during treatment of the disease and
+becoming more prevalent as the disease
+progresses. 10,11 &#xA0;Approximately
+30% of patients with endocrine sensitive HR-positive disease
+develop &#xA0; ESR1 &#xA0; mutations
+during 1st-line treatment before disease
+progression. 7 
+
+&#xA0; 
+
+The&#xA0;optimisation&#xA0;of endocrine therapy and overcoming
+resistance to enable patients to continue&#xA0;benefiting&#xA0;from
+these treatments, as well as&#xA0;identifying&#xA0;new therapies
+for those who are less likely to benefit, are active areas of focus
+for breast cancer research.&#xA0; 
+
+&#xA0; 
+
+SERENA-6 
+
+SERENA-6 is a Phase III, double-blind, randomised trial evaluating
+the efficacy and safety of camizestrant in combination with a
+CDK4/6 inhibitor (palbociclib, ribociclib or abemaciclib) versus
+treatment with an AI (anastrozole or letrozole) in combination with
+a CDK4/6 inhibitor (palbociclib, ribociclib or abemaciclib) in
+patients with HR-positive, HER2-negative advanced breast cancer
+(patients with either locally advanced disease, or metastatic
+disease) whose tumours have an emergent &#xA0; ESR1 &#xA0; mutation. 
+
+&#xA0; 
+
+The global trial enrolled 315 adult patients with histologically
+confirmed HR-positive, HER2-negative advanced breast cancer,
+undergoing treatment with an AI in combination with a CDK4/6
+inhibitor as 1st-line treatment. The primary endpoint of the
+SERENA-6 trial is PFS as assessed by investigator, with secondary
+endpoints including OS, and PFS2 by investigator
+assessment. 
+
+&#xA0; 
+
+Camizestrant 
+
+Camizestrant is an investigational, potent, next-generation oral
+selective estrogen receptor degrader (SERD) and complete ER
+antagonist that is currently in Phase III trials for the treatment
+of HR-positive breast cancer. 
+
+&#xA0; 
+
+AstraZeneca's broad, robust and innovative clinical development
+programme, including the SERENA-6, SERENA-4, CAMBRIA-1 and
+CAMBRIA-2 trials, is evaluating the safety and efficacy of
+camizestrant when used as a monotherapy or in combination with
+CDK4/6 inhibitors to address a number of areas of unmet need in
+HR-positive, HER2-negative breast cancer. 
+
+&#xA0; 
+
+Camizestrant has demonstrated anti-cancer activity across a range
+of preclinical models, including those with ER-activating
+mutations. In the SERENA-2 Phase II trial, camizestrant
+demonstrated a statistically significant and clinically meaningful
+improvement in PFS versus &#xA0; Faslodex &#xA0; (fulvestrant)
+in the overall trial population, including in patients
+with &#xA0; ESR1 &#xA0; tumour
+mutations irrespective of prior treatment with CDK4/6 inhibitors in
+patients with ER-positive locally advanced or metastatic breast
+cancer, previously treated with endocrine therapy. The SERENA-1
+Phase I trial demonstrated that camizestrant is well tolerated and
+has a promising anti-tumour profile when administered alone or in
+combination with palbociclib, ribociclib and abemaciclib; three
+widely used CDK4/6 inhibitors. 
+
+&#xA0; 
+
+AstraZeneca in breast cancer &#xA0; 
+
+Driven by a growing understanding of breast cancer biology,
+AstraZeneca is challenging, and redefining, the current clinical
+paradigm for how breast cancer is classified and treated to deliver
+even more effective treatments to patients in need - with the bold
+ambition to one day eliminate breast cancer as a cause of
+death. 
+
+ &#xA0; 
+
+AstraZeneca has a comprehensive portfolio of approved and promising
+compounds in development that leverage different mechanisms of
+action to address the biologically diverse breast cancer tumour
+environment. 
+
+ &#xA0; 
+
+ With&#xA0; Enhertu&#xA0; (trastuzumab
+deruxtecan), a HER2-directed antibody drug conjugate (ADC),
+AstraZeneca and Daiichi Sankyo are aiming to improve outcomes in
+previously treated HER2-positive, HER2-low and HER2-ultralow
+metastatic breast cancer and are exploring its potential in earlier
+lines of treatment and in new breast cancer
+settings. 
+
+ &#xA0; 
+
+ In HR-positive breast cancer,
+AstraZeneca continues to improve outcomes with foundational
+medicines&#xA0; Faslodex&#xA0; and&#xA0; Zoladex &#xA0;(goserelin)
+and aims to reshape the HR-positive space with first-in-class AKT
+inhibitor,&#xA0; Truqap ,
+the TROP-2-directed ADC, &#xA0; Datroway &#xA0; (datopotamab
+deruxtecan) and next-generation oral SERD and potential new
+medicine camizestrant. 
+
+ &#xA0; 
+
+ PARP
+inhibitor&#xA0; Lynparza&#xA0; (olaparib)
+is a targeted treatment option that has been studied in early and
+metastatic breast cancer patients with an
+inherited &#xA0; BRCA &#xA0; mutation.
+AstraZeneca with MSD (Merck & Co., Inc. in the US and Canada)
+continue to research&#xA0; Lynparza&#xA0; in
+these settings. AstraZeneca is also exploring the potential of
+saruparib, a potent and selective inhibitor of PARP1, in
+combination with camizestrant in &#xA0; BRCA -mutated,
+HR-positive, HER2-negative advanced breast
+cancer. 
+
+ &#xA0; 
+
+ To bring much-needed treatment
+options to patients with triple-negative breast cancer, an
+aggressive form of breast cancer, AstraZeneca is collaborating with
+Daiichi Sankyo to evaluate the potential of &#xA0; Datroway &#xA0; alone
+and in combination with immunotherapy &#xA0; Imfinzi &#xA0; (durvalumab).&#xA0; 
+
+ &#xA0; 
+
+AstraZeneca in oncology &#xA0; 
+
+AstraZeneca is leading a revolution in oncology with the ambition
+to provide cures for cancer in every form, following the science to
+understand cancer and all its complexities to discover, develop and
+deliver life-changing medicines to patients.&#xA0; 
+
+&#xA0; 
+
+The Company's focus is on some of the most challenging cancers. It
+is through persistent innovation that AstraZeneca has built one of
+the most diverse portfolios and pipelines in the industry, with the
+potential to catalyse changes in the practice of medicine and
+transform the patient experience.&#xA0; 
+
+&#xA0; 
+
+AstraZeneca has the vision to redefine cancer care and, one
+day,&#xA0;eliminate&#xA0;cancer as a cause of death. 
+
+&#xA0; 
+
+AstraZeneca 
+
+AstraZeneca (LSE/STO/NYSE: AZN) is a global, science-led
+biopharmaceutical company that focuses on the discovery,
+development, and commercialisation of prescription medicines in
+Oncology, Rare Diseases, and BioPharmaceuticals, including
+Cardiovascular, Renal & Metabolism, and Respiratory &
+Immunology. Based in Cambridge, UK, AstraZeneca's innovative
+medicines are sold in more than 125 countries and used by millions
+of patients worldwide. Please visit &#xA0; astrazeneca.com &#xA0; and
+follow the Company on Social Media &#xA0; @AstraZeneca . 
+
+&#xA0; 
+
+Contacts 
+
+For details on how to contact the Investor Relations Team, please
+click &#xA0; here .
+For Media contacts, click &#xA0; here . 
+
+&#xA0; 
+
+References 
+
+ 1.&#xA0;&#xA0; Bidard FC, et al. First-Line
+Camizestrant for Emerging ESR1-Mutated Advanced Breast
+Cancer.&#xA0; N Engl J
+Med &#xA0;2025; DOI:
+10.1056/NEJMoa2502929. 
+
+ 2.&#xA0;&#xA0; Mayer E, et al. Patient-reported
+outcomes in the SERENA-6 trial of camizestrant plus CDK4/6
+inhibitor in patients with advanced breast cancer and emergent ESR1
+mutations during first-line endocrine-based
+therapy.&#xA0; Ann Oncol &#xA0;2026; 37(2):180-193. 
+
+ 3.&#xA0;&#xA0; Bray F, et al. Global cancer
+statistics 2022: GLOBOCAN estimates of incidence and mortality
+worldwide for 36 cancers in 185 countries.&#xA0; CA Cancer J
+Clin . 2024; 1- 35.
+DOI:10.3322/caac.21834. 
+
+ 4.&#xA0;&#xA0; American Cancer Society. Key
+Statistics for Breast Cancer. Available
+at:&#xA0; https://www.cancer.org/cancer/types/breast-cancer/about/how-common-is-breast-cancer.html .
+Accessed April 2026. 
+
+ 5.&#xA0;&#xA0; National Cancer Institute. Cancer
+Stat facts: Female breast cancer subtypes. Available
+at:&#xA0; https://seer.cancer.gov/statfacts/html/breast-subtypes.html .
+Accessed April 2026. 
+
+ 6.&#xA0;&#xA0; Scabia V, et al. Estrogen receptor
+positive breast cancers have patient specific hormone sensitivities
+and rely on progesterone receptor.&#xA0; Nat Commun . 2022;
+10.1038/s41467-022-30898-0. 
+
+ 7.&#xA0;&#xA0;
+Cerner CancerMPact database. Accessed April 2026. 
+
+ 8.&#xA0;&#xA0; Lin M, et al. Comparative Overall
+Survival of CDK4/6 Inhibitors Plus Endocrine Therapy vs. Endocrine
+Therapy Alone for Hormone receptor-positive, HER2-negative
+metastatic breast cancer.&#xA0; J Cancer . 2020; 10.7150/jca.48944. 
+
+ 9.&#xA0;&#xA0; Lloyd M R, et al. Mechanisms of
+Resistance to CDK4/6 Blockade in Advanced Hormone
+Receptor-positive, HER2-negative Breast Cancer and Emerging
+Therapeutic Opportunities.&#xA0; Clin Cancer
+Res . 2022;
+28(5):821-30. 
+
+ 10.&#xA0; Brett O, et al. ESR1 mutation as an
+emerging clinical biomarker in metastatic hormone
+receptor - positive breast cancer.&#xA0; Breast Cancer
+Res . 2021;
+23:85. 
+
+ 11.&#xA0; Zundelevich A, et al. ESR1 mutations are
+frequent in newly diagnosed metastatic and loco-regional recurrence
+of endocrine-treated breast cancer and carry worse
+prognosis.&#xA0; Breast Cancer
+Res . 2020;
+22:16. 
+
+&#xA0; 
+
+Matthew Bowden 
+
+Company Secretary 
+
+AstraZeneca PLC 
+
+ &#xA0; 
+
+SIGNATURES 
+
+ &#xA0; 
+
+ Pursuant
+to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized. 
+
+ &#xA0; 
+
+ &#xA0; 
+
+ AstraZeneca
+PLC 
+
+ &#xA0; 
+
+ &#xA0; 
+
+Date: 01 May 2026 
+
+ &#xA0; 
+
+ &#xA0; 
+
+ By: /s/
+Matthew Bowden 
+
+ &#xA0; 
+
+ Name:
+Matthew Bowden 
+
+ &#xA0; 
+
+ Title:
+Company Secretary 
+
+&#xD;

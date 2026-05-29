@@ -1,0 +1,52 @@
+{
+  "company": "Broadcom Inc.",
+  "ticker": "AVGO",
+  "report_date": "2024-11-03",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Products",
+      "revenue": 30.4,
+      "operating_income": null,
+      "yoy_growth_pct": 8.9,
+      "sub_segments": []
+    },
+    {
+      "name": "Subscriptions and services",
+      "revenue": 21.2,
+      "operating_income": null,
+      "yoy_growth_pct": 167.6,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 51.6,
+    "total_revenue_yoy_pct": 44.0,
+    "cost_of_revenue": 19.1,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 32.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 9.3,
+      "selling_general_administrative": 5.0
+    },
+    "total_operating_expenses": 14.3,
+    "operating_income": 13.5,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -3.9,
+    "income_before_tax": 9.9,
+    "tax_expense": 3.7,
+    "net_income": 5.9,
+    "net_income_yoy_pct": null
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

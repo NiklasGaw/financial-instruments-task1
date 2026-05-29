@@ -1,0 +1,24 @@
+{
+  "ticker": "AVGO",
+  "source": "cache: 10-K 2023-10-29",
+  "segments": [
+    {
+      "name": "Products",
+      "sub_segments": []
+    },
+    {
+      "name": "Subscriptions and services",
+      "sub_segments": []
+    },
+    {
+      "name": "Semiconductor solutions",
+      "sub_segments": []
+    },
+    {
+      "name": "Infrastructure software",
+      "sub_segments": [
+        "Subscriptions and services"
+      ]
+    }
+  ]
+}

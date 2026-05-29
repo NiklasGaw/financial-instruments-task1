@@ -1,0 +1,293 @@
+[
+  {
+    "company": "SAP SE",
+    "ticker": "SAP.DE",
+    "report_date": "2025-12-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": 0.8511,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Applications, Technology & Support",
+        "revenue": 45.2,
+        "operating_income": null,
+        "yoy_growth_pct": 8.6,
+        "sub_segments": [
+          {
+            "name": "Cloud",
+            "revenue": 29.0,
+            "yoy_growth_pct": 22.6
+          },
+          {
+            "name": "Cloud ERP Suite",
+            "revenue": 25.0,
+            "yoy_growth_pct": 27.9
+          },
+          {
+            "name": "Extension Suite",
+            "revenue": 3.6,
+            "yoy_growth_pct": 5.1
+          },
+          {
+            "name": "IaaS",
+            "revenue": 0.5,
+            "yoy_growth_pct": -36.1
+          },
+          {
+            "name": "Software licenses",
+            "revenue": 1.4,
+            "yoy_growth_pct": -29.2
+          },
+          {
+            "name": "Software support",
+            "revenue": 14.5,
+            "yoy_growth_pct": -6.8
+          },
+          {
+            "name": "Software licenses and support",
+            "revenue": 15.9,
+            "yoy_growth_pct": -9.2
+          },
+          {
+            "name": "Services",
+            "revenue": 0.6,
+            "yoy_growth_pct": -5.2
+          }
+        ]
+      },
+      {
+        "name": "Core Services",
+        "revenue": 5.4,
+        "operating_income": null,
+        "yoy_growth_pct": 0.7,
+        "sub_segments": [
+          {
+            "name": "Services",
+            "revenue": 5.4,
+            "yoy_growth_pct": 0.7
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 43.2,
+      "total_revenue_yoy_pct": 7.7,
+      "cost_of_revenue": 11.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 31.5,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 7.8,
+        "selling_general_administrative": 1.9,
+        "other_operating": 10.6
+      },
+      "total_operating_expenses": 20.2,
+      "operating_income": 11.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 0.7,
+      "income_before_tax": 12.1,
+      "tax_expense": 3.4,
+      "net_income": 8.6,
+      "net_income_yoy_pct": 132.6
+    },
+    "notes": "Two-pass LLM extraction (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 80,
+    "total_revenue": 36.8,
+    "total_revenue_yoy_pct": 7.7,
+    "cost_of_revenue": 10.0,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 26.8,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 6.6,
+      "selling_general_administrative": 1.6
+    },
+    "total_operating_expenses": 27.2,
+    "operating_income": 9.6,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 10.3,
+    "tax_expense": 2.9,
+    "net_income": 7.3,
+    "net_income_yoy_pct": 132.6,
+    "accession_number": "0001104659-26-020058",
+    "cik": "0001000184"
+  },
+  {
+    "company": "SAP SE",
+    "ticker": "SAP.DE",
+    "report_date": "2024-12-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": 0.9626,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Software licenses",
+        "revenue": 1.6,
+        "operating_income": null,
+        "yoy_growth_pct": -20.7,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 35.5,
+      "total_revenue_yoy_pct": 9.5,
+      "cost_of_revenue": 9.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 25.9,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 6.8,
+        "selling_general_administrative": 1.5,
+        "other_operating": 12.8
+      },
+      "total_operating_expenses": 21.0,
+      "operating_income": 4.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 5.0,
+      "tax_expense": 1.7,
+      "net_income": 3.2,
+      "net_income_yoy_pct": -47.2
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70,
+    "total_revenue": 34.2,
+    "total_revenue_yoy_pct": 9.5,
+    "cost_of_revenue": 9.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 24.9,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 6.5,
+      "selling_general_administrative": 1.4
+    },
+    "total_operating_expenses": 29.5,
+    "operating_income": 4.7,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 4.8,
+    "tax_expense": 1.6,
+    "net_income": 3.1,
+    "net_income_yoy_pct": -47.2,
+    "accession_number": "0001104659-25-017815",
+    "cik": "0001000184"
+  },
+  {
+    "company": "SAP SE",
+    "ticker": "SAP.DE",
+    "report_date": "2023-12-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": 0.905,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Applications, Technology & Services",
+        "revenue": 36.9,
+        "operating_income": 12.0,
+        "yoy_growth_pct": 5.0,
+        "sub_segments": [
+          {
+            "name": "Cloud Revenue",
+            "revenue": 16.8,
+            "yoy_growth_pct": 20.0
+          },
+          {
+            "name": "Cloud ERP Suite",
+            "revenue": 13.0,
+            "yoy_growth_pct": 29.0
+          },
+          {
+            "name": "Software Licenses",
+            "revenue": 2.2,
+            "yoy_growth_pct": -14.2
+          },
+          {
+            "name": "Software Support",
+            "revenue": 14.1,
+            "yoy_growth_pct": -3.5
+          },
+          {
+            "name": "Services",
+            "revenue": 5.3,
+            "yoy_growth_pct": 4.0
+          },
+          {
+            "name": "Consulting and Premium Support",
+            "revenue": 4.8,
+            "yoy_growth_pct": 4.0
+          },
+          {
+            "name": "Other Services",
+            "revenue": 0.4,
+            "yoy_growth_pct": -2.0
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 34.5,
+      "total_revenue_yoy_pct": 1.1,
+      "cost_of_revenue": 9.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 24.9,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 7.0,
+        "selling_general_administrative": 1.5,
+        "other_operating": 9.9
+      },
+      "total_operating_expenses": 18.5,
+      "operating_income": 6.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 2.1,
+      "income_before_tax": 5.9,
+      "tax_expense": 1.9,
+      "net_income": 6.6,
+      "net_income_yoy_pct": 249.2
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100,
+    "total_revenue": 31.2,
+    "total_revenue_yoy_pct": 1.1,
+    "cost_of_revenue": 8.7,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 22.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 6.3,
+      "selling_general_administrative": 1.4
+    },
+    "total_operating_expenses": 25.4,
+    "operating_income": 5.8,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 5.3,
+    "tax_expense": 1.7,
+    "net_income": 6.0,
+    "net_income_yoy_pct": 249.2,
+    "accession_number": "0001104659-24-029038",
+    "cik": "0001000184"
+  }
+]

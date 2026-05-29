@@ -1,0 +1,80 @@
+{
+  "company": "UnitedHealth Group Inc.",
+  "ticker": "UNH",
+  "report_date": "2023-09-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "UnitedHealthcare",
+      "revenue": 69.9,
+      "operating_income": 4.6,
+      "yoy_growth_pct": 12.7,
+      "sub_segments": [
+        {
+          "name": "UnitedHealthcare Employer & Individual - Domestic",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "UnitedHealthcare Employer & Individual - Global",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "UnitedHealthcare Medicare & Retirement",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "UnitedHealthcare Community & State",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Optum Health",
+      "revenue": 23.9,
+      "operating_income": 1.6,
+      "yoy_growth_pct": 29.2,
+      "sub_segments": []
+    },
+    {
+      "name": "Optum Insight",
+      "revenue": 5.0,
+      "operating_income": 1.1,
+      "yoy_growth_pct": 34.8,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 92.4,
+    "total_revenue_yoy_pct": 14.2,
+    "cost_of_revenue": 9.4,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 83.0,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 13.9
+    },
+    "total_operating_expenses": 13.9,
+    "operating_income": 8.5,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.0,
+    "income_before_tax": 7.7,
+    "tax_expense": 1.7,
+    "net_income": 5.8,
+    "net_income_yoy_pct": 11.0
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

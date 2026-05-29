@@ -1,0 +1,1626 @@
+[
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2025-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 25.1,
+        "operating_income": 4.7,
+        "yoy_growth_pct": -1.6,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 12.5,
+        "operating_income": 2.0,
+        "yoy_growth_pct": -0.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Power & Energy",
+        "revenue": 32.2,
+        "operating_income": 6.4,
+        "yoy_growth_pct": 11.6,
+        "sub_segments": [
+          {
+            "name": "Oil and Gas",
+            "revenue": 7.5,
+            "yoy_growth_pct": 7.5
+          },
+          {
+            "name": "Power Generation",
+            "revenue": 10.3,
+            "yoy_growth_pct": 32.6
+          },
+          {
+            "name": "Industrial",
+            "revenue": 4.1,
+            "yoy_growth_pct": 2.0
+          },
+          {
+            "name": "Transportation",
+            "revenue": 5.3,
+            "yoy_growth_pct": -1.2
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": 5.0,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 4.2,
+        "operating_income": 1.0,
+        "yoy_growth_pct": 4.1,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 67.6,
+      "total_revenue_yoy_pct": 4.3,
+      "cost_of_revenue": 44.8,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 22.8,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 2.1,
+        "selling_general_administrative": 7.0,
+        "other_operating": 2.5
+      },
+      "total_operating_expenses": 11.6,
+      "operating_income": 11.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 11.5,
+      "tax_expense": 2.8,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2024-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 25.5,
+        "operating_income": 6.2,
+        "yoy_growth_pct": -6.8,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 12.4,
+        "operating_income": 2.5,
+        "yoy_growth_pct": -8.8,
+        "sub_segments": []
+      },
+      {
+        "name": "Energy & Transportation",
+        "revenue": 28.9,
+        "operating_income": 5.7,
+        "yoy_growth_pct": 3.0,
+        "sub_segments": [
+          {
+            "name": "Oil and gas",
+            "revenue": 7.0,
+            "yoy_growth_pct": -0.1
+          },
+          {
+            "name": "Power generation",
+            "revenue": 7.8,
+            "yoy_growth_pct": 21.9
+          },
+          {
+            "name": "Industrial",
+            "revenue": 4.0,
+            "yoy_growth_pct": -18.1
+          },
+          {
+            "name": "Transportation",
+            "revenue": 5.4,
+            "yoy_growth_pct": 4.4
+          },
+          {
+            "name": "Other Energy & Transportation",
+            "revenue": 4.7,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 4.1,
+        "operating_income": 0.9,
+        "yoy_growth_pct": 7.1,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 64.8,
+      "total_revenue_yoy_pct": -3.4,
+      "cost_of_revenue": 40.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 24.6,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 2.1,
+        "selling_general_administrative": 6.7,
+        "other_operating": 2.7
+      },
+      "total_operating_expenses": 11.5,
+      "operating_income": 13.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 13.4,
+      "tax_expense": 2.6,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2023-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 27.3,
+        "operating_income": 6.98,
+        "yoy_growth_pct": 8.6,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 13.2,
+        "operating_income": 2.83,
+        "yoy_growth_pct": 10.3,
+        "sub_segments": []
+      },
+      {
+        "name": "Energy & Transportation",
+        "revenue": 23.4,
+        "operating_income": 4.94,
+        "yoy_growth_pct": 20.8,
+        "sub_segments": [
+          {
+            "name": "Oil and gas",
+            "revenue": 7.0,
+            "yoy_growth_pct": 31.1
+          },
+          {
+            "name": "Power generation",
+            "revenue": 6.4,
+            "yoy_growth_pct": 28.8
+          },
+          {
+            "name": "Industrial",
+            "revenue": 4.9,
+            "yoy_growth_pct": 10.0
+          },
+          {
+            "name": "Transportation",
+            "revenue": 5.1,
+            "yoy_growth_pct": 10.6
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 3.8,
+        "operating_income": 0.91,
+        "yoy_growth_pct": 16.3,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 67.1,
+      "total_revenue_yoy_pct": 12.8,
+      "cost_of_revenue": 42.8,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 24.3,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 2.1,
+        "selling_general_administrative": 6.4,
+        "other_operating": 2.8
+      },
+      "total_operating_expenses": 11.3,
+      "operating_income": 13.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 13.1,
+      "tax_expense": 2.8,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2026-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Power & Energy",
+        "revenue": 7.0,
+        "operating_income": 1.5,
+        "yoy_growth_pct": 21.5,
+        "sub_segments": [
+          {
+            "name": "Power Generation",
+            "revenue": 2.8,
+            "yoy_growth_pct": 41.1
+          },
+          {
+            "name": "Oil and Gas",
+            "revenue": 1.4,
+            "yoy_growth_pct": 13.1
+          },
+          {
+            "name": "Industrial",
+            "revenue": 1.5,
+            "yoy_growth_pct": 5.2
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": 1.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Construction Industries",
+        "revenue": 7.2,
+        "operating_income": 1.5,
+        "yoy_growth_pct": 38.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 3.8,
+        "operating_income": 0.4,
+        "yoy_growth_pct": 3.7,
+        "sub_segments": [
+          {
+            "name": "Mining, Heavy Construction and Quarry & Aggregates",
+            "revenue": 3.0,
+            "yoy_growth_pct": 3.9
+          },
+          {
+            "name": "Rail",
+            "revenue": 0.8,
+            "yoy_growth_pct": 1.6
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 1.1,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 8.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 17.4,
+      "total_revenue_yoy_pct": 22.2,
+      "cost_of_revenue": 11.3,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 6.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 1.8,
+        "other_operating": 0.7
+      },
+      "total_operating_expenses": 3.0,
+      "operating_income": 3.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 3.2,
+      "tax_expense": 0.7,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2025-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 6.8,
+        "operating_income": 1.4,
+        "yoy_growth_pct": 6.5,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 3.1,
+        "operating_income": 0.5,
+        "yoy_growth_pct": 2.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Power & Energy",
+        "revenue": 8.4,
+        "operating_income": 1.7,
+        "yoy_growth_pct": 17.5,
+        "sub_segments": [
+          {
+            "name": "Oil and Gas",
+            "revenue": 2.0,
+            "yoy_growth_pct": 19.5
+          },
+          {
+            "name": "Power Generation",
+            "revenue": 2.6,
+            "yoy_growth_pct": 31.0
+          },
+          {
+            "name": "Industrial",
+            "revenue": 1.1,
+            "yoy_growth_pct": 4.8
+          },
+          {
+            "name": "Transportation",
+            "revenue": 1.4,
+            "yoy_growth_pct": 4.5
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": 1.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 1.1,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 4.1,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 17.6,
+      "total_revenue_yoy_pct": 9.5,
+      "cost_of_revenue": 11.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 5.9,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.6,
+        "selling_general_administrative": 1.8,
+        "other_operating": 0.4
+      },
+      "total_operating_expenses": 2.8,
+      "operating_income": 3.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 3.1,
+      "tax_expense": 0.8,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 50
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2025-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 6.2,
+        "operating_income": 1.2,
+        "yoy_growth_pct": -8.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 3.1,
+        "operating_income": 0.5,
+        "yoy_growth_pct": -3.8,
+        "sub_segments": []
+      },
+      {
+        "name": "Power & Energy",
+        "revenue": 7.8,
+        "operating_income": 1.6,
+        "yoy_growth_pct": 7.5,
+        "sub_segments": [
+          {
+            "name": "Oil and Gas",
+            "revenue": 1.9,
+            "yoy_growth_pct": 2.1
+          },
+          {
+            "name": "Power Generation",
+            "revenue": 2.4,
+            "yoy_growth_pct": 27.7
+          },
+          {
+            "name": "Industrial",
+            "revenue": 1.1,
+            "yoy_growth_pct": 1.4
+          },
+          {
+            "name": "Transportation",
+            "revenue": 1.2,
+            "yoy_growth_pct": -7.2
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": 1.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 1.0,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 3.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.6,
+      "total_revenue_yoy_pct": -0.7,
+      "cost_of_revenue": 10.8,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 5.8,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.6,
+        "selling_general_administrative": 1.7,
+        "other_operating": 0.6
+      },
+      "total_operating_expenses": 2.9,
+      "operating_income": 2.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 2.8,
+      "tax_expense": 0.6,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2025-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 5.2,
+        "operating_income": 1.0,
+        "yoy_growth_pct": -19.3,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 2.9,
+        "operating_income": 0.6,
+        "yoy_growth_pct": -9.7,
+        "sub_segments": []
+      },
+      {
+        "name": "Energy & Transportation",
+        "revenue": 6.6,
+        "operating_income": 1.3,
+        "yoy_growth_pct": -1.7,
+        "sub_segments": [
+          {
+            "name": "Oil and gas",
+            "revenue": 1.3,
+            "yoy_growth_pct": -19.8
+          },
+          {
+            "name": "Power generation",
+            "revenue": 2.0,
+            "yoy_growth_pct": 23.3
+          },
+          {
+            "name": "Industrial",
+            "revenue": 1.0,
+            "yoy_growth_pct": -2.2
+          },
+          {
+            "name": "Transportation",
+            "revenue": 1.2,
+            "yoy_growth_pct": -10.3
+          },
+          {
+            "name": "Other Energy & Transportation",
+            "revenue": 1.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 1.0,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 1.6,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.2,
+      "total_revenue_yoy_pct": -9.8,
+      "cost_of_revenue": 9.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 5.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 1.6,
+        "other_operating": 0.5
+      },
+      "total_operating_expenses": 2.6,
+      "operating_income": 2.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 2.6,
+      "tax_expense": 0.6,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 50
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2024-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 6.3,
+        "operating_income": 1.5,
+        "yoy_growth_pct": -9.4,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 3.0,
+        "operating_income": 0.6,
+        "yoy_growth_pct": -9.8,
+        "sub_segments": []
+      },
+      {
+        "name": "Power & Energy",
+        "revenue": 7.2,
+        "operating_income": 1.4,
+        "yoy_growth_pct": 4.8,
+        "sub_segments": [
+          {
+            "name": "Oil and Gas",
+            "revenue": 1.7,
+            "yoy_growth_pct": -0.7
+          },
+          {
+            "name": "Power Generation",
+            "revenue": 2.0,
+            "yoy_growth_pct": 25.9
+          },
+          {
+            "name": "Industrial",
+            "revenue": 1.0,
+            "yoy_growth_pct": -15.7
+          },
+          {
+            "name": "Transportation",
+            "revenue": 1.3,
+            "yoy_growth_pct": 3.1
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": 1.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 1.0,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 5.6,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.1,
+      "total_revenue_yoy_pct": -4.2,
+      "cost_of_revenue": 10.1,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 6.0,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 1.7,
+        "other_operating": 0.7
+      },
+      "total_operating_expenses": 2.9,
+      "operating_income": 3.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 3.1,
+      "tax_expense": 0.6,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2024-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 6.7,
+        "operating_income": 1.7,
+        "yoy_growth_pct": -6.6,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 3.2,
+        "operating_income": 0.7,
+        "yoy_growth_pct": -10.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Power & Energy",
+        "revenue": 7.3,
+        "operating_income": 1.5,
+        "yoy_growth_pct": 1.6,
+        "sub_segments": [
+          {
+            "name": "Oil and Gas",
+            "revenue": 1.8,
+            "yoy_growth_pct": 3.9
+          },
+          {
+            "name": "Power Generation",
+            "revenue": 1.9,
+            "yoy_growth_pct": 14.6
+          },
+          {
+            "name": "Industrial",
+            "revenue": 1.0,
+            "yoy_growth_pct": -20.7
+          },
+          {
+            "name": "Transportation",
+            "revenue": 1.3,
+            "yoy_growth_pct": 7.1
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": 1.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 0.8,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 9.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.7,
+      "total_revenue_yoy_pct": -3.6,
+      "cost_of_revenue": 10.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 6.5,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 1.7,
+        "other_operating": 0.8
+      },
+      "total_operating_expenses": 3.0,
+      "operating_income": 3.5,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 3.5,
+      "tax_expense": 0.8,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2024-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 6.4,
+        "operating_income": 1.8,
+        "yoy_growth_pct": -4.8,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 3.1,
+        "operating_income": 0.7,
+        "yoy_growth_pct": -7.9,
+        "sub_segments": []
+      },
+      {
+        "name": "Power & Energy",
+        "revenue": 6.7,
+        "operating_income": 1.3,
+        "yoy_growth_pct": 6.8,
+        "sub_segments": [
+          {
+            "name": "Oil and Gas",
+            "revenue": 1.6,
+            "yoy_growth_pct": 19.3
+          },
+          {
+            "name": "Power Generation",
+            "revenue": 1.6,
+            "yoy_growth_pct": 26.0
+          },
+          {
+            "name": "Industrial",
+            "revenue": 1.0,
+            "yoy_growth_pct": -21.2
+          },
+          {
+            "name": "Transportation",
+            "revenue": 1.3,
+            "yoy_growth_pct": 9.2
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": 1.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 1.0,
+        "operating_income": 0.3,
+        "yoy_growth_pct": 9.9,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.8,
+      "total_revenue_yoy_pct": -0.4,
+      "cost_of_revenue": 9.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 6.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 1.6,
+        "other_operating": 0.5
+      },
+      "total_operating_expenses": 2.6,
+      "operating_income": 3.5,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 3.5,
+      "tax_expense": 0.7,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2023-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 7.0,
+        "operating_income": 1.8,
+        "yoy_growth_pct": 12.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 3.3,
+        "operating_income": 0.7,
+        "yoy_growth_pct": 8.6,
+        "sub_segments": []
+      },
+      {
+        "name": "Power & Energy",
+        "revenue": 6.9,
+        "operating_income": 1.2,
+        "yoy_growth_pct": 15.2,
+        "sub_segments": [
+          {
+            "name": "Oil and Gas",
+            "revenue": 1.7,
+            "yoy_growth_pct": 26.0
+          },
+          {
+            "name": "Power Generation",
+            "revenue": 1.6,
+            "yoy_growth_pct": 21.1
+          },
+          {
+            "name": "Industrial",
+            "revenue": 1.2,
+            "yoy_growth_pct": 5.4
+          },
+          {
+            "name": "Transportation",
+            "revenue": 1.3,
+            "yoy_growth_pct": 6.2
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": 1.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 1.0,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 14.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.8,
+      "total_revenue_yoy_pct": 12.1,
+      "cost_of_revenue": 10.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 6.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.6,
+        "selling_general_administrative": 1.6,
+        "other_operating": 0.6
+      },
+      "total_operating_expenses": 2.8,
+      "operating_income": 3.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 3.5,
+      "tax_expense": 0.7,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2023-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 7.2,
+        "operating_income": 1.8,
+        "yoy_growth_pct": 18.6,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 3.6,
+        "operating_income": 0.7,
+        "yoy_growth_pct": 20.3,
+        "sub_segments": []
+      },
+      {
+        "name": "Power & Energy",
+        "revenue": 7.2,
+        "operating_income": 1.3,
+        "yoy_growth_pct": 26.5,
+        "sub_segments": [
+          {
+            "name": "Oil and Gas",
+            "revenue": 1.8,
+            "yoy_growth_pct": 42.9
+          },
+          {
+            "name": "Power Generation",
+            "revenue": 1.6,
+            "yoy_growth_pct": 38.7
+          },
+          {
+            "name": "Industrial",
+            "revenue": 1.3,
+            "yoy_growth_pct": 18.0
+          },
+          {
+            "name": "Transportation",
+            "revenue": 1.2,
+            "yoy_growth_pct": 11.7
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": 1.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 0.9,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 15.7,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 17.3,
+      "total_revenue_yoy_pct": 21.6,
+      "cost_of_revenue": 11.1,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 6.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 1.5,
+        "other_operating": 0.5
+      },
+      "total_operating_expenses": 2.5,
+      "operating_income": 3.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 3.7,
+      "tax_expense": 0.8,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2023-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 6.7,
+        "operating_income": 1.8,
+        "yoy_growth_pct": 10.2,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 3.4,
+        "operating_income": 0.8,
+        "yoy_growth_pct": 21.8,
+        "sub_segments": []
+      },
+      {
+        "name": "Power & Energy",
+        "revenue": 6.3,
+        "operating_income": 1.1,
+        "yoy_growth_pct": 24.3,
+        "sub_segments": [
+          {
+            "name": "Oil and Gas",
+            "revenue": 1.3,
+            "yoy_growth_pct": 38.6
+          },
+          {
+            "name": "Power Generation",
+            "revenue": 1.3,
+            "yoy_growth_pct": 26.9
+          },
+          {
+            "name": "Industrial",
+            "revenue": 1.3,
+            "yoy_growth_pct": 23.0
+          },
+          {
+            "name": "Transportation",
+            "revenue": 1.2,
+            "yoy_growth_pct": 14.3
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": 1.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 0.9,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 15.2,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.9,
+      "total_revenue_yoy_pct": 16.7,
+      "cost_of_revenue": 10.1,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 5.8,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 1.5,
+        "other_operating": 1.1
+      },
+      "total_operating_expenses": 3.1,
+      "operating_income": 2.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 2.6,
+      "tax_expense": 0.7,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2022-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 6.3,
+        "operating_income": 1.2,
+        "yoy_growth_pct": 18.6,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 3.1,
+        "operating_income": 0.5,
+        "yoy_growth_pct": 31.5,
+        "sub_segments": []
+      },
+      {
+        "name": "Power & Energy",
+        "revenue": 6.2,
+        "operating_income": 0.9,
+        "yoy_growth_pct": 21.4,
+        "sub_segments": [
+          {
+            "name": "Oil and Gas",
+            "revenue": 1.3,
+            "yoy_growth_pct": 21.6
+          },
+          {
+            "name": "Power Generation",
+            "revenue": 1.3,
+            "yoy_growth_pct": 30.7
+          },
+          {
+            "name": "Industrial",
+            "revenue": 1.2,
+            "yoy_growth_pct": 22.2
+          },
+          {
+            "name": "Transportation",
+            "revenue": 1.2,
+            "yoy_growth_pct": 9.2
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": 1.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 0.7,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 3.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.0,
+      "total_revenue_yoy_pct": 20.9,
+      "cost_of_revenue": 10.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 4.8,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 1.4,
+        "other_operating": 0.5
+      },
+      "total_operating_expenses": 2.4,
+      "operating_income": 2.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 2.6,
+      "tax_expense": 0.5,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2022-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 6.0,
+        "operating_income": null,
+        "yoy_growth_pct": 6.9,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 2.9,
+        "operating_income": null,
+        "yoy_growth_pct": 16.3,
+        "sub_segments": []
+      },
+      {
+        "name": "Power & Energy",
+        "revenue": 5.7,
+        "operating_income": null,
+        "yoy_growth_pct": 14.7,
+        "sub_segments": [
+          {
+            "name": "Oil and Gas",
+            "revenue": 1.2,
+            "yoy_growth_pct": 8.4
+          },
+          {
+            "name": "Power Generation",
+            "revenue": 1.2,
+            "yoy_growth_pct": 12.7
+          },
+          {
+            "name": "Industrial",
+            "revenue": 1.1,
+            "yoy_growth_pct": 24.2
+          },
+          {
+            "name": "Transportation",
+            "revenue": 1.1,
+            "yoy_growth_pct": 7.1
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Power & Energy",
+            "revenue": 1.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 0.7,
+        "operating_income": null,
+        "yoy_growth_pct": 1.7,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.2,
+      "total_revenue_yoy_pct": 10.5,
+      "cost_of_revenue": 10.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 4.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 1.4,
+        "other_operating": 0.4
+      },
+      "total_operating_expenses": 2.3,
+      "operating_income": 1.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 2.1,
+      "tax_expense": 0.4,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2025-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 6.9,
+        "operating_income": 1.1,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 3.4,
+        "operating_income": 0.4,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 1.1,
+        "operating_income": 0.4,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 19.2,
+      "cost_of_revenue": 13.3,
+      "gross_profit": 5.9,
+      "total_operating_expenses": 3.3,
+      "operating_income": 2.6,
+      "other_income_expense": null,
+      "income_before_tax": 3.0,
+      "tax_expense": 0.8,
+      "net_income": null,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 1.9,
+        "other_operating": 1.0
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 40,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2024-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 6.1,
+        "operating_income": 1.2,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 3.1,
+        "operating_income": 0.5,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 1.3,
+        "operating_income": 0.2,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.2,
+      "cost_of_revenue": 10.2,
+      "gross_profit": 6.0,
+      "total_operating_expenses": 3.0,
+      "operating_income": 3.0,
+      "other_income_expense": null,
+      "income_before_tax": 3.3,
+      "tax_expense": 0.5,
+      "net_income": null,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.6,
+        "selling_general_administrative": 1.7,
+        "other_operating": 0.7
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 40,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  },
+  {
+    "company": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "report_date": "2023-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Construction Industries",
+        "revenue": 6.4,
+        "operating_income": 1.6,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Resource Industries",
+        "revenue": 2.9,
+        "operating_income": 0.6,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Financial Products Segment",
+        "revenue": 1.0,
+        "operating_income": 0.3,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 17.1,
+      "cost_of_revenue": 11.0,
+      "gross_profit": 6.1,
+      "total_operating_expenses": 2.9,
+      "operating_income": 3.2,
+      "other_income_expense": null,
+      "income_before_tax": 3.3,
+      "tax_expense": 0.6,
+      "net_income": null,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 1.8,
+        "other_operating": 0.6
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 40,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  }
+]

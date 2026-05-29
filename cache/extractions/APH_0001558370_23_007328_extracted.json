@@ -1,0 +1,59 @@
+{
+  "company": "Amphenol Corp.",
+  "ticker": "APH",
+  "report_date": "2023-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Communications Solutions",
+      "revenue": 1.1,
+      "operating_income": 0.2,
+      "yoy_growth_pct": -14.6,
+      "sub_segments": []
+    },
+    {
+      "name": "Harsh Environment Solutions",
+      "revenue": 0.9,
+      "operating_income": 0.2,
+      "yoy_growth_pct": 17.4,
+      "sub_segments": []
+    },
+    {
+      "name": "Interconnect and Sensor Systems",
+      "revenue": 1.0,
+      "operating_income": 0.2,
+      "yoy_growth_pct": 9.8,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 3.0,
+    "total_revenue_yoy_pct": 0.7,
+    "cost_of_revenue": 2.0,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 0.9,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 0.3
+    },
+    "total_operating_expenses": 0.3,
+    "operating_income": 0.6,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.1,
+    "income_before_tax": 0.6,
+    "tax_expense": 0.1,
+    "net_income": 0.4,
+    "net_income_yoy_pct": 3.2
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

@@ -1,0 +1,52 @@
+{
+  "company": "Shopify Inc.",
+  "ticker": "SHOP.TO",
+  "report_date": "2026-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Subscription Solutions",
+      "revenue": 0.8,
+      "operating_income": null,
+      "yoy_growth_pct": 21.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Merchant Solutions",
+      "revenue": 2.4,
+      "operating_income": null,
+      "yoy_growth_pct": 39.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 3.2,
+    "total_revenue_yoy_pct": 34.3,
+    "cost_of_revenue": 1.6,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 1.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.4,
+      "selling_general_administrative": 0.6
+    },
+    "total_operating_expenses": 1.0,
+    "operating_income": 0.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.1,
+    "income_before_tax": -0.7,
+    "tax_expense": -0.1,
+    "net_income": -0.6,
+    "net_income_yoy_pct": -14.8
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

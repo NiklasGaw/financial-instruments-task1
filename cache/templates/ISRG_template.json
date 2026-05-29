@@ -1,0 +1,25 @@
+{
+  "ticker": "ISRG",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Instruments and accessories",
+      "sub_segments": []
+    },
+    {
+      "name": "Systems",
+      "sub_segments": []
+    },
+    {
+      "name": "Service",
+      "sub_segments": []
+    },
+    {
+      "name": "Product",
+      "sub_segments": [
+        "Instruments and accessories",
+        "Systems"
+      ]
+    }
+  ]
+}

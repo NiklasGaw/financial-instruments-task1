@@ -1,0 +1,85 @@
+{
+  "ticker": "NVS",
+  "source": "cache: 20-F 2023-12-31",
+  "segments": [
+    {
+      "name": "Cardiovascular, Renal and Metabolism",
+      "sub_segments": [
+        "Entresto",
+        "Leqvio",
+        "Vanrafia",
+        "Other Cardiovascular, Renal and Metabolism"
+      ]
+    },
+    {
+      "name": "Immunology",
+      "sub_segments": [
+        "Cosentyx",
+        "Ilaris",
+        "Xolair",
+        "Rhapsido",
+        "Other Immunology",
+        "Kesimpta"
+      ]
+    },
+    {
+      "name": "Neuroscience",
+      "sub_segments": [
+        "Kesimpta",
+        "Zolgensma",
+        "Aimovig",
+        "Other Neuroscience"
+      ]
+    },
+    {
+      "name": "Oncology",
+      "sub_segments": [
+        "Kisqali",
+        "Tafinlar + Mekinist",
+        "Jakavi",
+        "Pluvicto",
+        "Promacta/Revolade",
+        "Scemblix",
+        "Tasigna",
+        "Lutathera",
+        "Fabhalta",
+        "Piqray + Vijoice",
+        "Other Oncology"
+      ]
+    },
+    {
+      "name": "Established Brands",
+      "sub_segments": [
+        "Sandostatin",
+        "Exforge Group",
+        "Lucentis",
+        "Diovan Group",
+        "Galvus Group",
+        "Kymriah",
+        "Contract Manufacturing",
+        "Other Products"
+      ]
+    },
+    {
+      "name": "Cardiovascular, renal and metabolic",
+      "sub_segments": []
+    },
+    {
+      "name": "Innovative Medicines",
+      "sub_segments": [
+        "Entresto",
+        "Cosentyx",
+        "Zolgensma",
+        "Kisqali",
+        "Pluvicto",
+        "Scemblix",
+        "Iptacopan",
+        "Other Innovative Medicines"
+      ]
+    },
+    {
+      "name": "Sandoz (Discontinued Operations)",
+      "sub_segments": []
+    }
+  ]
+}

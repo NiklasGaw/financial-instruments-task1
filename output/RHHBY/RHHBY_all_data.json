@@ -1,0 +1,490 @@
+[
+  {
+    "company": "Roche Holding AG",
+    "ticker": "RHHBY",
+    "report_date": "2024-12-31",
+    "form_type": "Annual Report",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": 0.89,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Diagnostics",
+        "revenue": 20.7,
+        "operating_income": 4.6,
+        "yoy_growth_pct": 1.0,
+        "sub_segments": [
+          {
+            "name": "Centralised and Point of Care Solutions",
+            "revenue": 11.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Molecular Lab",
+            "revenue": 4.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Tissue Diagnostics",
+            "revenue": 2.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Diabetes Care",
+            "revenue": 2.4,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Pharmaceuticals",
+        "revenue": 53.0,
+        "operating_income": 18.3,
+        "yoy_growth_pct": 1.0,
+        "sub_segments": [
+          {
+            "name": "Oncology",
+            "revenue": 32.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Immunology",
+            "revenue": 6.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Ophthalmology",
+            "revenue": 4.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Neuroscience",
+            "revenue": 3.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Infectious Diseases",
+            "revenue": 2.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Rare Diseases",
+            "revenue": 2.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other",
+            "revenue": 1.7,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 71.1,
+      "total_revenue_yoy_pct": 1.4,
+      "cost_of_revenue": 19.3,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 51.8,
+      "gross_profit_yoy_pct": 0.8,
+      "operating_expenses": {
+        "research_and_development": 16.0,
+        "selling_general_administrative": 16.2
+      },
+      "total_operating_expenses": 32.1,
+      "operating_income": 19.7,
+      "operating_income_yoy_pct": 1.2,
+      "other_income_expense": -0.6,
+      "income_before_tax": 19.1,
+      "tax_expense": 3.3,
+      "net_income": 15.8,
+      "net_income_yoy_pct": 1.5
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Roche Holding AG",
+    "ticker": "RHHBY",
+    "report_date": "2023-12-31",
+    "form_type": "Annual Report",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": 0.838,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceuticals",
+        "revenue": 55.7,
+        "operating_income": 19.2,
+        "yoy_growth_pct": 1.0,
+        "sub_segments": [
+          {
+            "name": "Roche Pharmaceuticals (incl. Genentech)",
+            "revenue": 47.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Chugai",
+            "revenue": 8.6,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Diagnostics",
+        "revenue": 22.0,
+        "operating_income": 5.4,
+        "yoy_growth_pct": 0.5,
+        "sub_segments": [
+          {
+            "name": "Core Lab",
+            "revenue": 8.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Molecular Lab",
+            "revenue": 5.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Point of Care",
+            "revenue": 2.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Pathology Lab",
+            "revenue": 3.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Diabetes Care",
+            "revenue": 2.6,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 70.0,
+      "total_revenue_yoy_pct": 1.3,
+      "cost_of_revenue": 16.9,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 53.1,
+      "gross_profit_yoy_pct": 0.9,
+      "operating_expenses": {
+        "research_and_development": 16.3,
+        "selling_general_administrative": 16.6
+      },
+      "total_operating_expenses": 32.9,
+      "operating_income": 20.2,
+      "operating_income_yoy_pct": 1.8,
+      "other_income_expense": -0.6,
+      "income_before_tax": 19.6,
+      "tax_expense": 3.3,
+      "net_income": 16.2,
+      "net_income_yoy_pct": 1.5
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 80
+  },
+  {
+    "company": "Roche Holding AG",
+    "ticker": "RHHBY",
+    "report_date": "2024-12-31",
+    "form_type": "Half-Year Report",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "H1",
+    "currency": "USD",
+    "exchange_rate_to_usd": 0.906,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceuticals",
+        "revenue": 24.9,
+        "operating_income": 10.6,
+        "yoy_growth_pct": 5.0,
+        "sub_segments": [
+          {
+            "name": "Roche Pharmaceuticals",
+            "revenue": 23.5,
+            "yoy_growth_pct": 4.8
+          },
+          {
+            "name": "Chugai Pharmaceuticals",
+            "revenue": 1.5,
+            "yoy_growth_pct": -38.2
+          }
+        ]
+      },
+      {
+        "name": "Diagnostics",
+        "revenue": 7.9,
+        "operating_income": 1.5,
+        "yoy_growth_pct": 5.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Corporate",
+        "revenue": null,
+        "operating_income": -2.1,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 34.0,
+      "total_revenue_yoy_pct": 0.5,
+      "cost_of_revenue": 8.7,
+      "cost_of_revenue_yoy_pct": -1.0,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 25.3,
+      "gross_profit_yoy_pct": 1.0,
+      "operating_expenses": {
+        "research_and_development": 8.2,
+        "selling_general_administrative": 7.6
+      },
+      "total_operating_expenses": 15.2,
+      "operating_income": 10.0,
+      "operating_income_yoy_pct": -7.0,
+      "other_income_expense": -0.4,
+      "income_before_tax": 9.1,
+      "tax_expense": 1.7,
+      "net_income": 7.4,
+      "net_income_yoy_pct": -11.0
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Roche Holding AG",
+    "ticker": "RHHBY",
+    "report_date": "2023-12-31",
+    "form_type": "Half-Year Report",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "H1",
+    "currency": "USD",
+    "exchange_rate_to_usd": 0.838,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceuticals",
+        "revenue": 27.1,
+        "operating_income": 12.1,
+        "yoy_growth_pct": 8.0,
+        "sub_segments": [
+          {
+            "name": "Oncology",
+            "revenue": 11.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Neuroscience",
+            "revenue": 5.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Immunology",
+            "revenue": 3.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Haemophilia A",
+            "revenue": 2.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Ophthalmology",
+            "revenue": 1.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Infectious diseases",
+            "revenue": 1.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other therapeutic areas",
+            "revenue": 1.7,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Diagnostics",
+        "revenue": 8.5,
+        "operating_income": 1.9,
+        "yoy_growth_pct": -23.0,
+        "sub_segments": [
+          {
+            "name": "Core Lab",
+            "revenue": 4.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Molecular Lab",
+            "revenue": 1.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Diabetes Care",
+            "revenue": 0.8,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Pathology Lab",
+            "revenue": 0.8,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Point of Care",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Diagnostics",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 36.5,
+      "total_revenue_yoy_pct": -4.0,
+      "cost_of_revenue": 9.4,
+      "cost_of_revenue_yoy_pct": -14.0,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 27.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 8.2,
+        "selling_general_administrative": 8.2
+      },
+      "total_operating_expenses": 15.4,
+      "operating_income": 11.7,
+      "operating_income_yoy_pct": -7.0,
+      "other_income_expense": 0.4,
+      "income_before_tax": 11.0,
+      "tax_expense": 1.9,
+      "net_income": 9.1,
+      "net_income_yoy_pct": -9.0
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Roche Holding AG",
+    "ticker": "RHHBY",
+    "report_date": "2024-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "H2",
+    "currency": "USD",
+    "exchange_rate_to_usd": 0.89,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Diagnostics",
+        "revenue": 12.8,
+        "operating_income": 3.1,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Pharmaceuticals",
+        "revenue": 28.1,
+        "operating_income": 7.7,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 37.1,
+      "cost_of_revenue": 10.6,
+      "gross_profit": 26.5,
+      "total_operating_expenses": 16.8,
+      "operating_income": 9.7,
+      "other_income_expense": -0.2,
+      "income_before_tax": 10.0,
+      "tax_expense": 1.6,
+      "net_income": 8.4,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 7.8,
+        "selling_general_administrative": 8.6,
+        "other_operating": 0.4
+      }
+    },
+    "notes": "Calculated as FY minus H1 (second half-year)",
+    "_quality_score": 70,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  },
+  {
+    "company": "Roche Holding AG",
+    "ticker": "RHHBY",
+    "report_date": "2023-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "H2",
+    "currency": "USD",
+    "exchange_rate_to_usd": 0.838,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceuticals",
+        "revenue": 28.6,
+        "operating_income": 7.1,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 33.5,
+      "cost_of_revenue": 7.5,
+      "gross_profit": 26.0,
+      "total_operating_expenses": 17.5,
+      "operating_income": 8.5,
+      "other_income_expense": -1.0,
+      "income_before_tax": 8.6,
+      "tax_expense": 1.4,
+      "net_income": 7.1,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 8.1,
+        "selling_general_administrative": 8.4,
+        "other_operating": 1.0
+      }
+    },
+    "notes": "Calculated as FY minus H1 (second half-year)",
+    "_quality_score": 70,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "company": "Samsung Electronics",
+  "ticker": "005930.KS",
+  "report_date": "2023-12-31",
+  "form_type": "Quarterly Report",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q3",
+  "currency": "KRW",
+  "exchange_rate_to_usd": 1300.0,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "DX",
+      "revenue": 44.0,
+      "operating_income": 3.7,
+      "yoy_growth_pct": -6.9,
+      "sub_segments": [
+        {
+          "name": "TV, monitor, and other",
+          "revenue": 7.3,
+          "yoy_growth_pct": -7.0
+        },
+        {
+          "name": "Smartphone and other",
+          "revenue": 29.2,
+          "yoy_growth_pct": -5.4
+        }
+      ]
+    },
+    {
+      "name": "DS",
+      "revenue": 16.4,
+      "operating_income": -3.8,
+      "yoy_growth_pct": -28.6,
+      "sub_segments": [
+        {
+          "name": "Memory",
+          "revenue": 10.5,
+          "yoy_growth_pct": -30.9
+        }
+      ]
+    },
+    {
+      "name": "SDC",
+      "revenue": 8.2,
+      "operating_income": 1.9,
+      "yoy_growth_pct": -12.5,
+      "sub_segments": [
+        {
+          "name": "Display panels",
+          "revenue": 8.2,
+          "yoy_growth_pct": -12.5
+        }
+      ]
+    },
+    {
+      "name": "Harman",
+      "revenue": 3.8,
+      "operating_income": 0.5,
+      "yoy_growth_pct": 4.9,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 67.4,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": 6.5,
+    "operating_income": 2.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": null,
+    "tax_expense": null,
+    "net_income": null,
+    "net_income_yoy_pct": null
+  },
+  "notes": "Two-pass LLM extraction."
+}

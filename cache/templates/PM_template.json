@@ -1,0 +1,48 @@
+{
+  "ticker": "PM",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Combustible Tobacco Products",
+      "sub_segments": []
+    },
+    {
+      "name": "Smoke-Free Products",
+      "sub_segments": [
+        "Wellness",
+        "Other Smoke-Free Products"
+      ]
+    },
+    {
+      "name": "SSEA, CIS & MEA",
+      "sub_segments": [
+        "Combustible tobacco products",
+        "Smoke-free products (excluding Wellness and Healthcare)",
+        "Smoke-free products excluding Wellness and Healthcare"
+      ]
+    },
+    {
+      "name": "EA, AU & PMI DF",
+      "sub_segments": [
+        "Combustible tobacco products",
+        "Smoke-free products (excluding Wellness and Healthcare)",
+        "Smoke-free products excluding Wellness and Healthcare"
+      ]
+    },
+    {
+      "name": "Wellness & Healthcare",
+      "sub_segments": []
+    },
+    {
+      "name": "Swedish Match",
+      "sub_segments": [
+        "Combustible tobacco products",
+        "Smoke-free products excluding Wellness and Healthcare"
+      ]
+    },
+    {
+      "name": "Wellness and Healthcare",
+      "sub_segments": []
+    }
+  ]
+}

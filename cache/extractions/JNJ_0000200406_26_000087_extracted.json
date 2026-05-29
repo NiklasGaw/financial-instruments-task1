@@ -1,0 +1,109 @@
+{
+  "company": "Johnson & Johnson",
+  "ticker": "JNJ",
+  "report_date": "2026-03-29",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Innovative Medicine",
+      "revenue": 15.4,
+      "operating_income": 5.3,
+      "yoy_growth_pct": 11.2,
+      "sub_segments": [
+        {
+          "name": "Oncology",
+          "revenue": 3.4,
+          "yoy_growth_pct": -8.8
+        },
+        {
+          "name": "Immunology",
+          "revenue": 3.4,
+          "yoy_growth_pct": -8.8
+        },
+        {
+          "name": "Neuroscience",
+          "revenue": 2.2,
+          "yoy_growth_pct": 32.0
+        },
+        {
+          "name": "Pulmonary Hypertension",
+          "revenue": 1.1,
+          "yoy_growth_pct": 10.7
+        },
+        {
+          "name": "Infectious Diseases",
+          "revenue": 0.9,
+          "yoy_growth_pct": 10.8
+        },
+        {
+          "name": "Cardiovascular / Metabolism / Other",
+          "revenue": 0.9,
+          "yoy_growth_pct": -13.6
+        },
+        {
+          "name": "Other Innovative Medicine",
+          "revenue": 3.5,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "MedTech",
+      "revenue": 8.6,
+      "operating_income": 1.2,
+      "yoy_growth_pct": 7.7,
+      "sub_segments": [
+        {
+          "name": "Cardiovascular",
+          "revenue": 2.4,
+          "yoy_growth_pct": 13.0
+        },
+        {
+          "name": "Surgery",
+          "revenue": 2.5,
+          "yoy_growth_pct": 4.8
+        },
+        {
+          "name": "Vision",
+          "revenue": 1.4,
+          "yoy_growth_pct": 6.7
+        },
+        {
+          "name": "Orthopaedics",
+          "revenue": 2.4,
+          "yoy_growth_pct": 6.3
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 24.1,
+    "total_revenue_yoy_pct": 9.9,
+    "cost_of_revenue": 8.1,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 16.0,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 6.0
+    },
+    "total_operating_expenses": 6.0,
+    "operating_income": 10.0,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -4.0,
+    "income_before_tax": 6.0,
+    "tax_expense": 0.8,
+    "net_income": 5.2,
+    "net_income_yoy_pct": -52.4
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

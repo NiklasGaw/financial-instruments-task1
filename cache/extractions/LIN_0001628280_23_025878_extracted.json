@@ -1,0 +1,74 @@
+{
+  "company": "Linde plc",
+  "ticker": "LIN",
+  "report_date": "2023-06-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Industrial Gases",
+      "revenue": 7.8,
+      "operating_income": 2.17,
+      "yoy_growth_pct": -3.0,
+      "sub_segments": [
+        {
+          "name": "Americas",
+          "revenue": 3.5,
+          "yoy_growth_pct": 0.7
+        },
+        {
+          "name": "EMEA",
+          "revenue": 2.2,
+          "yoy_growth_pct": 0.7
+        },
+        {
+          "name": "APAC",
+          "revenue": 1.7,
+          "yoy_growth_pct": 1.9
+        },
+        {
+          "name": "Other Industrial Gases",
+          "revenue": 0.3,
+          "yoy_growth_pct": -35.0
+        }
+      ]
+    },
+    {
+      "name": "Engineering",
+      "revenue": 0.5,
+      "operating_income": 0.1,
+      "yoy_growth_pct": -23.1,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 8.2,
+    "total_revenue_yoy_pct": -3.0,
+    "cost_of_revenue": 4.3,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 3.9,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.0,
+      "selling_general_administrative": 0.8,
+      "other_operating": 1.1
+    },
+    "total_operating_expenses": 1.9,
+    "operating_income": 2.0,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 2.0,
+    "tax_expense": 0.4,
+    "net_income": 1.6,
+    "net_income_yoy_pct": 323.4
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

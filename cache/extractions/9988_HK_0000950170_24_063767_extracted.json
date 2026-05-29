@@ -1,0 +1,59 @@
+{
+  "company": "Alibaba Group Holding",
+  "ticker": "9988.HK",
+  "report_date": "2024-03-31",
+  "form_type": "20-F",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Local Services Group",
+      "revenue": 61.9,
+      "operating_income": null,
+      "yoy_growth_pct": 14.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Cainiao Smart Logistics Network",
+      "revenue": 65.5,
+      "operating_income": null,
+      "yoy_growth_pct": 24.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Innovation Initiatives and Others",
+      "revenue": 6.8,
+      "operating_income": null,
+      "yoy_growth_pct": 17.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 130.3,
+    "total_revenue_yoy_pct": 3.1,
+    "cost_of_revenue": 81.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 49.1,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 7.2,
+      "selling_general_administrative": 21.8
+    },
+    "total_operating_expenses": 29.0,
+    "operating_income": 15.7,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.5,
+    "income_before_tax": 14.1,
+    "tax_expense": 3.1,
+    "net_income": 11.1,
+    "net_income_yoy_pct": 4.6
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

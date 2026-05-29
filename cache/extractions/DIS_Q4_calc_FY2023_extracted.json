@@ -1,0 +1,70 @@
+{
+  "company": "Walt Disney Company",
+  "ticker": "DIS",
+  "report_date": "2023-09-30",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Experiences",
+      "revenue": 7.7,
+      "operating_income": 1.3,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Theme park admissions",
+          "revenue": 2.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Resorts and vacations",
+          "revenue": 2.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Parks & Experiences merchandise, food and beverage",
+          "revenue": 1.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Merchandise licensing and retail",
+          "revenue": 1.6,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Parks licensing and other",
+          "revenue": 0.5,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 21.3,
+    "cost_of_revenue": null,
+    "gross_profit": null,
+    "total_operating_expenses": 4.0,
+    "operating_income": 3.0,
+    "other_income_expense": -2.3,
+    "income_before_tax": 1.0,
+    "tax_expense": 0.4,
+    "net_income": 0.3,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "selling_general_administrative": 4.0,
+      "research_and_development": null
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 80,
+  "_synthetic_q4": true
+}

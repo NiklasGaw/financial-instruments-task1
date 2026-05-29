@@ -1,0 +1,125 @@
+{
+  "company": "GE Aerospace",
+  "ticker": "GE",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Aerospace",
+      "revenue": 31.8,
+      "operating_income": 6.1,
+      "yoy_growth_pct": 21.9,
+      "sub_segments": [
+        {
+          "name": "Commercial Engines and Services",
+          "revenue": 23.7,
+          "yoy_growth_pct": 26.9
+        },
+        {
+          "name": "Defense",
+          "revenue": 4.7,
+          "yoy_growth_pct": 6.9
+        },
+        {
+          "name": "Systems & Other",
+          "revenue": 3.4,
+          "yoy_growth_pct": 13.4
+        }
+      ]
+    },
+    {
+      "name": "Renewable Energy",
+      "revenue": 15.1,
+      "operating_income": -1.4,
+      "yoy_growth_pct": 16.0,
+      "sub_segments": [
+        {
+          "name": "Onshore Wind",
+          "revenue": 8.4,
+          "yoy_growth_pct": -0.1
+        },
+        {
+          "name": "Grid Solutions equipment and services",
+          "revenue": 3.9,
+          "yoy_growth_pct": 24.8
+        },
+        {
+          "name": "Hydro, Offshore Wind and Hybrid Solutions",
+          "revenue": 2.8,
+          "yoy_growth_pct": 86.4
+        }
+      ]
+    },
+    {
+      "name": "Power",
+      "revenue": 17.7,
+      "operating_income": 1.4,
+      "yoy_growth_pct": 9.0,
+      "sub_segments": [
+        {
+          "name": "Gas Power",
+          "revenue": 13.3,
+          "yoy_growth_pct": 10.1
+        },
+        {
+          "name": "Steam Power",
+          "revenue": 2.5,
+          "yoy_growth_pct": -5.2
+        },
+        {
+          "name": "Power Conversion, Nuclear and other",
+          "revenue": 1.9,
+          "yoy_growth_pct": 25.2
+        }
+      ]
+    },
+    {
+      "name": "Corporate",
+      "revenue": 3.4,
+      "operating_income": 3.8,
+      "yoy_growth_pct": 21.0,
+      "sub_segments": [
+        {
+          "name": "GE Digital revenues",
+          "revenue": 1.0,
+          "yoy_growth_pct": 8.6
+        },
+        {
+          "name": "Insurance revenues",
+          "revenue": 3.4,
+          "yoy_growth_pct": 14.6
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 68.0,
+    "total_revenue_yoy_pct": -11.2,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.9,
+      "selling_general_administrative": 9.2
+    },
+    "total_operating_expenses": 11.1,
+    "operating_income": 56.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -46.2,
+    "income_before_tax": 10.2,
+    "tax_expense": 1.2,
+    "net_income": 9.5,
+    "net_income_yoy_pct": 4113.8
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

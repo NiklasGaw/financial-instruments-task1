@@ -1,0 +1,46 @@
+{
+  "company": "Linde plc",
+  "ticker": "LIN",
+  "report_date": "2023-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Engineering",
+      "revenue": 0.7,
+      "operating_income": 0.2,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 8.3,
+    "cost_of_revenue": null,
+    "gross_profit": null,
+    "total_operating_expenses": 0.8,
+    "operating_income": 2.0,
+    "other_income_expense": null,
+    "income_before_tax": 2.1,
+    "tax_expense": 0.5,
+    "net_income": 1.5,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.1,
+      "selling_general_administrative": 0.9
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 70,
+  "_synthetic_q4": true,
+  "_is_bank": true,
+  "_needs_retry": false
+}

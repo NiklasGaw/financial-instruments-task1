@@ -1,0 +1,73 @@
+{
+  "company": "Accenture plc",
+  "ticker": "ACN",
+  "report_date": "2023-08-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Communications, Media & Technology",
+      "revenue": 11.5,
+      "operating_income": null,
+      "yoy_growth_pct": -6.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Financial Services",
+      "revenue": 12.1,
+      "operating_income": null,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Health & Public Service",
+      "revenue": 12.6,
+      "operating_income": null,
+      "yoy_growth_pct": 12.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Products",
+      "revenue": 19.1,
+      "operating_income": null,
+      "yoy_growth_pct": 5.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Resources",
+      "revenue": 8.9,
+      "operating_income": null,
+      "yoy_growth_pct": 10.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 64.1,
+    "total_revenue_yoy_pct": 4.1,
+    "cost_of_revenue": 43.4,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 20.7,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.3,
+      "selling_general_administrative": 10.9
+    },
+    "total_operating_expenses": 12.2,
+    "operating_income": 8.8,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.2,
+    "income_before_tax": 9.1,
+    "tax_expense": 2.1,
+    "net_income": 6.9,
+    "net_income_yoy_pct": -0.1
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

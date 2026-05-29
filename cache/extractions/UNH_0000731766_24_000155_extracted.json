@@ -1,0 +1,80 @@
+{
+  "company": "UnitedHealth Group Inc.",
+  "ticker": "UNH",
+  "report_date": "2024-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "UnitedHealthcare",
+      "revenue": 75.4,
+      "operating_income": 4.4,
+      "yoy_growth_pct": 6.9,
+      "sub_segments": [
+        {
+          "name": "UnitedHealthcare Employer & Individual - Domestic",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "UnitedHealthcare Employer & Individual - Global",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "UnitedHealthcare Medicare & Retirement",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "UnitedHealthcare Community & State",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Optum Health",
+      "revenue": 26.7,
+      "operating_income": 1.9,
+      "yoy_growth_pct": 16.2,
+      "sub_segments": []
+    },
+    {
+      "name": "Optum Insight",
+      "revenue": 4.5,
+      "operating_income": 0.5,
+      "yoy_growth_pct": 0.1,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 99.8,
+    "total_revenue_yoy_pct": 8.6,
+    "cost_of_revenue": 11.1,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 88.7,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 14.1
+    },
+    "total_operating_expenses": 14.1,
+    "operating_income": 7.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -8.1,
+    "income_before_tax": 0.0,
+    "tax_expense": 1.2,
+    "net_income": -1.4,
+    "net_income_yoy_pct": -125.1
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

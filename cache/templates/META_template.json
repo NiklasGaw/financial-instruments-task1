@@ -1,0 +1,17 @@
+{
+  "ticker": "META",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Family of Apps",
+      "sub_segments": [
+        "Advertising",
+        "Other revenue"
+      ]
+    },
+    {
+      "name": "Reality Labs",
+      "sub_segments": []
+    }
+  ]
+}

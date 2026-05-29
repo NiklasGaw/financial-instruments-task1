@@ -1,0 +1,193 @@
+{
+  "company": "Amgen Inc.",
+  "ticker": "AMGN",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Product Sales",
+      "revenue": 26.9,
+      "operating_income": 7.9,
+      "yoy_growth_pct": 9.0,
+      "sub_segments": [
+        {
+          "name": "Prolia",
+          "revenue": 4.0,
+          "yoy_growth_pct": 12.0
+        },
+        {
+          "name": "ENBREL",
+          "revenue": 3.7,
+          "yoy_growth_pct": -10.0
+        },
+        {
+          "name": "Otezla",
+          "revenue": 2.2,
+          "yoy_growth_pct": -4.0
+        },
+        {
+          "name": "XGEVA",
+          "revenue": 2.1,
+          "yoy_growth_pct": 5.0
+        },
+        {
+          "name": "Repatha",
+          "revenue": 1.6,
+          "yoy_growth_pct": 26.0
+        },
+        {
+          "name": "Nplate",
+          "revenue": 1.5,
+          "yoy_growth_pct": 13.0
+        },
+        {
+          "name": "KYPROLIS",
+          "revenue": 1.4,
+          "yoy_growth_pct": 13.0
+        },
+        {
+          "name": "Aranesp",
+          "revenue": 1.4,
+          "yoy_growth_pct": -4.0
+        },
+        {
+          "name": "EVENITY",
+          "revenue": 1.2,
+          "yoy_growth_pct": 47.0
+        },
+        {
+          "name": "Vectibix",
+          "revenue": 1.0,
+          "yoy_growth_pct": 10.0
+        },
+        {
+          "name": "BLINCYTO",
+          "revenue": 0.9,
+          "yoy_growth_pct": 48.0
+        },
+        {
+          "name": "TEPEZZA",
+          "revenue": 0.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "KRYSTEXXA",
+          "revenue": 0.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Neulasta",
+          "revenue": 0.8,
+          "yoy_growth_pct": -26.0
+        },
+        {
+          "name": "MVASI",
+          "revenue": 0.8,
+          "yoy_growth_pct": -15.0
+        },
+        {
+          "name": "AMJEVITA",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "AMGEVITA",
+          "revenue": 0.5,
+          "yoy_growth_pct": 9.0
+        },
+        {
+          "name": "TEZSPIRE",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Parsabiv",
+          "revenue": 0.4,
+          "yoy_growth_pct": -10.0
+        },
+        {
+          "name": "Aimovig",
+          "revenue": 0.3,
+          "yoy_growth_pct": -24.0
+        },
+        {
+          "name": "LUMAKRAS",
+          "revenue": 0.3,
+          "yoy_growth_pct": -11.0
+        },
+        {
+          "name": "EPOGEN",
+          "revenue": 0.2,
+          "yoy_growth_pct": -55.0
+        },
+        {
+          "name": "KANJINTI",
+          "revenue": 0.2,
+          "yoy_growth_pct": -58.0
+        },
+        {
+          "name": "TAVNEOS",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "RAVICTI",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "UPLIZNA",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "PROCYSBI",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other products",
+          "revenue": 5.3,
+          "yoy_growth_pct": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Other Revenues",
+      "revenue": 1.3,
+      "operating_income": null,
+      "yoy_growth_pct": -16.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 28.2,
+    "total_revenue_yoy_pct": 7.1,
+    "cost_of_revenue": 8.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 19.7,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 6.2
+    },
+    "total_operating_expenses": 6.2,
+    "operating_income": 7.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.1,
+    "income_before_tax": 7.9,
+    "tax_expense": 1.1,
+    "net_income": 6.7,
+    "net_income_yoy_pct": 2.5
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

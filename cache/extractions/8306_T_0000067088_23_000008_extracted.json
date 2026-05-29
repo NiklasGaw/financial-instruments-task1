@@ -1,0 +1,157 @@
+{
+  "company": "Mitsubishi UFJ Financial",
+  "ticker": "8306.T",
+  "report_date": "2023-03-31",
+  "form_type": "20-F",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": 133.18,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Retail & Commercial Banking Business Group (R&C)",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Fees and commissions on deposits",
+          "revenue": 0.0,
+          "yoy_growth_pct": -2.4
+        },
+        {
+          "name": "Fees and commissions on remittances and transfers",
+          "revenue": 0.0,
+          "yoy_growth_pct": -6.1
+        },
+        {
+          "name": "Fees and commissions on foreign trading business",
+          "revenue": 0.0,
+          "yoy_growth_pct": 22.5
+        },
+        {
+          "name": "Fees and commissions on credit card business",
+          "revenue": 0.0,
+          "yoy_growth_pct": 11.3
+        },
+        {
+          "name": "Fees and commissions on security-related services",
+          "revenue": 0.0,
+          "yoy_growth_pct": -15.0
+        },
+        {
+          "name": "Fees and commissions on real estate business",
+          "revenue": 0.0,
+          "yoy_growth_pct": 4.3
+        },
+        {
+          "name": "Other fees and commissions",
+          "revenue": 0.0,
+          "yoy_growth_pct": 14.9
+        }
+      ]
+    },
+    {
+      "name": "Digital Service Business Group (DS)",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Fees and commissions on deposits",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Fees and commissions on remittances and transfers",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Fees and commissions on foreign trading business",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Fees and commissions on credit card business",
+          "revenue": 0.0,
+          "yoy_growth_pct": 11.3
+        }
+      ]
+    },
+    {
+      "name": "Asset Management & Investor Service Business Group (AM/IS)",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Fees and commissions on administration and management services for investment funds",
+          "revenue": 0.0,
+          "yoy_growth_pct": -1.5
+        },
+        {
+          "name": "Trust fees",
+          "revenue": 0.0,
+          "yoy_growth_pct": -1.7
+        }
+      ]
+    },
+    {
+      "name": "BK and TB",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": 14.9,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 0.0,
+          "yoy_growth_pct": 87.6
+        },
+        {
+          "name": "Net fees",
+          "revenue": 0.0,
+          "yoy_growth_pct": 12.0
+        },
+        {
+          "name": "Other",
+          "revenue": -0.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Other than BK and TB",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": 8.8,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 0.0,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 0.0
+    },
+    "total_operating_expenses": 0.0,
+    "operating_income": 0.0,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.0,
+    "income_before_tax": 0.0,
+    "tax_expense": 0.0,
+    "net_income": 0.0,
+    "net_income_yoy_pct": null
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 40
+}

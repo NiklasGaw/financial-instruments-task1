@@ -1,0 +1,63 @@
+{
+  "company": "Goldman Sachs Group Inc.",
+  "ticker": "GS",
+  "report_date": "2026-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Asset & Wealth Management",
+      "revenue": 4.1,
+      "operating_income": 0.9,
+      "yoy_growth_pct": 9.9,
+      "sub_segments": [
+        {
+          "name": "Asset Management",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Wealth Management",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Platform Solutions",
+      "revenue": 0.4,
+      "operating_income": 0.1,
+      "yoy_growth_pct": -32.6,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 17.2,
+    "total_revenue_yoy_pct": 14.4,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 10.4
+    },
+    "total_operating_expenses": 10.4,
+    "operating_income": 6.5,
+    "operating_income_yoy_pct": 14.9,
+    "other_income_expense": -0.3,
+    "income_before_tax": 6.5,
+    "tax_expense": 0.9,
+    "net_income": 5.6,
+    "net_income_yoy_pct": 18.8
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 70
+}

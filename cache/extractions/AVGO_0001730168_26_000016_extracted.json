@@ -1,0 +1,52 @@
+{
+  "company": "Broadcom Inc.",
+  "ticker": "AVGO",
+  "report_date": "2026-02-01",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Semiconductor solutions",
+      "revenue": 12.5,
+      "operating_income": 7.5,
+      "yoy_growth_pct": 52.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Infrastructure software",
+      "revenue": 6.8,
+      "operating_income": 5.3,
+      "yoy_growth_pct": 1.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 19.3,
+    "total_revenue_yoy_pct": 29.5,
+    "cost_of_revenue": 6.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 13.2,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 3.0,
+      "selling_general_administrative": 1.0
+    },
+    "total_operating_expenses": 4.0,
+    "operating_income": 8.6,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 8.2,
+    "tax_expense": 0.8,
+    "net_income": null,
+    "net_income_yoy_pct": null
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 60
+}

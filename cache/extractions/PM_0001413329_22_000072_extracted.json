@@ -1,0 +1,64 @@
+{
+  "company": "Philip Morris International",
+  "ticker": "PM",
+  "report_date": "2022-06-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2022",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Combustible Tobacco Products",
+      "revenue": 5.5,
+      "operating_income": null,
+      "yoy_growth_pct": 3.2,
+      "sub_segments": []
+    },
+    {
+      "name": "Smoke-Free Products",
+      "revenue": 2.3,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Wellness",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Smoke-Free Products",
+          "revenue": 2.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 7.8,
+    "total_revenue_yoy_pct": 3.1,
+    "cost_of_revenue": 2.6,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 5.2,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null,
+      "other_operating": 2.1
+    },
+    "total_operating_expenses": 2.1,
+    "operating_income": 3.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.3,
+    "income_before_tax": 2.9,
+    "tax_expense": 0.6,
+    "net_income": 2.2,
+    "net_income_yoy_pct": 2.8
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

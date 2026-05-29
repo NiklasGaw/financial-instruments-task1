@@ -1,0 +1,81 @@
+{
+  "company": "Alphabet Inc. (Class C)",
+  "ticker": "GOOG",
+  "report_date": "2024-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Google Services",
+      "revenue": 84.1,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Google Search & other",
+          "revenue": 54.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "YouTube ads",
+          "revenue": 10.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Google Network",
+          "revenue": 8.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Google subscriptions, platforms, and devices",
+          "revenue": 11.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Google Cloud",
+      "revenue": 11.9,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Other Bets",
+      "revenue": 0.3,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 96.5,
+    "cost_of_revenue": 40.6,
+    "gross_profit": 55.9,
+    "total_operating_expenses": 24.9,
+    "operating_income": 31.0,
+    "other_income_expense": 1.2,
+    "income_before_tax": 32.2,
+    "tax_expense": 5.7,
+    "net_income": 26.5,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 13.1,
+      "selling_general_administrative": 11.8
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 100,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "V",
+  "source": "cache: 10-K 2023-09-30",
+  "segments": [
+    {
+      "name": "Service Revenue",
+      "sub_segments": []
+    },
+    {
+      "name": "Data Processing Revenue",
+      "sub_segments": []
+    },
+    {
+      "name": "Other Revenue",
+      "sub_segments": []
+    },
+    {
+      "name": "Service revenues",
+      "sub_segments": []
+    },
+    {
+      "name": "Data processing revenues",
+      "sub_segments": []
+    },
+    {
+      "name": "Other revenues",
+      "sub_segments": []
+    }
+  ]
+}

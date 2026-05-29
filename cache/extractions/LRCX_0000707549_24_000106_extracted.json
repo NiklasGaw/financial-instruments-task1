@@ -1,0 +1,61 @@
+{
+  "company": "Lam Research Corp.",
+  "ticker": "LRCX",
+  "report_date": "2024-06-30",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Semiconductor Equipment",
+      "revenue": 14.9,
+      "operating_income": 4.3,
+      "yoy_growth_pct": -14.5,
+      "sub_segments": [
+        {
+          "name": "Etch",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Deposition",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Clean",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 14.9,
+    "total_revenue_yoy_pct": -14.5,
+    "cost_of_revenue": 7.9,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 7.1,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.9,
+      "selling_general_administrative": 0.9
+    },
+    "total_operating_expenses": 2.8,
+    "operating_income": 4.3,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 4.4,
+    "tax_expense": 0.5,
+    "net_income": 3.8,
+    "net_income_yoy_pct": -15.1
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

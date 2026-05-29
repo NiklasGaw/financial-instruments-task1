@@ -1,0 +1,87 @@
+{
+  "company": "Toronto Dominion Bank",
+  "ticker": "TD.TO",
+  "report_date": "2026-01-20",
+  "form_type": "6-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": 1.3826,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Canadian Personal and Commercial Banking",
+      "revenue": 16.1,
+      "operating_income": 4.4,
+      "yoy_growth_pct": 4.5,
+      "sub_segments": [
+        {
+          "name": "Personal Banking",
+          "revenue": 10.3,
+          "yoy_growth_pct": 5.1
+        },
+        {
+          "name": "Commercial Banking",
+          "revenue": 5.9,
+          "yoy_growth_pct": 3.5
+        }
+      ]
+    },
+    {
+      "name": "Wealth Management and Insurance",
+      "revenue": 7.6,
+      "operating_income": 2.1,
+      "yoy_growth_pct": 8.3,
+      "sub_segments": [
+        {
+          "name": "Canadian Wealth Management",
+          "revenue": 3.0,
+          "yoy_growth_pct": 7.5
+        },
+        {
+          "name": "U.S. Wealth Management",
+          "revenue": 1.7,
+          "yoy_growth_pct": 9.2
+        },
+        {
+          "name": "Insurance",
+          "revenue": 3.0,
+          "yoy_growth_pct": 8.5
+        }
+      ]
+    },
+    {
+      "name": "Wholesale Banking",
+      "revenue": 3.8,
+      "operating_income": 1.2,
+      "yoy_growth_pct": -2.1,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 37.7,
+    "total_revenue_yoy_pct": 8.3,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null,
+      "other_operating": 18.3
+    },
+    "total_operating_expenses": 18.3,
+    "operating_income": 19.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.5,
+    "income_before_tax": 6.4,
+    "tax_expense": 1.6,
+    "net_income": 4.8,
+    "net_income_yoy_pct": 10.5
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

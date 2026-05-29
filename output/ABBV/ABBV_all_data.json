@@ -1,0 +1,3560 @@
+[
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2025-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 30.4,
+        "operating_income": null,
+        "yoy_growth_pct": 8.6,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 17.6,
+            "yoy_growth_pct": 49.9
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 8.3,
+            "yoy_growth_pct": 39.1
+          },
+          {
+            "name": "Humira",
+            "revenue": 4.5,
+            "yoy_growth_pct": -49.5
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 14.8,
+        "operating_income": null,
+        "yoy_growth_pct": 8.6,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 3.6,
+            "yoy_growth_pct": 10.8
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 3.8,
+            "yoy_growth_pct": 14.8
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 1.3,
+            "yoy_growth_pct": 26.4
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 1.0,
+            "yoy_growth_pct": 57.3
+          },
+          {
+            "name": "Vyalev",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Duodopa",
+            "revenue": 0.4,
+            "yoy_growth_pct": -14.7
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.2,
+            "yoy_growth_pct": -13.0
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 4.0,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 6.7,
+        "operating_income": null,
+        "yoy_growth_pct": 8.6,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 2.9,
+            "yoy_growth_pct": -14.3
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 2.8,
+            "yoy_growth_pct": 8.1
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 1.0,
+            "yoy_growth_pct": -5.8
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 3.2,
+        "operating_income": null,
+        "yoy_growth_pct": 8.6,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": 1.3,
+            "yoy_growth_pct": 0.4
+          },
+          {
+            "name": "Creon",
+            "revenue": 1.5,
+            "yoy_growth_pct": 9.3
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": 0.9,
+            "yoy_growth_pct": -4.9
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 2.6,
+        "operating_income": null,
+        "yoy_growth_pct": -13.3
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 61.2,
+      "total_revenue_yoy_pct": 8.6,
+      "cost_of_revenue": 18.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 43.0,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 14.0,
+        "other_operating": 13.9
+      },
+      "total_operating_expenses": 27.9,
+      "operating_income": 15.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -8.5,
+      "income_before_tax": 6.6,
+      "tax_expense": 2.4,
+      "net_income": 4.2,
+      "net_income_yoy_pct": -1.2
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2024-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 26.7,
+        "operating_income": null,
+        "yoy_growth_pct": -36.9,
+        "sub_segments": [
+          {
+            "name": "Humira",
+            "revenue": 9.0,
+            "yoy_growth_pct": -37.6
+          },
+          {
+            "name": "Skyrizi",
+            "revenue": 11.7,
+            "yoy_growth_pct": 50.9
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 6.0,
+            "yoy_growth_pct": 50.4
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 6.5,
+        "operating_income": null,
+        "yoy_growth_pct": -6.9,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 3.3,
+            "yoy_growth_pct": -6.9
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 2.6,
+            "yoy_growth_pct": 12.9
+          },
+          {
+            "name": "Elahere",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Epkinly",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 5.2,
+        "operating_income": null,
+        "yoy_growth_pct": -12.0,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 2.7,
+            "yoy_growth_pct": 1.4
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 1.2,
+            "yoy_growth_pct": -14.6
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 1.3,
+            "yoy_growth_pct": 3.7
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 5.7,
+        "operating_income": null,
+        "yoy_growth_pct": 10.5,
+        "sub_segments": [
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 3.3,
+            "yoy_growth_pct": 9.8
+          },
+          {
+            "name": "Vraylar",
+            "revenue": 3.3,
+            "yoy_growth_pct": 18.4
+          },
+          {
+            "name": "Duodopa",
+            "revenue": 0.4,
+            "yoy_growth_pct": -4.5
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 1.0,
+            "yoy_growth_pct": 23.4
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 0.7,
+            "yoy_growth_pct": 61.3
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 3.5,
+        "operating_income": null,
+        "yoy_growth_pct": -6.9,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": 1.3,
+            "yoy_growth_pct": -8.3
+          },
+          {
+            "name": "Creon",
+            "revenue": 1.4,
+            "yoy_growth_pct": 9.1
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": 0.9,
+            "yoy_growth_pct": -13.9
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 3.0,
+        "operating_income": null,
+        "yoy_growth_pct": 1.4,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 56.3,
+      "total_revenue_yoy_pct": 3.7,
+      "cost_of_revenue": 16.9,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 39.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 14.8,
+        "other_operating": 15.5
+      },
+      "total_operating_expenses": 30.3,
+      "operating_income": 9.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -5.4,
+      "income_before_tax": 3.7,
+      "tax_expense": -0.6,
+      "net_income": 4.3,
+      "net_income_yoy_pct": -12.0
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 80
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2023-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 26.1,
+        "operating_income": null,
+        "yoy_growth_pct": -19.1,
+        "sub_segments": [
+          {
+            "name": "Humira",
+            "revenue": 14.4,
+            "yoy_growth_pct": -32.2
+          },
+          {
+            "name": "Skyrizi",
+            "revenue": 7.8,
+            "yoy_growth_pct": 50.3
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 4.0,
+            "yoy_growth_pct": 57.4
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 6.6,
+        "operating_income": null,
+        "yoy_growth_pct": -14.7,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 3.6,
+            "yoy_growth_pct": -21.3
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 2.3,
+            "yoy_growth_pct": 13.9
+          },
+          {
+            "name": "Epkinly",
+            "revenue": 0.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 5.3,
+        "operating_income": null,
+        "yoy_growth_pct": -3.0,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 2.7,
+            "yoy_growth_pct": 2.6
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 1.4,
+            "yoy_growth_pct": -3.6
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 1.2,
+            "yoy_growth_pct": -4.4
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 7.7,
+        "operating_income": null,
+        "yoy_growth_pct": 12.0,
+        "sub_segments": [
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 3.0,
+            "yoy_growth_pct": 10.0
+          },
+          {
+            "name": "Vraylar",
+            "revenue": 2.8,
+            "yoy_growth_pct": 35.4
+          },
+          {
+            "name": "Duodopa",
+            "revenue": 0.5,
+            "yoy_growth_pct": 2.2
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 0.8,
+            "yoy_growth_pct": 19.9
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 0.4,
+            "yoy_growth_pct": 158.2
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.3,
+            "yoy_growth_pct": -41.9
+          }
+        ]
+      },
+      {
+        "name": "Eye Care",
+        "revenue": 0.9,
+        "operating_income": null,
+        "yoy_growth_pct": 1.1,
+        "sub_segments": [
+          {
+            "name": "Ozurdex",
+            "revenue": 0.5,
+            "yoy_growth_pct": 10.3
+          },
+          {
+            "name": "Lumigan/Ganfort",
+            "revenue": 0.4,
+            "yoy_growth_pct": -16.0
+          },
+          {
+            "name": "Alphagan/Combigan",
+            "revenue": 0.0,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 4.0,
+        "operating_income": null,
+        "yoy_growth_pct": -12.5,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": 1.4,
+            "yoy_growth_pct": -7.2
+          },
+          {
+            "name": "Creon",
+            "revenue": 1.3,
+            "yoy_growth_pct": -0.8
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": 1.1,
+            "yoy_growth_pct": 7.1
+          },
+          {
+            "name": "Other Other Key Products",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 3.0,
+        "operating_income": null,
+        "yoy_growth_pct": -26.7,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 54.3,
+      "total_revenue_yoy_pct": -6.4,
+      "cost_of_revenue": 20.4,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 33.9,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 12.9,
+        "other_operating": 8.2
+      },
+      "total_operating_expenses": 21.1,
+      "operating_income": 12.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -6.5,
+      "income_before_tax": 6.2,
+      "tax_expense": 1.4,
+      "net_income": 4.9,
+      "net_income_yoy_pct": -58.9
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2026-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 7.3,
+        "operating_income": null,
+        "yoy_growth_pct": 30.9,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 4.5,
+            "yoy_growth_pct": 30.9
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 2.1,
+            "yoy_growth_pct": 23.3
+          },
+          {
+            "name": "Humira",
+            "revenue": 0.7,
+            "yoy_growth_pct": -38.6
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 2.9,
+        "operating_income": null,
+        "yoy_growth_pct": 18.4,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 0.9,
+            "yoy_growth_pct": 18.4
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 1.0,
+            "yoy_growth_pct": 16.5
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 0.3,
+            "yoy_growth_pct": 41.4
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 0.3,
+            "yoy_growth_pct": 53.6
+          },
+          {
+            "name": "Vyalev",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Duodopa",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.1,
+            "yoy_growth_pct": -19.6
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.7,
+        "operating_income": null,
+        "yoy_growth_pct": 15.7,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 0.6,
+            "yoy_growth_pct": -24.7
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.8,
+            "yoy_growth_pct": 15.7
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Elahere",
+            "revenue": 0.2,
+            "yoy_growth_pct": 10.7
+          },
+          {
+            "name": "Epkinly",
+            "revenue": 0.1,
+            "yoy_growth_pct": 62.0
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 0.9,
+        "operating_income": null,
+        "yoy_growth_pct": 14.5,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": 0.4,
+            "yoy_growth_pct": 14.5
+          },
+          {
+            "name": "Creon",
+            "revenue": 0.4,
+            "yoy_growth_pct": 1.8
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": 0.3,
+            "yoy_growth_pct": 91.5
+          },
+          {
+            "name": "Other Other Key Products",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 1.0,
+        "operating_income": null,
+        "yoy_growth_pct": -18.1,
+        "sub_segments": []
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.2,
+        "operating_income": null,
+        "yoy_growth_pct": 12.5,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 0.7,
+            "yoy_growth_pct": 20.2
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 0.2,
+            "yoy_growth_pct": 0.4
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 0.3,
+            "yoy_growth_pct": -9.4
+          }
+        ]
+      },
+      {
+        "name": "Eye Care",
+        "revenue": null,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Ozurdex",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Lumigan/Ganfort",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.0,
+      "total_revenue_yoy_pct": 12.4,
+      "cost_of_revenue": 4.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 10.8,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.6,
+        "other_operating": 3.2
+      },
+      "total_operating_expenses": 6.8,
+      "operating_income": 4.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -3.0,
+      "income_before_tax": 1.0,
+      "tax_expense": 0.3,
+      "net_income": 0.7,
+      "net_income_yoy_pct": -46.0
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2025-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 7.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 4.7,
+            "yoy_growth_pct": 46.9
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 2.2,
+            "yoy_growth_pct": 35.3
+          },
+          {
+            "name": "Humira",
+            "revenue": 1.0,
+            "yoy_growth_pct": -55.4
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 2.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 0.9,
+            "yoy_growth_pct": 6.7
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 1.0,
+            "yoy_growth_pct": 16.2
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Qulipta",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Vyalev",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Duodopa",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 1.0,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 0.7,
+            "yoy_growth_pct": -14.7
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.7,
+            "yoy_growth_pct": 7.2
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Elahere",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Epkinly",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 1.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Creon",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Other Key Products",
+            "revenue": 1.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 0.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 1.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Eye Care",
+        "revenue": 0.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Ozurdex",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Lumigan/Ganfort",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.8,
+      "total_revenue_yoy_pct": 9.1,
+      "cost_of_revenue": 5.3,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 10.5,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.6,
+        "other_operating": 5.0
+      },
+      "total_operating_expenses": 8.6,
+      "operating_income": 1.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -1.2,
+      "income_before_tax": 0.7,
+      "tax_expense": 0.5,
+      "net_income": 0.2,
+      "net_income_yoy_pct": -88.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2025-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 7.6,
+        "operating_income": null,
+        "yoy_growth_pct": 62.2,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 4.4,
+            "yoy_growth_pct": 62.2
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 2.0,
+            "yoy_growth_pct": 41.8
+          },
+          {
+            "name": "Humira",
+            "revenue": 1.2,
+            "yoy_growth_pct": -58.1
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 1.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 0.9,
+            "yoy_growth_pct": 16.3
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 0.9,
+            "yoy_growth_pct": 14.0
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 0.3,
+            "yoy_growth_pct": 46.3
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 0.3,
+            "yoy_growth_pct": 78.0
+          },
+          {
+            "name": "Vyalev",
+            "revenue": 0.1,
+            "yoy_growth_pct": 444.4
+          },
+          {
+            "name": "Duodopa",
+            "revenue": 0.1,
+            "yoy_growth_pct": -14.2
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.1,
+            "yoy_growth_pct": -11.3
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 0.8,
+            "yoy_growth_pct": -9.5
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.7,
+            "yoy_growth_pct": 8.5
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Elahere",
+            "revenue": 0.2,
+            "yoy_growth_pct": 24.2
+          },
+          {
+            "name": "Epkinly",
+            "revenue": 0.1,
+            "yoy_growth_pct": 94.4
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 0.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Creon",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Other Key Products",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 1.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Eye Care",
+        "revenue": 0.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Ozurdex",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Lumigan/Ganfort",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.4,
+      "total_revenue_yoy_pct": 6.6,
+      "cost_of_revenue": 4.3,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 11.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.3,
+        "other_operating": 2.9
+      },
+      "total_operating_expenses": 6.2,
+      "operating_income": 4.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -3.4,
+      "income_before_tax": 1.6,
+      "tax_expense": 0.6,
+      "net_income": 0.9,
+      "net_income_yoy_pct": -31.5
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2025-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 6.3,
+        "operating_income": null,
+        "yoy_growth_pct": 28.0,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 3.4,
+            "yoy_growth_pct": 70.5
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 1.7,
+            "yoy_growth_pct": 57.2
+          },
+          {
+            "name": "Humira",
+            "revenue": 1.1,
+            "yoy_growth_pct": -50.6
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 2.2,
+        "operating_income": null,
+        "yoy_growth_pct": 12.8,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 0.8,
+            "yoy_growth_pct": 10.2
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 0.9,
+            "yoy_growth_pct": 15.8
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 0.2,
+            "yoy_growth_pct": 18.2
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 0.2,
+            "yoy_growth_pct": 47.3
+          },
+          {
+            "name": "Vyalev",
+            "revenue": 0.1,
+            "yoy_growth_pct": 600.0
+          },
+          {
+            "name": "Duodopa",
+            "revenue": 0.1,
+            "yoy_growth_pct": -16.5
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.1,
+            "yoy_growth_pct": -9.2
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.7,
+        "operating_income": null,
+        "yoy_growth_pct": -3.5,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 0.7,
+            "yoy_growth_pct": -11.9
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.7,
+            "yoy_growth_pct": 8.3
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Elahere",
+            "revenue": 0.2,
+            "yoy_growth_pct": 179.7
+          },
+          {
+            "name": "Epkinly",
+            "revenue": 0.1,
+            "yoy_growth_pct": 88.9
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 0.6,
+        "operating_income": null,
+        "yoy_growth_pct": -15.3,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": 0.3,
+            "yoy_growth_pct": -12.3
+          },
+          {
+            "name": "Creon",
+            "revenue": 0.4,
+            "yoy_growth_pct": 24.6
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": 0.1,
+            "yoy_growth_pct": -44.4
+          },
+          {
+            "name": "Other Other Key Products",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 0.7,
+        "operating_income": null,
+        "yoy_growth_pct": 0.4,
+        "sub_segments": []
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.1,
+        "operating_income": null,
+        "yoy_growth_pct": -12.5,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 0.6,
+            "yoy_growth_pct": -12.2
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 0.2,
+            "yoy_growth_pct": -22.2
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 0.3,
+            "yoy_growth_pct": -1.3
+          }
+        ]
+      },
+      {
+        "name": "Eye Care",
+        "revenue": 0.5,
+        "operating_income": null,
+        "yoy_growth_pct": -10.0,
+        "sub_segments": [
+          {
+            "name": "Ozurdex",
+            "revenue": 0.1,
+            "yoy_growth_pct": -6.1
+          },
+          {
+            "name": "Lumigan/Ganfort",
+            "revenue": 0.1,
+            "yoy_growth_pct": 16.5
+          },
+          {
+            "name": "Other Eye Care",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 13.3,
+      "total_revenue_yoy_pct": 8.4,
+      "cost_of_revenue": 4.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 9.3,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.3,
+        "other_operating": 2.3
+      },
+      "total_operating_expenses": 5.6,
+      "operating_income": 3.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -2.0,
+      "income_before_tax": 1.7,
+      "tax_expense": 0.4,
+      "net_income": 1.3,
+      "net_income_yoy_pct": -6.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2024-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 7.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 3.2,
+            "yoy_growth_pct": 50.7
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 1.6,
+            "yoy_growth_pct": 45.4
+          },
+          {
+            "name": "Humira",
+            "revenue": 2.2,
+            "yoy_growth_pct": -37.2
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 2.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Vyalev",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Duodopa",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 0.8,
+            "yoy_growth_pct": -10.0
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Elahere",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Epkinly",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 1.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Creon",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Other Key Products",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 0.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Eye Care",
+        "revenue": 0.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Ozurdex",
+            "revenue": 0.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Lumigan/Ganfort",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.5,
+      "total_revenue_yoy_pct": 3.8,
+      "cost_of_revenue": 4.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 10.3,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 4.2,
+        "other_operating": 2.3
+      },
+      "total_operating_expenses": 6.5,
+      "operating_income": 3.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -1.7,
+      "income_before_tax": 2.1,
+      "tax_expense": 0.5,
+      "net_income": 1.6,
+      "net_income_yoy_pct": -12.2
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2024-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 6.9,
+        "operating_income": null,
+        "yoy_growth_pct": -10.2,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 2.7,
+            "yoy_growth_pct": 44.8
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 1.4,
+            "yoy_growth_pct": 55.8
+          },
+          {
+            "name": "Humira",
+            "revenue": 2.8,
+            "yoy_growth_pct": -29.8
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 2.3,
+        "operating_income": null,
+        "yoy_growth_pct": 10.3,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 0.8,
+            "yoy_growth_pct": 17.6
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 0.8,
+            "yoy_growth_pct": 8.8
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Qulipta",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Vyalev",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Duodopa",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.8,
+        "operating_income": null,
+        "yoy_growth_pct": -5.3,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 0.8,
+            "yoy_growth_pct": -8.2
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.6,
+            "yoy_growth_pct": 11.6
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.3,
+            "yoy_growth_pct": -6.8
+          },
+          {
+            "name": "Elahere",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Epkinly",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 1.2,
+        "operating_income": null,
+        "yoy_growth_pct": -1.6,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Creon",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Other Key Products",
+            "revenue": 1.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 0.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.3,
+        "operating_income": null,
+        "yoy_growth_pct": -3.9,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 0.3,
+            "yoy_growth_pct": -3.9
+          }
+        ]
+      },
+      {
+        "name": "Eye Care",
+        "revenue": 0.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Ozurdex",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Lumigan/Ganfort",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.5,
+      "total_revenue_yoy_pct": 4.3,
+      "cost_of_revenue": 4.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 10.3,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.4,
+        "other_operating": 2.9
+      },
+      "total_operating_expenses": 6.3,
+      "operating_income": 4.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -1.8,
+      "income_before_tax": 2.1,
+      "tax_expense": 0.8,
+      "net_income": 1.4,
+      "net_income_yoy_pct": -32.3
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2024-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 5.4,
+        "operating_income": null,
+        "yoy_growth_pct": -10.3,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 2.0,
+            "yoy_growth_pct": 47.6
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 1.1,
+            "yoy_growth_pct": 59.3
+          },
+          {
+            "name": "Humira",
+            "revenue": 2.3,
+            "yoy_growth_pct": -35.9
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 1.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Vyalev",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Duodopa",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Elahere",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Epkinly",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 1.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Creon",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Other Key Products",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 0.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Eye Care",
+        "revenue": 0.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Ozurdex",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Lumigan/Ganfort",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 12.3,
+      "total_revenue_yoy_pct": 0.7,
+      "cost_of_revenue": 4.1,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 8.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.3,
+        "other_operating": 2.1
+      },
+      "total_operating_expenses": 5.4,
+      "operating_income": 2.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -1.0,
+      "income_before_tax": 1.8,
+      "tax_expense": 0.4,
+      "net_income": 1.4,
+      "net_income_yoy_pct": 472.8
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2023-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 6.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 2.1,
+            "yoy_growth_pct": 52.2
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 1.1,
+            "yoy_growth_pct": 59.7
+          },
+          {
+            "name": "Humira",
+            "revenue": 3.5,
+            "yoy_growth_pct": -36.2
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 2.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 0.8,
+            "yoy_growth_pct": 35.6
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 0.7,
+            "yoy_growth_pct": 7.0
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 0.2,
+            "yoy_growth_pct": 45.6
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 0.1,
+            "yoy_growth_pct": 112.9
+          },
+          {
+            "name": "Vyalev",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Duodopa",
+            "revenue": 0.1,
+            "yoy_growth_pct": 7.3
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.1,
+            "yoy_growth_pct": -29.9
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 0.9,
+            "yoy_growth_pct": -20.0
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.6,
+            "yoy_growth_pct": 14.6
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Elahere",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Epkinly",
+            "revenue": 0.0,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 1.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Creon",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Other Key Products",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 0.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 0.6,
+            "yoy_growth_pct": -2.7
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 0.3,
+            "yoy_growth_pct": -8.8
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 0.3,
+            "yoy_growth_pct": -4.5
+          }
+        ]
+      },
+      {
+        "name": "Eye Care",
+        "revenue": 0.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Ozurdex",
+            "revenue": 0.1,
+            "yoy_growth_pct": 13.2
+          },
+          {
+            "name": "Lumigan/Ganfort",
+            "revenue": 0.1,
+            "yoy_growth_pct": -24.8
+          },
+          {
+            "name": "Other Eye Care",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 13.9,
+      "total_revenue_yoy_pct": -6.0,
+      "cost_of_revenue": 6.5,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 7.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.4,
+        "other_operating": 1.7
+      },
+      "total_operating_expenses": 5.1,
+      "operating_income": 2.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.3,
+      "income_before_tax": 2.0,
+      "tax_expense": 0.2,
+      "net_income": 1.8,
+      "net_income_yoy_pct": -55.0
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2023-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 6.8,
+        "operating_income": null,
+        "yoy_growth_pct": -25.2,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 1.9,
+            "yoy_growth_pct": 50.4
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 0.9,
+            "yoy_growth_pct": 55.1
+          },
+          {
+            "name": "Humira",
+            "revenue": 4.0,
+            "yoy_growth_pct": -25.2
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 1.9,
+        "operating_income": null,
+        "yoy_growth_pct": 10.6,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 0.7,
+            "yoy_growth_pct": 33.7
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 0.7,
+            "yoy_growth_pct": 10.3
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 0.2,
+            "yoy_growth_pct": 5.9
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 0.1,
+            "yoy_growth_pct": 190.9
+          },
+          {
+            "name": "Vyalev",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Duodopa",
+            "revenue": 0.1,
+            "yoy_growth_pct": -2.5
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.1,
+            "yoy_growth_pct": -53.3
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.5,
+        "operating_income": null,
+        "yoy_growth_pct": -20.5,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 0.9,
+            "yoy_growth_pct": -20.8
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.6,
+            "yoy_growth_pct": 13.1
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Elahere",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Epkinly",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 0.9,
+        "operating_income": null,
+        "yoy_growth_pct": -2.8,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": 0.4,
+            "yoy_growth_pct": -2.8
+          },
+          {
+            "name": "Creon",
+            "revenue": 0.3,
+            "yoy_growth_pct": -11.3
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": 0.3,
+            "yoy_growth_pct": 9.0
+          },
+          {
+            "name": "Other Other Key Products",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 0.7,
+        "operating_income": null,
+        "yoy_growth_pct": -26.6,
+        "sub_segments": []
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.4,
+        "operating_income": null,
+        "yoy_growth_pct": -1.4,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 0.7,
+            "yoy_growth_pct": -1.4
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 0.4,
+            "yoy_growth_pct": 7.0
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 0.3,
+            "yoy_growth_pct": -0.3
+          }
+        ]
+      },
+      {
+        "name": "Eye Care",
+        "revenue": 0.5,
+        "operating_income": null,
+        "yoy_growth_pct": -8.5,
+        "sub_segments": [
+          {
+            "name": "Ozurdex",
+            "revenue": 0.1,
+            "yoy_growth_pct": 8.2
+          },
+          {
+            "name": "Lumigan/Ganfort",
+            "revenue": 0.1,
+            "yoy_growth_pct": -8.5
+          },
+          {
+            "name": "Other Eye Care",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 13.9,
+      "total_revenue_yoy_pct": -4.9,
+      "cost_of_revenue": 4.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 9.7,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.3,
+        "other_operating": 1.9
+      },
+      "total_operating_expenses": 5.2,
+      "operating_income": 4.5,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -1.9,
+      "income_before_tax": 2.6,
+      "tax_expense": 0.6,
+      "net_income": 2.0,
+      "net_income_yoy_pct": 119.0
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2023-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 5.5,
+        "operating_income": null,
+        "yoy_growth_pct": -25.2,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 1.4,
+            "yoy_growth_pct": 44.7
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Humira",
+            "revenue": 3.5,
+            "yoy_growth_pct": -25.2
+          },
+          {
+            "name": "Other Immunology",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 1.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Vyalev",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Duodopa",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Elahere",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Epkinly",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 1.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Creon",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Other Key Products",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 0.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Eye Care",
+        "revenue": 0.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Ozurdex",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Lumigan/Ganfort",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 12.2,
+      "total_revenue_yoy_pct": -9.7,
+      "cost_of_revenue": 4.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 8.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.0,
+        "other_operating": 2.4
+      },
+      "total_operating_expenses": 5.4,
+      "operating_income": 2.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -2.4,
+      "income_before_tax": 0.5,
+      "tax_expense": 0.2,
+      "net_income": 0.2,
+      "net_income_yoy_pct": -94.7
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2022-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 7.6,
+        "operating_income": null,
+        "yoy_growth_pct": 2.5,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 1.4,
+            "yoy_growth_pct": 75.4
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 0.7,
+            "yoy_growth_pct": 53.5
+          },
+          {
+            "name": "Humira",
+            "revenue": 5.6,
+            "yoy_growth_pct": 2.5
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 1.6,
+        "operating_income": null,
+        "yoy_growth_pct": 8.4,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 0.6,
+            "yoy_growth_pct": 20.2
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 0.7,
+            "yoy_growth_pct": 8.4
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Vyalev",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Duodopa",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.7,
+        "operating_income": null,
+        "yoy_growth_pct": -17.4,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 1.1,
+            "yoy_growth_pct": -17.4
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.5,
+            "yoy_growth_pct": 4.7
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Elahere",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Epkinly",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 1.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Creon",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Other Key Products",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 0.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.3,
+        "operating_income": null,
+        "yoy_growth_pct": 16.9,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 0.6,
+            "yoy_growth_pct": 16.9
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 0.4,
+            "yoy_growth_pct": -0.6
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 0.3,
+            "yoy_growth_pct": -11.4
+          }
+        ]
+      },
+      {
+        "name": "Eye Care",
+        "revenue": 0.3,
+        "operating_income": null,
+        "yoy_growth_pct": -12.3,
+        "sub_segments": [
+          {
+            "name": "Ozurdex",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Lumigan/Ganfort",
+            "revenue": 0.1,
+            "yoy_growth_pct": -12.3
+          },
+          {
+            "name": "Other Eye Care",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.8,
+      "total_revenue_yoy_pct": 3.3,
+      "cost_of_revenue": 5.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 9.8,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.3,
+        "other_operating": 1.9
+      },
+      "total_operating_expenses": 5.2,
+      "operating_income": 4.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.3,
+      "income_before_tax": 4.4,
+      "tax_expense": 0.4,
+      "net_income": 3.9,
+      "net_income_yoy_pct": 24.2
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2022-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 7.2,
+        "operating_income": null,
+        "yoy_growth_pct": 5.8,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 1.3,
+            "yoy_growth_pct": 85.9
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 0.6,
+            "yoy_growth_pct": 56.3
+          },
+          {
+            "name": "Humira",
+            "revenue": 5.4,
+            "yoy_growth_pct": 5.8
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 1.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 0.2,
+            "yoy_growth_pct": 48.0
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Vyalev",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Duodopa",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.4,
+        "operating_income": null,
+        "yoy_growth_pct": -17.1,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 1.1,
+            "yoy_growth_pct": -17.1
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Elahere",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Epkinly",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 1.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mavyret",
+            "revenue": 0.3,
+            "yoy_growth_pct": -5.0
+          },
+          {
+            "name": "Creon",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Linzess/Constella",
+            "revenue": 0.4,
+            "yoy_growth_pct": 18.0
+          },
+          {
+            "name": "Other Other Key Products",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 1.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Eye Care",
+        "revenue": 0.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Ozurdex",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Lumigan/Ganfort",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.6,
+      "total_revenue_yoy_pct": 4.5,
+      "cost_of_revenue": 4.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 10.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 5.4,
+        "other_operating": 1.7
+      },
+      "total_operating_expenses": 7.1,
+      "operating_income": 3.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -2.1,
+      "income_before_tax": 1.2,
+      "tax_expense": 0.3,
+      "net_income": 0.9,
+      "net_income_yoy_pct": 20.6
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2025-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 8.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Skyrizi",
+            "revenue": 5.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 2.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Humira",
+            "revenue": 1.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 7.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Vraylar",
+            "revenue": 1.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 1.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": -1.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 2.8,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 4.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 0.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.7,
+      "cost_of_revenue": 4.6,
+      "gross_profit": 12.1,
+      "total_operating_expenses": 7.5,
+      "operating_income": 4.6,
+      "other_income_expense": -1.9,
+      "income_before_tax": 2.6,
+      "tax_expense": 0.9,
+      "net_income": 1.8,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.8,
+        "other_operating": 3.7
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 80,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2024-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 7.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Humira",
+            "revenue": 1.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Skyrizi",
+            "revenue": 3.8,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Rinvoq",
+            "revenue": 1.9,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 0.8,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": -0.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 0.8,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "All other",
+        "revenue": 1.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.0,
+      "cost_of_revenue": 4.4,
+      "gross_profit": 10.6,
+      "total_operating_expenses": 12.1,
+      "operating_income": -1.5,
+      "other_income_expense": -0.9,
+      "income_before_tax": -2.3,
+      "tax_expense": -2.3,
+      "net_income": -0.1,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.9,
+        "other_operating": 8.2
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 80,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  },
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "report_date": "2023-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Immunology",
+        "revenue": 7.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Humira",
+            "revenue": 3.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Skyrizi",
+            "revenue": 2.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Immunology",
+            "revenue": 1.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 2.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Imbruvica",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Venclexta",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Aesthetics",
+        "revenue": 1.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Botox Cosmetic",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Juvederm Collection",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Aesthetics",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 2.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Botox Therapeutic",
+            "revenue": 1.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Vraylar",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Ubrelvy",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Qulipta",
+            "revenue": 0.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": -0.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Neuroscience",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other Key Products",
+        "revenue": 0.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "All other",
+        "revenue": 1.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.3,
+      "cost_of_revenue": 5.7,
+      "gross_profit": 8.6,
+      "total_operating_expenses": 5.4,
+      "operating_income": 3.2,
+      "other_income_expense": -1.9,
+      "income_before_tax": 1.1,
+      "tax_expense": 0.4,
+      "net_income": 0.9,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.2,
+        "other_operating": 2.2
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 100,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "company": "Merck & Co. Inc.",
+  "ticker": "MRK",
+  "report_date": "2026-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Pharmaceutical",
+      "revenue": 14.3,
+      "operating_income": null,
+      "yoy_growth_pct": 5.2,
+      "sub_segments": [
+        {
+          "name": "Oncology",
+          "revenue": 3.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Immunology",
+          "revenue": 2.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Infectious Diseases",
+          "revenue": 1.6,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Cardiovascular",
+          "revenue": 2.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Diabetes",
+          "revenue": 0.6,
+          "yoy_growth_pct": -33.2
+        },
+        {
+          "name": "Other Pharmaceutical",
+          "revenue": 4.5,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Animal Health",
+      "revenue": 1.8,
+      "operating_income": null,
+      "yoy_growth_pct": 12.8,
+      "sub_segments": [
+        {
+          "name": "Livestock",
+          "revenue": 1.1,
+          "yoy_growth_pct": 15.2
+        },
+        {
+          "name": "Companion Animal",
+          "revenue": 0.7,
+          "yoy_growth_pct": 9.5
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 16.3,
+    "total_revenue_yoy_pct": 4.9,
+    "cost_of_revenue": 4.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 12.1,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 12.6,
+      "selling_general_administrative": 2.7
+    },
+    "total_operating_expenses": 15.3,
+    "operating_income": -3.2,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.3,
+    "income_before_tax": -3.5,
+    "tax_expense": 0.7,
+    "net_income": -4.2,
+    "net_income_yoy_pct": -183.5
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

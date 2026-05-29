@@ -1,0 +1,30 @@
+{
+  "ticker": "QCOM",
+  "source": "cache: 10-K 2023-09-24",
+  "segments": [
+    {
+      "name": "QCT",
+      "sub_segments": [
+        "Handsets",
+        "Automotive",
+        "IoT"
+      ]
+    },
+    {
+      "name": "QTL",
+      "sub_segments": []
+    },
+    {
+      "name": "QCT (Qualcomm CDMA Technologies)",
+      "sub_segments": [
+        "Handsets",
+        "Automotive",
+        "IoT (internet of things)"
+      ]
+    },
+    {
+      "name": "QTL (Qualcomm Technology Licensing)",
+      "sub_segments": []
+    }
+  ]
+}

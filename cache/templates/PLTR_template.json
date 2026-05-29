@@ -1,0 +1,14 @@
+{
+  "ticker": "PLTR",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Government",
+      "sub_segments": []
+    },
+    {
+      "name": "Commercial",
+      "sub_segments": []
+    }
+  ]
+}

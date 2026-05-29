@@ -1,0 +1,19 @@
+{
+  "ticker": "LIN",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Industrial Gases",
+      "sub_segments": [
+        "Americas",
+        "EMEA",
+        "APAC",
+        "Other Industrial Gases"
+      ]
+    },
+    {
+      "name": "Engineering",
+      "sub_segments": []
+    }
+  ]
+}

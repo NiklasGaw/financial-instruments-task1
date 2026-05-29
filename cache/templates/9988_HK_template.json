@@ -1,0 +1,33 @@
+{
+  "ticker": "9988.HK",
+  "source": "cache: 20-F 2024-03-31",
+  "segments": [
+    {
+      "name": "Alibaba International Digital Commerce Group",
+      "sub_segments": [
+        "International commerce retail",
+        "International commerce wholesale"
+      ]
+    },
+    {
+      "name": "Cainiao Smart Logistics Network Limited",
+      "sub_segments": []
+    },
+    {
+      "name": "Hujing Digital Media and Entertainment Group",
+      "sub_segments": []
+    },
+    {
+      "name": "Local Services Group",
+      "sub_segments": []
+    },
+    {
+      "name": "Cainiao Smart Logistics Network",
+      "sub_segments": []
+    },
+    {
+      "name": "Innovation Initiatives and Others",
+      "sub_segments": []
+    }
+  ]
+}

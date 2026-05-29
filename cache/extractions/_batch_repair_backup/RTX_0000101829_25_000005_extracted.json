@@ -1,0 +1,127 @@
+{
+  "company": "RTX Corporation",
+  "ticker": "RTX",
+  "report_date": "2024-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Collins Aerospace",
+      "revenue": 28.3,
+      "operating_income": 4.1,
+      "yoy_growth_pct": 7.7,
+      "sub_segments": [
+        {
+          "name": "Sales to the U.S. government",
+          "revenue": 6.9,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Foreign military sales through the U.S. government",
+          "revenue": 0.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Foreign government direct commercial sales",
+          "revenue": 1.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Commercial aerospace and other commercial sales",
+          "revenue": 17.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Collins Aerospace",
+          "revenue": 2.3,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Pratt & Whitney",
+      "revenue": 28.1,
+      "operating_income": 2.0,
+      "yoy_growth_pct": 53.4,
+      "sub_segments": [
+        {
+          "name": "Sales to the U.S. government",
+          "revenue": 6.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Foreign military sales through the U.S. government",
+          "revenue": 1.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Foreign government direct commercial sales",
+          "revenue": 0.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Commercial aerospace and other commercial sales",
+          "revenue": 19.7,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Raytheon",
+      "revenue": 26.7,
+      "operating_income": 2.6,
+      "yoy_growth_pct": 1.4,
+      "sub_segments": [
+        {
+          "name": "Sales to the U.S. government",
+          "revenue": 19.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Foreign military sales through the U.S. government",
+          "revenue": 3.9,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Foreign government direct commercial sales",
+          "revenue": 3.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Commercial aerospace and other commercial sales",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 80.7,
+    "total_revenue_yoy_pct": 17.1,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 2.9,
+      "selling_general_administrative": 5.8
+    },
+    "total_operating_expenses": 8.7,
+    "operating_income": 6.5,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.5,
+    "income_before_tax": 6.2,
+    "tax_expense": 1.2,
+    "net_income": 4.8,
+    "net_income_yoy_pct": 49.4
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

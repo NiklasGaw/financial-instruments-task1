@@ -1,0 +1,74 @@
+{
+  "company": "GE Aerospace",
+  "ticker": "GE",
+  "report_date": "2022-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2022",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Aerospace",
+      "revenue": 5.6,
+      "operating_income": 0.9,
+      "yoy_growth_pct": 12.0,
+      "sub_segments": []
+    },
+    {
+      "name": "HealthCare",
+      "revenue": 4.4,
+      "operating_income": 0.5,
+      "yoy_growth_pct": 1.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Renewable Energy",
+      "revenue": 2.9,
+      "operating_income": -0.4,
+      "yoy_growth_pct": -12.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Power",
+      "revenue": 3.5,
+      "operating_income": 0.1,
+      "yoy_growth_pct": -11.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Corporate",
+      "revenue": 0.7,
+      "operating_income": null,
+      "yoy_growth_pct": 16.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 17.0,
+    "total_revenue_yoy_pct": -0.5,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.6,
+      "selling_general_administrative": 3.7,
+      "other_operating": 13.3
+    },
+    "total_operating_expenses": 17.6,
+    "operating_income": -0.6,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.2,
+    "income_before_tax": -0.5,
+    "tax_expense": 0.2,
+    "net_income": -1.0,
+    "net_income_yoy_pct": -62.8
+  },
+  "notes": "XBRL IS + manual segment patch (historical reported segments).",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

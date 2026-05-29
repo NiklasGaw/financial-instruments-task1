@@ -1,0 +1,30 @@
+{
+  "ticker": "TSLA",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Automotive",
+      "sub_segments": [
+        "Automotive sales",
+        "Automotive regulatory credits",
+        "Automotive leasing"
+      ]
+    },
+    {
+      "name": "Energy Generation and Storage",
+      "sub_segments": []
+    },
+    {
+      "name": "Services and Other",
+      "sub_segments": []
+    },
+    {
+      "name": "Total automotive revenues",
+      "sub_segments": [
+        "Automotive sales",
+        "Automotive regulatory credits",
+        "Automotive leasing"
+      ]
+    }
+  ]
+}

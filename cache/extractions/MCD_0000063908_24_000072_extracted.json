@@ -1,0 +1,76 @@
+{
+  "company": "McDonald's Corporation",
+  "ticker": "MCD",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Sales by Company-operated restaurants",
+      "revenue": 9.7,
+      "operating_income": 1.5,
+      "yoy_growth_pct": 11.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Revenues from franchised restaurants",
+      "revenue": 15.4,
+      "operating_income": 12.9,
+      "yoy_growth_pct": 9.0,
+      "sub_segments": [
+        {
+          "name": "Conventional franchised",
+          "revenue": 87.8,
+          "yoy_growth_pct": 10.0
+        },
+        {
+          "name": "Developmental licensed",
+          "revenue": 20.0,
+          "yoy_growth_pct": 9.0
+        },
+        {
+          "name": "Foreign affiliated",
+          "revenue": 11.9,
+          "yoy_growth_pct": 9.0
+        }
+      ]
+    },
+    {
+      "name": "Other revenues",
+      "revenue": 0.3,
+      "operating_income": null,
+      "yoy_growth_pct": -4.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 25.5,
+    "total_revenue_yoy_pct": 10.0,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null,
+      "other_operating": 13.9
+    },
+    "total_operating_expenses": 13.9,
+    "operating_income": 11.6,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.0,
+    "income_before_tax": 10.6,
+    "tax_expense": 2.1,
+    "net_income": 8.5,
+    "net_income_yoy_pct": 37.1
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

@@ -1,0 +1,11484 @@
+6k20260131 
+
+ January 31, 2026 
+ Q1 
+ --10-31 
+ 0000947263 
+ False 
+ TORONTO DOMINION BANK 
+
+ 0000947263 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefinedContributionPensionPlansMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:GovernmentPensionPlansMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ProbabilityWeightedMethodMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ProbabilityWeightedMethodMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:BaseScenarioMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BaseScenarioMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefinedContributionPensionPlansMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:GovernmentPensionPlansMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:PrincipalPensionPlansMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:PrincipalPensionPlansMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:PrincipalPostRetirementBenefitPlanMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:PrincipalPostRetirementBenefitPlanMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:OtherPensionAndPostRetirementBenefitPlansMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OtherPensionAndPostRetirementBenefitPlansMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:InterestRateRiskMember 
+
+ td:AverageRiskMember 
+
+ 2025-08-01 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:InterestRateRiskMember 
+
+ td:AverageRiskMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:CreditRiskMember 
+
+ td:AverageRiskMember 
+
+ 2025-08-01 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:CreditRiskMember 
+
+ td:AverageRiskMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:EquityPriceRiskMember 
+
+ td:AverageRiskMember 
+
+ 2025-08-01 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:EquityPriceRiskMember 
+
+ td:AverageRiskMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:CurrencyRiskMember 
+
+ td:AverageRiskMember 
+
+ 2025-08-01 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:CurrencyRiskMember 
+
+ td:AverageRiskMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:CommodityPriceRiskMember 
+
+ td:AverageRiskMember 
+
+ 2025-08-01 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:CommodityPriceRiskMember 
+
+ td:AverageRiskMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:AverageRiskMember 
+
+ td:IdiosyncraticDebtSpecificRiskMember 
+
+ 2025-08-01 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:AverageRiskMember 
+
+ td:IdiosyncraticDebtSpecificRiskMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:AverageRiskMember 
+
+ td:RiskDiversificationEffect1Member 
+
+ 2025-08-01 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:AverageRiskMember 
+
+ td:RiskDiversificationEffect1Member 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:AverageRiskMember 
+
+ 2025-08-01 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:AverageRiskMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:HundredBasisPointsIncreaseMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HundredBasisPointsIncreaseMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:HundredBasisPointsDecreaseMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HundredBasisPointsDecreaseMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ currency:CAD 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:OtherThanCanadianDollarMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:ParentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:SubsidiariesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:ForeignBranchesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:PersonalDepositMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NonPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:IssuedCapitalMember 
+
+ ifrs-full:OrdinarySharesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:IssuedCapitalMember 
+
+ ifrs-full:OrdinarySharesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:IssuedCapitalMember 
+
+ ifrs-full:OrdinarySharesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:IssuedCapitalMember 
+
+ ifrs-full:OrdinarySharesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:IssuedCapitalMember 
+
+ ifrs-full:OrdinarySharesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:IssuedCapitalMember 
+
+ ifrs-full:OrdinarySharesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:PreferenceSharesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:PreferenceSharesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:PreferenceSharesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:PreferenceSharesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:PreferenceSharesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:PreferenceSharesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:LimitedRecourseCapitalNotesMember 
+
+ td:OtherEquityInstrumentsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LimitedRecourseCapitalNotesMember 
+
+ td:OtherEquityInstrumentsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:OtherEquityInstrumentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:OtherEquityInstrumentsMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:OtherEquityInstrumentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OtherEquityInstrumentsMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ ifrs-full:TreasurySharesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ ifrs-full:TreasurySharesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ ifrs-full:TreasurySharesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ ifrs-full:TreasurySharesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ ifrs-full:TreasurySharesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ ifrs-full:TreasurySharesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:TreasurySharesMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:TreasurySharesMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:TreasurySharesMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:TreasurySharesMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:TreasurySharesMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:TreasurySharesMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:BottomOfRangeMember 
+
+ td:DividendReinvestmentPlanMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:TopOfRangeMember 
+
+ td:DividendReinvestmentPlanMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StockOptionAwardsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:OptionsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OptionsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:CanadianPersonalAndCommercialBankingMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CanadianPersonalAndCommercialBankingMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:UsRetailMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:UsRetailMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:WealthManagementandInsuranceMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:WealthManagementandInsuranceMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:WholesaleBankingMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:WholesaleBankingMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:CorporateMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CorporateMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:CanadianPersonalAndCommercialBankingMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:UsRetailMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:WealthManagementandInsuranceMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:WholesaleBankingMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CorporateMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CanadianPersonalAndCommercialBankingMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:UsRetailMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:WealthManagementandInsuranceMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:WholesaleBankingMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:CorporateMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:IssuedCapitalMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:IssuedCapitalMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:IssuedCapitalMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:IssuedCapitalMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:IssuedCapitalMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:IssuedCapitalMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ContributedSurplusMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:ContributedSurplusMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:ContributedSurplusMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ContributedSurplusMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ContributedSurplusMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ContributedSurplusMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:RetainedEarningsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RetainedEarningsMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:RetainedEarningsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RetainedEarningsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:RetainedEarningsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RetainedEarningsMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ ifrs-full:RetainedEarningsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ ifrs-full:RetainedEarningsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:RetainedEarningsMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RetainedEarningsMember 
+
+ td:PreferredSharesAndOtherEquityInstrumentsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CarryingValueMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:NotMeasuredAtFairValueInStatementOfFinancialPositionButForWhichFairValueIsDisclosedMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CarryingValueMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:NotMeasuredAtFairValueInStatementOfFinancialPositionButForWhichFairValueIsDisclosedMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CarryingValueMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:NotMeasuredAtFairValueInStatementOfFinancialPositionButForWhichFairValueIsDisclosedMember 
+
+ td:OtherDebtSecurities1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CarryingValueMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:NotMeasuredAtFairValueInStatementOfFinancialPositionButForWhichFairValueIsDisclosedMember 
+
+ td:OtherDebtSecurities1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:CarryingValueMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:NotMeasuredAtFairValueInStatementOfFinancialPositionButForWhichFairValueIsDisclosedMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CarryingValueMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:NotMeasuredAtFairValueInStatementOfFinancialPositionButForWhichFairValueIsDisclosedMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:FirstOfNovemberTwoThousandAndTwentyThreeMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BaseIiiMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:FinancialInstrumentsMeasureAtAmortizedCostAndFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:FinancialInstrumentsMeasureAtAmortizedCostAndFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:FinancialInstrumentsMeasuredOrDesignatedAtFairValueThroughProfitOrLossMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:FinancialInstrumentsMeasuredOrDesignatedAtFairValueThroughProfitOrLossMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:EquitiesDesignatedAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:EquitiesDesignatedAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentFederalDebtMember 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentProvincialDebtMember 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:SecuritiesMember 
+
+ td:UsFederalStateMunicipalGovernmentsAndAgenciesDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:OtherOecdGovernmentGuaranteedDebtMemberMember 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:MortgageBackedSecuritiesMember 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentFederalDebtMember 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentProvincialDebtMember 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:SecuritiesMember 
+
+ td:UsFederalStateMunicipalGovernmentsAndAgenciesDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:OtherOecdGovernmentGuaranteedDebtMemberMember 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:MortgageBackedSecuritiesMember 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:AssetbackedFinancingsMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CorporateAndOtherDebtMember 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OtherDebtSecurities1Member 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:AssetbackedFinancingsMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CorporateAndOtherDebtMember 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:OtherDebtSecurities1Member 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DebtSecurities1Member 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DebtSecurities1Member 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ td:EquitySecuritiesMember 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ td:EquitySecuritiesMember 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:PreferenceSharesMember 
+
+ td:EquitySecuritiesMember 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:PreferenceSharesMember 
+
+ td:EquitySecuritiesMember 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:EquitySecuritiesMember 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:EquitySecuritiesMember 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:OrdinarySharesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:TradingEquitySecuritiesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:TradingEquitySecuritiesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:FederalHomeLoanBanksStocksMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:FederalHomeLoanBanksStocksMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentFederalDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentFederalDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentFederalDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentProvincialDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentProvincialDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentProvincialDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:UnitedStateFederalStateMunicipalGovernmentsAndAgenciesDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:UnitedStateFederalStateMunicipalGovernmentsAndAgenciesDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:UnitedStateFederalStateMunicipalGovernmentsAndAgenciesDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:OtherOecdGovernmentGuaranteedDebtMemberMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:OtherOecdGovernmentGuaranteedDebtMemberMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:OtherOecdGovernmentGuaranteedDebtMemberMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:MortgageBackedSecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:MortgageBackedSecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:MortgageBackedSecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentFederalDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentProvincialDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:UnitedStateFederalStateMunicipalGovernmentsAndAgenciesDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:OtherOecdGovernmentGuaranteedDebtMemberMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:MortgageBackedSecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentFederalDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentFederalDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentFederalDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentProvincialDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentProvincialDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentProvincialDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:UnitedStateFederalStateMunicipalGovernmentsAndAgenciesDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:UnitedStateFederalStateMunicipalGovernmentsAndAgenciesDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:UnitedStateFederalStateMunicipalGovernmentsAndAgenciesDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:OtherOecdGovernmentGuaranteedDebtMemberMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:OtherOecdGovernmentGuaranteedDebtMemberMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:OtherOecdGovernmentGuaranteedDebtMemberMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:MortgageBackedSecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:MortgageBackedSecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:MortgageBackedSecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentFederalDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:CanadianGovernmentProvincialDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:UnitedStateFederalStateMunicipalGovernmentsAndAgenciesDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:OtherOecdGovernmentGuaranteedDebtMemberMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:GovernmentAndGovernmentRelatedSecuritiesMember 
+
+ td:MortgageBackedSecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CanadianIssuersMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CanadianIssuersMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CanadianIssuersMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:OtherIssuersMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:OtherIssuersMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:OtherIssuersMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CanadianIssuersMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:OtherIssuersMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CanadianIssuersMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CanadianIssuersMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CanadianIssuersMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:OtherIssuersMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:OtherIssuersMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:OtherIssuersMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CanadianIssuersMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:OtherIssuersMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:EquitySecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:EquitySecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:TradingLoansMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:TradingLoansMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:TradingLoansMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CommoditiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:CommoditiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CommoditiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:RetainedInterest1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:RetainedInterest1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:RetainedInterest1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:EquitySecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:TradingLoansMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CommoditiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:RetainedInterest1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:EquitySecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:EquitySecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:TradingLoansMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:TradingLoansMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:TradingLoansMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CommoditiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:CommoditiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CommoditiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:RetainedInterest1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:RetainedInterest1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:RetainedInterest1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:EquitySecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:TradingLoansMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CommoditiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:RetainedInterest1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:Loans1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:Loans1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:Loans1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:SecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:Loans1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:Loans1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:Loans1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:Loans1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:SecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:Loans1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:InterestRateContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:InterestRateContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:InterestRateContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:ForeignExchangeContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:ForeignExchangeContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:ForeignExchangeContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CreditDerivativesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:CreditDerivativesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CreditDerivativesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:EquityContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:EquityContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:EquityContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CommodityContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:CommodityContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CommodityContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:InterestRateContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:ForeignExchangeContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CreditDerivativesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:EquityContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CommodityContractsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:InterestRateContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:InterestRateContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:InterestRateContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:ForeignExchangeContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:ForeignExchangeContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:ForeignExchangeContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CreditDerivativesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:CreditDerivativesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CreditDerivativesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:EquityContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:EquityContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:EquityContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CommodityContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:CommodityContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CommodityContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:InterestRateContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:ForeignExchangeContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CreditDerivativesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:EquityContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:CommodityContractsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:AssetsBackedSecurityMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:AssetsBackedSecurityMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:AssetsBackedSecurityMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CorporateAndOtherDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CorporateAndOtherDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CorporateAndOtherDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:AssetsBackedSecurityMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CorporateAndOtherDebtMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:AssetsBackedSecurityMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:AssetsBackedSecurityMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:AssetsBackedSecurityMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level1OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CorporateAndOtherDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ ifrs-full:Level2OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CorporateAndOtherDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CorporateAndOtherDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:AssetsBackedSecurityMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:RecurringFairValueMeasurementMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:CorporateAndOtherDebtMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:AtFairValueMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember 
+
+ ifrs-full:DebtSecuritiesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember 
+
+ ifrs-full:DebtSecuritiesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:DebtSecuritiesMember 
+
+ ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:DebtSecuritiesMember 
+
+ ifrs-full:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:ClassesOfFinancialAssetsDomain 
+
+ ifrs-full:DebtSecuritiesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:ClassesOfFinancialAssetsDomain 
+
+ ifrs-full:DebtSecuritiesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:InvestmentGradeMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NonInvestmentGradeMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:WatchAndClassifiedMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:InvestmentGradeMember 
+
+ td:StageOneMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NonInvestmentGradeMember 
+
+ td:StageOneMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:InvestmentGradeMember 
+
+ td:StageTwoMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NonInvestmentGradeMember 
+
+ td:StageTwoMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:WatchAndClassifiedMember 
+
+ td:StageTwoMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:InvestmentGradeMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NonInvestmentGradeMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:WatchAndClassifiedMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:InvestmentGradeMember 
+
+ td:StageOneMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NonInvestmentGradeMember 
+
+ td:StageOneMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:InvestmentGradeMember 
+
+ td:StageTwoMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NonInvestmentGradeMember 
+
+ td:StageTwoMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:WatchAndClassifiedMember 
+
+ td:StageTwoMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanTwoMonthsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanTwoMonthsAndNotLaterThanThreeMonthsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanTwoMonthsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanTwoMonthsAndNotLaterThanThreeMonthsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanTwoMonthsMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanTwoMonthsAndNotLaterThanThreeMonthsMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanTwoMonthsMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanTwoMonthsAndNotLaterThanThreeMonthsMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanTwoMonthsMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanTwoMonthsAndNotLaterThanThreeMonthsMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanTwoMonthsMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanTwoMonthsAndNotLaterThanThreeMonthsMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanTwoMonthsMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanTwoMonthsAndNotLaterThanThreeMonthsMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanTwoMonthsMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanTwoMonthsAndNotLaterThanThreeMonthsMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanTwoMonthsMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanTwoMonthsAndNotLaterThanThreeMonthsMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanTwoMonthsMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsPastDueButNotImpairedMember 
+
+ ifrs-full:LaterThanTwoMonthsAndNotLaterThanThreeMonthsMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageOneAndTwoMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneAndTwoMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:TwelvemonthExpectedCreditLossesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:TwelvemonthExpectedCreditLossesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:BaseForecastMember 
+
+ td:AverageMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:BaseForecastMember 
+
+ td:RemainingFourYearPeriodMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:UpsideScenarioMember 
+
+ td:AverageMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:UpsideScenarioMember 
+
+ td:RemainingFourYearPeriodMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:DownsideScenarioMember 
+
+ td:AverageMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:DownsideScenarioMember 
+
+ td:RemainingFourYearPeriodMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:BaseForecastMember 
+
+ td:AverageMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:BaseForecastMember 
+
+ td:RemainingFourYearPeriodMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:UpsideScenarioMember 
+
+ td:AverageMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:UpsideScenarioMember 
+
+ td:RemainingFourYearPeriodMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:DownsideScenarioMember 
+
+ td:AverageMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:DownsideScenarioMember 
+
+ td:RemainingFourYearPeriodMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BaseForecastMember 
+
+ td:AverageMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BaseForecastMember 
+
+ td:RemainingFourYearPeriodMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:UpsideScenarioMember 
+
+ td:AverageMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:UpsideScenarioMember 
+
+ td:RemainingFourYearPeriodMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DownsideScenarioMember 
+
+ td:AverageMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DownsideScenarioMember 
+
+ td:RemainingFourYearPeriodMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ td:TransferToStageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:ResidentialMortgagesMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:CreditCard1Member 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:BusinessesAndGovernmentMember 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:AllowanceForLoanLossesIncludingOffBalanceSheetInstrumentsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageOneMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageTwoMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:ResidentialMortgagesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesAtAmortizedCostMember 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesAtAmortizedCostMember 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesFvociMember 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesFvociMember 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesAtAmortizedCostMember 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesAtAmortizedCostMember 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesAtAmortizedCostMember 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesAtAmortizedCostMember 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesFvociMember 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesFvociMember 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesFvociMember 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesFvociMember 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:AllowanceForCreditLossesOnDebtSecuritiesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:AtAmortizedCostMember 
+
+ td:LoanMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:AtFvociMember 
+
+ td:LoanMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageOneMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageTwoMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LoanMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LoanMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:ConsumerInstalmentAndOtherPersonalMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:AtAmortizedCostMember 
+
+ td:LoanMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:AtFvociMember 
+
+ td:LoanMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:CreditCard1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageOneMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageTwoMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:CreditCard1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:InvestmentGradeOrLowNormalRiskMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:InvestmentGradeOrLowNormalRiskMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:NonInvestmentGradeOrMediumRiskMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:NonInvestmentGradeOrMediumRiskMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:WatchAndClassifiedOrHighRiskMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:WatchAndClassifiedOrHighRiskMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:WatchAndClassifiedOrHighRiskMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:AtAmortizedCostMember 
+
+ td:LoanMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:AtFvociMember 
+
+ td:LoanMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ td:BusinessAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LoanMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:AtAmortizedCostMember 
+
+ td:LoanMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:AtFvociMember 
+
+ td:LoanMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ td:InvestmentGradeOrLowNormalRiskMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ td:NonInvestmentGradeOrMediumRiskMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ td:WatchAndClassifiedOrHighRiskMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LoanMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:BusinessAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:InvestmentGradeOrLowNormalRiskMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:InvestmentGradeOrLowNormalRiskMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:NonInvestmentGradeOrMediumRiskMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:NonInvestmentGradeOrMediumRiskMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:WatchAndClassifiedOrHighRiskMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:WatchAndClassifiedOrHighRiskMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:BusinessAndGovernmentMember 
+
+ td:WatchAndClassifiedOrHighRiskMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ td:BusinessAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ td:InvestmentGradeOrLowNormalRiskMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ td:NonInvestmentGradeOrMediumRiskMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ td:WatchAndClassifiedOrHighRiskMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:BusinessAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:AllowanceForOffBalanceSheetInsturmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:AllowanceForOffBalanceSheetInsturmentsMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:AllowanceForOffBalanceSheetInsturmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:AllowanceForOffBalanceSheetInsturmentsMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ td:UndrawnComponentOfUncommittedCreditAndLiquidityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentAndResidentialMortgageMember 
+
+ td:WithNoAllowanceForLoanLossesMember 
+
+ td:ImpairedLoansMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageThreeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:StageThreeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NormalRiskMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:MediumRiskMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:InvestmentGradeMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:InvestmentGradeMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NonInvestmentGradeMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NonInvestmentGradeMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:WatchAndClassifiedMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:WatchAndClassifiedMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:WatchAndClassifiedMember 
+
+ td:StageThreeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:InvestmentGradeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NonInvestmentGradeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:WatchAndClassifiedMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:InvestmentGradeMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NonInvestmentGradeMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:WatchAndClassifiedMember 
+
+ td:StageOneMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:InvestmentGradeMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NonInvestmentGradeMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:WatchAndClassifiedMember 
+
+ td:StageTwoMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:WatchAndClassifiedMember 
+
+ td:StageThreeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:StageThreeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:InvestmentGradeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NonInvestmentGradeMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:WatchAndClassifiedMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DefaultMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ td:NonInvestmentGradeOrLowerRiskMember 
+
+ td:GuaranteedByGovernmentAgenciesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:SecuritiesMember 
+
+ td:NonTradingFinancialAssetsAtFairValueThroughProfitOrLossMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:NonTradingFinancialAssetsAtFairValueThroughProfitOrLossMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:InterestRateContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:ForeignExchangeContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquityContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:CommodityContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialLiabilitiesAtFairValueThroughProfitOrLossCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialLiabilitiesAtFairValueThroughProfitOrLossCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialLiabilitiesAtFairValueThroughProfitOrLossCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:InterestRateContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:InterestRateContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:ForeignExchangeContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:ForeignExchangeContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquityContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquityContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:CommodityContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:CommodityContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingDepositsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingDepositsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:SecuritiesMember 
+
+ td:NonTradingFinancialAssetsAtFairValueThroughProfitOrLossMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:SecuritiesMember 
+
+ td:NonTradingFinancialAssetsAtFairValueThroughProfitOrLossMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:NonTradingFinancialAssetsAtFairValueThroughProfitOrLossMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:NonTradingFinancialAssetsAtFairValueThroughProfitOrLossMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:NettedDerivativesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:SecuritiesMember 
+
+ td:NonTradingFinancialAssetsAtFairValueThroughProfitOrLossMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:NonTradingFinancialAssetsAtFairValueThroughProfitOrLossMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingDepositsMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:InterestRateContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:ForeignExchangeContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquityContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:CommodityContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialLiabilitiesAtFairValueThroughProfitOrLossCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialLiabilitiesAtFairValueThroughProfitOrLossCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialLiabilitiesAtFairValueThroughProfitOrLossCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:InterestRateContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:InterestRateContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:ForeignExchangeContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:ForeignExchangeContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquityContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquityContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:CommodityContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:CommodityContractsMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:DerivativeFinancialLiabilitiesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingDepositsMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingDepositsMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:SecuritiesMember 
+
+ td:NonTradingFinancialAssetsAtFairValueThroughProfitOrLossMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:SecuritiesMember 
+
+ td:NonTradingFinancialAssetsAtFairValueThroughProfitOrLossMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:NonTradingFinancialAssetsAtFairValueThroughProfitOrLossMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:NonTradingFinancialAssetsAtFairValueThroughProfitOrLossMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:OtherDebtSecurities1Member 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:EquitySecuritiesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeCategoryMember 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:PersonalDepositMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BankDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:PersonalBanksBusinessAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:TradingDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DepositsDesignatedAtFairValueThroughProfitOrLossMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:PersonalDepositMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:PersonalDepositMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:PersonalDepositMember 
+
+ td:InternationalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:BankDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:BankDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BankDepositsMember 
+
+ td:InternationalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:BusinessAndGovernmentDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:BusinessAndGovernmentDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentDepositsMember 
+
+ td:InternationalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:PersonalBanksBusinessAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:PersonalBanksBusinessAndGovernmentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:PersonalBanksBusinessAndGovernmentMember 
+
+ td:InternationalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:TradingDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:TradingDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:InternationalMember 
+
+ td:TradingDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:DepositsDesignatedAtFairValueThroughProfitOrLossMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:DepositsDesignatedAtFairValueThroughProfitOrLossMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:InternationalMember 
+
+ td:DepositsDesignatedAtFairValueThroughProfitOrLossMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:PersonalDepositMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:BankDepositsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentDepositsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:PersonalBanksBusinessAndGovernmentMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:TradingDepositsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DepositsDesignatedAtFairValueThroughProfitOrLossMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ country:CA 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:InternationalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:NonInterestBearingDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:NonInterestBearingDepositsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:NonInterestBearingDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:NonInterestBearingDepositsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:InternationalMember 
+
+ td:NonInterestBearingDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:InternationalMember 
+
+ td:NonInterestBearingDepositsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:InterestBearingDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:InterestBearingDepositsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:InterestBearingDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:InterestBearingDepositsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:InternationalMember 
+
+ td:InterestBearingDepositsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:InternationalMember 
+
+ td:InterestBearingDepositsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LoanCommitmentsAndFinancialGuaranteeMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ currency:USD 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ srt:OtherCurrencyMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:PrincipalPensionPlansMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:PrincipalPensionPlansMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:PrincipalPostRetirementBenefitPlanMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:PrincipalPostRetirementBenefitPlanMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:OtherPensionPlansMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OtherPensionPlansMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ td:EquitySecuritiesAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ td:EquitySecuritiesAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ td:EquitySecuritiesAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ td:EquitySecuritiesAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ td:EquitySecuritiesAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ td:EquitySecuritiesAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiabilityMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiabilityMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiabilityMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiabilityMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiabilityMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiabilityMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfCashFlowHedgesMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfCashFlowHedgesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfCashFlowHedgesMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfCashFlowHedgesMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfCashFlowHedgesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ ifrs-full:ReserveOfCashFlowHedgesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ td:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ td:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ td:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ td:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ td:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ td:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:AccumulatedOtherComprehensiveIncomeMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:StageOneMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageTwoMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:StageThreeMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:InterestRateRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:InterestRateRiskMember 
+
+ td:HighRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:InterestRateRiskMember 
+
+ td:LowRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:CreditRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:CreditRiskMember 
+
+ td:HighRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:CreditRiskMember 
+
+ td:LowRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:EquityPriceRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:EquityPriceRiskMember 
+
+ td:HighRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:EquityPriceRiskMember 
+
+ td:LowRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:CurrencyRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:CurrencyRiskMember 
+
+ td:HighRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:CurrencyRiskMember 
+
+ td:LowRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:CommodityPriceRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:CommodityPriceRiskMember 
+
+ td:HighRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:CommodityPriceRiskMember 
+
+ td:LowRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:IdiosyncraticDebtSpecificRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ td:IdiosyncraticDebtSpecificRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ td:IdiosyncraticDebtSpecificRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:RiskDiversificationEffect1Member 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HighRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LowRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:HundredBasisPointsIncreaseMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:HundredBasisPointsIncreaseMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:CA 
+
+ td:HundredBasisPointsDecreaseMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ country:US 
+
+ td:HundredBasisPointsDecreaseMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HundredBasisPointsIncreaseMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HundredBasisPointsDecreaseMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ currency:CAD 
+
+ td:CashAndCentralBankReservesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ currency:CAD 
+
+ td:EquitiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ currency:CAD 
+
+ td:OtherDebtSecurities1Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ currency:CAD 
+
+ td:OtherSecuritiesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ currency:CAD 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CashAndCentralBankReservesMember 
+
+ td:OtherThanCanadianDollarMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ObligationsOfGovernmentFederalAgenciesPublicSectorEntitiesAndMultilateralDevelopmentBanksMember 
+
+ td:OtherThanCanadianDollarMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:EquitiesMember 
+
+ td:OtherThanCanadianDollarMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OtherDebtSecurities1Member 
+
+ td:OtherThanCanadianDollarMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OtherSecuritiesMember 
+
+ td:OtherThanCanadianDollarMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OtherThanCanadianDollarMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:PersonalDepositMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NonPersonalMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:NettedDerivativesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CharlesSchwabCorporateMember 
+
+ 2025-02-12 
+
+ 2025-02-12 
+
+ 0000947263 
+
+ ifrs-full:ParentMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:SubsidiariesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ForeignBranchesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:InterestRateRiskMember 
+
+ td:AverageRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:CreditRiskMember 
+
+ td:AverageRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:EquityPriceRiskMember 
+
+ td:AverageRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:CurrencyRiskMember 
+
+ td:AverageRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:CommodityPriceRiskMember 
+
+ td:AverageRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:AverageRiskMember 
+
+ td:IdiosyncraticDebtSpecificRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:AverageRiskMember 
+
+ td:RiskDiversificationEffect1Member 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:AverageRiskMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanThreeMonthsAndNotLaterThanSixMonthsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LaterThanSixMonthsAndNotLaterThanNineMonthsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:LaterThanNineMonthsAndNotLaterThanOneYearMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneYearAndNotLaterThanTwoYearsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanTwoYearsAndNotLaterThanFiveYearsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanFiveYearsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:NotLaterThanOneMonthMember 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanThreeMonthsMember 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanThreeMonthsAndNotLaterThanSixMonthsMember 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ td:LaterThanSixMonthsAndNotLaterThanNineMonthsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ td:LaterThanNineMonthsAndNotLaterThanOneYearMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneYearAndNotLaterThanTwoYearsMember 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanTwoYearsAndNotLaterThanFiveYearsMember 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanFiveYearsMember 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ td:NoSpecificMaturityMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:NotLaterThanOneMonthMember 
+
+ td:OtherCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanThreeMonthsMember 
+
+ td:OtherCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanThreeMonthsAndNotLaterThanSixMonthsMember 
+
+ td:OtherCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:OtherCommitmentsMember 
+
+ td:LaterThanSixMonthsAndNotLaterThanNineMonthsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:OtherCommitmentsMember 
+
+ td:LaterThanNineMonthsAndNotLaterThanOneYearMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneYearAndNotLaterThanTwoYearsMember 
+
+ td:OtherCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanTwoYearsAndNotLaterThanFiveYearsMember 
+
+ td:OtherCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanFiveYearsMember 
+
+ td:OtherCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:OtherCommitmentsMember 
+
+ td:NoSpecificMaturityMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:NotLaterThanOneMonthMember 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanThreeMonthsMember 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanThreeMonthsAndNotLaterThanSixMonthsMember 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ td:LaterThanSixMonthsAndNotLaterThanNineMonthsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ td:LaterThanNineMonthsAndNotLaterThanOneYearMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneYearAndNotLaterThanTwoYearsMember 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanTwoYearsAndNotLaterThanFiveYearsMember 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanFiveYearsMember 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ td:NoSpecificMaturityMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:NotLaterThanOneMonthMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanThreeMonthsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:NoSpecificMaturityMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:OtherCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:NotLaterThanOneMonthMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanThreeMonthsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanThreeMonthsAndNotLaterThanSixMonthsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LaterThanSixMonthsAndNotLaterThanNineMonthsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LaterThanNineMonthsAndNotLaterThanOneYearMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneYearAndNotLaterThanTwoYearsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanTwoYearsAndNotLaterThanFiveYearsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanFiveYearsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NoSpecificMaturityMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentAndResidentialMortgageMember 
+
+ td:InsuredMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ td:CanadianGovernmentInsuredMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:PersonalLinesOfCreditAndCreditCardLinesCancellableAndBanksDiscretionMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:MediumTermNotes4859Member 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:MediumTermNotes4859Member 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:NettedDerivativesMember 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:NettedDerivativesMember 
+
+ 2024-10-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentDepositsMember 
+
+ td:CoveredBondholdersMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:UsFederalFundsDepositedMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DepositsAndAdvancesWithTheFederalHomeLoanBankMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember 
+
+ ifrs-full:RestructuringProvisionMember 
+
+ ifrs-full:DebtSecuritiesMember 
+
+ td:UsRetailMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesAtAmortizedCostMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesAtAmortizedCostMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesFvociMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DebtSecuritiesFvociMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentAndResidentialMortgageMember 
+
+ td:WithNoAllowanceForLoanLossesMember 
+
+ td:ImpairedLoansMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ td:CanadianGovernmentInsuredMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentAndResidentialMortgageMember 
+
+ td:InsuredMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentMember 
+
+ td:NonInvestmentGradeOrLowerRiskMember 
+
+ td:GuaranteedByGovernmentAgenciesMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:PersonalLinesOfCreditAndCreditCardLinesCancellableAndBanksDiscretionMember 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:RetailExposuresMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OffBalanceSheetCreditRisksMember 
+
+ td:NonRetailExposuresMember 
+
+ td:UndrawnComponentOfUncommittedCreditAndLiquidityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:NoDiscountMember 
+
+ td:DividendReinvestmentPlanMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:TopOfRangeMember 
+
+ td:Ncib2025Member 
+
+ 2025-02-24 
+
+ 0000947263 
+
+ td:Ncib2025Member 
+
+ 2025-03-03 
+
+ 2026-01-15 
+
+ 0000947263 
+
+ ifrs-full:TopOfRangeMember 
+
+ td:Ncib2026Member 
+
+ 2026-01-20 
+
+ 2026-01-20 
+
+ 0000947263 
+
+ ifrs-full:TopOfRangeMember 
+
+ td:Ncib2026Member 
+
+ 2026-01-16 
+
+ 0000947263 
+
+ td:Ncib2026Member 
+
+ 2026-01-20 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:TopOfRangeMember 
+
+ td:Ncib2026Member 
+
+ 2026-01-16 
+
+ 2026-01-16 
+
+ 0000947263 
+
+ td:StockOptionAwardsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CanadaRevenueAgencyReassessmentMember 
+
+ td:TwoThousandElevenToTwoThousandTwentytaxationYearsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:RevenuQuebecAgencyMember 
+
+ td:TwoThousandElevenToTwoThousandNineteenTaxationYearsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:AlbertaTaxAndRevenueAdministrationReassessmentMember 
+
+ td:TwoThousandElevenToTwoThousandNineteenTaxationYearsMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:TypesOfAntidilutiveInstrumentsDomain 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HundredBasisPointsIncreaseMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:HundredBasisPointsDecreaseMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:TypesOfAntidilutiveInstrumentsDomain 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ currency:CAD 
+
+ td:ObligationsOfGovernmentFederalAgenciesPublicSectorEntitiesAndMultilateralDevelopmentBanksMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OtherCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:NotLaterThanOneMonthMember 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanThreeMonthsMember 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanThreeMonthsAndNotLaterThanSixMonthsMember 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ td:LaterThanSixMonthsAndNotLaterThanNineMonthsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ td:LaterThanNineMonthsAndNotLaterThanOneYearMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneYearAndNotLaterThanTwoYearsMember 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanTwoYearsAndNotLaterThanFiveYearsMember 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanFiveYearsMember 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CreditAndLiquidityCommitmentsMember 
+
+ td:NoSpecificMaturityMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:NotLaterThanOneMonthMember 
+
+ td:OtherCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanThreeMonthsMember 
+
+ td:OtherCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanThreeMonthsAndNotLaterThanSixMonthsMember 
+
+ td:OtherCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OtherCommitmentsMember 
+
+ td:LaterThanSixMonthsAndNotLaterThanNineMonthsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OtherCommitmentsMember 
+
+ td:LaterThanNineMonthsAndNotLaterThanOneYearMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneYearAndNotLaterThanTwoYearsMember 
+
+ td:OtherCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanTwoYearsAndNotLaterThanFiveYearsMember 
+
+ td:OtherCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanFiveYearsMember 
+
+ td:OtherCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OtherCommitmentsMember 
+
+ td:NoSpecificMaturityMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:NotLaterThanOneMonthMember 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneMonthAndNotLaterThanThreeMonthsMember 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanThreeMonthsAndNotLaterThanSixMonthsMember 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ td:LaterThanSixMonthsAndNotLaterThanNineMonthsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ td:LaterThanNineMonthsAndNotLaterThanOneYearMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanOneYearAndNotLaterThanTwoYearsMember 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanTwoYearsAndNotLaterThanFiveYearsMember 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:LaterThanFiveYearsMember 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:UnconsolidatedStructuredEntityCommitmentsMember 
+
+ td:NoSpecificMaturityMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ srt:RestatementAdjustmentMember 
+
+ td:UsRetailMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ srt:RestatementAdjustmentMember 
+
+ td:CorporateMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ srt:RestatementAdjustmentMember 
+
+ td:UsRetailMember 
+
+ 2025-08-01 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ srt:RestatementAdjustmentMember 
+
+ td:CorporateMember 
+
+ 2025-08-01 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ srt:RestatementAdjustmentMember 
+
+ td:UsRetailMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ srt:RestatementAdjustmentMember 
+
+ td:CorporateMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:FinancialAssetsAtFairValueThroughOtherComprehensiveIncomeMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:ObligationsRelatedToSecuritiesSoldShortMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingLoansMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingLoansMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:Level3OfFairValueHierarchyMember 
+
+ td:TradingLoansMember 
+
+ td:TradingLoansSecuritiesAndOtherMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:CharlesSchwabCorporateMember 
+
+ 2024-11-01 
+
+ 2025-01-31 
+
+ 0000947263 
+
+ ifrs-full:BottomOfRangeMember 
+
+ td:TwoThousandTwentyThreeSchwabIdaAgreementMember 
+
+ td:CharlesSchwabCorporateMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:BusinessAndGovernmentDepositsMember 
+
+ td:CoveredBondholdersMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:LoanCommitmentsAndFinancialGuaranteeMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:UsFederalFundsDepositedMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DepositsAndAdvancesWithTheFederalHomeLoanBankMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ currency:USD 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ srt:OtherCurrencyMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:BottomOfRangeMember 
+
+ td:LegalAndRegulatoryMattersMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:TopOfRangeMember 
+
+ td:LegalAndRegulatoryMattersMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ ifrs-full:BottomOfRangeMember 
+
+ td:LegalAndRegulatoryMattersMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ ifrs-full:TopOfRangeMember 
+
+ td:LegalAndRegulatoryMattersMember 
+
+ 2025-10-31 
+
+ 0000947263 
+
+ td:DepartmentOfJusticeCriminalDivisionMoneyLaunderingAndAssetRecoverySectionAndTheUnitedStatesAttorneysOfficeForTheDistrictOfNewJerseyMember 
+
+ 2025-11-01 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:DepartmentOfJusticeCriminalDivisionMoneyLaunderingAndAssetRecoverySectionAndTheUnitedStatesAttorneysOfficeForTheDistrictOfNewJerseyMember 
+
+ 2026-01-31 
+
+ 0000947263 
+
+ td:OrdinaryShareTransactionsMember 
+
+ 2026-02-25 
+
+ 2026-02-25 
+
+ iso4217:CAD 
+
+ iso4217:USD 
+
+ xbrli:pure 
+
+ xbrli:shares 
+
+ iso4217:CAD 
+
+ xbrli:shares 
+
+ iso4217:USD 
+
+ xbrli:shares 
+
+ FORM 
+ 6-K 
+ UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, 
+D.C. 20549 
+ ______________________________ 
+ ______________________________ 
+ REPORT OF FOREIGN PRIVATE 
+ISSUER
+ Pursuant to Rule 13a-16 or 15d-16 of 
+ the Securities Exchange Act of 1934
+ For the month of February, 
+ 2026 
+ Commission File Number: 
+
+ 001-14446 
+ ______________________________ 
+ The Toronto-Dominion Bank
+ (Translation of registrant's name into English) 
+ ______________________________ 
+ c/o General Counsel&#8217;s Office 
+ P.O. Box 1 
+ , 
+ Toronto Dominion Centre 
+ , 
+ Toronto 
+ , 
+ Ontario 
+ , 
+ M5K 1A2 
+ (Address of principal executive offices) 
+ Indicate by check mark whether the registrant 
+files or will file annual reports under cover 
+of Form 20-F or Form 40-F: 
+ Form 20-F 
+ &#9744;
+
+Form 40-F 
+ &#9745;
+ This Form 6-K, excluding Exhibit 99.4, Exhibit 
+99.5 and Exhibit 99.6 hereto, is incorporated by 
+reference into all outstanding Registration Statements 
+of The Toronto-
+ Dominion Bank filed with the U.S. Securities 
+and Exchange Commission. 
+
+ EXHIBIT INDEX 
+ Exhibit 
+ Description 
+ 99.1 
+ 1 
+ st 
+ Quarter 2026 Report to Shareholders 
+ 99.2 
+ Earnings Coverage 
+ 99.3 
+ Return on Assets and Equity to Assets Ratio 
+ 99.4 
+ Q1 2026 Earnings News Release 
+ 99.5 
+ Q1 2026 Dividend News Release 
+ 99.6 
+ CEO and CFO Certificates 
+ 101 
+ Interactive Data File (formatted as Inline 
+XBRL) 
+
+ 104 
+ Cover Page Interactive Data File (formatted 
+as Inline XBRL and contained in Exhibit 
+101) 
+
+ FORM 6-K
+ SIGNATURES
+ Pursuant to the requirements of the Securities 
+Exchange Act of 1934, the registrant 
+has duly caused this report to be signed on 
+its behalf by the undersigned, thereunto 
+duly 
+ authorized. 
+ THE TORONTO-DOMINION BANK 
+ DATE: 
+February 26, 2026 
+ By: 
+ /s/ Sue-Anne Fox
+ Name: 
+ Sue-Anne Fox 
+ Title: 
+ Associate Vice President, Legal, 
+Treasury and 
+
+ Corporate Securities

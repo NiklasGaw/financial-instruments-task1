@@ -1,0 +1,191 @@
+{
+  "company": "Johnson & Johnson",
+  "ticker": "JNJ",
+  "report_date": "2024-06-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Innovative Medicine",
+      "revenue": 28.1,
+      "operating_income": 10.4,
+      "yoy_growth_pct": 5.5,
+      "sub_segments": [
+        {
+          "name": "Immunology",
+          "revenue": 7.2,
+          "yoy_growth_pct": 7.2
+        },
+        {
+          "name": "STELARA",
+          "revenue": 4.0,
+          "yoy_growth_pct": 1.0
+        },
+        {
+          "name": "TREMFYA",
+          "revenue": 1.4,
+          "yoy_growth_pct": 24.0
+        },
+        {
+          "name": "SIMPONI / SIMPONI ARIA",
+          "revenue": 0.9,
+          "yoy_growth_pct": 1.1
+        },
+        {
+          "name": "Other Immunology",
+          "revenue": 0.9,
+          "yoy_growth_pct": 1.1
+        },
+        {
+          "name": "Infectious Diseases",
+          "revenue": 1.0,
+          "yoy_growth_pct": -13.9
+        },
+        {
+          "name": "EDURANT / rilpivirine",
+          "revenue": 0.6,
+          "yoy_growth_pct": 13.4
+        },
+        {
+          "name": "PREZISTA / PREZCOBIX / REZOLSTA / SYMTUZA",
+          "revenue": 0.9,
+          "yoy_growth_pct": -11.6
+        },
+        {
+          "name": "Other Infectious Diseases",
+          "revenue": 0.1,
+          "yoy_growth_pct": -29.3
+        },
+        {
+          "name": "Neuroscience",
+          "revenue": 3.6,
+          "yoy_growth_pct": -0.3
+        },
+        {
+          "name": "CONCERTA / methylphenidate",
+          "revenue": 0.3,
+          "yoy_growth_pct": -17.8
+        },
+        {
+          "name": "INVEGA SUSTENNA / XEPLION / INVEGA TRINZA / TREVICTA",
+          "revenue": 2.1,
+          "yoy_growth_pct": 1.7
+        },
+        {
+          "name": "SPRAVATO",
+          "revenue": 0.5,
+          "yoy_growth_pct": 65.5
+        },
+        {
+          "name": "Other Neuroscience",
+          "revenue": 0.6,
+          "yoy_growth_pct": -21.0
+        },
+        {
+          "name": "Oncology",
+          "revenue": 9.9,
+          "yoy_growth_pct": 16.4
+        },
+        {
+          "name": "CARVYKTI",
+          "revenue": 0.3,
+          "yoy_growth_pct": 81.5
+        },
+        {
+          "name": "DARZALEX",
+          "revenue": 5.6,
+          "yoy_growth_pct": 18.6
+        },
+        {
+          "name": "ERLEADA",
+          "revenue": 1.4,
+          "yoy_growth_pct": 28.4
+        },
+        {
+          "name": "IMBRUVICA",
+          "revenue": 1.6,
+          "yoy_growth_pct": -6.9
+        },
+        {
+          "name": "TECVAYLI",
+          "revenue": 0.3,
+          "yoy_growth_pct": 70.2
+        },
+        {
+          "name": "ZYTIGA / abiraterone acetate",
+          "revenue": 0.3,
+          "yoy_growth_pct": -26.8
+        },
+        {
+          "name": "Other Oncology",
+          "revenue": 0.4,
+          "yoy_growth_pct": 82.4
+        },
+        {
+          "name": "Pulmonary Hypertension",
+          "revenue": 2.1,
+          "yoy_growth_pct": 13.2
+        },
+        {
+          "name": "OPSUMIT",
+          "revenue": 1.1,
+          "yoy_growth_pct": 12.7
+        },
+        {
+          "name": "UPTRAVI",
+          "revenue": 0.9,
+          "yoy_growth_pct": 17.4
+        },
+        {
+          "name": "Other Pulmonary Hypertension",
+          "revenue": 0.1,
+          "yoy_growth_pct": -6.5
+        },
+        {
+          "name": "Cardiovascular / Metabolism / Other",
+          "revenue": 1.7,
+          "yoy_growth_pct": -8.3
+        },
+        {
+          "name": "XARELTO",
+          "revenue": 1.1,
+          "yoy_growth_pct": -9.1
+        },
+        {
+          "name": "Other Cardiovascular / Metabolism / Other",
+          "revenue": 0.6,
+          "yoy_growth_pct": -7.0
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 22.4,
+    "total_revenue_yoy_pct": -12.1,
+    "cost_of_revenue": 6.9,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 15.6,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 5.7
+    },
+    "total_operating_expenses": 5.7,
+    "operating_income": 9.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -4.1,
+    "income_before_tax": 5.7,
+    "tax_expense": 1.1,
+    "net_income": 4.7,
+    "net_income_yoy_pct": -8.9
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

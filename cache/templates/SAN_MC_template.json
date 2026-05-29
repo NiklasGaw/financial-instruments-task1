@@ -1,0 +1,73 @@
+{
+  "ticker": "SAN.MC",
+  "source": "cache: 20-F 2023-12-31",
+  "segments": [
+    {
+      "name": "Portugal",
+      "sub_segments": [
+        "Net interest income",
+        "Net fee income",
+        "Other Portugal"
+      ]
+    },
+    {
+      "name": "Retail & Commercial Banking",
+      "sub_segments": [
+        "Net interest income",
+        "Net fee income"
+      ]
+    },
+    {
+      "name": "Digital Consumer Bank",
+      "sub_segments": [
+        "Net interest income",
+        "Net fee income",
+        "Other Digital Consumer Bank",
+        "Gains (losses) on financial transactions",
+        "Other operating income"
+      ]
+    },
+    {
+      "name": "Corporate & Investment Banking",
+      "sub_segments": [
+        "Net interest income",
+        "Net fee income",
+        "Other Corporate & Investment Banking"
+      ]
+    },
+    {
+      "name": "Wealth Management & Insurance",
+      "sub_segments": [
+        "Net interest income",
+        "Net fee income",
+        "Other Wealth Management & Insurance"
+      ]
+    },
+    {
+      "name": "Payments",
+      "sub_segments": [
+        "Net interest income",
+        "Net fee income"
+      ]
+    },
+    {
+      "name": "PagoNxt",
+      "sub_segments": [
+        "Net interest income",
+        "Net fee income",
+        "Other PagoNxt"
+      ]
+    },
+    {
+      "name": "Cards",
+      "sub_segments": [
+        "Net interest income",
+        "Net fee income"
+      ]
+    },
+    {
+      "name": "Corporate Centre",
+      "sub_segments": []
+    }
+  ]
+}

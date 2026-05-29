@@ -1,0 +1,2309 @@
+[
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2025-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 48.2,
+        "operating_income": null,
+        "yoy_growth_pct": 44.0,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 22.9,
+            "yoy_growth_pct": 77.6
+          },
+          {
+            "name": "Zepbound",
+            "revenue": 13.5,
+            "yoy_growth_pct": 165.3
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 4.3,
+            "yoy_growth_pct": -30.0
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 3.4,
+            "yoy_growth_pct": 2.7
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 4.0,
+            "yoy_growth_pct": -13.0
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 9.4,
+        "operating_income": null,
+        "yoy_growth_pct": 6.2,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 5.7,
+            "yoy_growth_pct": 1.3
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 3.7,
+            "yoy_growth_pct": 13.6
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 5.2,
+        "operating_income": null,
+        "yoy_growth_pct": 11.5,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 3.6,
+            "yoy_growth_pct": 5.1
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 1.7,
+            "yoy_growth_pct": 69.4
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 1.4,
+        "operating_income": null,
+        "yoy_growth_pct": 37.5,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.9,
+        "operating_income": null,
+        "yoy_growth_pct": 8.4,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 65.2,
+      "total_revenue_yoy_pct": 44.7,
+      "cost_of_revenue": 11.1,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 54.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 11.1
+      },
+      "total_operating_expenses": 11.1,
+      "operating_income": 43.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -17.3,
+      "income_before_tax": 25.7,
+      "tax_expense": 5.1,
+      "net_income": 20.6,
+      "net_income_yoy_pct": 94.9
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2024-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 29.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 11.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 5.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Zepbound",
+            "revenue": 4.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 3.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Humalog",
+            "revenue": 2.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Humulin",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Basaglar",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Baqsimi",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 8.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 5.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Cyramza",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Erbitux",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Tyvyt",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 1.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 4.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 3.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Olumiant",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 1.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Emgality",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Zyprexa",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other neuroscience",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other",
+        "revenue": 0.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "COVID-19 antibodies",
+            "revenue": 0.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 45.0,
+      "total_revenue_yoy_pct": 32.0,
+      "cost_of_revenue": 8.4,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 36.6,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 8.6
+      },
+      "total_operating_expenses": 8.6,
+      "operating_income": 28.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -15.3,
+      "income_before_tax": 12.7,
+      "tax_expense": 2.1,
+      "net_income": 10.6,
+      "net_income_yoy_pct": 102.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2023-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Diabetes and obesity",
+        "revenue": 19.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Trulicity",
+            "revenue": 7.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Mounjaro",
+            "revenue": 5.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 2.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Humalog",
+            "revenue": 1.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Humulin",
+            "revenue": 0.8,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Basaglar",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Baqsimi",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Zepbound",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other diabetes and obesity",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 6.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 3.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Cyramza",
+            "revenue": 1.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Erbitux",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Tyvyt",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alimta",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 3.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 2.8,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Olumiant",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 2.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Emgality",
+            "revenue": 1.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Cymbalta",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Zyprexa",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other neuroscience",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other pharmaceuticals",
+        "revenue": 1.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Collaboration and other revenue",
+        "revenue": 0.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 34.1,
+      "total_revenue_yoy_pct": 19.6,
+      "cost_of_revenue": 7.1,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 27.0,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 7.4
+      },
+      "total_operating_expenses": 7.4,
+      "operating_income": 19.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -13.1,
+      "income_before_tax": 6.6,
+      "tax_expense": 1.3,
+      "net_income": 5.2,
+      "net_income_yoy_pct": -16.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2026-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 15.8,
+        "operating_income": null,
+        "yoy_growth_pct": 71.2,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 8.7,
+            "yoy_growth_pct": 125.6
+          },
+          {
+            "name": "Zepbound",
+            "revenue": 4.2,
+            "yoy_growth_pct": 79.9
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 1.1,
+            "yoy_growth_pct": 9.9
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 0.9,
+            "yoy_growth_pct": -16.1
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 0.9,
+            "yoy_growth_pct": -4.2
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 2.3,
+        "operating_income": null,
+        "yoy_growth_pct": 16.4,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 1.3,
+            "yoy_growth_pct": 12.3
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 1.0,
+            "yoy_growth_pct": 22.4
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 1.2,
+        "operating_income": null,
+        "yoy_growth_pct": 10.6,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 0.7,
+            "yoy_growth_pct": -3.8
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.5,
+            "yoy_growth_pct": 44.2
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 0.4,
+        "operating_income": null,
+        "yoy_growth_pct": 40.4,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.2,
+        "operating_income": null,
+        "yoy_growth_pct": -12.2,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 19.8,
+      "total_revenue_yoy_pct": 55.5,
+      "cost_of_revenue": 3.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 16.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.9
+      },
+      "total_operating_expenses": 2.9,
+      "operating_income": 13.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -4.4,
+      "income_before_tax": 8.8,
+      "tax_expense": 1.5,
+      "net_income": 7.4,
+      "net_income_yoy_pct": 168.0
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2025-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 13.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 6.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Zepbound",
+            "revenue": 3.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 1.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 1.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 1.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 2.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 1.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 1.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 0.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 17.6,
+      "total_revenue_yoy_pct": 53.9,
+      "cost_of_revenue": 3.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 14.6,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.7
+      },
+      "total_operating_expenses": 2.7,
+      "operating_income": 11.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -4.7,
+      "income_before_tax": 7.2,
+      "tax_expense": 1.6,
+      "net_income": 5.6,
+      "net_income_yoy_pct": 475.3
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2025-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 11.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 5.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Zepbound",
+            "revenue": 3.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 1.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 1.0,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 2.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 1.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 1.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 0.8,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Immunology",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 0.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.6,
+      "total_revenue_yoy_pct": 37.6,
+      "cost_of_revenue": 2.4,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 13.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.8
+      },
+      "total_operating_expenses": 2.8,
+      "operating_income": 10.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -3.6,
+      "income_before_tax": 6.8,
+      "tax_expense": 1.1,
+      "net_income": 5.7,
+      "net_income_yoy_pct": 90.8
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2025-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 9.2,
+        "operating_income": null,
+        "yoy_growth_pct": 67.6,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 3.8,
+            "yoy_growth_pct": 112.6
+          },
+          {
+            "name": "Zepbound",
+            "revenue": 2.3,
+            "yoy_growth_pct": 346.6
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 1.1,
+            "yoy_growth_pct": -24.8
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 1.0,
+            "yoy_growth_pct": 47.7
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 0.9,
+            "yoy_growth_pct": -8.0
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.9,
+        "operating_income": null,
+        "yoy_growth_pct": 7.6,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 1.2,
+            "yoy_growth_pct": 10.4
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 0.8,
+            "yoy_growth_pct": 3.8
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 1.1,
+        "operating_income": null,
+        "yoy_growth_pct": 30.5,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 0.8,
+            "yoy_growth_pct": 26.1
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.3,
+            "yoy_growth_pct": 41.9
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 0.3,
+        "operating_income": null,
+        "yoy_growth_pct": -30.1,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.2,
+        "operating_income": null,
+        "yoy_growth_pct": -11.9,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 12.7,
+      "total_revenue_yoy_pct": 45.2,
+      "cost_of_revenue": 2.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 10.5,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.5
+      },
+      "total_operating_expenses": 2.5,
+      "operating_income": 8.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -4.5,
+      "income_before_tax": 3.5,
+      "tax_expense": 0.7,
+      "net_income": 2.8,
+      "net_income_yoy_pct": 23.0
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2024-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 7.4,
+        "operating_income": null,
+        "yoy_growth_pct": 56.9,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 3.1,
+            "yoy_growth_pct": 120.9
+          },
+          {
+            "name": "Zepbound",
+            "revenue": 1.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 1.3,
+            "yoy_growth_pct": -22.2
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 0.7,
+            "yoy_growth_pct": -2.1
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 0.1,
+            "yoy_growth_pct": -6.9
+          },
+          {
+            "name": "Other Cardiometabolic Health",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 2.2,
+        "operating_income": null,
+        "yoy_growth_pct": 27.7,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 1.4,
+            "yoy_growth_pct": 31.6
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 0.8,
+            "yoy_growth_pct": 20.0
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 1.2,
+        "operating_income": null,
+        "yoy_growth_pct": 20.1,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 0.9,
+            "yoy_growth_pct": 18.2
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 0.4,
+        "operating_income": null,
+        "yoy_growth_pct": -80.1,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.3,
+        "operating_income": null,
+        "yoy_growth_pct": -4.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 11.4,
+      "total_revenue_yoy_pct": 20.4,
+      "cost_of_revenue": 2.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 9.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.1
+      },
+      "total_operating_expenses": 2.1,
+      "operating_income": 7.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -5.5,
+      "income_before_tax": 1.6,
+      "tax_expense": 0.6,
+      "net_income": 1.0,
+      "net_income_yoy_pct": -1790.4
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2024-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 7.5,
+        "operating_income": null,
+        "yoy_growth_pct": 50.0,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 3.1,
+            "yoy_growth_pct": 215.5
+          },
+          {
+            "name": "Zepbound",
+            "revenue": 1.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 1.2,
+            "yoy_growth_pct": -31.3
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 0.8,
+            "yoy_growth_pct": 15.2
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 0.1,
+            "yoy_growth_pct": -14.3
+          },
+          {
+            "name": "Other Cardiometabolic Health",
+            "revenue": 1.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 2.2,
+        "operating_income": null,
+        "yoy_growth_pct": 29.2,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 1.3,
+            "yoy_growth_pct": 43.7
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 0.8,
+            "yoy_growth_pct": 37.8
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 1.1,
+        "operating_income": null,
+        "yoy_growth_pct": 16.6,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 0.8,
+            "yoy_growth_pct": 17.2
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.0,
+            "yoy_growth_pct": 421.1
+          },
+          {
+            "name": "Other Immunology",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 0.3,
+        "operating_income": null,
+        "yoy_growth_pct": -12.3,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.2,
+        "operating_income": null,
+        "yoy_growth_pct": -34.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 11.3,
+      "total_revenue_yoy_pct": 36.0,
+      "cost_of_revenue": 2.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 9.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.1
+      },
+      "total_operating_expenses": 2.1,
+      "operating_income": 7.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -3.4,
+      "income_before_tax": 3.5,
+      "tax_expense": 0.6,
+      "net_income": 3.0,
+      "net_income_yoy_pct": 68.3
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2024-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 6.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 1.8,
+            "yoy_growth_pct": 217.8
+          },
+          {
+            "name": "Zepbound",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 1.5,
+            "yoy_growth_pct": -26.3
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 0.7,
+            "yoy_growth_pct": 18.9
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 1.8,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.8,
+        "operating_income": null,
+        "yoy_growth_pct": 33.5,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 1.1,
+            "yoy_growth_pct": 39.9
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 0.8,
+        "operating_income": null,
+        "yoy_growth_pct": 7.2,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 0.6,
+            "yoy_growth_pct": 14.6
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 0.4,
+        "operating_income": null,
+        "yoy_growth_pct": 7.9,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.2,
+        "operating_income": null,
+        "yoy_growth_pct": -12.1,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 8.8,
+      "total_revenue_yoy_pct": 26.0,
+      "cost_of_revenue": 1.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 7.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.0
+      },
+      "total_operating_expenses": 2.0,
+      "operating_income": 5.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -2.6,
+      "income_before_tax": 2.5,
+      "tax_expense": 0.3,
+      "net_income": 2.2,
+      "net_income_yoy_pct": 66.8
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2023-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 7.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 1.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Zepbound",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 1.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 3.5,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 1.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 1.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Other",
+        "revenue": 0.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 9.5,
+      "total_revenue_yoy_pct": 36.8,
+      "cost_of_revenue": 1.9,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 7.6,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 1.8
+      },
+      "total_operating_expenses": 1.8,
+      "operating_income": 5.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -5.4,
+      "income_before_tax": 0.4,
+      "tax_expense": 0.5,
+      "net_income": -0.1,
+      "net_income_yoy_pct": -104.0
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2023-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 5.0,
+        "operating_income": null,
+        "yoy_growth_pct": 45.7,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 1.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Zepbound",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 1.8,
+            "yoy_growth_pct": -5.2
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 0.7,
+            "yoy_growth_pct": 44.9
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 1.5,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.7,
+        "operating_income": null,
+        "yoy_growth_pct": 22.1,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 0.9,
+            "yoy_growth_pct": 57.5
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 0.8,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 0.9,
+        "operating_income": null,
+        "yoy_growth_pct": 16.6,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 0.7,
+            "yoy_growth_pct": 16.1
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 0.4,
+        "operating_income": null,
+        "yoy_growth_pct": -0.7,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.3,
+        "operating_income": null,
+        "yoy_growth_pct": -36.4,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 8.3,
+      "total_revenue_yoy_pct": 28.1,
+      "cost_of_revenue": 1.8,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 6.5,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 2.4,
+        "selling_general_administrative": 1.9
+      },
+      "total_operating_expenses": 4.3,
+      "operating_income": 2.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.1,
+      "income_before_tax": 2.1,
+      "tax_expense": 0.3,
+      "net_income": 1.8,
+      "net_income_yoy_pct": 85.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2023-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 4.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Zepbound",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 2.0,
+            "yoy_growth_pct": 13.5
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 0.6,
+            "yoy_growth_pct": 37.7
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 1.6,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.4,
+        "operating_income": null,
+        "yoy_growth_pct": 0.2,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 0.8,
+            "yoy_growth_pct": 60.0
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 0.8,
+        "yoy_growth_pct": 4.0,
+        "operating_income": null,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 0.5,
+            "yoy_growth_pct": 8.0
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 0.4,
+        "operating_income": null,
+        "yoy_growth_pct": -9.3,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.6,
+        "operating_income": null,
+        "yoy_growth_pct": -85.7,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 7.0,
+      "total_revenue_yoy_pct": -10.9,
+      "cost_of_revenue": 1.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 5.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 2.0,
+        "selling_general_administrative": 1.7
+      },
+      "total_operating_expenses": 3.7,
+      "operating_income": 1.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.2,
+      "income_before_tax": 1.5,
+      "tax_expense": 0.2,
+      "net_income": 1.3,
+      "net_income_yoy_pct": -29.3
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 80
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2022-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 4.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Zepbound",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 1.9,
+            "yoy_growth_pct": 15.6
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 0.6,
+            "yoy_growth_pct": 46.8
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 1.8,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 0.6,
+            "yoy_growth_pct": 84.1
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 0.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 0.7,
+            "yoy_growth_pct": 14.6
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 0.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 6.9,
+      "total_revenue_yoy_pct": 2.5,
+      "cost_of_revenue": 1.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 5.3,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.8,
+        "selling_general_administrative": 1.6
+      },
+      "total_operating_expenses": 3.4,
+      "operating_income": 1.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.3,
+      "income_before_tax": 1.6,
+      "tax_expense": 0.1,
+      "net_income": 1.5,
+      "net_income_yoy_pct": 30.8
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 80
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2022-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 3.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Zepbound",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 1.9,
+            "yoy_growth_pct": 24.5
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 0.5,
+            "yoy_growth_pct": 29.3
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 1.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 0.6,
+            "yoy_growth_pct": 72.4
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 0.8,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 0.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 0.6,
+            "yoy_growth_pct": 6.5
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 0.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 6.5,
+      "total_revenue_yoy_pct": -3.7,
+      "cost_of_revenue": 1.4,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 5.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.8,
+        "selling_general_administrative": 1.6
+      },
+      "total_operating_expenses": 3.4,
+      "operating_income": 1.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.6,
+      "income_before_tax": 1.1,
+      "tax_expense": 0.1,
+      "net_income": 1.0,
+      "net_income_yoy_pct": -31.5
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2025-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 14.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 7.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Zepbound",
+            "revenue": 4.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 1.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": 1.0,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 2.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 1.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other oncology",
+            "revenue": 1.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 1.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 1.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other immunology",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 0.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 19.3,
+      "cost_of_revenue": 3.5,
+      "gross_profit": 15.8,
+      "total_operating_expenses": 3.1,
+      "operating_income": 12.7,
+      "other_income_expense": -4.5,
+      "income_before_tax": 8.2,
+      "tax_expense": 1.7,
+      "net_income": 6.5,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.1
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 100,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2024-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cardiometabolic Health",
+        "revenue": 8.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Mounjaro",
+            "revenue": 3.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Trulicity",
+            "revenue": 1.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Zepbound",
+            "revenue": 1.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Jardiance",
+            "revenue": 1.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other cardiometabolic health",
+            "revenue": -1.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Cardiometabolic Health",
+            "revenue": 2.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "revenue": 2.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 1.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other oncology",
+            "revenue": -1.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 2.0,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 1.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 1.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other immunology",
+            "revenue": -0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Immunology",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Neuroscience",
+        "revenue": 0.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 0.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 13.5,
+      "cost_of_revenue": 2.3,
+      "gross_profit": 11.2,
+      "total_operating_expenses": 2.4,
+      "operating_income": 8.8,
+      "other_income_expense": -3.8,
+      "income_before_tax": 5.1,
+      "tax_expense": 0.6,
+      "net_income": 4.4,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.4
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 100,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  },
+  {
+    "company": "Eli Lilly and Company",
+    "ticker": "LLY",
+    "report_date": "2023-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Oncology",
+        "revenue": 1.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Verzenio",
+            "revenue": 1.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other oncology",
+            "revenue": -1.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Oncology",
+            "revenue": 2.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Immunology",
+        "revenue": 0.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Taltz",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 9.3,
+      "cost_of_revenue": 1.8,
+      "gross_profit": 7.5,
+      "total_operating_expenses": -2.4,
+      "operating_income": 9.9,
+      "other_income_expense": -7.4,
+      "income_before_tax": 2.6,
+      "tax_expense": 0.3,
+      "net_income": 2.2,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.0
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 80,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  }
+]

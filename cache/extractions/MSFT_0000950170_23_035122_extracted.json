@@ -1,0 +1,147 @@
+{
+  "company": "Microsoft Corp",
+  "ticker": "MSFT",
+  "report_date": "2023-06-30",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Productivity and Business Processes",
+      "revenue": 69.3,
+      "operating_income": 34.2,
+      "yoy_growth_pct": 9.0,
+      "sub_segments": [
+        {
+          "name": "Office Commercial products and cloud services",
+          "revenue": 40.7,
+          "yoy_growth_pct": 10.0
+        },
+        {
+          "name": "Office 365 Commercial",
+          "revenue": null,
+          "yoy_growth_pct": 13.0
+        },
+        {
+          "name": "Office Consumer products and cloud services",
+          "revenue": 7.1,
+          "yoy_growth_pct": 2.0
+        },
+        {
+          "name": "LinkedIn",
+          "revenue": 14.3,
+          "yoy_growth_pct": 10.0
+        },
+        {
+          "name": "Dynamics products and cloud services",
+          "revenue": 5.5,
+          "yoy_growth_pct": 16.0
+        },
+        {
+          "name": "Dynamics 365",
+          "revenue": null,
+          "yoy_growth_pct": 24.0
+        },
+        {
+          "name": "Other Productivity and Business Processes",
+          "revenue": 1.7,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Intelligent Cloud",
+      "revenue": 87.9,
+      "operating_income": 37.9,
+      "yoy_growth_pct": 17.0,
+      "sub_segments": [
+        {
+          "name": "Server products and cloud services",
+          "revenue": 79.3,
+          "yoy_growth_pct": 19.0
+        },
+        {
+          "name": "Azure and other cloud services",
+          "revenue": null,
+          "yoy_growth_pct": 29.0
+        },
+        {
+          "name": "Server products",
+          "revenue": null,
+          "yoy_growth_pct": -1.0
+        },
+        {
+          "name": "Enterprise Services",
+          "revenue": 8.1,
+          "yoy_growth_pct": 4.0
+        }
+      ]
+    },
+    {
+      "name": "More Personal Computing",
+      "revenue": 54.7,
+      "operating_income": 16.5,
+      "yoy_growth_pct": -9.0,
+      "sub_segments": [
+        {
+          "name": "Windows",
+          "revenue": 21.3,
+          "yoy_growth_pct": -13.0
+        },
+        {
+          "name": "Windows OEM",
+          "revenue": null,
+          "yoy_growth_pct": -25.0
+        },
+        {
+          "name": "Devices",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Xbox",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Search advertising",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other More Personal Computing",
+          "revenue": 33.4,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 211.9,
+    "total_revenue_yoy_pct": 6.9,
+    "cost_of_revenue": 65.9,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 146.1,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 27.2,
+      "selling_general_administrative": 30.3
+    },
+    "total_operating_expenses": 57.5,
+    "operating_income": 88.5,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.8,
+    "income_before_tax": 89.3,
+    "tax_expense": 16.9,
+    "net_income": 72.4,
+    "net_income_yoy_pct": -0.5
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

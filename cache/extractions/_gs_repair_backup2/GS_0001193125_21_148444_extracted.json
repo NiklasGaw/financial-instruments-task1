@@ -1,0 +1,118 @@
+{
+  "company": "Goldman Sachs Group Inc.",
+  "ticker": "GS",
+  "report_date": "2021-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2021",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Asset & Wealth Management",
+      "revenue": 4.6,
+      "operating_income": 2.7,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Asset management Management and other fees",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Asset management Incentive fees",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Asset management Investments",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Wealth management Management and other fees",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Wealth management Private banking and lending",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Asset management",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Wealth management",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Management and other fees",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Incentive fees",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Private banking and lending",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Equity investments",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Debt investments",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Asset & Wealth Management",
+          "revenue": 4.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Platform Solutions",
+      "revenue": null,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 17.7,
+    "total_revenue_yoy_pct": 102.5,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": null,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 8.3,
+    "tax_expense": 1.5,
+    "net_income": 6.8,
+    "net_income_yoy_pct": 463.6
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 65
+}

@@ -1,0 +1,80 @@
+{
+  "company": "Alphabet Inc. (Class C)",
+  "ticker": "GOOG",
+  "report_date": "2023-09-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Google Services",
+      "revenue": 68.0,
+      "operating_income": null,
+      "yoy_growth_pct": 10.8,
+      "sub_segments": [
+        {
+          "name": "Google Search & other",
+          "revenue": 44.0,
+          "yoy_growth_pct": 11.3
+        },
+        {
+          "name": "YouTube ads",
+          "revenue": 8.0,
+          "yoy_growth_pct": 12.5
+        },
+        {
+          "name": "Google Network",
+          "revenue": 7.7,
+          "yoy_growth_pct": -2.6
+        },
+        {
+          "name": "Google subscriptions, platforms, and devices",
+          "revenue": 8.3,
+          "yoy_growth_pct": 20.9
+        }
+      ]
+    },
+    {
+      "name": "Google Cloud",
+      "revenue": 8.4,
+      "operating_income": null,
+      "yoy_growth_pct": 22.5,
+      "sub_segments": []
+    },
+    {
+      "name": "Other Bets",
+      "revenue": 0.3,
+      "operating_income": null,
+      "yoy_growth_pct": 42.1,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 76.7,
+    "total_revenue_yoy_pct": 11.0,
+    "cost_of_revenue": 33.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 43.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 11.3,
+      "selling_general_administrative": 10.9
+    },
+    "total_operating_expenses": 22.1,
+    "operating_income": 21.3,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.1,
+    "income_before_tax": 21.2,
+    "tax_expense": 1.5,
+    "net_income": 19.7,
+    "net_income_yoy_pct": 41.5
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

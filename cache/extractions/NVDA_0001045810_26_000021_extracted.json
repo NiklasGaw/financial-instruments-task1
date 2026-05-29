@@ -1,0 +1,52 @@
+{
+  "company": "NVIDIA Corp",
+  "ticker": "NVDA",
+  "report_date": "2026-01-25",
+  "form_type": "10-K",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Compute & Networking",
+      "revenue": 193.5,
+      "operating_income": 130.1,
+      "yoy_growth_pct": 66.5,
+      "sub_segments": []
+    },
+    {
+      "name": "Graphics",
+      "revenue": 22.5,
+      "operating_income": 9.2,
+      "yoy_growth_pct": 57.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 215.9,
+    "total_revenue_yoy_pct": 65.5,
+    "cost_of_revenue": 62.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 153.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 18.5,
+      "selling_general_administrative": 4.6
+    },
+    "total_operating_expenses": 23.1,
+    "operating_income": 130.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 11.1,
+    "income_before_tax": 141.4,
+    "tax_expense": 21.4,
+    "net_income": 120.1,
+    "net_income_yoy_pct": 64.7
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

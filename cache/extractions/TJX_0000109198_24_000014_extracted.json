@@ -1,0 +1,150 @@
+{
+  "company": "TJX Companies Inc.",
+  "ticker": "TJX",
+  "report_date": "2024-02-03",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Marmaxx",
+      "revenue": 33.4,
+      "operating_income": 4.6,
+      "yoy_growth_pct": 9.4,
+      "sub_segments": [
+        {
+          "name": "TJ Maxx",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Marshalls",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "tjmaxx.com",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "marshalls.com",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Sierra",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "HomeGoods",
+      "revenue": 9.0,
+      "operating_income": 0.9,
+      "yoy_growth_pct": 8.8,
+      "sub_segments": [
+        {
+          "name": "HomeGoods",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Homesense",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "TJX Canada",
+      "revenue": 5.0,
+      "operating_income": 0.7,
+      "yoy_growth_pct": 2.7,
+      "sub_segments": [
+        {
+          "name": "Winners",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "HomeSense",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Marshalls",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "TJX International",
+      "revenue": 6.8,
+      "operating_income": 0.3,
+      "yoy_growth_pct": 8.9,
+      "sub_segments": [
+        {
+          "name": "TK Maxx",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Homesense",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "tkmaxx.com",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "tkmaxx.de",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "tkmaxx.at",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "TK Maxx (Australia)",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 54.2,
+    "total_revenue_yoy_pct": 8.6,
+    "cost_of_revenue": 38.0,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 16.2,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 10.5
+    },
+    "total_operating_expenses": 10.5,
+    "operating_income": 5.7,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.3,
+    "income_before_tax": 6.0,
+    "tax_expense": 1.5,
+    "net_income": 4.5,
+    "net_income_yoy_pct": 27.9
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

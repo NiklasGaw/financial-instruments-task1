@@ -1,0 +1,147 @@
+{
+  "company": "Morgan Stanley",
+  "ticker": "MS",
+  "report_date": "2024-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Institutional Securities",
+      "revenue": 28.1,
+      "operating_income": 8.7,
+      "yoy_growth_pct": 22.0,
+      "sub_segments": [
+        {
+          "name": "Investment banking",
+          "revenue": 6.2,
+          "yoy_growth_pct": 35.0
+        },
+        {
+          "name": "Trading",
+          "revenue": 16.8,
+          "yoy_growth_pct": 11.1
+        },
+        {
+          "name": "Interest rate",
+          "revenue": 5.9,
+          "yoy_growth_pct": 27.0
+        },
+        {
+          "name": "Foreign exchange",
+          "revenue": 1.2,
+          "yoy_growth_pct": 11.0
+        },
+        {
+          "name": "Equity",
+          "revenue": 9.0,
+          "yoy_growth_pct": 0.9
+        },
+        {
+          "name": "Commodity and other",
+          "revenue": 2.0,
+          "yoy_growth_pct": 23.3
+        },
+        {
+          "name": "Credit",
+          "revenue": -1.3,
+          "yoy_growth_pct": 33.0
+        },
+        {
+          "name": "Investments",
+          "revenue": 0.4,
+          "yoy_growth_pct": 129.4
+        },
+        {
+          "name": "Commissions and fees",
+          "revenue": 2.9,
+          "yoy_growth_pct": 14.4
+        },
+        {
+          "name": "Asset management",
+          "revenue": 0.6,
+          "yoy_growth_pct": 8.4
+        },
+        {
+          "name": "Other",
+          "revenue": 0.6,
+          "yoy_growth_pct": 26.5
+        }
+      ]
+    },
+    {
+      "name": "Wealth Management",
+      "revenue": 28.4,
+      "operating_income": 7.7,
+      "yoy_growth_pct": 8.2,
+      "sub_segments": [
+        {
+          "name": "Asset management",
+          "revenue": 16.5,
+          "yoy_growth_pct": 17.7
+        },
+        {
+          "name": "Transactional",
+          "revenue": 3.9,
+          "yoy_growth_pct": 8.7
+        },
+        {
+          "name": "Net interest",
+          "revenue": 7.3,
+          "yoy_growth_pct": -9.9
+        },
+        {
+          "name": "Other",
+          "revenue": 0.7,
+          "yoy_growth_pct": 29.0
+        }
+      ]
+    },
+    {
+      "name": "Investment Management",
+      "revenue": 5.9,
+      "operating_income": 1.1,
+      "yoy_growth_pct": 9.1,
+      "sub_segments": [
+        {
+          "name": "Asset management fees",
+          "revenue": 5.6,
+          "yoy_growth_pct": 7.5
+        },
+        {
+          "name": "Performance-based income and other",
+          "revenue": 0.2,
+          "yoy_growth_pct": 68.3
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 61.8,
+    "total_revenue_yoy_pct": 14.1,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 43.9
+    },
+    "total_operating_expenses": 43.9,
+    "operating_income": 17.6,
+    "operating_income_yoy_pct": 48.9,
+    "other_income_expense": -0.3,
+    "income_before_tax": 17.6,
+    "tax_expense": 4.1,
+    "net_income": 13.5,
+    "net_income_yoy_pct": 46.6
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

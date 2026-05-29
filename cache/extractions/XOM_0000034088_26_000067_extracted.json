@@ -1,0 +1,66 @@
+{
+  "company": "Exxon Mobil Corporation",
+  "ticker": "XOM",
+  "report_date": "2026-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Upstream",
+      "revenue": 10.1,
+      "operating_income": 8.2,
+      "yoy_growth_pct": -16.1,
+      "sub_segments": []
+    },
+    {
+      "name": "Energy Products",
+      "revenue": 63.2,
+      "operating_income": -1.0,
+      "yoy_growth_pct": 48.1,
+      "sub_segments": []
+    },
+    {
+      "name": "Chemical Products",
+      "revenue": 5.5,
+      "operating_income": 0.2,
+      "yoy_growth_pct": -0.7,
+      "sub_segments": []
+    },
+    {
+      "name": "Specialty Products",
+      "revenue": 4.2,
+      "operating_income": 0.8,
+      "yoy_growth_pct": -8.1,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 85.1,
+    "total_revenue_yoy_pct": 2.4,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 2.7
+    },
+    "total_operating_expenses": 2.7,
+    "operating_income": 82.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -75.7,
+    "income_before_tax": 7.0,
+    "tax_expense": 2.5,
+    "net_income": 4.2,
+    "net_income_yoy_pct": -45.8
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

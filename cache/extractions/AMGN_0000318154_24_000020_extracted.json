@@ -1,0 +1,133 @@
+{
+  "company": "Amgen Inc.",
+  "ticker": "AMGN",
+  "report_date": "2024-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Product Sales",
+      "revenue": 7.1,
+      "operating_income": null,
+      "yoy_growth_pct": 22.0,
+      "sub_segments": [
+        {
+          "name": "Prolia",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Repatha",
+          "revenue": 0.5,
+          "yoy_growth_pct": 33.0
+        },
+        {
+          "name": "Otezla",
+          "revenue": 0.4,
+          "yoy_growth_pct": 1.0
+        },
+        {
+          "name": "ENBREL",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "EVENITY",
+          "revenue": 0.3,
+          "yoy_growth_pct": 35.0
+        },
+        {
+          "name": "XGEVA",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "TEPEZZA",
+          "revenue": 0.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "BLINCYTO",
+          "revenue": 0.2,
+          "yoy_growth_pct": 26.0
+        },
+        {
+          "name": "Nplate",
+          "revenue": 0.3,
+          "yoy_growth_pct": -12.0
+        },
+        {
+          "name": "TEZSPIRE",
+          "revenue": 0.2,
+          "yoy_growth_pct": 80.0
+        },
+        {
+          "name": "KYPROLIS",
+          "revenue": 0.4,
+          "yoy_growth_pct": 5.0
+        },
+        {
+          "name": "Aranesp",
+          "revenue": 0.3,
+          "yoy_growth_pct": -2.0
+        },
+        {
+          "name": "KRYSTEXXA",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Vectibix",
+          "revenue": 0.2,
+          "yoy_growth_pct": 6.0
+        },
+        {
+          "name": "Other Products",
+          "revenue": 1.4,
+          "yoy_growth_pct": 17.0
+        },
+        {
+          "name": "Other Product Sales",
+          "revenue": 2.3,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Other Revenues",
+      "revenue": 0.3,
+      "operating_income": null,
+      "yoy_growth_pct": 27.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 7.4,
+    "total_revenue_yoy_pct": 22.0,
+    "cost_of_revenue": 3.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 4.2,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 1.8
+    },
+    "total_operating_expenses": 1.8,
+    "operating_income": 1.0,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.1,
+    "income_before_tax": -0.1,
+    "tax_expense": 0.0,
+    "net_income": -0.1,
+    "net_income_yoy_pct": -104.0
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

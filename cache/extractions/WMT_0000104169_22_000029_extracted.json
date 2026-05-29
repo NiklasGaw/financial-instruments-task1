@@ -1,0 +1,99 @@
+{
+  "company": "Walmart Inc.",
+  "ticker": "WMT",
+  "report_date": "2022-04-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Walmart U.S.",
+      "revenue": 96.9,
+      "operating_income": 4.5,
+      "yoy_growth_pct": 4.0,
+      "sub_segments": [
+        {
+          "name": "Net sales",
+          "revenue": 96.9,
+          "yoy_growth_pct": 4.0
+        },
+        {
+          "name": "Membership and other income",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Walmart International",
+      "revenue": 23.8,
+      "operating_income": 0.8,
+      "yoy_growth_pct": -12.9,
+      "sub_segments": [
+        {
+          "name": "Net sales",
+          "revenue": 23.8,
+          "yoy_growth_pct": -12.9
+        },
+        {
+          "name": "Membership and other income",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Sam's Club U.S.",
+      "revenue": 19.6,
+      "operating_income": 0.5,
+      "yoy_growth_pct": 17.5,
+      "sub_segments": [
+        {
+          "name": "Net sales",
+          "revenue": 19.6,
+          "yoy_growth_pct": 17.5
+        },
+        {
+          "name": "Membership and other income",
+          "revenue": 1.3,
+          "yoy_growth_pct": 11.3
+        }
+      ]
+    },
+    {
+      "name": "Sam's Club",
+      "revenue": null,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 140.3,
+    "total_revenue_yoy_pct": 2.3,
+    "cost_of_revenue": 106.8,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 33.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 29.4
+    },
+    "total_operating_expenses": 28.2,
+    "operating_income": 5.3,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -2.4,
+    "income_before_tax": 2.9,
+    "tax_expense": 0.8,
+    "net_income": 2.1,
+    "net_income_yoy_pct": -24.8
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

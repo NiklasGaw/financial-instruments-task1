@@ -1,0 +1,78 @@
+{
+  "ticker": "TSM",
+  "source": "cache: 20-F 2023-12-31",
+  "segments": [
+    {
+      "name": "High Performance Computing",
+      "sub_segments": []
+    },
+    {
+      "name": "Smartphone",
+      "sub_segments": []
+    },
+    {
+      "name": "Internet of Things",
+      "sub_segments": []
+    },
+    {
+      "name": "Automotive",
+      "sub_segments": []
+    },
+    {
+      "name": "Digital Consumer Electronics",
+      "sub_segments": []
+    },
+    {
+      "name": "Others",
+      "sub_segments": []
+    },
+    {
+      "name": "3-nanometer",
+      "sub_segments": []
+    },
+    {
+      "name": "5-nanometer",
+      "sub_segments": []
+    },
+    {
+      "name": "7-nanometer",
+      "sub_segments": []
+    },
+    {
+      "name": "16-nanometer",
+      "sub_segments": []
+    },
+    {
+      "name": "20-nanometer",
+      "sub_segments": []
+    },
+    {
+      "name": "28-nanometer",
+      "sub_segments": []
+    },
+    {
+      "name": "40/45-nanometer",
+      "sub_segments": []
+    },
+    {
+      "name": "65-nanometer",
+      "sub_segments": []
+    },
+    {
+      "name": "90-nanometer",
+      "sub_segments": []
+    },
+    {
+      "name": "0.11/0.13 micron",
+      "sub_segments": []
+    },
+    {
+      "name": "0.15/0.18 micron",
+      "sub_segments": []
+    },
+    {
+      "name": "0.25 micron and above",
+      "sub_segments": []
+    }
+  ]
+}

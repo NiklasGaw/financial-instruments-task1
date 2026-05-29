@@ -1,0 +1,94 @@
+{
+  "company": "International Business Machines",
+  "ticker": "IBM",
+  "report_date": "2024-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Software",
+      "revenue": 7.2,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Transaction Processing",
+          "revenue": 1.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Software",
+          "revenue": 5.5,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Consulting",
+      "revenue": 3.5,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Infrastructure",
+      "revenue": 4.5,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Hybrid Infrastructure",
+          "revenue": 4.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Infrastructure Support",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Infrastructure",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Financing",
+      "revenue": 0.6,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 17.5,
+    "cost_of_revenue": 7.2,
+    "gross_profit": 10.6,
+    "total_operating_expenses": 6.8,
+    "operating_income": 3.8,
+    "other_income_expense": -0.5,
+    "income_before_tax": 3.3,
+    "tax_expense": 0.4,
+    "net_income": 2.9,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 2.0,
+      "selling_general_administrative": 4.9
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 100,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

@@ -1,0 +1,52 @@
+{
+  "company": "Chevron Corporation",
+  "ticker": "CVX",
+  "report_date": "2025-06-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Upstream U.S.",
+      "revenue": 8.5,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Downstream International",
+      "revenue": 33.3,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 44.4,
+    "total_revenue_yoy_pct": -10.5,
+    "cost_of_revenue": 26.9,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 17.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 0.9
+    },
+    "total_operating_expenses": 0.9,
+    "operating_income": 16.6,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -12.5,
+    "income_before_tax": 4.1,
+    "tax_expense": 1.6,
+    "net_income": 2.5,
+    "net_income_yoy_pct": -43.8
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

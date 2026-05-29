@@ -1,0 +1,112 @@
+{
+  "company": "GE Vernova Inc.",
+  "ticker": "GEV",
+  "report_date": "2025-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Power",
+      "revenue": 19.8,
+      "operating_income": null,
+      "yoy_growth_pct": 9.0,
+      "sub_segments": [
+        {
+          "name": "Gas Power",
+          "revenue": 16.0,
+          "yoy_growth_pct": 10.6
+        },
+        {
+          "name": "Nuclear Power",
+          "revenue": 1.0,
+          "yoy_growth_pct": 24.4
+        },
+        {
+          "name": "Hydro Power",
+          "revenue": 0.8,
+          "yoy_growth_pct": 3.2
+        },
+        {
+          "name": "Steam Power",
+          "revenue": 1.9,
+          "yoy_growth_pct": -6.1
+        }
+      ]
+    },
+    {
+      "name": "Wind",
+      "revenue": 9.1,
+      "operating_income": null,
+      "yoy_growth_pct": -6.1,
+      "sub_segments": [
+        {
+          "name": "Onshore Wind",
+          "revenue": 8.2,
+          "yoy_growth_pct": 5.9
+        },
+        {
+          "name": "Offshore Wind",
+          "revenue": 0.7,
+          "yoy_growth_pct": -52.6
+        },
+        {
+          "name": "LM Wind Power",
+          "revenue": 0.2,
+          "yoy_growth_pct": -60.0
+        }
+      ]
+    },
+    {
+      "name": "Electrification",
+      "revenue": 9.6,
+      "operating_income": null,
+      "yoy_growth_pct": 27.8,
+      "sub_segments": [
+        {
+          "name": "Grid Solutions",
+          "revenue": 6.6,
+          "yoy_growth_pct": 33.5
+        },
+        {
+          "name": "Power Conversion & Storage",
+          "revenue": 2.0,
+          "yoy_growth_pct": 22.3
+        },
+        {
+          "name": "Electrification Software",
+          "revenue": 1.0,
+          "yoy_growth_pct": 6.1
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 38.1,
+    "total_revenue_yoy_pct": 9.0,
+    "cost_of_revenue": 30.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 7.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.2,
+      "selling_general_administrative": 4.9
+    },
+    "total_operating_expenses": 6.1,
+    "operating_income": 1.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 1.4,
+    "income_before_tax": 2.8,
+    "tax_expense": -2.1,
+    "net_income": 4.9,
+    "net_income_yoy_pct": 214.7
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

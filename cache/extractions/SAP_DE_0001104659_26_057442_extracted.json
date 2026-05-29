@@ -1,0 +1,99 @@
+{
+  "company": "SAP SE",
+  "ticker": "SAP.DE",
+  "report_date": "2026-05-08",
+  "form_type": "6-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": 0.8503,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Applications, Technology & Support",
+      "revenue": 8.5,
+      "operating_income": 2.5,
+      "yoy_growth_pct": 8.0,
+      "sub_segments": [
+        {
+          "name": "Cloud",
+          "revenue": 4.1,
+          "yoy_growth_pct": 22.0
+        },
+        {
+          "name": "Cloud ERP Suite",
+          "revenue": 2.5,
+          "yoy_growth_pct": 28.0
+        },
+        {
+          "name": "Extension Suite",
+          "revenue": 0.5,
+          "yoy_growth_pct": 15.0
+        },
+        {
+          "name": "IaaS",
+          "revenue": 0.2,
+          "yoy_growth_pct": 10.0
+        },
+        {
+          "name": "Software licenses",
+          "revenue": 0.4,
+          "yoy_growth_pct": -10.0
+        },
+        {
+          "name": "Software support",
+          "revenue": 2.4,
+          "yoy_growth_pct": -5.0
+        },
+        {
+          "name": "Software licenses and support",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Services",
+          "revenue": 0.8,
+          "yoy_growth_pct": 2.0
+        }
+      ]
+    },
+    {
+      "name": "Core Services",
+      "revenue": 0.6,
+      "operating_income": null,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": [
+        {
+          "name": "Services",
+          "revenue": 0.6,
+          "yoy_growth_pct": 3.0
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 36.7,
+    "total_revenue_yoy_pct": 6.3,
+    "cost_of_revenue": 8.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 28.2,
+    "gross_profit_yoy_pct": 5.7,
+    "operating_expenses": {
+      "research_and_development": 4.9,
+      "selling_general_administrative": 8.0
+    },
+    "total_operating_expenses": 12.9,
+    "operating_income": 15.3,
+    "operating_income_yoy_pct": 11.1,
+    "other_income_expense": -0.6,
+    "income_before_tax": 14.7,
+    "tax_expense": 2.7,
+    "net_income": 12.0,
+    "net_income_yoy_pct": 10.9
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

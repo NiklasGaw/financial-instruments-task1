@@ -1,0 +1,26 @@
+{
+  "ticker": "MA",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Payment network",
+      "sub_segments": [
+        "Domestic assessments",
+        "Cross-border assessments",
+        "Transaction processing assessments",
+        "Other network assessments"
+      ]
+    },
+    {
+      "name": "Value-added services and solutions",
+      "sub_segments": []
+    },
+    {
+      "name": "Payment Solutions",
+      "sub_segments": [
+        "Payment network",
+        "Value-added services and solutions"
+      ]
+    }
+  ]
+}

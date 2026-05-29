@@ -1,0 +1,280 @@
+6-K
+ 1
+ f6k_081125.htm
+ FORM 6-K
+
+ UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+ FORM 6-K 
+
+ REPORT OF FOREIGN PRIVATE ISSUER 
+
+ PURSUANT TO RULE 13a-16 or 15d-16 OF 
+
+ THE SECURITIES EXCHANGE ACT OF 1934 
+
+ Report on Form 6-K dated August 11, 2025 
+
+ (Commission File No. 1-15024) 
+
+ ____________________
+
+ Novartis AG 
+
+ (Name of Registrant)
+
+ Lichtstrasse 35 
+
+ 4056 Basel 
+
+ Switzerland 
+
+ (Address of Principal Executive Offices)
+
+ ____________________
+
+ Indicate by check mark whether the registrant files or will file annual reports under cover
+of Form 20-F or Form 40-F:
+
+ Form 20-F: &#9746; 
+
+ Form 40-F: &#9744; 
+
+ Novartis International AG
+
+ CH-4002 Basel 
+ Switzerland 
+
+ https://www.novartis.com
+
+ http://x.com/NovartisNews
+
+ PRESS RELEASE
+
+ Novartis announces both ianalumab Phase III clinical trials
+met primary endpoint in patients with Sj&#246;gren&#8217;s disease Ad hoc announcement pursuant to Art. 53 LR 
+
+ &#9679; NEPTUNUS-1
+and NEPTUNUS-2 are the first ever global phase III trials to demonstrate statistically significant reduction in disease activity for
+Sj&#246;gren&#8217;s disease 1 
+
+ &#9679; Ianalumab
+has the potential to become the first and only targeted treatment approved for patients with Sj&#246;gren&#8217;s disease 
+
+ &#9679; Ianalumab
+was well tolerated and demonstrated a favorable safety profile in Sj&#246;gren's disease 1, 2 
+
+ &#9679; Novartis
+plans to present its data at an upcoming medical congress and submit to health authorities globally 
+
+Basel, August 11, 2025 – Novartis today announced positive top-line results from its Phase III trials evaluating ianalumab
+(VAY736) in adults with active Sj&#246;gren's disease. Both trials met the primary endpoint of demonstrating statistically significant
+improvements in disease activity 1 . These results support the potential for ianalumab, a drug with a dual mechanism
+of action, B-cell depletion and BAFF-R inhibition, to become the first targeted treatment for patients with Sj&#246;gren&#8217;s disease,
+a chronic, disabling autoimmune disease 3,4,5 . 
+
+ "Sj&#246;gren&#8217;s disease is a serious, progressive, systemic autoimmune disease, often unrecognized or misdiagnosed with a significant
+detrimental impact to quality of life, with very limited treatment options and an established unmet need. Both Phase III trials demonstrate
+that ianalumab improves disease activity in patients with Sjogren&#8217;s disease.&#8221; said Shreeram Aradhye, M.D., President of Development
+and Chief Medical Officer at Novartis. &#8220;These Phase III studies mark a significant milestone. We look forward to engaging with health
+authorities to discuss these findings in the near future.&#8221; 
+
+ The NEPTUNUS pivotal trials achieved the primary endpoint of improving disease activity measured by a reduction in EULAR Sj&#246;gren&#8217;s
+syndrome disease activity index (ESSDAI), a multi-dimensional disease activity measurement compared to placebo 1 . Ianalumab
+was well tolerated and demonstrated a favorable safety profile in Sj&#246;gren's disease 1,2 .
+
+ Novartis plans to present the NEPTUNUS-1 and NEPTUNUS-2 data at an upcoming medical meeting and submit ianalumab, which was granted
+Fast Track Designation by the US Food and Drug Administration (FDA), to health authorities globally 6 . 
+
+ About ianalumab 
+
+Ianalumab (VAY736) is a novel fully human monoclonal antibody being investigated for its potential to treat various B cell-driven
+autoimmune diseases, including Sj&#246;gren&#8217;s disease, immune thrombocytopenia (ITP), systemic lupus erythematosus (SLE), lupus
+nephritis (LN), warm autoimmune hemolytic anemia (wAIHA) and diffuse cutaneous systemic sclerosis (dcSSc) 3,7-13 . Its mechanism
+of action targets B cells in two ways, namely combining B cell depletion via antibody-dependent cellular toxicity (ADCC) and interruption
+of BAFF- R mediated signals of B cell function and survival 3 . In clinical trials, ianalumab showed promising efficacy and
+a favorable safety profile in Sj&#246;gren&#8217;s disease, systemic lupus erythematosus, and immune thrombocytopenia 2,14,15 .
+Ianalumab originates from an early collaboration with MorphoSys AG, a company which Novartis later acquired in 2024 16 . 
+
+ About NEPTUNUS-1 and NEPTUNUS-2 
+
+The phase III clinical trials, NEPTUNUS-1 and NEPTUNUS-2, are global,
+multicenter, pivotal studies evaluating the efficacy and safety of ianalumab in patients with Sj&#246;gren&#8217;s disease 7 , 8 .
+These trials were designed to provide comprehensive data on ianalumab's potential as a targeted treatment for Sj&#246;gren&#8217;s disease,
+in patients with active extraglandular disease. 3 ,7,8 . 
+
+ NEPTUNUS-1 is a randomized, double-blind, 2-arm multicenter phase III trial (N=275) to evaluate the clinical efficacy, safety, and
+tolerability of ianalumab 300 mg subcutaneous (s.c.) monthly compared with placebo for 52 weeks 7 . NEPTUNUS-2 is a randomized,
+double-blind, 3-arm multicenter phase III trial (N=504) to evaluate the clinical efficacy, safety, and tolerability of ianalumab 300 mg
+s.c. monthly or every 3 months compared with placebo for up to 52 weeks 8 . 
+
+ The primary endpoint was measured by improvements in systemic disease activity using ESSDAI (EULAR Sj&#246;gren&#8217;s syndrome disease
+activity index) 7,8 . Patients currently enrolled in NEPTUNUS-1 and NEPTUNUS-2 have been given the opportunity to continue follow-up
+in these studies or enter a long-term extension trial 17 . 
+
+ About Sj&#246;gren&#8217;s disease (previously called Sj&#246;gren&#8217;s syndrome) 
+
+ Sj&#246;gren&#8217;s disease is a
+systemic, chronic autoimmune disorder that causes inflammation and tissue damage, impacting the entire body 4 . It primarily
+affects exocrine glands, leading to excessive dryness, with over 90 percent of patients experiencing dry eyes and dry mouth 4,18 .
+The disease is heterogenous, patients experience dryness, fatigue and widespread pain and 30-40 percent of patients will also show extraglandular
+organ involvement 5,19 . Extraglandular manifestation can be very diverse and can affect skin, musculoskeletal system, kidneys,
+lungs and other organs 19 . The risk of lymphoma is increased in patients with Sj&#246;gren&#8217;s 5 .
+
+ Sj&#246;gren&#8217;s is one of the most prevalent rheumatic autoimmune diseases, affecting approximately 0.25 percent of the population
+with an estimated 50 percent undiagnosed 20-21 . Sj&#246;gren&#8217;s is nine times more common in women than men 4 .
+B cell dysfunction plays a significant role in the disease by causing an autoimmune response that leads to inflammation and tissue damage 3,4 .
+There are no systemic treatments approved, with only limited symptomatic treatments available to provide temporary and partial symptomatic
+relief, highlighting the need for effective targeted therapies 3 . 
+
+ Disclaimer
+
+ This press release contains forward-looking statements within the meaning of the United States Private Securities
+Litigation Reform Act of 1995. Forward-looking statements can generally be identified by words such as &#8220;potential,&#8221; &#8220;can,&#8221;
+&#8220;will,&#8221; &#8220;plan,&#8221; &#8220;may,&#8221; &#8220;could,&#8221; &#8220;would,&#8221; &#8220;investigational,&#8221; &#8220;pipeline,&#8221;
+&#8220;upcoming,&#8221; &#8220;intends,&#8221; or similar terms, or by express or implied discussions regarding potential marketing approvals,
+new indications or labeling for ianalumab, or regarding potential future revenues from ianalumab. You should not place undue reliance
+on these statements. Such forward-looking statements are based on our current beliefs and expectations regarding future events, and are
+subject to significant known and unknown risks and uncertainties. Should one or more of these risks or uncertainties materialize, or
+should underlying assumptions prove incorrect, actual results may vary materially from those set forth in the forward-looking statements.
+There can be no guarantee that ianalumab will be submitted or approved for sale or for any additional indications or labeling in any
+market, or at any particular time. Nor can there be any guarantee that ianalumab will be commercially successful in the future. In particular,
+our expectations regarding ianalumab could be affected by, among other things, the uncertainties inherent in research and development,
+including clinical trial results and additional analysis of existing clinical data; regulatory actions or delays or government regulation
+generally; global trends toward health care cost containment, including government, payor and general public pricing and reimbursement
+pressures and requirements for increased pricing transparency; our ability to obtain or maintain proprietary intellectual property protection;
+the particular prescribing preferences of physicians and patients; general political, economic and business conditions, including the
+effects of and efforts to mitigate pandemic diseases; safety, quality, data integrity or manufacturing issues; potential or actual data
+security and data privacy breaches, or disruptions of our information technology systems, and other risks and factors referred to in
+Novartis AG&#8217;s current Form 20-F on file with the US Securities and Exchange Commission. Novartis is providing the information in
+this press release as of this date and does not undertake any obligation to update any forward-looking statements contained in this press
+release as a result of new information, future events or otherwise.
+
+ About Novartis 
+
+ Novartis is an innovative medicines company. Every day, we work to reimagine medicine to improve and extend
+people&#8217;s lives so that patients, healthcare professionals and societies are empowered in the face of serious disease. Our medicines
+reach nearly 300 million people worldwide.
+
+ Reimagine medicine with us: Visit us at https://www.novartis.com and connect with us on LinkedIn ,
+ Facebook , X/Twitter and Instagram . 
+
+ References 
+
+ 1. Novartis
+ data on files 
+
+ 2. Bowman
+ S et al, Safety and efficacy of subcutaneous ianalumab (VAY736) in patients with primary
+ Sjogren&#8217;s syndrome: a randomized, double-blind, placebo-controlled, phase 2b dose-finding
+ trial, Lancet 2022; 399:161-71 
+
+ 3. Dorner
+ T et al, Safety and Efficacy of ianalumab in patients with Sjogren&#8217;s disease:52-week
+ results from a randomized, placebo-controlled, phase 2b dose-ranging study, Arhtritis and
+ Rheumatology 2025, 77(5):560-570 
+
+ 4. Negrini
+ S et al, Sjogren&#8217;s syndrome: a systemic autoimmune disease, Clin Exp Med . 2022;
+ 22(1): 9–25 
+
+ 5. Mariette,
+ Primary Sjogren&#8217;s symptoms, New England Journal of Medecine , 2018, 378;10 
+
+ 6. VAY736,
+ Department of health and human Services, Fast Track Designation, US Food and Drug Administration,
+ 2025 
+
+ 7. ClinicalTrials.gov
+ NCT05350072 [Last accessed: August 2025] 
+
+ 8. ClinicalTrials.gov
+ NCT0539214 [Last accessed: August 2025] 
+
+ 9. ClinicalTrials.gov
+ NCT05653219 [Last accessed: August 2025] 
+
+ 10. ClinicalTrials.gov
+ NCT05639114 [Last accessed: August 2025] 
+
+ 11. ClinicalTrials.gov
+ NCT05126277 [Last accessed: August 2025] 
+
+ 12. ClinicalTrials.gov
+ NCT05648968 [Last accessed: August 2025] 
+
+ 13. ClinialTrials.gov
+ NTC06470048 [Last accessed: August 2025] 
+
+ 14. Phase
+ 2 safety and efficacy of subcutaneous (s.c.) dose ianalumab (VAY736; Anti-BAFFR mAB) administered
+ monthly over 28 weeks in patients with Systemic Lupus Erythematosus (SLE) of moderate-to-severe
+ activity, ACR congress, available at : Phase 2 Safety and Efficacy of Subcutaneous (s.c.)
+ Dose Ianalumab (VAY736; Anti-BAFFR mAb) Administered Monthly over 28 Weeks in Patients with
+ Systemic Lupus Erythematosus (SLE) of Moderate-to-Severe Activity - ACR Meeting Abstracts
+ [Last accessed: August 2025] 
+
+ 15. A
+ Phase 2 Study of ianalumab in patients with primary immune thrombocytopenia previously treater
+ with at least two lines of therapy, EHA congress, available at: EHA Library - The official
+ digital education library of European Hematology Association (EHA) [Last accessed: August
+ 2025] 
+
+ 16. Novartis
+ to strengthen oncology pipeline with agreement to acquire Morphosys [AG Press release]. [Press
+ release]. Available at: Novartis to strengthen oncology pipeline with agreement to acquire
+ MorphoSys AG for EUR 68 per share or an aggregate of EUR 2.7bn in cash | Novartis [Last
+ accessed: August 2025] 
+
+ 17. ClinicalTrials.gov
+ NCT05985915 [Last accessed: August 2025] 
+
+ 18. Maleki
+ Fischbach- M, et al, Manifestations and management of Sjogren&#8217;s disease, Arthritis
+ Res Ther. 2024;26(1):43 
+
+ 19. Kerry
+ Gairy et al, Burden of illness among subgroups of px with primary SjD and systemic involvement,
+ Rheumatology 2021, Volume 60, Issue 4, April 2021, Pages 1871–1881 
+
+ 20. Conrad
+ N, et al, Incidence, prevalence, and co-occurrence of autoimmune disorders over time and
+ by age, sex, and socioeconomic status: a population-based cohort study of 22 millions individuals
+ in the UK, Lancet. 2023;401(10391):1878-1890; 
+
+ 21. Narv&#225;ez
+ J et al, Prevalence of Sjogren&#8217;s syndrome in the general adult population in Spain:
+ estimating the proportion of undiagnosed cases, Sci Rep . 2020;10(1):10627 
+
+ Novartis Media Relations 
+
+E-mail: media.relations@novartis.com 
+
+ Novartis Investor Relations 
+
+Central investor relations line: +41 61 324 7944
+
+E-mail:
+investor.relations@novartis.com 
+
+ SIGNATURES 
+
+ Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized. 
+
+ Novartis AG 
+
+ Date: August 11, 2025 
+ By: 
+ /s/ PAUL PENEPENT 
+
+ Name: 
+ Paul Penepent 
+
+ Title: 
+ Head of Financial Reporting and Accounting

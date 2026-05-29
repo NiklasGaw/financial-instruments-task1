@@ -1,0 +1,369 @@
+[
+  {
+    "company": "Shell plc",
+    "ticker": "SHEL.L",
+    "report_date": "2025-12-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Integrated Gas",
+        "revenue": 48.7,
+        "operating_income": null,
+        "yoy_growth_pct": -6.3,
+        "sub_segments": []
+      },
+      {
+        "name": "Upstream",
+        "revenue": 41.1,
+        "operating_income": null,
+        "yoy_growth_pct": -22.7,
+        "sub_segments": []
+      },
+      {
+        "name": "Marketing",
+        "revenue": 119.4,
+        "operating_income": null,
+        "yoy_growth_pct": -0.7,
+        "sub_segments": []
+      },
+      {
+        "name": "Renewables and Energy Solutions",
+        "revenue": 38.7,
+        "operating_income": null,
+        "yoy_growth_pct": 17.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 266.9,
+      "total_revenue_yoy_pct": -6.1,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.2,
+        "selling_general_administrative": 12.6,
+        "other_operating": 21.9
+      },
+      "total_operating_expenses": 35.7,
+      "operating_income": 231.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -201.5,
+      "income_before_tax": 29.8,
+      "tax_expense": 11.6,
+      "net_income": 18.1,
+      "net_income_yoy_pct": 9.7
+    },
+    "notes": "Two-pass LLM extraction (batch).",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90,
+    "total_revenue": 266.9,
+    "total_revenue_yoy_pct": -6.1,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.2,
+      "selling_general_administrative": 12.6
+    },
+    "total_operating_expenses": 35.7,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 29.8,
+    "tax_expense": 11.6,
+    "net_income": 18.1,
+    "net_income_yoy_pct": 9.7,
+    "accession_number": "0001628280-26-017024",
+    "cik": "0001306965"
+  },
+  {
+    "company": "Shell plc",
+    "ticker": "SHEL.L",
+    "report_date": "2024-12-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Integrated Gas",
+        "revenue": 37.3,
+        "operating_income": 9.6,
+        "yoy_growth_pct": -31.6,
+        "sub_segments": [
+          {
+            "name": "LNG",
+            "revenue": 30.9,
+            "yoy_growth_pct": -6.2
+          },
+          {
+            "name": "Natural gas and NGL",
+            "revenue": 19.3,
+            "yoy_growth_pct": -31.1
+          }
+        ]
+      },
+      {
+        "name": "Upstream",
+        "revenue": 6.6,
+        "operating_income": 7.8,
+        "yoy_growth_pct": -1.9,
+        "sub_segments": [
+          {
+            "name": "Crude oil",
+            "revenue": 40.6,
+            "yoy_growth_pct": 2.6
+          }
+        ]
+      },
+      {
+        "name": "Marketing",
+        "revenue": 120.1,
+        "operating_income": 1.9,
+        "yoy_growth_pct": -8.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Chemicals and Products",
+        "revenue": 90.9,
+        "operating_income": 1.8,
+        "yoy_growth_pct": -6.3,
+        "sub_segments": [
+          {
+            "name": "Oil products",
+            "revenue": 129.6,
+            "yoy_growth_pct": -10.6
+          },
+          {
+            "name": "Chemicals products",
+            "revenue": 8.5,
+            "yoy_growth_pct": 2.0
+          },
+          {
+            "name": "Lubricants",
+            "revenue": 11.5,
+            "yoy_growth_pct": -0.3
+          }
+        ]
+      },
+      {
+        "name": "Renewables and Energy Solutions",
+        "revenue": 29.4,
+        "operating_income": -1.2,
+        "yoy_growth_pct": -33.9,
+        "sub_segments": [
+          {
+            "name": "Power",
+            "revenue": 11.6,
+            "yoy_growth_pct": -2.2
+          },
+          {
+            "name": "Other Renewables and Energy Solutions",
+            "revenue": 17.8,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Corporate",
+        "revenue": 0.0,
+        "operating_income": -3.0,
+        "yoy_growth_pct": 4.2,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 284.3,
+      "total_revenue_yoy_pct": -10.2,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.1,
+        "selling_general_administrative": 12.4,
+        "other_operating": 245.6
+      },
+      "total_operating_expenses": 259.1,
+      "operating_income": 25.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 4.7,
+      "income_before_tax": 29.9,
+      "tax_expense": 13.4,
+      "net_income": 16.5,
+      "net_income_yoy_pct": -15.9
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100,
+    "total_revenue": 284.3,
+    "total_revenue_yoy_pct": -10.2,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.1,
+      "selling_general_administrative": 12.4
+    },
+    "total_operating_expenses": 259.1,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 29.9,
+    "tax_expense": 13.4,
+    "net_income": 16.5,
+    "net_income_yoy_pct": -15.9,
+    "accession_number": "0001306965-25-000007",
+    "cik": "0001306965"
+  },
+  {
+    "company": "Shell plc",
+    "ticker": "SHEL.L",
+    "report_date": "2023-12-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 6.5,
+        "operating_income": 8.5,
+        "yoy_growth_pct": -47.4,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 316.6,
+      "total_revenue_yoy_pct": -17.0,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.3,
+        "selling_general_administrative": 13.4,
+        "other_operating": 275.9
+      },
+      "total_operating_expenses": 290.6,
+      "operating_income": 26.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 6.6,
+      "income_before_tax": 32.6,
+      "tax_expense": 13.0,
+      "net_income": 19.6,
+      "net_income_yoy_pct": -54.2
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 70,
+    "total_revenue": 316.6,
+    "total_revenue_yoy_pct": -17.0,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.3,
+      "selling_general_administrative": 13.4
+    },
+    "total_operating_expenses": 290.6,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 32.6,
+    "tax_expense": 13.0,
+    "net_income": 19.6,
+    "net_income_yoy_pct": -54.2,
+    "accession_number": "0001306965-24-000026",
+    "cik": "0001306965"
+  },
+  {
+    "company": "Shell plc",
+    "ticker": "SHEL.L",
+    "report_date": "2026-05-01",
+    "form_type": "6-K",
+    "fiscal_year": null,
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Integrated Gas",
+        "revenue": 15.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Upstream",
+        "revenue": 12.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Marketing",
+        "revenue": 28.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Renewables and Energy Solutions",
+        "revenue": 3.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": null,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": null
+      },
+      "total_operating_expenses": null,
+      "operating_income": null,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": null,
+      "tax_expense": null,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 40
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "company": "Amazon.com Inc.",
+  "ticker": "AMZN",
+  "report_date": "2024-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "AWS",
+      "revenue": 107.6,
+      "operating_income": 39.8,
+      "yoy_growth_pct": 18.5,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 638.0,
+    "total_revenue_yoy_pct": 11.0,
+    "cost_of_revenue": 326.3,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 311.7,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 11.4
+    },
+    "total_operating_expenses": 11.4,
+    "operating_income": 68.6,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.1,
+    "income_before_tax": 68.6,
+    "tax_expense": 9.3,
+    "net_income": 59.2,
+    "net_income_yoy_pct": 94.7
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 70
+}

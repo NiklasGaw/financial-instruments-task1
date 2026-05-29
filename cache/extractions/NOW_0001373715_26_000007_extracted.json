@@ -1,0 +1,52 @@
+{
+  "company": "ServiceNow Inc.",
+  "ticker": "NOW",
+  "report_date": "2025-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Subscription",
+      "revenue": 12.9,
+      "operating_income": null,
+      "yoy_growth_pct": 20.9,
+      "sub_segments": []
+    },
+    {
+      "name": "Professional services and other",
+      "revenue": 0.4,
+      "operating_income": null,
+      "yoy_growth_pct": 16.9,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 13.3,
+    "total_revenue_yoy_pct": 20.9,
+    "cost_of_revenue": 3.0,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 10.3,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 3.0,
+      "selling_general_administrative": 5.5
+    },
+    "total_operating_expenses": 8.5,
+    "operating_income": 1.8,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.4,
+    "income_before_tax": 2.3,
+    "tax_expense": 0.5,
+    "net_income": 1.7,
+    "net_income_yoy_pct": 22.7
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

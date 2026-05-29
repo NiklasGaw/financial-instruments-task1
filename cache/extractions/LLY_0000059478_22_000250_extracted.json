@@ -1,0 +1,121 @@
+{
+  "company": "Eli Lilly and Company",
+  "ticker": "LLY",
+  "report_date": "2022-09-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2022",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Cardiometabolic Health",
+      "revenue": 4.5,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Mounjaro",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Zepbound",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Trulicity",
+          "revenue": 1.9,
+          "yoy_growth_pct": 15.6
+        },
+        {
+          "name": "Jardiance",
+          "revenue": 0.6,
+          "yoy_growth_pct": 46.8
+        },
+        {
+          "name": "Other cardiometabolic health",
+          "revenue": 1.8,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Oncology",
+      "revenue": 1.3,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Verzenio",
+          "revenue": 0.6,
+          "yoy_growth_pct": 84.1
+        },
+        {
+          "name": "Other oncology",
+          "revenue": 0.7,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Immunology",
+      "revenue": 0.9,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Taltz",
+          "revenue": 0.7,
+          "yoy_growth_pct": 14.6
+        },
+        {
+          "name": "Other immunology",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Neuroscience",
+      "revenue": 0.4,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Other",
+      "revenue": 0.7,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 6.9,
+    "total_revenue_yoy_pct": 2.5,
+    "cost_of_revenue": 1.6,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 5.3,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.8,
+      "selling_general_administrative": 1.6
+    },
+    "total_operating_expenses": 3.4,
+    "operating_income": 1.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.3,
+    "income_before_tax": 1.6,
+    "tax_expense": 0.1,
+    "net_income": 1.5,
+    "net_income_yoy_pct": 30.8
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

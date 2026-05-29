@@ -1,0 +1,44 @@
+{
+  "ticker": "T",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Mobility",
+      "sub_segments": [
+        "Service",
+        "Equipment"
+      ]
+    },
+    {
+      "name": "Business Wireline",
+      "sub_segments": [
+        "Legacy and other transitional services",
+        "Fiber and advanced connectivity services",
+        "Equipment"
+      ]
+    },
+    {
+      "name": "Consumer Wireline",
+      "sub_segments": [
+        "Broadband",
+        "Legacy voice and data services",
+        "Other service and equipment"
+      ]
+    },
+    {
+      "name": "Communications",
+      "sub_segments": [
+        "Mobility",
+        "Mobility Service",
+        "Mobility Equipment",
+        "Business Wireline",
+        "Business Wireline Service",
+        "Business Wireline Equipment",
+        "Consumer Wireline",
+        "Consumer Wireline Broadband",
+        "Consumer Wireline Legacy voice and data services",
+        "Consumer Wireline Other service and equipment"
+      ]
+    }
+  ]
+}

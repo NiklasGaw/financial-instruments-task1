@@ -1,0 +1,23 @@
+{
+  "ticker": "GOOG",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Google Services",
+      "sub_segments": [
+        "Google Search & other",
+        "YouTube ads",
+        "Google Network",
+        "Google subscriptions, platforms, and devices"
+      ]
+    },
+    {
+      "name": "Google Cloud",
+      "sub_segments": []
+    },
+    {
+      "name": "Other Bets",
+      "sub_segments": []
+    }
+  ]
+}

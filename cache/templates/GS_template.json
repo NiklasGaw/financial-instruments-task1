@@ -1,0 +1,22 @@
+{
+  "ticker": "GS",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Asset & Wealth Management",
+      "sub_segments": [
+        "Asset management",
+        "Wealth management",
+        "Management and other fees",
+        "Incentive fees",
+        "Private banking and lending",
+        "Equity investments",
+        "Debt investments"
+      ]
+    },
+    {
+      "name": "Platform Solutions",
+      "sub_segments": []
+    }
+  ]
+}

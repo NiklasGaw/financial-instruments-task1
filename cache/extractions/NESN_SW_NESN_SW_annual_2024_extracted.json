@@ -1,0 +1,84 @@
+{
+  "company": "Nestl\u00e9 S.A.",
+  "ticker": "NESN.SW",
+  "report_date": "2024-12-31",
+  "form_type": "Annual Report",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "CHF",
+  "exchange_rate_to_usd": 0.89,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Powdered and Liquid Beverages",
+      "revenue": 24.6,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Nutrition and Health Science",
+      "revenue": 18.9,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "PetCare",
+      "revenue": 15.1,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Prepared dishes and cooking aids",
+      "revenue": 10.7,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Milk products and Ice cream",
+      "revenue": 10.4,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Confectionery",
+      "revenue": 8.5,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Water",
+      "revenue": 3.2,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 91.4,
+    "total_revenue_yoy_pct": -1.8,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 42.7,
+    "gross_profit_yoy_pct": 0.0,
+    "operating_expenses": {
+      "research_and_development": 1.6,
+      "selling_general_administrative": 18.1
+    },
+    "total_operating_expenses": 19.7,
+    "operating_income": 14.6,
+    "operating_income_yoy_pct": 0.8,
+    "other_income_expense": null,
+    "income_before_tax": null,
+    "tax_expense": null,
+    "net_income": 10.9,
+    "net_income_yoy_pct": -2.9
+  },
+  "notes": "Two-pass LLM extraction."
+}

@@ -1,0 +1,342 @@
+[
+  {
+    "company": "Taiwan Semiconductor",
+    "ticker": "TSM",
+    "report_date": "2025-12-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "TWD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "High Performance Computing",
+        "revenue": 2192.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Smartphone",
+        "revenue": 1110.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Internet of Things",
+        "revenue": 191.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Automotive",
+        "revenue": 186.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Digital Consumer Electronics",
+        "revenue": 48.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Others",
+        "revenue": 79.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "3-nanometer",
+        "revenue": 794.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "5-nanometer",
+        "revenue": 1179.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "7-nanometer",
+        "revenue": 459.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "16-nanometer",
+        "revenue": 215.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "20-nanometer",
+        "revenue": 4.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "28-nanometer",
+        "revenue": 225.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "40/45-nanometer",
+        "revenue": 95.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "65-nanometer",
+        "revenue": 120.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "90-nanometer",
+        "revenue": 21.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "0.11/0.13 micron",
+        "revenue": 48.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "0.15/0.18 micron",
+        "revenue": 88.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "0.25 micron and above",
+        "revenue": 19.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": null,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": null
+      },
+      "total_operating_expenses": null,
+      "operating_income": null,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": null,
+      "tax_expense": null,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 40
+  },
+  {
+    "company": "Taiwan Semiconductor",
+    "ticker": "TSM",
+    "report_date": "2024-12-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Digital Consumer Electronics",
+        "revenue": 1.5,
+        "operating_income": null,
+        "yoy_growth_pct": 2.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 88.3,
+      "total_revenue_yoy_pct": 25.0,
+      "cost_of_revenue": 38.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 49.5,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 6.2,
+        "selling_general_administrative": null,
+        "other_operating": 3.0
+      },
+      "total_operating_expenses": 9.2,
+      "operating_income": 40.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 2.6,
+      "income_before_tax": 42.9,
+      "tax_expense": 7.6,
+      "net_income": 35.3,
+      "net_income_yoy_pct": 27.0
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70,
+    "total_revenue": 88.3,
+    "total_revenue_yoy_pct": 25.0,
+    "cost_of_revenue": 38.7,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 49.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 6.2,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": 6.2,
+    "operating_income": 40.3,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 42.9,
+    "tax_expense": 7.6,
+    "net_income": 35.3,
+    "net_income_yoy_pct": 27.0,
+    "accession_number": "0001193125-25-083423",
+    "cik": "0001046179"
+  },
+  {
+    "company": "Taiwan Semiconductor",
+    "ticker": "TSM",
+    "report_date": "2023-12-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Others",
+        "revenue": 9.0,
+        "operating_income": null,
+        "yoy_growth_pct": 2.6,
+        "sub_segments": []
+      },
+      {
+        "name": "High Performance Computing",
+        "revenue": 30.0,
+        "operating_income": null,
+        "yoy_growth_pct": 0.3,
+        "sub_segments": []
+      },
+      {
+        "name": "Smartphone",
+        "revenue": 26.2,
+        "operating_income": null,
+        "yoy_growth_pct": -8.3,
+        "sub_segments": []
+      },
+      {
+        "name": "Internet of Things",
+        "revenue": 5.2,
+        "operating_income": null,
+        "yoy_growth_pct": -17.4,
+        "sub_segments": []
+      },
+      {
+        "name": "Automotive",
+        "revenue": 4.3,
+        "operating_income": null,
+        "yoy_growth_pct": 14.8,
+        "sub_segments": []
+      },
+      {
+        "name": "Digital Consumer Electronics",
+        "revenue": 1.5,
+        "operating_income": null,
+        "yoy_growth_pct": -16.3,
+        "sub_segments": []
+      },
+      {
+        "name": "Others",
+        "revenue": 2.2,
+        "operating_income": null,
+        "yoy_growth_pct": -6.1,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 70.6,
+      "total_revenue_yoy_pct": -4.2,
+      "cost_of_revenue": 32.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 38.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 6.0,
+        "selling_general_administrative": null,
+        "other_operating": 2.3
+      },
+      "total_operating_expenses": 8.3,
+      "operating_income": 30.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 1.9,
+      "income_before_tax": 32.0,
+      "tax_expense": 4.2,
+      "net_income": 27.8,
+      "net_income_yoy_pct": -14.0
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70,
+    "total_revenue": 70.6,
+    "total_revenue_yoy_pct": -4.2,
+    "cost_of_revenue": 32.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 38.4,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 6.0,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": 6.0,
+    "operating_income": 30.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 32.0,
+    "tax_expense": 4.2,
+    "net_income": 27.8,
+    "net_income_yoy_pct": -14.0,
+    "accession_number": "0001193125-24-099840",
+    "cik": "0001046179"
+  }
+]

@@ -1,0 +1,2205 @@
+6-K
+ 1
+ d10803d6k.htm
+ FORM 6-K
+
+ FORM 6-K 
+
+ Table of Contents 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ WASHINGTON, D. C. 20549 
+ FORM 6-K 
+ REPORT OF FOREIGN PRIVATE ISSUER 
+
+ Pursuant to Rule 13a-16 or 15d-16 of 
+
+ the Securities Exchange Act of 1934 
+
+ For the month of May 2026 
+
+ Commission File Number: 001-06439 
+
+ SONY GROUP CORPORATION 
+
+ (Translation of registrant&#8217;s name into English) 
+
+ 1-7-1 KONAN, MINATO-KU, 
+TOKYO, 108-0075, JAPAN 
+ (Address of principal executive offices) 
+
+ The registrant files annual reports under cover of Form 20-F. 
+
+ Indicate by check mark whether the registrant files or will file annual reports under cover of Form
+ 20-F or Form 40-F, 
+
+ Form 20-F X 
+
+ Form 40-F &#8195; 
+
+ Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing
+the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934, Yes No X 
+
+ If &#8220;Yes&#8221; is marked, indicate below the file number assigned to the registrant in connection with
+ Rule 12g3-2(b):82- &#8195;&#8195;&#8195; 
+ SIGNATURE 
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+ SONY GROUP CORPORATION 
+
+ (Registrant) 
+
+ By: /s/ Lin Tao 
+
+ &#8195;&#8195;&#8195;&#8196;&#8201;(Signature) 
+
+ Lin Tao 
+
+ Chief Financial Officer and 
+
+ Corporate Executive Officer 
+
+ Date: May 19, 2026 
+
+ Table of Contents 
+
+ Consolidated Financial Statements 
+
+ pursuant to the Companies Act of Japan 
+ For the
+fiscal year ended March 31, 2026 
+
+ (TRANSLATION) 
+
+ Sony Group Corporation 
+
+ TOKYO, JAPAN 
+
+ Table of Contents 
+
+ Contents 
+
+ Note for readers of this English translation 
+
+ 1 
+
+ Consolidated Statements of Financial Position 
+
+ 2 
+
+ Consolidated Statements of Income 
+
+ 4 
+
+ Consolidated Statements of Changes in Stockholders&#8217;
+Equity 
+
+ 5 
+
+ Notes to Consolidated Financial Statements 
+
+ 6 
+
+ Table of Contents 
+
+ Note for readers of this English translation 
+
+ This document is an English translation of the consolidated financial statements for the fiscal year ended March 31, 2026 (from April 1, 2025 to
+March 31, 2026) prepared in accordance with the Companies Act of Japan. The English translation is not audited and should there be any inconsistency between the translation and the original Japanese text, the original shall prevail. This
+document omits certain disclosures required by IFRS &reg; Accounting Standards as issued by the International Accounting Standards Board (&#8220;IFRS Accounting Standards&#8221;). Full consolidated
+financial statements for the fiscal year ended March 31, 2026 prepared in accordance with IFRS Accounting Standards will be included in Sony Group Corporation&#8217;s annual report on Form 20-F, which Sony
+Group Corporation expects to file with the U.S. Securities and Exchange Commission on or around June 18, 2026. 
+
+ 1 
+
+ Table of Contents 
+
+ Consolidated Statements of Financial Position 
+
+ Yen in millions 
+
+ March 31, 
+ 2025 
+
+ March 31, 
+ 2026 
+
+ ASSETS 
+
+ Current assets: 
+
+ Cash and cash equivalents 
+
+ 2,980,956 
+
+ 2,208,879 
+
+ Investments and advances in the Financial Services segment 
+
+ 453,677 
+
+ — 
+
+ Trade and other receivables, and contract assets 
+
+ 1,943,184 
+
+ 1,821,916 
+
+ Inventories 
+
+ 1,310,770 
+
+ 1,227,351 
+
+ Other financial assets 
+
+ 145,192 
+
+ 28,167 
+
+ Other current assets 
+
+ 621,209 
+
+ 663,678 
+
+ Total current
+assets
+
+ 7,454,988 
+
+ 5,949,991 
+
+ Non-current assets: 
+
+ &#8195;&#8195;&#8195;&#8195;&#8195; 
+
+ &#8195;&#8195;&#8195;&#8195;&#8195; 
+
+ Investments accounted for using the equity method 
+
+ 347,718 
+
+ 483,709 
+
+ Investments and advances in the Financial Services segment 
+
+ 18,736,298 
+
+ — 
+
+ Property, plant and equipment 
+
+ 1,513,660 
+ &#8196; 
+
+ 1,453,805 
+
+ Right-of-use assets 
+
+ 521,685 
+
+ 524,345 
+
+ Goodwill 
+
+ 1,508,721 
+
+ 1,673,906 
+
+ Content assets 
+
+ 2,249,048 
+
+ 2,558,615 
+
+ Other intangible assets 
+
+ 671,212 
+
+ 659,578 
+
+ Deferred tax assets 
+
+ 559,284 
+
+ 560,800 
+
+ Other financial assets 
+
+ 1,164,630 
+
+ 1,173,819 
+
+ Other non-current assets 
+
+ 565,929 
+
+ 644,922 
+
+ Total non-current 
+assets
+
+ 27,838,185 
+
+ 9,733,499 
+
+ Total assets 
+
+ 35,293,173 
+ &#8196; 
+
+ 15,683,490 
+ &#8196; 
+
+ (Continued on the following page.) 
+
+ 2 
+
+ Table of Contents 
+
+ Consolidated Statements of Financial Position&#8201;(Continued) 
+
+ Yen in millions 
+
+ March 31, 
+ 2025 
+
+ March 31, 
+ 2026 
+
+ LIABILITIES 
+
+ &#8195;&#8195;&#8195;&#8195;&#8195; 
+
+ &#8195;&#8195;&#8195;&#8195;&#8195; 
+
+ Current liabilities: 
+
+ Short-term borrowings 
+
+ 1,843,959 
+
+ 51,183 
+
+ Lease liabilities 
+
+ 90,495 
+
+ 94,160 
+
+ Current portion of long-term debt 
+
+ 196,950 
+
+ 166,410 
+
+ Trade and other payables 
+
+ 2,100,144 
+
+ 2,240,566 
+
+ Deposits from customers in the banking business 
+
+ 3,981,193 
+
+ — 
+
+ Income taxes payables 
+
+ 89,485 
+
+ 196,000 
+
+ Participation and residual liabilities in the Pictures segment 
+
+ 236,752 
+
+ 223,233 
+
+ Contract liabilities 
+
+ 590,719 
+
+ 594,336 
+
+ Other financial liabilities 
+
+ 110,689 
+
+ 115,785 
+
+ Other current liabilities 
+
+ 1,448,402 
+
+ 1,350,951 
+
+ Total current
+liabilities
+
+ 10,688,788 
+
+ 5,032,624 
+
+ Non-current liabilities: 
+
+ Long-term debt 
+
+ 1,557,867 
+
+ 824,393 
+
+ Lease liabilities 
+
+ 508,975 
+
+ 533,523 
+
+ Defined benefit liabilities 
+
+ 236,941 
+
+ 165,017 
+
+ Deferred tax liabilities 
+
+ 175,228 
+
+ 211,391 
+
+ Insurance contract liabilities 
+
+ 12,689,306 
+
+ — 
+
+ Participation and residual liabilities in the Pictures segment 
+
+ 188,919 
+
+ 140,893 
+
+ Other financial liabilities 
+
+ 574,351 
+
+ 105,827 
+
+ Other non-current liabilities 
+
+ 162,647 
+
+ 156,233 
+
+ Total non-current liabilities
+
+ 16,094,234 
+
+ 2,137,277 
+
+ Total liabilities 
+
+ 26,783,022 
+
+ 7,169,901 
+
+ EQUITY 
+
+ Sony Group Corporation&#8217;s stockholders&#8217; equity: 
+
+ Common stock 
+
+ 881,357 
+
+ 881,357 
+
+ Additional paid-in capital 
+
+ 1,483,527 
+
+ 1,465,499 
+
+ Retained earnings 
+
+ 6,678,168 
+
+ 5,294,890 
+
+ Accumulated other comprehensive income 
+
+ (566,447 
+ ) 
+
+ 1,229,371 
+
+ Treasury stock, at cost 
+
+ (296,860 
+ ) 
+
+ (752,106 
+ ) 
+
+ Equity attributable to Sony Group Corporation&#8217;s stockholders
+
+ 8,179,745 
+
+ 8,119,011 
+
+ Noncontrolling interests 
+
+ 330,406 
+
+ 394,578 
+
+ Total equity 
+
+ 8,510,151 
+
+ 8,513,589 
+
+ Total liabilities and
+equity 
+
+ 35,293,173 
+
+ 15,683,490 
+ &#8196; 
+
+ * 
+ The figures for the previous fiscal year (as of March 31, 2025) are for reference and not subject to the
+current fiscal year audit. 
+
+ 3 
+
+ Table of Contents 
+
+ Consolidated Statements of Income 
+
+ Fiscal year ended March 31 
+
+ Yen in millions 
+
+ 2025 
+
+ 2026 
+
+ Continuing operations 
+
+ &#8195;&#8195;&#8195;&#8195;&#8195; 
+
+ &#8195;&#8195;&#8195;&#8195;&#8195; 
+
+ Sales 
+
+ 12,034,917 
+
+ 12,479,620 
+
+ Costs and expenses: 
+
+ Cost of sales
+
+ 8,504,810 
+
+ 8,635,225 
+
+ Selling, general and administrative
+
+ 2,256,829 
+
+ 2,298,638 
+
+ Other operating (income) expense, net
+
+ (11,222 
+ ) 
+
+ 34,056 
+
+ Total costs and expenses
+
+ 10,750,417 
+
+ 10,967,919 
+
+ Share of profit (loss) of investments accounted for using the equity method 
+
+ (7,865 
+ ) 
+
+ (64,194 
+ ) 
+
+ Operating income 
+
+ 1,276,635 
+
+ 1,447,507 
+
+ Financial income 
+
+ 139,024 
+
+ 76,041 
+
+ Financial expenses 
+
+ 72,461 
+
+ 101,174 
+
+ Income before income taxes 
+
+ 1,343,198 
+
+ 1,422,374 
+
+ Income taxes 
+
+ 257,480 
+
+ 367,108 
+
+ Net income from continuing operations 
+
+ 1,085,718 
+
+ 1,055,266 
+
+ Discontinued operations 
+
+ Net income (loss) from discontinued operations 
+
+ 74,169 
+
+ (1,357,758 
+ ) 
+
+ Net income (loss) 
+
+ 1,159,887 
+
+ (302,492 
+ ) 
+
+ Net income (loss) attributable to 
+
+ Sony Group Corporation&#8217;s stockholders
+
+ 1,141,600 
+
+ (326,865 
+ ) 
+
+ Net income from continuing operations
+
+ 1,067,431 
+
+ 1,030,893 
+
+ Net income (loss) from discontinued operations
+
+ 74,169 
+
+ (1,357,758 
+ ) 
+
+ Noncontrolling interests 
+
+ 18,287 
+
+ 24,373 
+
+ * 
+ The figures for the previous fiscal year (from April 1, 2024 to March 31, 2025) are for reference and
+not subject to the current fiscal year audit. At a meeting of Sony Group Corporation&#8217;s Board of Directors (the &#8220;Board&#8221;) held on May 14, 2025, Sony Group Corporation resolved the plan regarding the execution of a partial spin-off (the &#8220;Spin-off&#8221;) of Sony Financial Group Inc. (&#8220;SFGI&#8221;), a formerly wholly-owned subsidiary which operates the Financial Services business. In
+connection with the resolution, the Financial Services business was classified as a discontinued operation. Income and loss related to a business classified as a discontinued operation are separately presented, net of income taxes, following net
+income from continuing operations. Consequently, the consolidated statements of income for comparative periods have been re-presented separately for continuing operations and discontinued operations.
+
+ 4 
+
+ Table of Contents 
+
+ Consolidated Statements of Changes in Stockholders&#8217; Equity 
+
+ Yen in millions 
+
+ Common 
+
+ stock 
+
+ Additional 
+
+ paid-in 
+
+ capital 
+
+ Retained 
+
+ earnings 
+
+ Accumulated 
+
+ other 
+
+ comprehensive 
+
+ income 
+
+ Treasury 
+
+ stock, at 
+
+ cost 
+
+ Sony Group 
+
+ Corporation&#8217;s 
+
+ stockholders&#8217; 
+
+ equity 
+
+ Noncontrolling 
+
+ interests 
+
+ Total equity 
+
+ Balance at April 1, 2024
+
+ 881,357 
+
+ 1,483,410 
+
+ 6,002,407 
+
+ (376,063 
+ ) 
+
+ (403,934 
+ ) 
+
+ 7,587,177 
+
+ 168,928 
+
+ 7,756,105 
+
+ Comprehensive income:
+
+ Net income
+
+ 1,141,600 
+
+ 1,141,600 
+
+ 18,287 
+
+ 1,159,887 
+
+ Other comprehensive income, net of tax
+
+ (200,570 
+ ) 
+
+ (200,570 
+ ) 
+
+ (87 
+ ) 
+
+ (200,657 
+ ) 
+
+ Total comprehensive income
+
+ 1,141,600 
+
+ (200,570 
+ ) 
+
+ 941,030 
+
+ 18,200 
+
+ 959,230 
+
+ Transfer to retained earnings
+
+ (10,186 
+ ) 
+
+ 10,186 
+
+ — 
+
+ — 
+
+ Transactions with stockholders and other:
+
+ Stock issued under stock-based compensation transactions
+
+ 3,008 
+
+ (1,179 
+ ) 
+
+ 49,608 
+
+ 51,437 
+
+ 51,437 
+
+ Compensation expenses related to stock-based compensation transactions
+
+ 8,575 
+
+ 8,575 
+
+ 8,575 
+
+ Dividends declared
+
+ (115,312 
+ ) 
+
+ (115,312 
+ ) 
+
+ (7,704 
+ ) 
+
+ (123,016 
+ ) 
+
+ Purchase of treasury stock
+
+ (285,548 
+ ) 
+
+ (285,548 
+ ) 
+
+ (285,548 
+ ) 
+
+ Reissuance of treasury stock
+
+ 1 
+
+ 4 
+
+ 5 
+
+ 5 
+
+ Cancellation of treasury stock
+
+ (3,848 
+ ) 
+
+ (339,162 
+ ) 
+
+ &#8195;343,010 
+
+ — 
+
+ — 
+
+ Transactions with noncontrolling interests shareholders
+and other
+
+ (7,619 
+ ) 
+
+ (7,619 
+ ) 
+
+ 150,982 
+
+ 143,363 
+
+ Balance at March 31, 2025
+
+ &#8194;&#8201;&#8195;881,357 
+
+ &#8195;1,483,527 
+
+ &#8195;6,678,168 
+
+ (566,447 
+ ) 
+
+ (296,860 
+ ) 
+
+ &#8195;8,179,745 
+
+ 330,406 
+
+ 8,510,151 
+
+ * 
+ The figures for the previous fiscal year (from April 1, 2024 to March 31, 2025) are for reference and
+not subject to the current fiscal year audit. 
+
+ Yen in millions 
+
+ Common 
+
+ stock 
+
+ Additional 
+
+ paid-in 
+
+ capital 
+
+ Retained 
+
+ earnings 
+
+ Accumulated 
+
+ other 
+
+ comprehensive 
+
+ income 
+
+ Accumulated
+other
+comprehensive
+income
+directly
+related to disposal
+groups classified
+as held for
+distribution to
+owners 
+
+ Treasury 
+
+ stock, at 
+
+ cost 
+
+ Sony Group 
+
+ Corporation&#8217;s 
+
+ stockholders&#8217; 
+
+ equity 
+
+ Noncontrolling 
+
+ interests 
+
+ Total equity 
+
+ Balance at April 1, 2025
+
+ 881,357 
+
+ 1,483,527 
+
+ 6,678,168 
+
+ (566,447 
+ ) 
+
+ — 
+
+ (296,860 
+ ) 
+
+ 8,179,745 
+
+ 330,406 
+
+ 8,510,151 
+
+ Comprehensive income:
+
+ Net income (loss)
+
+ (326,865 
+ ) 
+
+ (326,865 
+ ) 
+
+ 24,373 
+
+ (302,492 
+ ) 
+
+ Other comprehensive income, net of tax
+
+ 381,804 
+
+ 1,443,058 
+
+ 1,824,862 
+
+ 659 
+
+ 1,825,521 
+
+ Total comprehensive income
+
+ (326,865 
+ ) 
+
+ 381,804 
+
+ 1,443,058 
+
+ 1,497,997 
+
+ 25,032 
+
+ 1,523,029 
+
+ Transfer to retained earnings
+
+ 34,251 
+
+ (38,305 
+ ) 
+
+ 4,054 
+
+ — 
+
+ — 
+
+ Transactions with stockholders and other:
+
+ Stock issued under stock-based compensation transactions
+
+ 8,615 
+
+ 66,843 
+
+ 75,458 
+
+ 75,458 
+
+ Compensation expenses related to stock-based compensation transactions
+
+ 3,608 
+
+ 3,608 
+
+ 3,608 
+
+ Dividends declared
+
+ (134,964 
+ ) 
+
+ (134,964 
+ ) 
+
+ (22,190 
+ ) 
+
+ (157,154 
+ ) 
+
+ Dividends in kind
+
+ (955,700 
+ ) 
+
+ (955,700 
+ ) 
+
+ (955,700 
+ ) 
+
+ Purchase of treasury stock
+
+ (522,089 
+ ) 
+
+ (522,089 
+ ) 
+
+ (522,089 
+ ) 
+
+ Reissuance of treasury stock
+
+ 0 
+
+ 0 
+
+ 0 
+
+ 0 
+
+ Transfer to held for distribution to owners
+
+ 1,447,112 
+
+ (1,447,112 
+ ) 
+
+ — 
+
+ — 
+
+ Transactions with noncontrolling interests shareholders
+and other
+
+ (30,251 
+ ) 
+
+ 5,207 
+
+ (25,044 
+ ) 
+
+ 61,330 
+
+ 36,286 
+
+ Balance at March 31, 2026
+
+ 881,357 
+
+ 1,465,499 
+
+ 5,294,890 
+
+ 1,229,371 
+
+ — 
+
+ (752,106 
+ ) 
+
+ 8,119,011 
+
+ 394,578 
+
+ 8,513,589 
+
+ 5 
+
+ Table of Contents 
+
+ Notes to Consolidated Financial Statements 
+
+ Sony Group Corporation and its consolidated subsidiaries are together referred to as &#8220;Sony&#8221; or &#8220;Sony Group.&#8221; 
+
+ 1. 
+ Scope of consolidation and equity method investments 
+
+ As of March 31, 2026, Sony had 1,453 consolidated subsidiaries (including structured entities). Sony has applied the equity accounting
+method for 132 associates and joint ventures. 
+
+ 2. 
+ Material accounting policies 
+
+ (1) 
+ Basis of consolidated financial statements 
+
+ Sony&#8217;s Consolidated Financial Statements are prepared in accordance with IFRS &reg; 
+Accounting Standards as issued by the International Accounting Standards Board (&#8220;IFRS Accounting Standards&#8221;) pursuant to Article 120, Paragraph 1 of the Regulation on Corporate Accounting. In accordance with the second sentence of the
+same paragraph, certain disclosures required by IFRS Accounting Standards have been omitted. 
+
+ (2) 
+ Foreign currency translation 
+
+ Foreign currency transactions are translated at the exchange rates prevailing at the transaction date or rates that approximate such rates.
+Monetary assets and liabilities denominated in foreign currencies are translated into the functional currency using the exchange rate at the end of the period. Foreign exchange gains and losses resulting from translation and settlement are generally
+recognized in profit or loss. They are deferred in other comprehensive income if they relate to qualifying cash flow hedges. 
+ Assets and
+liabilities of foreign operations such as overseas subsidiaries and associates are translated using the exchange rates at the end of the period, and revenue and expense items are translated using the average exchange rates for the period unless the
+exchange rates fluctuate significantly. Exchange differences arising from the translation are recognized in other comprehensive income. 
+
+ On the disposal of a foreign operation, the cumulative amount of exchange differences relating to that foreign operation is reclassified to
+profit or loss. 
+
+ (3) 
+ Financial instruments 
+
+ Sony recognizes a financial instrument as a financial asset or a financial liability when Sony becomes party to the contractual provisions of
+the instrument. 
+ Financial assets and financial liabilities are initially measured at fair value. Except for financial assets and
+financial liabilities measured at fair value through profit or loss, transaction costs that are directly attributable to the acquisition or issuance of the financial asset or financial liability are added to the fair value of financial assets or
+subtracted from the fair value of financial liabilities at initial recognition. 
+
+ (i) 
+ Non-derivative financial assets 
+
+ a. 
+ Classification and measurement 
+
+ Non-derivative financial assets held by Sony are classified as either financial assets
+measured at amortized cost, debt instruments measured at fair value through other comprehensive income, equity instruments measured at fair value through other comprehensive income or financial assets measured at fair value through profit or loss.
+
+ Financial assets measured at amortized cost 
+
+ Sony classifies a financial asset as measured at amortized cost if the financial asset is held within a business model whose
+objective is to collect contractual cash flows and the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding. The financial asset is
+measured at amortized cost by using the effective interest method after initial recognition. On derecognition of a financial asset measured at amortized cost, the difference between the carrying amount and the consideration received or receivable is
+recognized in profit or loss. 
+
+ 6 
+
+ Table of Contents 
+
+ Equity instruments measured at fair value through other comprehensive
+income 
+ For investments in equity instruments which are not held for trading, Sony may make an irrevocable election at
+initial recognition to present subsequent changes in fair value of the investments in other comprehensive income. 
+ These
+financial assets are measured at fair value and subsequent changes in the fair value are recognized in other comprehensive income. Dividends from financial assets are recognized in profit or loss, and the cumulative amount recognized in other
+comprehensive income is transferred to retained earnings upon derecognition. 
+ Financial assets measured at fair value
+through profit or loss 
+ Financial assets other than those measured at amortized cost or fair value through other
+comprehensive income are classified as financial assets measured at fair value through profit or loss. 
+
+ b. 
+ Derecognition 
+
+ Sony derecognizes a financial asset when the contractual rights to the cash flows from the financial asset expire, or when Sony
+transfers the contractual rights to receive the cash flows of the financial asset and transfers substantially all of the risks and rewards of the financial asset. 
+
+ c. 
+ Impairment 
+
+ Sony estimates expected credit losses and recognizes loss allowances for financial assets measured at amortized cost. At each
+reporting date, Sony measures the loss allowance for a financial instrument at an amount equal to the lifetime expected credit losses if the credit risk on that financial instrument has increased significantly since initial recognition. If, at the
+reporting date, the credit risk on a financial instrument has not increased significantly since initial recognition, Sony measures the loss allowance for that financial instrument at an amount equal to
+ 12-month expected credit losses. In assessing whether the credit risk has increased significantly or not, Sony uses the change in the risk of a default occurring over the expected life of the financial
+instrument and estimates expected credit losses by using the method which reflects the past loss rate and other reasonable and supportable forward-looking information on macroeconomic factors affecting the ability of the customers to settle the
+receivables. 
+ Sony measures the expected credit losses of a financial asset in a way that reflects an unbiased and
+probability-weighted amount incorporating the time value of money and reasonable and supportable information that is available at the reporting date about past events, current conditions and forecasts of future economic conditions. 
+
+ However, for trade and other receivables, and contract assets including non-current 
+other receivables in the Pictures segment, the loss allowance is measured at an amount equal to lifetime expected credit losses irrespective of the change of credit risk on a collective basis or an individual basis incorporating factors such as the past-due status and the attributes of the counterparties. 
+ Sony determines a financial
+asset is credit-impaired when one or more events that have a detrimental impact on the estimated future cash flows of that financial asset have occurred. The criteria that Sony uses to determine that a financial asset is credit-impaired include a
+default or delinquency of more than 90 days past due in interest or principal payments. 
+ Sony writes off the gross carrying
+amount of a financial asset when it cannot reasonably expect to recover all or part of the asset. 
+
+ (ii) 
+ Non-derivative financial liabilities 
+
+ Sony classifies non-derivative financial liabilities as
+either financial liabilities subsequently measured at amortized cost by using the effective interest method or financial liabilities subsequently measured at fair value through profit or loss. 
+
+ Sony derecognizes a financial liability when it is extinguished, meaning when the obligation specified in the contract is
+discharged, cancelled or expired. 
+
+ 7 
+
+ Table of Contents 
+
+ (iii) 
+ Derivative financial instruments and hedge accounting 
+
+ All derivatives are recognized as either assets or liabilities in the consolidated statements of financial position at fair
+value. Changes in the fair value of derivative financial instruments are either recognized periodically through profit or loss or other comprehensive income, depending on whether the derivative financial instrument qualifies as a hedge and the
+derivative is being used to hedge changes in fair value or cash flows. 
+ Derivative financial instruments held by Sony are
+accounted for as described below. 
+ Cash flow hedges 
+
+ Changes in the fair value of derivatives that are designated and determined to be effective as cash flow hedges for forecasted
+transactions or exposures associated with recognized assets or liabilities are initially recorded in other comprehensive income and reclassified to profit or loss when the hedged transaction affects profit or loss. Changes in the fair value of the
+ineffective portion are immediately recognized in profit or loss. 
+ Derivatives not designated as hedges 
+
+ Changes in the fair value of derivatives not designated as hedges are immediately recognized in profit or loss. 
+
+ Assessment of hedge effectiveness 
+
+ When applying hedge accounting, Sony formally documents all hedging relationships between the derivatives designated as hedges
+and the hedged items, as well as its risk management objectives and strategies for undertaking various hedging activities. Sony links all hedges that are designated as cash flow hedges to specific assets or liabilities in the consolidated statements
+of financial position or to the specific forecasted transactions. Sony also assesses, both at the inception of the hedge and on an ongoing basis, whether the derivatives that are designated as hedges have an economic relationship with the hedged
+item in offsetting changes in fair value or cash flows of hedged items. The effect of credit risk does not dominate the value changes that result from the underlying economic relationship. In addition, the hedge ratio of the hedging relationship is
+designed to be the same as that resulting from the quantity of the hedged item that Sony actually hedges and the quantity of the hedging instrument that Sony actually uses to hedge that quantity of the hedged item. When it is determined that a
+derivative no longer has an economic relationship with the hedged item, Sony discontinues hedge accounting. 
+
+ (4) 
+ Valuation of inventories 
+
+ Inventories are measured at the lower of cost or net realizable value. The cost of inventories is determined on the &#8220;weighted average
+cost&#8221; basis. Net realizable value is the estimated selling price in the ordinary course of business less the estimated costs of completion and the estimated costs necessary to make the sale. 
+
+ (5) 
+ Depreciation of property, plant and equipment 
+
+ Property, plant and equipment are depreciated on a straight-line basis over their useful lives (depreciation period ranging from 2 to 50 years
+for buildings and from 2 to 10 years for machinery and equipment). Sony reviews the residual values and the useful lives at each fiscal year-end, or sooner if circumstances require. 
+
+ 8 
+
+ Table of Contents 
+
+ (6) 
+ Amortization methods for intangible assets including content assets 
+
+ Intangible assets with finite useful lives mainly consist of patent rights, know-how, license
+agreements, customer relationships, trademarks, software, television carriage contracts (broadcasting agreements), film costs, broadcasting rights, music catalogs, artist contracts, music distribution rights and game content. Patent rights, know-how, license agreements, trademarks and software are generally amortized on a straight-line basis over 3 to 10 years. Customer relationships, television carriage contracts (broadcasting agreements), artist
+contracts, music distribution rights and game content are generally amortized on a straight-line basis over 2 to 15 years. Music catalogs are generally amortized on a straight-line basis over 5 to 44 years. Film costs are amortized using an ultimate
+revenue method based on the ratio of current period actual revenues to the estimated remaining total revenues. Sony considers that amortization pursuant to the ultimate revenue method reflects the rate at which it plans to consume the future
+economic benefits related to the asset, and there is a high correlation between revenue and the consumption of the economic benefits embodied in the intangible assets. Broadcasting rights are generally amortized based on estimated usage or on a
+straight-line basis over the useful life. 
+
+ (7) 
+ Business combinations 
+
+ Sony recognizes identifiable assets acquired and the liabilities assumed of an acquiree at their fair values at the acquisition date with
+limited exceptions. Sony recognizes goodwill when the aggregate of the consideration transferred in a business combination, the amount of any non-controlling interests in the acquiree and the fair value of
+Sony&#8217;s previously held equity interest in the acquiree exceeds the net amount of the identifiable assets and liabilities of the acquiree at the acquisition date. If the aggregate above is less than the net amount of identifiable assets and
+liabilities, the difference is recognized as a gain. The consideration transferred is calculated as the sum of the fair values of the assets transferred, liabilities assumed and equity interest issued.
+ Non-controlling interests are measured either at fair value or based on the non-controlling interests&#8217; proportionate share of the acquiree&#8217;s net identifiable
+assets for each business combination transaction. Acquisition-related costs are recognized as expenses in the period they are incurred. 
+
+ (8) 
+ Impairment of non-financial assets 
+
+ Sony reviews the recoverability of its non-financial assets, except for inventories, contract costs and
+deferred tax assets, whenever there is any indication that an asset or a cash-generating unit (&#8220;CGU&#8221;) may be impaired. In addition, an annual impairment test for goodwill, intangible assets with indefinite useful lives or intangible
+assets not yet available for use is performed during the fourth quarter of the fiscal year for each CGU or group of CGUs to which the carrying amount of these assets is allocated. 
+
+ A CGU is the smallest identifiable group of assets that generates cash inflows that are largely independent of the cash inflows from other
+assets or group of assets. Goodwill is allocated to each CGU or group of CGUs that is expected to benefit from the synergies of a business combination. A CGU or group of CGUs to which goodwill is allocated is not larger than an operating segment.
+
+ The recoverable amount of an asset, a CGU or group of CGUs is the higher of its value in use and fair value less costs of disposal. In
+assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks
+specific to the assets. This approach uses significant estimates and assumptions, including estimated future cash flows, the timing of such cash flows, discount rates reflecting the risk inherent in future cash flows, perpetual growth rates,
+earnings or revenue multiples, the determination of appropriate comparable entities and the determination of whether a premium or discount should be applied to comparables. The assumptions used for estimated future cash flows and the timing of such
+cash flows for each CGU are generally based on the three-year mid-range plan (&#8220;MRP&#8221;) and take into account such factors as historical experience, market and industry information, and current and
+forecasted economic conditions. Perpetual growth rates are generally utilized to determine a terminal value and are generally set after the three-year forecasted period for the MRP. 
+
+ If the recoverable amount is determined to be less than the carrying amount of a CGU or group of CGUs, an impairment loss would be recognized
+equal to the amount by which the carrying amount exceeds the recoverable amount. Such impairment losses are recognized by first reducing the carrying amount of any allocated goodwill and then are allocated to the other assets of the CGU on a pro
+rata basis of the carrying amount of each asset in the CGU. Impairment losses except for content assets are included in other operating (income) expense, net, and impairment losses for content assets are included in cost of sales in the consolidated
+statements of income. 
+
+ 9 
+
+ Table of Contents 
+
+ Assets other than goodwill are reviewed to assess whether there is any indication that an
+impairment loss recognized in prior periods may no longer exist or may have decreased. If any such indication exists, the recoverable amount of the asset is determined and a reversal of an impairment loss is recognized when the recoverable amount of
+the asset exceeds the carrying amount. Any increase in the carrying amount of an asset attributable to the reversal of an impairment loss does not exceed the carrying amount of the asset, net of depreciation and amortization, which would have been
+determined if an impairment loss had never been recognized for the asset in prior periods. 
+
+ (9) 
+ Provisions 
+
+ Provisions are recognized when Sony has present legal or constructive obligations as a result of past events, it is probable that outflows of
+resources embodying economic benefits will be required to settle the obligations, and reliable estimates can be made of the amount of obligations. 
+
+ Provisions mainly consist of participation and residual liabilities in the Pictures segment and product warranties. Product warranties are
+included in other current liabilities in the consolidated statements of financial position. 
+
+ (i) 
+ Participation and residual liabilities in the Pictures segment 
+
+ Parties involved in the production or exploitation of film and television content may be compensated
+in part by contingent payments based on the financial results of a film or television show pursuant to contractual formulas (participations) and by contingent amounts due under provisions of collective bargaining agreements (residuals). Such parties
+are collectively referred to as participants, and such costs are collectively referred to as participation and residual costs. Participation and residual costs may be given to creative talent, such as actors or writers, investors or to entities from
+whom distribution rights are licensed. 
+ Participation and residual liabilities are accrued based on the ratio of current
+period actual revenues to the estimated remaining total revenues. The participation and residual liabilities are expected to be relieved when the contingent payments are fixed and paid. The majority of the
+ non-current portion of participation and residual liabilities is expected to be paid within the next 10 years. 
+
+ Sony also enters into arrangements with other studios to jointly produce and distribute films, under which each partner is
+responsible for the distribution of the film in specific territories or distribution windows. The partners&#8217; shares in the profits and losses of the films under these arrangements are included within participation and residual costs. 
+
+ (ii) 
+ Product warranties 
+
+ Sony guarantees delivered products and rendered services for a certain period or term and records product warranties to prepare
+for such expenses. Product warranties are calculated based upon product sales, estimated probability of failure and estimated cost per claim. The estimates and forecasts used in the calculation of product warranties are reviewed on a periodic basis.
+
+ (10) 
+ Revenue recognition 
+
+ Sony recognizes revenue in an amount that reflects the consideration Sony expects in exchange for satisfying performance obligations to
+transfer the goods or services promised in contracts with customers. This is in accordance with the following steps: 
+ Step 1: Identify the
+contract(s) with a customer. 
+ Step 2: Identify the performance obligations in the contract. 
+
+ Step 3: Determine the transaction price. 
+
+ Step 4: Allocate the transaction price to the performance obligations in the contract. 
+
+ Step 5: Recognize revenue when (or as) Sony satisfies a performance obligation. 
+
+ 10 
+
+ Table of Contents 
+
+ Sony owns a variety of intellectual property throughout its segments and recognizes revenue
+through the licensing of such intellectual property. Sony licenses rights to use its intellectual property and rights to access its intellectual property. When Sony grants a customer the right to use Sony&#8217;s intellectual property, Sony
+satisfies its performance obligation at the point in time when the customer obtains control and is entitled to benefit from the license. When Sony grants a customer the right to access Sony&#8217;s intellectual property, Sony satisfies its
+performance obligation over the license period. 
+ Performance obligations in contracts for the Entertainment, Technology &
+Services (&#8220;ET&S&#8221;) and Imaging & Sensing Solutions (&#8220;I&SS&#8221;) segments are primarily to deliver various kinds of electronic equipment, instruments and devices to customers. Revenues from these performance
+obligations are generally recognized when a promised good is delivered to a customer. However, if the sales contract contains a customer acceptance provision, then revenues are recognized when the customer accepts the promised good or when a deemed
+acceptance occurs by the lapse of time. Revenues are also recognized over time, primarily from the provision of internet broadband network services to subscribers over the subscription period. Revenues are recognized net of anticipated returns and
+sales incentives. 
+ Within the Game & Network Services (&#8220;G&NS&#8221;) segment, revenues from hardware, peripherals and
+software discs are recognized when performance obligations are satisfied by transferring control to the retailer/distributor, net of anticipated returns, sales incentives and cooperative advertising obligations. Revenues from platform licensing to
+publishers are recognized when physical software discs are delivered. Revenues from digital game content, which is a right to use Sony&#8217;s intellectual property, are recognized when the digital content is made available for use by the licensee
+via an online platform, net of anticipated sales incentives and credit card chargebacks. Revenues from digital game content involving multiple performance obligations, such as obligations to make content available on future dates, are allocated to
+each performance obligation based on the relative standalone selling prices that are observable in the market or Sony&#8217;s best estimate. Revenues from subscription fees for digital subscription services are recognized over the subscription
+period. 
+ Within the Music segment, Sony licenses intellectual property that transfer to a customer either a right to use Sony&#8217;s
+intellectual property, or a right to access Sony&#8217;s intellectual property. Revenues are recognized when the customer has the right to use or access the intellectual property and obtains control of the use or access of that license. Digital
+revenues include revenues from contracts with digital streaming services typically recognized as a single performance obligation, which is ongoing access to intellectual property in an evolving library of content over the contract term, predicated
+on: (1) the business practice and contractual ability to remove specific content without a requirement to replace the content and without impact to minimum royalty guarantees and (2) the contracts not containing a specific listing of
+content subject to the license. For these contracts, revenues are recognized based on sales and usage royalties, except where there is a minimum royalty guarantee that is not expected to be recouped, or a fixed fee, which is recognized on a
+straight-line basis over the term of the contract. Revenues from the sale of physical products such as CDs, net of anticipated returns and sales incentives, are recognized when delivery has occurred and the product is available for sale to the
+public. 
+ Within the Pictures segment, revenues from the theatrical exhibition of motion pictures are recognized as the customer exhibits
+the film. Revenues from the licensing of motion picture and television programming for pay and free television exhibition and other markets are recognized when the product is available for use by the licensee. Revenues for motion picture and
+television program licensing arrangements involving multiple performance obligations, for example a fee for multiple titles, territories or availability dates, are allocated based on the relative standalone selling price of each performance
+obligation using Sony&#8217;s best estimate based on available information such as market conditions and internal pricing guidelines. Each individual motion picture or television programming product delivered generally represents a separate
+performance obligation. Licensing revenue associated with renewals or extensions of existing agreements for motion pictures and television programming is recognized when the licensee can use and benefit from the content under the renewal or
+extension. Licensing revenue associated with minimum guarantees for a right to access Sony&#8217;s intellectual property is recognized ratably over the license term. Revenues from electronic sell-through and video-on-demand are recognized when the product is made available for viewing via digital distribution platforms. Revenues from the sale of broadcast advertising are recognized when the advertisement is
+aired, and the performance obligation in these arrangements is the delivery of advertising spots and may include a guaranteed amount of impressions. When a guarantee for a number of impressions is not achieved, revenues are not recognized until
+additional advertising spots are delivered to provide the guaranteed impressions. Revenues from subscription fees received by television networks and direct-to-consumer 
+(&#8220;DTC&#8221;) streaming services are recognized when the service is provided. The performance obligation under network subscription arrangements is a right to use Sony&#8217;s intellectual property that is satisfied as programming is provided
+over the term of the arrangement. 
+ Revenue is generally recognized net of any taxes collected from customers and subsequently remitted to
+governmental authorities. 
+
+ 11 
+
+ Table of Contents 
+
+ 3. 
+ Change in presentation 
+
+ Consolidated Statements of Income 
+
+ At a meeting of the Board held on May 14, 2025, Sony Group Corporation resolved the plan regarding the execution of the Spin-off. In connection with the resolution, the Financial Services business was classified as a discontinued operation. Income and loss related to a business classified as a discontinued operation are separately
+presented, net of income taxes, following net income from continuing operations, in the consolidated statements of income. For further information on discontinued operations, please refer to Note 11. 
+
+ Consolidated Statements of Financial Position 
+
+ Sony Group Corporation executed the Spin-off effective October 1, 2025. As a result, &#8220;Lease
+liabilities,&#8221; which had previously been included within &#8220;Current portion of long-term debt,&#8221; and &#8220;Long-term debt&#8221; have increased in materiality and are presented as a separate caption in the consolidated statements of
+financial position as of March 31, 2026. In addition, &#8220;Contract liabilities,&#8221; which had previously been included within &#8220;Other current liabilities,&#8221; have also increased in materiality and are presented separately in the
+consolidated statements of financial position as of March 31, 2026. Corresponding reclassifications have been made to the consolidated statements of financial position as of the end of the fiscal year ended March 31, 2025 to conform to
+these changes in presentation. 
+
+ 4. 
+ Significant accounting estimates 
+
+ The preparation of the consolidated financial statements in accordance with IFRS Accounting Standards requires management to make judgments,
+estimates and assumptions that affect the application of accounting policies, the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of
+revenues and expenses during the reporting period. Actual results could differ from these estimates and assumptions. Sony reviews estimates and assumptions on a regular basis. Information about judgments and estimates that have been made in the
+process of applying accounting policies and accounting estimates and assumptions that have significant effects on the amounts reported in the consolidated financial statements are as follows: 
+
+ &#149; 
+
+ Impairment of property, plant and equipment, right-of-use assets, goodwill and intangible assets including
+content assets (2. Material accounting policies (7) Business combinations and (8) Impairment of non-financial assets) 
+
+ Property, plant and equipment
+
+ 1,453,805 million yen 
+
+ Right-of-use assets
+
+ 524,345 million yen 
+
+ Goodwill
+
+ 1,673,906 million yen 
+
+ Intangible assets including content assets
+
+ 3,218,193 million yen 
+
+ &#149; 
+
+ Measurement of film costs and participation and residual liabilities in the Pictures segment (2. Material
+accounting policies (6) Amortization methods for intangible assets including content assets and (9) Provisions) 
+
+ Film costs included in content assets
+
+ 633,836 million yen 
+
+ Participation and residual liabilities in the Pictures segment
+
+ 364,126 million yen 
+
+ &#149; 
+
+ Recoverability of deferred tax assets 
+
+ Deferred tax assets are recognized to the extent that it is probable that taxable profit will be available against which the assets can be
+utilized. Accordingly, the need to adjust deferred tax assets is assessed periodically with available evidence related to the realization of the deferred tax assets. The judgment related to this assessment considers the nature, frequency and
+severity of current and cumulative losses on an individual tax jurisdiction basis, forecasts of future profitability after consideration of uncertain tax positions, excess of appreciated asset value over the tax basis of net assets, the duration of
+statutory carryforward periods, the past utilization of net operating loss carryforwards prior to expiration, as well as prudent and feasible tax planning strategies which would be employed by Sony to prevent net operating loss and tax credit
+carryforwards from expiring unutilized. 
+
+ Deferred tax assets
+
+ 560,800 million yen 
+
+ 12 
+
+ Table of Contents 
+
+ 5. 
+ Notes to Consolidated Statements of Financial Position 
+
+ (1) 
+ Assets pledged as collateral and debts subject to collateral 
+
+ Not applicable 
+
+ (2) 
+ Allowance for credit losses directly deducted from assets 
+
+ Trade and other receivables, and contract assets
+
+ 33,364 million yen 
+
+ (3) 
+ Accumulated depreciation and impairment losses of assets 
+
+ Property, plant and equipment
+
+ 2,778,198 million yen 
+
+ (4) 
+ Guarantee obligations 
+
+ The guarantees mainly include lease contracts of affiliates accounted for using the equity method. 
+
+ Guarantee obligations
+
+ 4,073 million yen 
+
+ 6. 
+ Notes to Consolidated Statements of Changes in Stockholders&#8217; Equity 
+
+ (1) 
+ Type and total number of shares issued as of March 31, 2026 
+
+ Common stock
+
+ 6,149,810,645 shares 
+
+ (2) 
+ Matters related to dividends 
+
+ (i) 
+ Amount of dividends paid: 
+
+ (Resolution)
+
+ Type of shares 
+
+ Total amount of
+dividends
+(Yen in millions) 
+
+ Dividends
+per share (Yen) 
+
+ Record date 
+
+ Effective date 
+
+ Board of Directors May 14, 2025
+
+ Common stock 
+
+ 60,250 
+
+ 10.00 
+
+ March 31, 2025 
+
+ June 2, 2025 
+
+ Board of Directors November 11, 2025
+
+ Common stock 
+
+ 74,714 
+
+ 12.50 
+
+ September 30, 2025 
+
+ December 5, 2025 
+
+ (ii) 
+ Dividends whose record date falls in the fiscal year ended
+March 31, 2026 and whose effective date falls in the fiscal year ending March 31, 2027 are as follows: 
+
+ (Resolution)
+
+ Type of shares
+
+ Total amount of
+dividends
+(Yen in millions) 
+
+ Source of
+dividends 
+
+ Dividends
+per share (Yen) 
+
+ Record date 
+
+ Effective date 
+
+ Board of Directors May 8, 2026
+
+ Common stock 
+
+ 73,846 
+
+ Retained
+earnings 
+
+ 12.50 
+
+ March 31, 2026 
+
+ June 1, 2026 
+
+ (iii) 
+ Dividends in kind: 
+
+ At a meeting of the Board held on May 14, 2025, Sony Group Corporation resolved to submit a resolution for the execution of the Spin-off, effective October 1, 2025, to the Board in early September 2025. Afterwards, at a meeting of the Board held on September 3, 2025, Sony Group Corporation resolved to execute the Spin-off effective October 1, 2025. Upon execution of the Spin-off, Sony Group Corporation distributed dividends in kind to shareholders appearing in Sony Group
+Corporation&#8217;s register of shareholders as of the record date, September 30, 2025, at the rate of one share of common stock of SFGI (&#8220;SFGI share(s)&#8221;) to one share of common stock of Sony Group Corporation held by each
+shareholder, effective October 1, 2025. The dividend was paid out of retained earnings, and the amount equal to the fair value of the SFGI shares distributed as dividends in kind based on IFRS Accounting Standards was 955,700 million yen,
+with an amount per share of 159.89 yen. 
+
+ 13 
+
+ Table of Contents 
+
+ (3) 
+ Type and number of shares subject to the stock acquisition rights (these exercise periods have commenced) at
+the end of the current fiscal year 
+
+ Common stock
+
+ 54,224,900 shares 
+
+ 7. 
+ Notes to financial instruments 
+
+ (1) 
+ Matters related to the status of financial instruments 
+
+ The funds required for Sony&#8217;s business are raised from the financial and capital markets and financial institutions through corporate
+bonds and borrowings. Surplus funds are managed with highly secure financial assets. Sony has entered into derivative contracts such as foreign exchange contracts, currency option contracts, and interest rate swap contracts, which are primarily
+aimed at reducing the risk of foreign exchange fluctuations and cash flow fluctuations, and does not engage in speculative transactions. 
+
+ (2) 
+ Matters related to the fair value of financial instruments 
+
+ Yen in millions 
+
+ Amounts recognized in
+the consolidated
+statements of financial
+position 
+
+ Fair value 
+
+ Difference 
+
+ Assets:
+
+ Securities * 1 
+
+ 961,572 
+
+ 961,572 
+
+ —&#8194; 
+
+ Derivative assets * 1 
+
+ 27,954 
+
+ 27,954 
+
+ —&#8194; 
+
+ Liabilities:
+
+ Long-term debt including the current portion
+
+ 990,803 
+
+ 964,534 
+
+ (26,269 
+ ) 
+
+ Derivative liabilities * 2 
+
+ 70,216 
+
+ 70,216 
+
+ —&#8194; 
+
+ Contingent consideration * 2 
+
+ 16,549 
+
+ 16,549 
+
+ —&#8194; 
+
+ Redeemable noncontrolling interests
+* 2 
+
+ 78,568 
+
+ 78,568 
+
+ —&#8194; 
+
+ *1 
+ Included in other financial assets in the consolidated statements of financial position. 
+
+ *2 
+ Included in other financial liabilities in the consolidated statements of financial position.
+
+ The table above does not include cash and cash equivalents, and financial instruments that are not measured at fair
+value in the consolidated statements of financial position whose carrying amounts approximate their fair values mainly due to their short-term nature. 
+
+ (3) 
+ Matters related to the fair value by fair value hierarchy level of financial instruments
+
+ Each fair value measurement is reported in one of three levels which is determined by the lowest level input that is
+significant to the fair value measurement in its entirety. 
+ These levels are: 
+
+ Level 1 — Inputs are unadjusted quoted prices for identical assets and liabilities in active markets. 
+
+ Level 2 — Inputs are based on observable inputs other than Level 1 prices. 
+
+ Level 3 — One or more significant inputs are unobservable. 
+
+ (i) 
+ Financial instruments recognized in the consolidated statements of financial position at fair
+value 
+
+ Yen in millions 
+
+ Fair value 
+
+ Level 1 
+
+ Level 2 
+
+ Level 3 
+
+ Total 
+
+ Securities
+
+ &#8199;&#8199;&#8201;595,469 
+
+ &#8199;&#8199;&#8201;&#8199;&#8199;8,705 
+
+ &#8199;&#8199;&#8201;357,398 
+
+ &#8199;&#8199;&#8201;961,572 
+
+ Derivative assets
+
+ — 
+
+ 27,954 
+
+ — 
+
+ 27,954 
+
+ Derivative liabilities
+
+ — 
+
+ 14,553 
+
+ 55,663 
+
+ 70,216 
+
+ Contingent consideration
+
+ — 
+
+ — 
+
+ 16,549 
+
+ 16,549 
+
+ Redeemable noncontrolling interests
+
+ — 
+
+ — 
+
+ 78,568 
+
+ 78,568 
+
+ 14 
+
+ Table of Contents 
+
+ The following section describes the valuation techniques used by Sony to
+measure different financial instruments at fair value, including an indication of the level in the fair value hierarchy in which each instrument is generally classified. 
+
+ Securities 
+
+ Where quoted prices of financial instruments are available in an active market, these instruments are classified in
+Level 1 of the fair value hierarchy. Level 1 financial instruments include exchange-traded equity instruments. Level 2 financial instruments include financial instruments with quoted prices that are not traded as actively as
+exchange-traded instruments. In certain cases where there is limited activity or less transparency around inputs to the valuation, these instruments are classified within Level 3 of the fair value hierarchy. Level 3 financial instruments
+primarily include certain private equity investments and investment funds which are not classified within Level 1 or Level 2. Sony estimates the fair value for private equity investments primarily by using comparable company analysis and
+discounted cash flow method. The price book-value ratio and price earnings ratio of comparable companies, as well as cost of capital and EBITDA multiples for the terminal value used in discounted cash flow method, are primarily used as significant
+unobservable inputs in the fair value measurement of equity securities classified as Level 3. The fair value increases (decreases) as the price book-value ratio and price earnings ratio of comparable companies rise (decline). In addition, the
+fair value increases (decreases), as the cost of capital declines (rises) and EBITDA multiples rise (decline), both of which are used in discounted cash flow method. Sony estimates the fair value for certain investment funds by using the net asset
+value. 
+ Derivatives 
+
+ Exchange-traded derivatives valued using quoted prices are classified within Level 1 of the fair value hierarchy. However,
+few classes of derivative contracts are listed on an exchange; thus, the majority of Sony&#8217;s derivative positions are valued using internally developed models that use as their basis readily observable market parameters, meaning parameters that
+are actively quoted and can be validated to external sources, including pricing services. Many of these models do not contain a high level of subjectivity as the techniques used in the models do not require significant judgment, and inputs to the
+model are readily observable from actively quoted markets. Such instruments are generally classified within Level 2 of the fair value hierarchy. If significant unobservable inputs are used in the models, such instruments are classified within
+Level 3. 
+
+ (ii) 
+ Financial instruments that are not recognized in the consolidated statements of financial position
+at fair value 
+
+ Yen in millions 
+
+ Fair value 
+
+ Level 1 
+
+ Level 2 
+
+ Level 3 
+
+ Total 
+
+ Long-term debt including the current portion
+
+ &#8199;&#8199;&#8201;&#8199;&#8199;&#8199;&#8201;&#8199;— 
+
+ &#8199;&#8199;&#8201;962,660 
+
+ &#8199;&#8199;&#8201;&#8199;&#8199;1,874 
+
+ &#8199;&#8199;&#8201;964,534 
+
+ The fair values of long-term debt, including the current portion classified as
+Level 2, were estimated mainly based on discounted future cash flows using Sony&#8217;s current rates for similar liabilities. 
+
+ 8. 
+ Note to investment properties 
+
+ The disclosure is omitted because there are no significant investment properties. 
+
+ 9. 
+ Notes to per-share information 
+
+ Sony Group Corporation&#8217;s stockholders&#8217; equity per share of common stock
+
+ 1,374.32 yen 
+
+ Basic net income attributable to Sony Group Corporation&#8217;s stockholders per share
+
+ 172.51 yen 
+
+ Note: 
+ The basic net income attributable to Sony Group Corporation&#8217;s stockholders per share shown above
+represents the amount from continuing operations. On a consolidated basis including the discontinued operation, the basic net loss attributable to Sony Group Corporation&#8217;s stockholders per share for the same period was 54.70 yen.
+
+ 15 
+
+ Table of Contents 
+
+ 10. 
+ Notes to revenue recognition 
+
+ (1) 
+ Contract balances 
+
+ Receivables from contracts with customers, contract assets and contract liabilities are comprised of the following: 
+
+ Yen in millions 
+
+ March 31, 2026 
+
+ Receivables from contracts with
+customers* 1 
+
+ 1,783,627 
+
+ Contract assets* 2 
+
+ 4,233 
+
+ Contract liabilities* 3 
+
+ 639,022 
+
+ *1 
+ Receivables from contracts with customers are included in the consolidated statements of financial position as
+&#8220;Trade and other receivables, and contract assets&#8221; and &#8220;Other financial assets,&#8221; non-current. 
+
+ *2 
+ Contract assets are included in the consolidated statements of financial position as &#8220;Trade and other
+receivables, and contract assets&#8221; and &#8220;Other non-current assets.&#8221; 
+
+ *3 
+ Contract liabilities are included in the consolidated statements of financial position as &#8220;Contract
+liabilities&#8221; and &#8220;Other non-current liabilities.&#8221; 
+
+ Contract
+liabilities principally relate to customer advances received prior to performance. Revenues of 561,184 million yen were recognized during the fiscal year ended March 31, 2026, which were included in the balance of contract liabilities as
+of April 1, 2025. The amount of revenue recognized from performance obligations satisfied or partially satisfied in the previous periods is not significant. 
+
+ (2) 
+ Performance obligations 
+
+ Remaining (unsatisfied or partially unsatisfied) performance obligations represent future revenues not yet recorded for firm orders that have
+not yet been performed. Sony applies practical expedients to exclude contracts with an expected original duration of one year or less. The following table shows the summary of the transaction prices allocated to remaining performance obligations
+that are unsatisfied at March 31, 2026, of which approximately half are expected to be recognized within one year and substantially all within three years. The amount of the transaction price related to variable consideration is included only
+to the extent that it is highly probable that a significant reversal in the amount of cumulative revenue to be recognized will not occur. 
+
+ Yen in millions 
+
+ March 31, 2026 
+
+ Pictures – Motion Pictures and Television Productions* 1 
+
+ 1,150,679 
+
+ Pictures – Media Networks
+
+ 18,656 
+
+ Music* 2 
+
+ 150,361 
+
+ Others
+
+ 80,405 
+
+ *1 
+ For Motion Pictures and Television Productions in the Pictures segment, Sony has included all contracts
+regardless of duration. 
+
+ *2 
+ The amount included in the Music segment primarily consists of minimum royalty guarantees or fixed fees in
+contracts related to license revenue for ongoing access to an evolving library of content. 
+
+ 16 
+
+ Table of Contents 
+
+ (3) 
+ Disaggregation of revenue 
+
+ The following table is a breakdown of sales by segment and product category for each segment. 
+
+ Sales by segment and product category: 
+
+ Yen in millions 
+
+ Fiscal year ended March 31, 2026 
+
+ Sales:
+
+ Game & Network Services
+
+ Digital Software and Add-on Content
+
+ 2,415,305 
+
+ Network Services
+
+ 763,126 
+
+ Hardware and Others
+
+ 1,391,622 
+
+ Total
+
+ 4,570,053 
+
+ Music
+
+ Recorded Music – Streaming
+
+ 852,672 
+
+ Recorded Music – Others
+
+ 492,656 
+
+ Music Publishing
+
+ 419,864 
+
+ Visual Media and Platform
+
+ 325,342 
+
+ Total
+
+ 2,090,534 
+
+ Pictures
+
+ Motion Pictures
+
+ 495,655 
+
+ Television Productions
+
+ 512,372 
+
+ Media Networks
+
+ 478,269 
+
+ Total
+
+ 1,486,296 
+
+ Entertainment, Technology & Services
+
+ Imaging
+
+ 722,465 
+
+ Sound
+
+ 278,846 
+
+ Network Services
+
+ 188,308 
+
+ Displays
+
+ 476,305 
+
+ Other
+
+ 518,891 
+
+ Total
+
+ 2,184,815 
+
+ Imaging & Sensing Solutions
+
+ 2,059,020 
+
+ All Other
+
+ 74,564 
+
+ Corporate
+
+ 14,338 
+
+ Consolidated total
+
+ 12,479,620 
+
+ * 
+ Sony has realigned its product categories in the ET&S segment due to changes in business categories from
+the fiscal year ended March 31, 2026. 
+
+ The G&NS segment includes the production and sales of digital software
+and add-on content, the network services businesses and the manufacture and sales of home gaming products. Digital Software and Add-on Content includes distribution of
+software titles and add-on content through the network; Network Services includes network services relating to game, video and music content; Hardware and Others includes home gaming consoles, packaged
+software, game software sold bundled with home gaming consoles, peripheral devices and first-party software for third-party platforms. 
+
+ The Music segment includes the Recorded Music, Music Publishing and Visual Media and Platform businesses. Recorded Music—Streaming
+includes the distribution of digital recorded music by streaming; Recorded Music—Others includes the distribution of recorded music by physical media and digital download as well as revenue derived from artists&#8217; live performances and
+merchandising; Music Publishing includes the management and licensing of the words and music of songs; Visual Media and Platform includes the production and distribution of animation titles and game applications, and various service offerings for
+music and visual products. 
+
+ 17 
+
+ Table of Contents 
+
+ The Pictures segment includes the Motion Pictures, Television Productions and Media Networks
+businesses. Motion Pictures includes the worldwide production, acquisition and distribution of live-action and animated motion pictures; Television Productions includes the production, acquisition and distribution of television programming; Media
+Networks includes the operation of television networks and DTC streaming services worldwide. 
+ The ET&S segment includes the Imaging
+business, Sound business, Network Services business and Displays business. Imaging includes image and video content creation products and solutions including interchangeable lens cameras and interchangeable lenses; Sound includes headphones and
+wireless speakers; Network Services includes internet-related services; Displays includes display products such as LCD and OLED televisions as well as projectors; and Other includes smartphones, home audio products and medical equipment, as well as
+sports officiating support and content production support services. 
+ The I&SS segment includes the image sensors business. 
+
+ All Other consists of various operating activities, including the disc manufacturing and recording media businesses. 
+
+ In connection with the resolution for the plan regarding the execution of the Spin-off, the Financial
+Services business was classified as a discontinued operation and has been excluded from the reporting segments. For further information on discontinued operations, please refer to Note 11. 
+
+ 11. 
+ Notes to discontinued operations 
+
+ At a meeting of the Board held on May 14, 2025, Sony Group Corporation resolved to submit a resolution for the execution of the Spin-off, effective October 1, 2025, to the Board in early September 2025. Afterwards, at a meeting of the Board held on September 3, 2025, Sony Group Corporation resolved to execute the Spin-off effective October 1, 2025. Upon execution of the Spin-off, Sony Group Corporation distributed dividends in kind to shareholders appearing in Sony Group
+Corporation&#8217;s register of shareholders as of the record date, September 30, 2025, at the rate of one SFGI share to one share of common stock of Sony Group Corporation held by each shareholder, effective October 1, 2025. As a result,
+Sony Group Corporation held 16.40% of SFGI shares as of October 1, 2025. 
+ In connection with the Board resolution on May 14,
+2025 on the plan for the execution of the Spin-off, Sony Group Corporation determined that the distribution of SFGI shares was highly probable and the Financial Services business was classified as a
+discontinued operation, in accordance with IFRS 5 &#8220;Non-current Assets Held for Sale and Discontinued Operations.&#8221; As a result, in the consolidated statements of income; revenue and expenses of the
+Financial Services business, among other items, are separated from continuing operations, comprised of Sony&#8217;s businesses excluding the Financial Services business, and presented as net income (loss) from discontinued operations. 
+
+ Then, as a result of the execution of the Spin-off effective October 1, 2025, SFGI, which was a
+wholly-owned subsidiary of Sony Group Corporation, was deconsolidated as of October 1, 2025 and became an affiliate accounted for using the equity method. 
+
+ Further, as a result of the execution of the Spin-off, 1,377,795 million yen of accumulated other
+comprehensive income directly related to the disposal group classified as held for distribution to owners at the time of the execution was transferred to net income (loss) from discontinued operations as a loss in the consolidated statements of
+income. 
+ In addition, upon applying the equity method to SFGI on October 1, 2025, the fair value of SFGI shares on that date was
+recorded as its initial investment cost. At the time of the execution of the Spin-off, since Sony&#8217;s equity interest in the net fair value of SFGI&#8217;s identifiable assets and liabilities exceeded the
+cost of the initial recognition of the investment, 188,888 million yen of the excess was recognized as the share of profit of investments accounted for using the equity method in connection with the initial investment cost. On the other hand,
+since the fair value of SFGI shares as of October 1, 2025 was lower than the equity method carrying amount, which is the initial investment cost plus the share of profit of investments accounted for using the equity method, 188,888 million
+yen of an impairment loss of the same amount as the aforementioned excess amount has been recorded, as the share of loss of investments accounted for using the equity method. 
+
+ 18 
+
+ Table of Contents 
+
+ Results of discontinued operations 
+
+ Yen in millions 
+
+ Fiscal year ended March 31 
+
+ 2025 
+
+ 2026 
+
+ Financial services revenue
+
+ 922,147 
+
+ 678,023 
+
+ Financial services expenses
+
+ 789,702 
+
+ 640,811 
+
+ Reclassification of accumulated other comprehensive income related to the disposal group to net
+income (loss)
+
+ — 
+
+ (1,377,795 
+ ) 
+
+ Other income (expenses), net
+
+ (1,917 
+ ) 
+
+ (6,450 
+ ) 
+
+ Income (loss) before income taxes from discontinued
+operations
+
+ 130,528 
+
+ (1,347,033 
+ ) 
+
+ Income taxes
+
+ 56,359 
+
+ 10,725 
+
+ Net income (loss) from discontinued operations
+
+ 74,169 
+
+ (1,357,758 
+ ) 
+
+ 12. 
+ Notes to subsequent events 
+
+ (Establishment of a facility for the repurchase of shares of its own common stock) 
+
+ Sony Group Corporation approved the establishment of the following facility for the repurchase of its own common stock pursuant to the
+Companies Act of Japan and Sony Group Corporation&#8217;s Articles of Incorporation at the meeting of the Board held on May 8, 2026. 
+
+ 1. 
+ Total number of shares for repurchase: 230 million shares (maximum) 
+
+ 2. 
+ Total purchase price for repurchase of shares: 500 billion yen (maximum) 
+
+ 3. 
+ Period of repurchase: May 11, 2026 to May 10, 2027 
+
+ (Cancellation of shares of its own common stock) 
+
+ Based on a decision by Sony Group Corporation&#8217;s Representative Corporate Executive Officer delegated by the Board, and pursuant to the
+Companies Act of Japan, Sony Group Corporation has decided to cancel shares of its own common stock held as treasury stock as follows. 
+ 1.
+Total number of shares to be cancelled: 184,494,319 shares 
+ 2. Planned cancellation date: May 29, 2026 
+
+ (Acquisition of a group of assets that does not constitute a business) 
+
+ In May 2026, a consolidated subsidiary of Sony in the Music Segment entered into a definitive agreement to acquire 100% of the equity interests
+in a company that owns certain music assets and other assets (the &#8220;target company&#8221;). Sony will consolidate the target company and the acquisition will be accounted for as an acquisition of a group of assets that does not constitute a
+business. The total cash consideration is approximately 1.6 billion U.S. dollars, subject to customary working capital and other adjustments. As a result of the transaction, Sony will recognize approximately 3.4 billion U.S. dollars of
+content assets (music catalogs), approximately 1.9 billion U.S. dollars of long-term debt and approximately 0.4 billion U.S. dollars of non-controlling interests by consolidating the target company.
+This transaction is subject to certain closing conditions, including regulatory approvals. 
+
+ 19

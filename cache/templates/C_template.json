@@ -1,0 +1,50 @@
+{
+  "ticker": "C",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Services",
+      "sub_segments": [
+        "Transaction and Treasury Services (TTS)",
+        "Securities Services",
+        "Treasury and Trade Solutions (TTS)"
+      ]
+    },
+    {
+      "name": "Markets",
+      "sub_segments": [
+        "Fixed Income Markets",
+        "Equity Markets",
+        "Rates and currencies",
+        "Spread products/other fixed income"
+      ]
+    },
+    {
+      "name": "Banking",
+      "sub_segments": [
+        "Investment Banking",
+        "Other Banking",
+        "Advisory",
+        "Equity underwriting (Equity Capital Markets (ECM))",
+        "Debt underwriting (Debt Capital Markets (DCM))",
+        "Investment banking fees"
+      ]
+    },
+    {
+      "name": "Wealth",
+      "sub_segments": []
+    },
+    {
+      "name": "USPB",
+      "sub_segments": []
+    },
+    {
+      "name": "All Other - managed basis",
+      "sub_segments": []
+    },
+    {
+      "name": "All Other \u2014 managed basis",
+      "sub_segments": []
+    }
+  ]
+}

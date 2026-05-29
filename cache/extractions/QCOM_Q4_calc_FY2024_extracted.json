@@ -1,0 +1,38 @@
+{
+  "company": "Qualcomm Incorporated",
+  "ticker": "QCOM",
+  "report_date": "2024-09-29",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [],
+  "income_statement": {
+    "total_revenue": 10.3,
+    "cost_of_revenue": 4.5,
+    "gross_profit": 5.8,
+    "total_operating_expenses": 3.1,
+    "operating_income": 2.7,
+    "other_income_expense": -0.2,
+    "income_before_tax": 2.5,
+    "tax_expense": -0.4,
+    "net_income": 2.9,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "selling_general_administrative": 0.8,
+      "research_and_development": 2.3
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 30,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": true
+}

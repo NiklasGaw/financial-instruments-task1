@@ -1,0 +1,197 @@
+{
+  "company": "GE Aerospace",
+  "ticker": "GE",
+  "report_date": "2021-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2021",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Commercial Engines & Services",
+      "revenue": 3.4,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Equipment",
+          "revenue": 1.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Services",
+          "revenue": 3.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Defense & Propulsion Technologies",
+      "revenue": null,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Defense & Systems",
+          "revenue": 0.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Propulsion & Additive Technologies",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Corporate & Other",
+      "revenue": null,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Aerospace",
+      "revenue": 5.0,
+      "operating_income": 0.6,
+      "yoy_growth_pct": -28.0,
+      "sub_segments": [
+        {
+          "name": "Commercial Engines and Services",
+          "revenue": 3.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Defense",
+          "revenue": 1.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Systems & Other",
+          "revenue": 0.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Commercial Engines & Services",
+          "revenue": 3.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Military",
+          "revenue": 1.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Renewable Energy",
+      "revenue": 3.2,
+      "operating_income": null,
+      "yoy_growth_pct": 2.0,
+      "sub_segments": [
+        {
+          "name": "Onshore Wind",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Grid Solutions equipment and services",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Hydro, Offshore Wind and Hybrid Solutions",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Power",
+      "revenue": 3.9,
+      "operating_income": null,
+      "yoy_growth_pct": -3.0,
+      "sub_segments": [
+        {
+          "name": "Gas Power",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Steam Power",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Power Conversion, Nuclear and other",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Corporate",
+      "revenue": null,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "GE Digital revenues",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Insurance revenues",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "HealthCare",
+      "revenue": 4.3,
+      "operating_income": null,
+      "yoy_growth_pct": -9.0,
+      "sub_segments": [
+        {
+          "name": "Healthcare Systems (HCS)",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Pharmaceutical Diagnostics (PDx)",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 17.1,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue": 12.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 4.6,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.6,
+      "selling_general_administrative": 2.9,
+      "other_operating": 14.0
+    },
+    "total_operating_expenses": 17.5,
+    "operating_income": -12.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 10.2,
+    "income_before_tax": 0.2,
+    "tax_expense": 0.1,
+    "net_income": -2.8,
+    "net_income_yoy_pct": null
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

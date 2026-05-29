@@ -1,0 +1,59 @@
+{
+  "ticker": "DIS",
+  "source": "cache: 10-K 2023-09-30",
+  "segments": [
+    {
+      "name": "Entertainment",
+      "sub_segments": [
+        "Linear Networks",
+        "Direct-to-Consumer",
+        "Content Sales/Licensing and Other"
+      ]
+    },
+    {
+      "name": "Sports",
+      "sub_segments": [
+        "Affiliate and subscription fees",
+        "Advertising",
+        "Other",
+        "Affiliate fees",
+        "Subscription fees"
+      ]
+    },
+    {
+      "name": "Experiences",
+      "sub_segments": [
+        "Theme park admissions",
+        "Resorts and vacations",
+        "Parks & Experiences merchandise, food and beverage",
+        "Merchandise licensing and retail",
+        "Parks licensing and other"
+      ]
+    },
+    {
+      "name": "Linear Networks",
+      "sub_segments": [
+        "Affiliate fees",
+        "Advertising",
+        "Other"
+      ]
+    },
+    {
+      "name": "Direct-to-Consumer",
+      "sub_segments": [
+        "Subscription fees",
+        "Advertising",
+        "Other"
+      ]
+    },
+    {
+      "name": "Content Sales/Licensing and Other",
+      "sub_segments": [
+        "TV/VOD distribution",
+        "Theatrical distribution",
+        "Home entertainment distribution",
+        "Other"
+      ]
+    }
+  ]
+}

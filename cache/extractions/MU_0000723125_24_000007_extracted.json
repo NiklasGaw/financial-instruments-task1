@@ -1,0 +1,59 @@
+{
+  "company": "Micron Technology",
+  "ticker": "MU",
+  "report_date": "2024-02-29",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Cloud Memory Business Unit (CMBU)",
+      "revenue": 2.2,
+      "operating_income": 0.0,
+      "yoy_growth_pct": 59.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Core Data Center Business Unit (CDBU)",
+      "revenue": 2.2,
+      "operating_income": 0.0,
+      "yoy_growth_pct": 59.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Mobile and Client Business Unit (MCBU)",
+      "revenue": 1.6,
+      "operating_income": -0.0,
+      "yoy_growth_pct": 69.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 5.8,
+    "total_revenue_yoy_pct": 57.7,
+    "cost_of_revenue": 4.7,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 1.1,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.8,
+      "selling_general_administrative": 0.3
+    },
+    "total_operating_expenses": 1.1,
+    "operating_income": 0.2,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 0.2,
+    "tax_expense": -0.6,
+    "net_income": 0.8,
+    "net_income_yoy_pct": -134.3
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

@@ -1,0 +1,88 @@
+{
+  "company": "Boeing Company",
+  "ticker": "BA",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Commercial Airplanes",
+      "revenue": 33.9,
+      "operating_income": -1.6,
+      "yoy_growth_pct": 30.3,
+      "sub_segments": []
+    },
+    {
+      "name": "Defense, Space & Security",
+      "revenue": 24.9,
+      "operating_income": -1.8,
+      "yoy_growth_pct": 7.6,
+      "sub_segments": [
+        {
+          "name": "Commercial Crew",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "VC-25B",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "KC-46A Tanker",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "T-7A Red Hawk",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "MQ-25",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Military Satellites",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Defense, Space & Security",
+          "revenue": 24.7,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 77.8,
+    "total_revenue_yoy_pct": 16.8,
+    "cost_of_revenue": 70.1,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 7.7,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 3.4,
+      "selling_general_administrative": 5.2
+    },
+    "total_operating_expenses": 8.5,
+    "operating_income": -0.8,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.2,
+    "income_before_tax": -2.0,
+    "tax_expense": 0.2,
+    "net_income": -2.2,
+    "net_income_yoy_pct": -55.0
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

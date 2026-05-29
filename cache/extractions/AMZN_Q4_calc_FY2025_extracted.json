@@ -1,0 +1,89 @@
+{
+  "company": "Amazon.com Inc.",
+  "ticker": "AMZN",
+  "report_date": "2025-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "AWS",
+      "revenue": 35.5,
+      "operating_income": 12.5,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Online stores",
+      "revenue": 83.0,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Physical stores",
+      "revenue": 5.9,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Third-party seller services",
+      "revenue": 52.9,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Advertising services",
+      "revenue": 21.3,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Subscription services",
+      "revenue": 13.1,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Other",
+      "revenue": 1.7,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 213.3,
+    "cost_of_revenue": 109.9,
+    "gross_profit": 103.4,
+    "total_operating_expenses": 78.4,
+    "operating_income": 25.0,
+    "other_income_expense": 1.1,
+    "income_before_tax": 26.5,
+    "tax_expense": 4.9,
+    "net_income": 21.2,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 2.7,
+      "other_operating": 75.7
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 90,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

@@ -1,0 +1,32 @@
+{
+  "ticker": "KLAC",
+  "source": "cache: 10-K 2023-06-30",
+  "segments": [
+    {
+      "name": "Semiconductor Process Control",
+      "sub_segments": [
+        "Wafer Inspection",
+        "Patterning",
+        "Other Semiconductor Process Control"
+      ]
+    },
+    {
+      "name": "Specialty Semiconductor Process",
+      "sub_segments": [
+        "Specialty Semiconductor Process",
+        "Other Specialty Semiconductor Process"
+      ]
+    },
+    {
+      "name": "PCB and Component Inspection",
+      "sub_segments": [
+        "PCB and Component Inspection",
+        "Other PCB and Component Inspection"
+      ]
+    },
+    {
+      "name": "PCB, Display and Component Inspection",
+      "sub_segments": []
+    }
+  ]
+}

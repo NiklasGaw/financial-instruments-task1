@@ -1,0 +1,66 @@
+{
+  "company": "Micron Technology",
+  "ticker": "MU",
+  "report_date": "2023-08-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Compute and Networking Business Unit (CNBU)",
+      "revenue": 5.7,
+      "operating_income": -0.6,
+      "yoy_growth_pct": -58.3,
+      "sub_segments": []
+    },
+    {
+      "name": "Mobile Business Unit (MBU)",
+      "revenue": 3.6,
+      "operating_income": -1.8,
+      "yoy_growth_pct": -50.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Embedded Business Unit (EBU)",
+      "revenue": 3.6,
+      "operating_income": 0.4,
+      "yoy_growth_pct": -30.5,
+      "sub_segments": []
+    },
+    {
+      "name": "Storage Business Unit (SBU)",
+      "revenue": 2.6,
+      "operating_income": -1.9,
+      "yoy_growth_pct": -44.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 15.5,
+    "total_revenue_yoy_pct": -49.5,
+    "cost_of_revenue": 17.0,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": -1.4,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 3.1,
+      "selling_general_administrative": 0.9
+    },
+    "total_operating_expenses": 4.0,
+    "operating_income": -5.7,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.1,
+    "income_before_tax": -5.7,
+    "tax_expense": 0.2,
+    "net_income": -5.8,
+    "net_income_yoy_pct": -167.1
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

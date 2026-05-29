@@ -1,0 +1,66 @@
+{
+  "company": "AMD Inc.",
+  "ticker": "AMD",
+  "report_date": "2023-12-30",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Data Center",
+      "revenue": 6.5,
+      "operating_income": 1.3,
+      "yoy_growth_pct": 7.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Client",
+      "revenue": 4.7,
+      "operating_income": -0.1,
+      "yoy_growth_pct": -25.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Gaming",
+      "revenue": 6.2,
+      "operating_income": 1.0,
+      "yoy_growth_pct": -9.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Embedded",
+      "revenue": 5.3,
+      "operating_income": 2.6,
+      "yoy_growth_pct": 17.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 22.7,
+    "total_revenue_yoy_pct": -3.9,
+    "cost_of_revenue": 12.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 10.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 5.9,
+      "selling_general_administrative": 2.4
+    },
+    "total_operating_expenses": 8.2,
+    "operating_income": 0.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.2,
+    "income_before_tax": 0.5,
+    "tax_expense": -0.3,
+    "net_income": 0.9,
+    "net_income_yoy_pct": -35.3
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

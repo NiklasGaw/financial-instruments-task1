@@ -1,0 +1,52 @@
+{
+  "company": "Netflix Inc.",
+  "ticker": "NFLX",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Streaming",
+      "revenue": 33.6,
+      "operating_income": 6.9,
+      "yoy_growth_pct": 7.0,
+      "sub_segments": []
+    },
+    {
+      "name": "DVD",
+      "revenue": 0.1,
+      "operating_income": null,
+      "yoy_growth_pct": -43.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 33.7,
+    "total_revenue_yoy_pct": 6.7,
+    "cost_of_revenue": 19.7,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 14.0,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 2.7,
+      "selling_general_administrative": 1.7
+    },
+    "total_operating_expenses": 4.4,
+    "operating_income": 7.0,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.8,
+    "income_before_tax": 6.2,
+    "tax_expense": 0.8,
+    "net_income": 5.4,
+    "net_income_yoy_pct": 20.4
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

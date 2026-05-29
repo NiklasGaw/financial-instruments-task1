@@ -1,0 +1,66 @@
+{
+  "company": "Applied Materials Inc.",
+  "ticker": "AMAT",
+  "report_date": "2023-10-29",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Semiconductor Systems",
+      "revenue": 19.7,
+      "operating_income": 7.1,
+      "yoy_growth_pct": 5.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Applied Global Services",
+      "revenue": 5.7,
+      "operating_income": 1.7,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Display and Adjacent Markets",
+      "revenue": 0.9,
+      "operating_income": 0.1,
+      "yoy_growth_pct": -35.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Corporate and Other",
+      "revenue": 0.2,
+      "operating_income": -1.2,
+      "yoy_growth_pct": 92.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 26.5,
+    "total_revenue_yoy_pct": 2.8,
+    "cost_of_revenue": 14.1,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 12.4,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 3.1,
+      "selling_general_administrative": 1.6
+    },
+    "total_operating_expenses": 4.7,
+    "operating_income": 7.7,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.1,
+    "income_before_tax": 7.7,
+    "tax_expense": 0.9,
+    "net_income": 6.9,
+    "net_income_yoy_pct": 5.1
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

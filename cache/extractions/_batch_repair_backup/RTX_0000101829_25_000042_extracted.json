@@ -1,0 +1,59 @@
+{
+  "company": "RTX Corporation",
+  "ticker": "RTX",
+  "report_date": "2025-09-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Collins Aerospace",
+      "revenue": 7.0,
+      "operating_income": null,
+      "yoy_growth_pct": 8.5,
+      "sub_segments": []
+    },
+    {
+      "name": "Pratt & Whitney",
+      "revenue": 8.4,
+      "operating_income": null,
+      "yoy_growth_pct": 16.4,
+      "sub_segments": []
+    },
+    {
+      "name": "Raytheon",
+      "revenue": 7.0,
+      "operating_income": null,
+      "yoy_growth_pct": 10.4,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 22.5,
+    "total_revenue_yoy_pct": 11.9,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.7,
+      "selling_general_administrative": 1.4
+    },
+    "total_operating_expenses": 2.1,
+    "operating_income": 2.5,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.2,
+    "income_before_tax": 2.4,
+    "tax_expense": 0.4,
+    "net_income": 1.9,
+    "net_income_yoy_pct": 30.3
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

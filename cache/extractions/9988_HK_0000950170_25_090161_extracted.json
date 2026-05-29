@@ -1,0 +1,52 @@
+{
+  "company": "Alibaba Group Holding",
+  "ticker": "9988.HK",
+  "report_date": "2025-03-31",
+  "form_type": "20-F",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Cainiao Smart Logistics Network Limited",
+      "revenue": 101.3,
+      "operating_income": 0.3,
+      "yoy_growth_pct": 2.3,
+      "sub_segments": []
+    },
+    {
+      "name": "Hujing Digital Media and Entertainment Group",
+      "revenue": 22.3,
+      "operating_income": -0.6,
+      "yoy_growth_pct": 5.3,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 137.3,
+    "total_revenue_yoy_pct": 5.3,
+    "cost_of_revenue": 82.4,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 54.9,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 7.9,
+      "selling_general_administrative": 25.9
+    },
+    "total_operating_expenses": 33.8,
+    "operating_income": 19.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 3.4,
+    "income_before_tax": 21.4,
+    "tax_expense": 4.9,
+    "net_income": 17.9,
+    "net_income_yoy_pct": 61.8
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

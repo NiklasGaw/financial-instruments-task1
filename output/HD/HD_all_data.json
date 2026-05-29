@@ -1,0 +1,1148 @@
+[
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2026-02-01",
+    "form_type": "10-K",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 52.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 51.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 47.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 12.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 164.7,
+      "total_revenue_yoy_pct": 3.2,
+      "cost_of_revenue": 109.8,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 54.9,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 30.7,
+        "other_operating": 3.3
+      },
+      "total_operating_expenses": 34.0,
+      "operating_income": 20.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -2.3,
+      "income_before_tax": 18.6,
+      "tax_expense": 4.4,
+      "net_income": 14.2,
+      "net_income_yoy_pct": -4.4
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2025-02-02",
+    "form_type": "10-K",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 52.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 51.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 48.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 6.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 159.5,
+      "total_revenue_yoy_pct": 4.5,
+      "cost_of_revenue": 106.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 53.3,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 28.7,
+        "other_operating": 3.1
+      },
+      "total_operating_expenses": 31.8,
+      "operating_income": 21.5,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -2.1,
+      "income_before_tax": 19.4,
+      "tax_expense": 4.6,
+      "net_income": 14.8,
+      "net_income_yoy_pct": -2.2
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2024-01-28",
+    "form_type": "10-K",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 57.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 50.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 45.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 152.7,
+      "total_revenue_yoy_pct": -3.0,
+      "cost_of_revenue": 101.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 51.0,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 26.6,
+        "other_operating": 2.7
+      },
+      "total_operating_expenses": 29.3,
+      "operating_income": 21.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -1.8,
+      "income_before_tax": 19.9,
+      "tax_expense": 4.8,
+      "net_income": 15.1,
+      "net_income_yoy_pct": -11.5
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2026-05-03",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 13.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 12.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 12.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 4.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 41.8,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue": 28.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 13.8,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 7.9,
+        "other_operating": 0.9
+      },
+      "total_operating_expenses": 8.8,
+      "operating_income": 5.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.6,
+      "income_before_tax": 4.4,
+      "tax_expense": 1.1,
+      "net_income": 3.3,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2025-11-02",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 13.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 12.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 10.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 3.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 41.4,
+      "total_revenue_yoy_pct": 2.8,
+      "cost_of_revenue": 27.5,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 13.8,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 7.6,
+        "other_operating": 0.8
+      },
+      "total_operating_expenses": 8.4,
+      "operating_income": 5.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.6,
+      "income_before_tax": 4.8,
+      "tax_expense": 1.2,
+      "net_income": 3.6,
+      "net_income_yoy_pct": -1.3
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2025-08-03",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 14.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 13.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 14.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 3.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 45.3,
+      "total_revenue_yoy_pct": 4.9,
+      "cost_of_revenue": 30.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 15.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 7.8,
+        "other_operating": 0.7
+      },
+      "total_operating_expenses": 8.5,
+      "operating_income": 6.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.5,
+      "income_before_tax": 6.0,
+      "tax_expense": 1.5,
+      "net_income": 4.6,
+      "net_income_yoy_pct": -0.2
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2025-05-04",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 12.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 12.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 11.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 2.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 39.9,
+      "total_revenue_yoy_pct": 9.4,
+      "cost_of_revenue": 26.4,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 13.5,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 7.5,
+        "other_operating": 0.9
+      },
+      "total_operating_expenses": 8.4,
+      "operating_income": 5.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.6,
+      "income_before_tax": 4.5,
+      "tax_expense": 1.1,
+      "net_income": 3.4,
+      "net_income_yoy_pct": -4.6
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2024-10-27",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 13.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 12.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 11.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 2.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 40.2,
+      "total_revenue_yoy_pct": 6.6,
+      "cost_of_revenue": 26.8,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 13.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 7.2,
+        "other_operating": 0.8
+      },
+      "total_operating_expenses": 8.0,
+      "operating_income": 5.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.6,
+      "income_before_tax": 4.8,
+      "tax_expense": 1.2,
+      "net_income": 3.6,
+      "net_income_yoy_pct": -4.3
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2024-07-28",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 13.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 13.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 14.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 1.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 43.2,
+      "total_revenue_yoy_pct": 0.6,
+      "cost_of_revenue": 28.8,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 14.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 7.1,
+        "other_operating": 0.8
+      },
+      "total_operating_expenses": 7.9,
+      "operating_income": 6.5,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.4,
+      "income_before_tax": 6.0,
+      "tax_expense": 1.5,
+      "net_income": 4.6,
+      "net_income_yoy_pct": -2.1
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2024-04-28",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 12.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 12.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 11.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 36.4,
+      "total_revenue_yoy_pct": -2.3,
+      "cost_of_revenue": 24.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 12.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 6.7,
+        "other_operating": 0.6
+      },
+      "total_operating_expenses": 7.3,
+      "operating_income": 5.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.4,
+      "income_before_tax": 4.7,
+      "tax_expense": 1.1,
+      "net_income": 3.6,
+      "net_income_yoy_pct": -7.0
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2023-10-29",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 14.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 12.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 10.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 37.7,
+      "total_revenue_yoy_pct": -3.0,
+      "cost_of_revenue": 25.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 12.7,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 6.6,
+        "other_operating": 0.7
+      },
+      "total_operating_expenses": 7.3,
+      "operating_income": 5.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.4,
+      "income_before_tax": 5.0,
+      "tax_expense": 1.2,
+      "net_income": 3.8,
+      "net_income_yoy_pct": -12.2
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2023-07-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 15.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 13.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 14.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 42.9,
+      "total_revenue_yoy_pct": -2.0,
+      "cost_of_revenue": 28.8,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 14.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 6.9,
+        "other_operating": 0.7
+      },
+      "total_operating_expenses": 7.6,
+      "operating_income": 6.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.4,
+      "income_before_tax": 6.2,
+      "tax_expense": 1.5,
+      "net_income": 4.7,
+      "net_income_yoy_pct": -9.9
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2023-04-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 14.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 12.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 10.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 37.3,
+      "total_revenue_yoy_pct": -4.2,
+      "cost_of_revenue": 24.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 12.6,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 6.4,
+        "other_operating": 0.6
+      },
+      "total_operating_expenses": 7.0,
+      "operating_income": 5.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.5,
+      "income_before_tax": 5.1,
+      "tax_expense": 1.2,
+      "net_income": 3.9,
+      "net_income_yoy_pct": -8.5
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2022-10-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 15.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 13.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 10.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 38.9,
+      "total_revenue_yoy_pct": 5.6,
+      "cost_of_revenue": 25.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 13.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 6.5,
+        "other_operating": 0.6
+      },
+      "total_operating_expenses": 7.1,
+      "operating_income": 6.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.4,
+      "income_before_tax": 5.7,
+      "tax_expense": 1.4,
+      "net_income": 4.3,
+      "net_income_yoy_pct": 5.1
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2022-07-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 15.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 14.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 13.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 43.8,
+      "total_revenue_yoy_pct": 6.5,
+      "cost_of_revenue": 29.3,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 14.5,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 6.7,
+        "other_operating": 0.6
+      },
+      "total_operating_expenses": 7.3,
+      "operating_income": 7.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.3,
+      "income_before_tax": 6.8,
+      "tax_expense": 1.7,
+      "net_income": 5.2,
+      "net_income_yoy_pct": 7.6
+    },
+    "notes": "XBRL IS + manual segment patch (Building Materials / D\u00e9cor / Hardlines / Other).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2026-02-01",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 11.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 12.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 10.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Other",
+        "revenue": 3.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 38.1,
+      "cost_of_revenue": 25.7,
+      "gross_profit": 12.5,
+      "total_operating_expenses": 8.7,
+      "operating_income": 3.8,
+      "other_income_expense": -0.6,
+      "income_before_tax": 3.3,
+      "tax_expense": 0.6,
+      "net_income": 2.6,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 7.8,
+        "other_operating": 0.9
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 90,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2025-02-02",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 12.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 13.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 11.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 39.7,
+      "cost_of_revenue": 26.6,
+      "gross_profit": 13.1,
+      "total_operating_expenses": 8.6,
+      "operating_income": 4.5,
+      "other_income_expense": -0.7,
+      "income_before_tax": 3.9,
+      "tax_expense": 0.8,
+      "net_income": 3.0,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 7.7,
+        "other_operating": 0.9
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 90,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  },
+  {
+    "company": "Home Depot Inc.",
+    "ticker": "HD",
+    "report_date": "2024-01-28",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Building Materials",
+        "revenue": 12.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "D\u00e9cor",
+        "revenue": 11.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Hardlines",
+        "revenue": 10.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 34.8,
+      "cost_of_revenue": 23.2,
+      "gross_profit": 11.5,
+      "total_operating_expenses": 7.4,
+      "operating_income": 4.1,
+      "other_income_expense": -0.5,
+      "income_before_tax": 3.6,
+      "tax_expense": 0.9,
+      "net_income": 2.7,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 6.7,
+        "other_operating": 0.7
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 90,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  }
+]

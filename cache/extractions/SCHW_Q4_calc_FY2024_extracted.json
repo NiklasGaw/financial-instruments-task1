@@ -1,0 +1,60 @@
+{
+  "company": "Charles Schwab Corp.",
+  "ticker": "SCHW",
+  "report_date": "2024-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Net interest revenue",
+      "revenue": 2.5,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Trading revenue",
+      "revenue": 0.9,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Bank deposit account fees",
+      "revenue": 0.1,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 5.4,
+    "cost_of_revenue": null,
+    "gross_profit": null,
+    "total_operating_expenses": null,
+    "operating_income": null,
+    "other_income_expense": null,
+    "income_before_tax": 2.4,
+    "tax_expense": 0.6,
+    "net_income": 1.8,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "selling_general_administrative": null,
+      "research_and_development": null
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 55,
+  "_synthetic_q4": true,
+  "_is_bank": true,
+  "_needs_retry": false
+}

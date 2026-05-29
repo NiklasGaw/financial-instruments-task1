@@ -1,0 +1,53 @@
+{
+  "company": "Boeing Company",
+  "ticker": "BA",
+  "report_date": "2025-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Commercial Airplanes",
+      "revenue": 11.4,
+      "operating_income": -0.6,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Defense, Space & Security",
+      "revenue": 7.4,
+      "operating_income": -0.5,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 24.0,
+    "cost_of_revenue": 22.2,
+    "gross_profit": 1.9,
+    "total_operating_expenses": -6.9,
+    "operating_income": 8.8,
+    "other_income_expense": -0.6,
+    "income_before_tax": 8.3,
+    "tax_expense": 0.1,
+    "net_income": 8.1,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "selling_general_administrative": 1.7,
+      "research_and_development": 1.0
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 70,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

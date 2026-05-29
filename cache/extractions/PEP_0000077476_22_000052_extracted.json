@@ -1,0 +1,59 @@
+{
+  "company": "PepsiCo Inc.",
+  "ticker": "PEP",
+  "report_date": "2022-09-03",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2022",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Frito-Lay North America",
+      "revenue": 5.6,
+      "operating_income": null,
+      "yoy_growth_pct": 19.6,
+      "sub_segments": []
+    },
+    {
+      "name": "Quaker Foods North America",
+      "revenue": 0.7,
+      "operating_income": null,
+      "yoy_growth_pct": 15.4,
+      "sub_segments": []
+    },
+    {
+      "name": "PepsiCo Beverages North America",
+      "revenue": 6.6,
+      "operating_income": null,
+      "yoy_growth_pct": 3.6,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 22.0,
+    "total_revenue_yoy_pct": 8.8,
+    "cost_of_revenue": 10.3,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 11.7,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 8.3
+    },
+    "total_operating_expenses": 8.3,
+    "operating_income": 3.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.2,
+    "income_before_tax": 3.2,
+    "tax_expense": 0.5,
+    "net_income": 2.7,
+    "net_income_yoy_pct": 21.5
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 70
+}

@@ -1,0 +1,90 @@
+{
+  "company": "Tencent Holdings Ltd.",
+  "ticker": "TCEHY",
+  "report_date": "2023-12-31",
+  "form_type": "Annual Report",
+  "fiscal_year": "",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Value-added Services (VAS)",
+      "revenue": 298.4,
+      "operating_income": null,
+      "yoy_growth_pct": 4.0,
+      "sub_segments": [
+        {
+          "name": "Domestic Games",
+          "revenue": 126.7,
+          "yoy_growth_pct": 2.0
+        },
+        {
+          "name": "International Games",
+          "revenue": 53.2,
+          "yoy_growth_pct": 14.0
+        },
+        {
+          "name": "Social Networks",
+          "revenue": 118.5,
+          "yoy_growth_pct": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Online Advertising",
+      "revenue": 101.5,
+      "operating_income": null,
+      "yoy_growth_pct": 23.0,
+      "sub_segments": []
+    },
+    {
+      "name": "FinTech and Business Services",
+      "revenue": 203.8,
+      "operating_income": null,
+      "yoy_growth_pct": 15.0,
+      "sub_segments": [
+        {
+          "name": "FinTech Services",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Business Services",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Others",
+      "revenue": 5.4,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": null,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": null,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": null,
+    "tax_expense": null,
+    "net_income": null,
+    "net_income_yoy_pct": null
+  },
+  "notes": "Two-pass LLM extraction."
+}

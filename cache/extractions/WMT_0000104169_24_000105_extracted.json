@@ -1,0 +1,59 @@
+{
+  "company": "Walmart Inc.",
+  "ticker": "WMT",
+  "report_date": "2024-04-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Walmart U.S.",
+      "revenue": 108.7,
+      "operating_income": 5.3,
+      "yoy_growth_pct": 4.6,
+      "sub_segments": []
+    },
+    {
+      "name": "Walmart International",
+      "revenue": 29.8,
+      "operating_income": 1.5,
+      "yoy_growth_pct": 12.1,
+      "sub_segments": []
+    },
+    {
+      "name": "Sam's Club U.S.",
+      "revenue": 21.4,
+      "operating_income": 0.6,
+      "yoy_growth_pct": 4.6,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 159.9,
+    "total_revenue_yoy_pct": 5.9,
+    "cost_of_revenue": 121.4,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 38.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 33.2
+    },
+    "total_operating_expenses": 33.2,
+    "operating_income": 6.8,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 7.0,
+    "tax_expense": 1.7,
+    "net_income": 5.1,
+    "net_income_yoy_pct": 205.1
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

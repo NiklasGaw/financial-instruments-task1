@@ -1,0 +1,80 @@
+{
+  "company": "Alphabet Inc. (Class C)",
+  "ticker": "GOOG",
+  "report_date": "2024-09-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Google Services",
+      "revenue": 76.5,
+      "operating_income": null,
+      "yoy_growth_pct": 12.5,
+      "sub_segments": [
+        {
+          "name": "Google Search & other",
+          "revenue": 49.4,
+          "yoy_growth_pct": 12.2
+        },
+        {
+          "name": "YouTube ads",
+          "revenue": 8.9,
+          "yoy_growth_pct": 12.2
+        },
+        {
+          "name": "Google Network",
+          "revenue": 7.5,
+          "yoy_growth_pct": -1.6
+        },
+        {
+          "name": "Google subscriptions, platforms, and devices",
+          "revenue": 10.7,
+          "yoy_growth_pct": 27.8
+        }
+      ]
+    },
+    {
+      "name": "Google Cloud",
+      "revenue": 11.4,
+      "operating_income": null,
+      "yoy_growth_pct": 34.9,
+      "sub_segments": []
+    },
+    {
+      "name": "Other Bets",
+      "revenue": 0.4,
+      "operating_income": null,
+      "yoy_growth_pct": 30.6,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 88.3,
+    "total_revenue_yoy_pct": 15.1,
+    "cost_of_revenue": 36.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 51.8,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 12.4,
+      "selling_general_administrative": 10.8
+    },
+    "total_operating_expenses": 23.3,
+    "operating_income": 28.5,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 3.2,
+    "income_before_tax": 31.7,
+    "tax_expense": 5.4,
+    "net_income": 26.3,
+    "net_income_yoy_pct": 33.6
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

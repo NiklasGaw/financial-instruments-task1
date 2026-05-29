@@ -1,0 +1,87 @@
+{
+  "company": "Amazon.com Inc.",
+  "ticker": "AMZN",
+  "report_date": "2025-06-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "AWS",
+      "revenue": 30.9,
+      "operating_income": 10.2,
+      "yoy_growth_pct": 17.5,
+      "sub_segments": []
+    },
+    {
+      "name": "Online stores",
+      "revenue": 61.5,
+      "operating_income": null,
+      "yoy_growth_pct": 11.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Physical stores",
+      "revenue": 5.6,
+      "operating_income": null,
+      "yoy_growth_pct": 7.5,
+      "sub_segments": []
+    },
+    {
+      "name": "Third-party seller services",
+      "revenue": 40.3,
+      "operating_income": null,
+      "yoy_growth_pct": 11.5,
+      "sub_segments": []
+    },
+    {
+      "name": "Advertising services",
+      "revenue": 15.7,
+      "operating_income": null,
+      "yoy_growth_pct": 22.9,
+      "sub_segments": []
+    },
+    {
+      "name": "Subscription services",
+      "revenue": 12.2,
+      "operating_income": null,
+      "yoy_growth_pct": 12.3,
+      "sub_segments": []
+    },
+    {
+      "name": "Other",
+      "revenue": 1.5,
+      "operating_income": null,
+      "yoy_growth_pct": 18.9,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 167.7,
+    "total_revenue_yoy_pct": 13.3,
+    "cost_of_revenue": 80.8,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 86.9,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 3.0
+    },
+    "total_operating_expenses": 3.0,
+    "operating_income": 19.2,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 1.7,
+    "income_before_tax": 20.9,
+    "tax_expense": 2.7,
+    "net_income": 18.2,
+    "net_income_yoy_pct": 34.7
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

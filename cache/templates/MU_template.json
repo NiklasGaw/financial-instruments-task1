@@ -1,0 +1,38 @@
+{
+  "ticker": "MU",
+  "source": "cache: 10-K 2023-08-31",
+  "segments": [
+    {
+      "name": "Cloud Memory Business Unit (CMBU)",
+      "sub_segments": []
+    },
+    {
+      "name": "Core Data Center Business Unit (CDBU)",
+      "sub_segments": []
+    },
+    {
+      "name": "Mobile and Client Business Unit (MCBU)",
+      "sub_segments": []
+    },
+    {
+      "name": "Automotive and Embedded Business Unit (AEBU)",
+      "sub_segments": []
+    },
+    {
+      "name": "Compute and Networking Business Unit (CNBU)",
+      "sub_segments": []
+    },
+    {
+      "name": "Mobile Business Unit (MBU)",
+      "sub_segments": []
+    },
+    {
+      "name": "Embedded Business Unit (EBU)",
+      "sub_segments": []
+    },
+    {
+      "name": "Storage Business Unit (SBU)",
+      "sub_segments": []
+    }
+  ]
+}

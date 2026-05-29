@@ -1,0 +1,33 @@
+{
+  "ticker": "GEV",
+  "source": "cache: 10-K 2024-12-31",
+  "segments": [
+    {
+      "name": "Power",
+      "sub_segments": [
+        "Gas Power",
+        "Nuclear Power",
+        "Hydro Power",
+        "Steam Power"
+      ]
+    },
+    {
+      "name": "Wind",
+      "sub_segments": [
+        "Onshore Wind",
+        "Offshore Wind",
+        "LM Wind Power"
+      ]
+    },
+    {
+      "name": "Electrification",
+      "sub_segments": [
+        "Grid Solutions",
+        "Power Conversion & Storage",
+        "Electrification Software",
+        "Power Conversion",
+        "Solar & Storage Solutions"
+      ]
+    }
+  ]
+}

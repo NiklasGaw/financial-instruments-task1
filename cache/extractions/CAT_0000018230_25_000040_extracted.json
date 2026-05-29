@@ -1,0 +1,97 @@
+{
+  "company": "Caterpillar Inc.",
+  "ticker": "CAT",
+  "report_date": "2025-06-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Construction Industries",
+      "revenue": 6.2,
+      "operating_income": 1.2,
+      "yoy_growth_pct": -8.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Resource Industries",
+      "revenue": 3.1,
+      "operating_income": 0.5,
+      "yoy_growth_pct": -3.8,
+      "sub_segments": []
+    },
+    {
+      "name": "Power & Energy",
+      "revenue": 7.8,
+      "operating_income": 1.6,
+      "yoy_growth_pct": 7.5,
+      "sub_segments": [
+        {
+          "name": "Oil and Gas",
+          "revenue": 1.9,
+          "yoy_growth_pct": 2.1
+        },
+        {
+          "name": "Power Generation",
+          "revenue": 2.4,
+          "yoy_growth_pct": 27.7
+        },
+        {
+          "name": "Industrial",
+          "revenue": 1.1,
+          "yoy_growth_pct": 1.4
+        },
+        {
+          "name": "Transportation",
+          "revenue": 1.2,
+          "yoy_growth_pct": -7.2
+        },
+        {
+          "name": "Other Power & Energy",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Power & Energy",
+          "revenue": 1.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Financial Products Segment",
+      "revenue": 1.0,
+      "operating_income": 0.2,
+      "yoy_growth_pct": 3.8,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 16.6,
+    "total_revenue_yoy_pct": -0.7,
+    "cost_of_revenue": 10.8,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 5.8,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.6,
+      "selling_general_administrative": 1.7
+    },
+    "total_operating_expenses": 2.2,
+    "operating_income": 2.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 2.8,
+    "tax_expense": 0.6,
+    "net_income": null,
+    "net_income_yoy_pct": null
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 70
+}

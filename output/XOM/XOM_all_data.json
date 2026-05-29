@@ -1,0 +1,1698 @@
+[
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2025-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 209.9,
+        "operating_income": 24.7,
+        "yoy_growth_pct": -17.1,
+        "sub_segments": [
+          {
+            "name": "Upstream - United States",
+            "revenue": 118.1,
+            "yoy_growth_pct": 38.5
+          },
+          {
+            "name": "Upstream - Non-U.S.",
+            "revenue": 91.8,
+            "yoy_growth_pct": -1.7
+          }
+        ]
+      },
+      {
+        "name": "Energy Products",
+        "revenue": 37.7,
+        "operating_income": 1.7,
+        "yoy_growth_pct": 9.8,
+        "sub_segments": [
+          {
+            "name": "Energy Products - United States",
+            "revenue": 13.5,
+            "yoy_growth_pct": 2.3
+          },
+          {
+            "name": "Energy Products - Non-U.S.",
+            "revenue": 24.2,
+            "yoy_growth_pct": 14.5
+          }
+        ]
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 29.5,
+        "operating_income": 1.4,
+        "yoy_growth_pct": 1.6,
+        "sub_segments": [
+          {
+            "name": "Chemical Products - United States",
+            "revenue": 14.2,
+            "yoy_growth_pct": -0.5
+          },
+          {
+            "name": "Chemical Products - Non-U.S.",
+            "revenue": 15.3,
+            "yoy_growth_pct": 3.7
+          }
+        ]
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 8.1,
+        "operating_income": 0.6,
+        "yoy_growth_pct": -1.8,
+        "sub_segments": [
+          {
+            "name": "Specialty Products - United States",
+            "revenue": 2.0,
+            "yoy_growth_pct": -0.5
+          },
+          {
+            "name": "Specialty Products - Non-U.S.",
+            "revenue": 6.0,
+            "yoy_growth_pct": -2.2
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 332.2,
+      "total_revenue_yoy_pct": -5.0,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.2,
+        "selling_general_administrative": 11.1
+      },
+      "total_operating_expenses": 12.3,
+      "operating_income": 319.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -279.6,
+      "income_before_tax": 41.3,
+      "tax_expense": 11.5,
+      "net_income": 28.8,
+      "net_income_yoy_pct": -14.4
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 80
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2024-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 178.7,
+        "operating_income": 25.4,
+        "yoy_growth_pct": 24.7,
+        "sub_segments": []
+      },
+      {
+        "name": "Energy Products",
+        "revenue": 34.3,
+        "operating_income": 2.4,
+        "yoy_growth_pct": 5.5,
+        "sub_segments": []
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 29.0,
+        "operating_income": 2.1,
+        "yoy_growth_pct": 1.7,
+        "sub_segments": []
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 8.2,
+        "operating_income": 0.4,
+        "yoy_growth_pct": -3.5,
+        "sub_segments": []
+      },
+      {
+        "name": "Corporate and Financing",
+        "revenue": null,
+        "operating_income": -1.4,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 349.6,
+      "total_revenue_yoy_pct": 1.5,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.0,
+        "selling_general_administrative": 10.0
+      },
+      "total_operating_expenses": 11.0,
+      "operating_income": 338.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -291.1,
+      "income_before_tax": 48.9,
+      "tax_expense": 13.8,
+      "net_income": 33.7,
+      "net_income_yoy_pct": -6.5
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2023-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 143.3,
+        "operating_income": 21.3,
+        "yoy_growth_pct": -1.7,
+        "sub_segments": []
+      },
+      {
+        "name": "Energy Products",
+        "revenue": 32.6,
+        "operating_income": 12.1,
+        "yoy_growth_pct": 6.2,
+        "sub_segments": [
+          {
+            "name": "Fuels",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Aromatics",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Catalysts and licensing",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 28.6,
+        "operating_income": 1.6,
+        "yoy_growth_pct": 5.0,
+        "sub_segments": [
+          {
+            "name": "Olefins",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Polyolefins",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Intermediates",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 8.5,
+        "operating_income": 2.7,
+        "yoy_growth_pct": 2.8,
+        "sub_segments": [
+          {
+            "name": "Finished lubricants",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Basestocks and waxes",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Synthetics",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Elastomers and resins",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 344.6,
+      "total_revenue_yoy_pct": -16.7,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.9,
+        "selling_general_administrative": 9.9
+      },
+      "total_operating_expenses": 10.8,
+      "operating_income": 333.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -282.4,
+      "income_before_tax": 52.8,
+      "tax_expense": 15.4,
+      "net_income": 36.0,
+      "net_income_yoy_pct": -35.4
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2026-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 10.1,
+        "operating_income": 8.2,
+        "yoy_growth_pct": -16.1,
+        "sub_segments": []
+      },
+      {
+        "name": "Energy Products",
+        "revenue": 63.2,
+        "operating_income": -1.0,
+        "yoy_growth_pct": 48.1,
+        "sub_segments": []
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 5.5,
+        "operating_income": 0.2,
+        "yoy_growth_pct": -0.7,
+        "sub_segments": []
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 4.2,
+        "operating_income": 0.8,
+        "yoy_growth_pct": -8.1,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 85.1,
+      "total_revenue_yoy_pct": 2.4,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.7
+      },
+      "total_operating_expenses": 2.7,
+      "operating_income": 82.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -75.7,
+      "income_before_tax": 7.0,
+      "tax_expense": 2.5,
+      "net_income": 4.2,
+      "net_income_yoy_pct": -45.8
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2025-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Energy Products",
+        "revenue": 75.0,
+        "operating_income": 2.6,
+        "yoy_growth_pct": -6.5,
+        "sub_segments": [
+          {
+            "name": "Energy Products - United States",
+            "revenue": 25.6,
+            "yoy_growth_pct": 0.4
+          },
+          {
+            "name": "Energy Products - Non-U.S.",
+            "revenue": 37.1,
+            "yoy_growth_pct": -9.5
+          },
+          {
+            "name": "Other Energy Products",
+            "revenue": 12.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 8.6,
+        "operating_income": 0.5,
+        "yoy_growth_pct": -10.8,
+        "sub_segments": [
+          {
+            "name": "Chemical Products - United States",
+            "revenue": 1.9,
+            "yoy_growth_pct": -15.1
+          },
+          {
+            "name": "Chemical Products - Non-U.S.",
+            "revenue": 3.8,
+            "yoy_growth_pct": 3.5
+          },
+          {
+            "name": "Other Chemical Products",
+            "revenue": 2.9,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 5.2,
+        "operating_income": 0.8,
+        "yoy_growth_pct": -3.0,
+        "sub_segments": [
+          {
+            "name": "Specialty Products - United States",
+            "revenue": 1.4,
+            "yoy_growth_pct": -3.8
+          },
+          {
+            "name": "Specialty Products - Non-U.S.",
+            "revenue": 3.1,
+            "yoy_growth_pct": -4.2
+          },
+          {
+            "name": "Other Specialty Products",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 85.3,
+      "total_revenue_yoy_pct": -5.2,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.0
+      },
+      "total_operating_expenses": 3.0,
+      "operating_income": 82.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -71.6,
+      "income_before_tax": 10.9,
+      "tax_expense": 3.2,
+      "net_income": 7.5,
+      "net_income_yoy_pct": -12.3
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2025-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Energy Products",
+        "revenue": 71.2,
+        "operating_income": 1.9,
+        "yoy_growth_pct": -19.2,
+        "sub_segments": [
+          {
+            "name": "Energy Products - United States",
+            "revenue": 29.6,
+            "yoy_growth_pct": -10.4
+          },
+          {
+            "name": "Energy Products - Non-U.S.",
+            "revenue": 41.5,
+            "yoy_growth_pct": -16.0
+          }
+        ]
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 8.3,
+        "operating_income": 0.3,
+        "yoy_growth_pct": -12.4,
+        "sub_segments": [
+          {
+            "name": "Chemical Products - United States",
+            "revenue": 3.7,
+            "yoy_growth_pct": -12.4
+          },
+          {
+            "name": "Chemical Products - Non-U.S.",
+            "revenue": 4.6,
+            "yoy_growth_pct": -3.4
+          }
+        ]
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 5.3,
+        "operating_income": 0.9,
+        "yoy_growth_pct": -0.6,
+        "sub_segments": [
+          {
+            "name": "Specialty Products - United States",
+            "revenue": 2.0,
+            "yoy_growth_pct": -8.3
+          },
+          {
+            "name": "Specialty Products - Non-U.S.",
+            "revenue": 3.3,
+            "yoy_growth_pct": 4.9
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 81.5,
+      "total_revenue_yoy_pct": -12.4,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.5
+      },
+      "total_operating_expenses": 2.5,
+      "operating_income": 79.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -68.5,
+      "income_before_tax": 10.7,
+      "tax_expense": 3.4,
+      "net_income": 7.1,
+      "net_income_yoy_pct": -23.4
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2025-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Energy Products",
+        "revenue": 71.4,
+        "operating_income": 1.3,
+        "yoy_growth_pct": -5.8,
+        "sub_segments": [
+          {
+            "name": "Energy Products - United States",
+            "revenue": 28.6,
+            "yoy_growth_pct": -9.0
+          },
+          {
+            "name": "Energy Products - Non-U.S.",
+            "revenue": 42.8,
+            "yoy_growth_pct": -7.4
+          }
+        ]
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 8.0,
+        "operating_income": 0.6,
+        "yoy_growth_pct": -10.0,
+        "sub_segments": [
+          {
+            "name": "Chemical Products - United States",
+            "revenue": 3.7,
+            "yoy_growth_pct": -9.6
+          },
+          {
+            "name": "Chemical Products - Non-U.S.",
+            "revenue": 4.3,
+            "yoy_growth_pct": -12.7
+          }
+        ]
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 5.1,
+        "operating_income": 0.8,
+        "yoy_growth_pct": -5.6,
+        "sub_segments": [
+          {
+            "name": "Specialty Products - United States",
+            "revenue": 1.9,
+            "yoy_growth_pct": -9.9
+          },
+          {
+            "name": "Specialty Products - Non-U.S.",
+            "revenue": 3.1,
+            "yoy_growth_pct": -5.8
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 83.1,
+      "total_revenue_yoy_pct": 0.1,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.5
+      },
+      "total_operating_expenses": 2.5,
+      "operating_income": 80.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -69.3,
+      "income_before_tax": 11.6,
+      "tax_expense": 3.6,
+      "net_income": 7.7,
+      "net_income_yoy_pct": -6.2
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2024-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 10.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Upstream - United States",
+            "revenue": 7.1,
+            "yoy_growth_pct": 174.9
+          },
+          {
+            "name": "Upstream - Non-U.S.",
+            "revenue": 3.6,
+            "yoy_growth_pct": 4.4
+          }
+        ]
+      },
+      {
+        "name": "Energy Products",
+        "revenue": 66.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Energy Products - United States",
+            "revenue": 25.5,
+            "yoy_growth_pct": -6.3
+          },
+          {
+            "name": "Energy Products - Non-U.S.",
+            "revenue": 41.0,
+            "yoy_growth_pct": -9.5
+          }
+        ]
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 5.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Chemical Products - United States",
+            "revenue": 2.2,
+            "yoy_growth_pct": 14.3
+          },
+          {
+            "name": "Chemical Products - Non-U.S.",
+            "revenue": 3.7,
+            "yoy_growth_pct": 4.3
+          }
+        ]
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 4.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Specialty Products - United States",
+            "revenue": 1.5,
+            "yoy_growth_pct": -3.2
+          },
+          {
+            "name": "Specialty Products - Non-U.S.",
+            "revenue": 3.2,
+            "yoy_growth_pct": 6.7
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 90.0,
+      "total_revenue_yoy_pct": -0.8,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.3
+      },
+      "total_operating_expenses": 2.3,
+      "operating_income": 87.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -75.0,
+      "income_before_tax": 13.0,
+      "tax_expense": 4.1,
+      "net_income": 8.6,
+      "net_income_yoy_pct": -5.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2024-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 10.0,
+        "operating_income": 7.1,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Upstream - United States",
+            "revenue": 6.7,
+            "yoy_growth_pct": 302.2
+          },
+          {
+            "name": "Upstream - Non-U.S.",
+            "revenue": 3.3,
+            "yoy_growth_pct": -11.3
+          }
+        ]
+      },
+      {
+        "name": "Energy Products",
+        "revenue": 69.4,
+        "operating_income": 0.9,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Energy Products - United States",
+            "revenue": 26.4,
+            "yoy_growth_pct": 1.1
+          },
+          {
+            "name": "Energy Products - Non-U.S.",
+            "revenue": 43.0,
+            "yoy_growth_pct": 10.4
+          }
+        ]
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 5.8,
+        "operating_income": 0.5,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Chemical Products - United States",
+            "revenue": 2.2,
+            "yoy_growth_pct": 11.1
+          },
+          {
+            "name": "Chemical Products - Non-U.S.",
+            "revenue": 3.6,
+            "yoy_growth_pct": -1.6
+          }
+        ]
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 4.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Specialty Products - United States",
+            "revenue": 1.5,
+            "yoy_growth_pct": -0.3
+          },
+          {
+            "name": "Specialty Products - Non-U.S.",
+            "revenue": 3.1,
+            "yoy_growth_pct": 0.6
+          },
+          {
+            "name": "Other Specialty Products",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 93.1,
+      "total_revenue_yoy_pct": 15.2,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.6
+      },
+      "total_operating_expenses": 2.6,
+      "operating_income": 90.5,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -77.2,
+      "income_before_tax": 13.7,
+      "tax_expense": 4.1,
+      "net_income": 9.2,
+      "net_income_yoy_pct": 17.3
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2024-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 5.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Upstream - United States",
+            "revenue": 2.2,
+            "yoy_growth_pct": -20.9
+          },
+          {
+            "name": "Upstream - Non-U.S.",
+            "revenue": 3.5,
+            "yoy_growth_pct": -34.6
+          }
+        ]
+      },
+      {
+        "name": "Energy Products",
+        "revenue": 64.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Energy Products - United States",
+            "revenue": 24.8,
+            "yoy_growth_pct": -0.5
+          },
+          {
+            "name": "Energy Products - Non-U.S.",
+            "revenue": 39.4,
+            "yoy_growth_pct": -1.4
+          }
+        ]
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 5.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Chemical Products - United States",
+            "revenue": 2.2,
+            "yoy_growth_pct": 8.1
+          },
+          {
+            "name": "Chemical Products - Non-U.S.",
+            "revenue": 3.6,
+            "yoy_growth_pct": -1.2
+          }
+        ]
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 4.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Specialty Products - United States",
+            "revenue": 1.5,
+            "yoy_growth_pct": -6.3
+          },
+          {
+            "name": "Specialty Products - Non-U.S.",
+            "revenue": 3.2,
+            "yoy_growth_pct": -4.2
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 83.1,
+      "total_revenue_yoy_pct": -0.7,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.5
+      },
+      "total_operating_expenses": 2.5,
+      "operating_income": 80.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -68.6,
+      "income_before_tax": 12.4,
+      "tax_expense": 3.8,
+      "net_income": 8.2,
+      "net_income_yoy_pct": -28.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2023-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 6.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Upstream - United States",
+            "revenue": 2.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Upstream - Non-U.S.",
+            "revenue": 3.4,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Energy Products",
+        "revenue": 72.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Energy Products - United States",
+            "revenue": 27.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Energy Products - Non-U.S.",
+            "revenue": 45.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 5.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Chemical Products - United States",
+            "revenue": 1.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Chemical Products - Non-U.S.",
+            "revenue": 3.6,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 4.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Specialty Products - United States",
+            "revenue": 1.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Specialty Products - Non-U.S.",
+            "revenue": 3.0,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 90.8,
+      "total_revenue_yoy_pct": -14.8,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.5
+      },
+      "total_operating_expenses": 2.5,
+      "operating_income": 88.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -74.8,
+      "income_before_tax": 13.7,
+      "tax_expense": 4.4,
+      "net_income": 9.1,
+      "net_income_yoy_pct": -53.9
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2023-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 5.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Upstream - United States",
+            "revenue": 1.7,
+            "yoy_growth_pct": -57.7
+          },
+          {
+            "name": "Upstream - Non-U.S.",
+            "revenue": 3.7,
+            "yoy_growth_pct": -47.3
+          }
+        ]
+      },
+      {
+        "name": "Energy Products",
+        "revenue": 65.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Energy Products - United States",
+            "revenue": 26.1,
+            "yoy_growth_pct": -24.2
+          },
+          {
+            "name": "Energy Products - Non-U.S.",
+            "revenue": 38.9,
+            "yoy_growth_pct": -26.2
+          }
+        ]
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 5.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Chemical Products - United States",
+            "revenue": 2.0,
+            "yoy_growth_pct": -37.4
+          },
+          {
+            "name": "Chemical Products - Non-U.S.",
+            "revenue": 3.7,
+            "yoy_growth_pct": -18.2
+          }
+        ]
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 4.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Specialty Products - United States",
+            "revenue": 1.5,
+            "yoy_growth_pct": -6.7
+          },
+          {
+            "name": "Specialty Products - Non-U.S.",
+            "revenue": 3.1,
+            "yoy_growth_pct": -13.8
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 80.8,
+      "total_revenue_yoy_pct": -27.4,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.4
+      },
+      "total_operating_expenses": 2.4,
+      "operating_income": 78.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -67.0,
+      "income_before_tax": 11.7,
+      "tax_expense": 3.5,
+      "net_income": 7.9,
+      "net_income_yoy_pct": -55.9
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2023-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 8.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Upstream - United States",
+            "revenue": 2.8,
+            "yoy_growth_pct": 4.3
+          },
+          {
+            "name": "Upstream - Non-U.S.",
+            "revenue": 5.4,
+            "yoy_growth_pct": -15.1
+          }
+        ]
+      },
+      {
+        "name": "Energy Products",
+        "revenue": 64.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Energy Products - United States",
+            "revenue": 24.9,
+            "yoy_growth_pct": 0.3
+          },
+          {
+            "name": "Energy Products - Non-U.S.",
+            "revenue": 40.0,
+            "yoy_growth_pct": -4.2
+          }
+        ]
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 5.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Chemical Products - United States",
+            "revenue": 2.0,
+            "yoy_growth_pct": -34.4
+          },
+          {
+            "name": "Chemical Products - Non-U.S.",
+            "revenue": 3.7,
+            "yoy_growth_pct": -17.9
+          }
+        ]
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 4.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Specialty Products - United States",
+            "revenue": 1.6,
+            "yoy_growth_pct": 12.7
+          },
+          {
+            "name": "Specialty Products - Non-U.S.",
+            "revenue": 3.3,
+            "yoy_growth_pct": 3.5
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 83.6,
+      "total_revenue_yoy_pct": -4.7,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.4
+      },
+      "total_operating_expenses": 2.4,
+      "operating_income": 81.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -64.8,
+      "income_before_tax": 16.8,
+      "tax_expense": 5.0,
+      "net_income": 11.4,
+      "net_income_yoy_pct": 108.6
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2022-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 12.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Upstream - United States",
+            "revenue": 4.2,
+            "yoy_growth_pct": 100.9
+          },
+          {
+            "name": "Upstream - Non-U.S.",
+            "revenue": 8.8,
+            "yoy_growth_pct": 282.1
+          }
+        ]
+      },
+      {
+        "name": "Energy Products",
+        "revenue": 81.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Energy Products - United States",
+            "revenue": 31.3,
+            "yoy_growth_pct": 49.2
+          },
+          {
+            "name": "Energy Products - Non-U.S.",
+            "revenue": 50.2,
+            "yoy_growth_pct": 46.4
+          }
+        ]
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 6.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Chemical Products - United States",
+            "revenue": 2.5,
+            "yoy_growth_pct": -28.1
+          },
+          {
+            "name": "Chemical Products - Non-U.S.",
+            "revenue": 4.2,
+            "yoy_growth_pct": -0.0
+          }
+        ]
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 5.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Specialty Products - United States",
+            "revenue": 1.6,
+            "yoy_growth_pct": 31.6
+          },
+          {
+            "name": "Specialty Products - Non-U.S.",
+            "revenue": 3.7,
+            "yoy_growth_pct": 12.1
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 106.5,
+      "total_revenue_yoy_pct": 48.2,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.3
+      },
+      "total_operating_expenses": 2.3,
+      "operating_income": 104.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -79.3,
+      "income_before_tax": 25.4,
+      "tax_expense": 5.2,
+      "net_income": 19.7,
+      "net_income_yoy_pct": 191.3
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2022-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 11.1,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Upstream - United States",
+            "revenue": 3.9,
+            "yoy_growth_pct": 129.3
+          },
+          {
+            "name": "Upstream - Non-U.S.",
+            "revenue": 7.1,
+            "yoy_growth_pct": 87.2
+          }
+        ]
+      },
+      {
+        "name": "Energy Products",
+        "revenue": 87.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Energy Products - United States",
+            "revenue": 34.5,
+            "yoy_growth_pct": 83.7
+          },
+          {
+            "name": "Energy Products - Non-U.S.",
+            "revenue": 52.8,
+            "yoy_growth_pct": 76.4
+          }
+        ]
+      },
+      {
+        "name": "Chemical Products",
+        "revenue": 7.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Chemical Products - United States",
+            "revenue": 3.2,
+            "yoy_growth_pct": 4.8
+          },
+          {
+            "name": "Chemical Products - Non-U.S.",
+            "revenue": 4.5,
+            "yoy_growth_pct": 6.0
+          }
+        ]
+      },
+      {
+        "name": "Specialty Products",
+        "revenue": 5.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Specialty Products - United States",
+            "revenue": 1.7,
+            "yoy_growth_pct": 33.1
+          },
+          {
+            "name": "Specialty Products - Non-U.S.",
+            "revenue": 3.6,
+            "yoy_growth_pct": 12.1
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 111.3,
+      "total_revenue_yoy_pct": 68.7,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.5
+      },
+      "total_operating_expenses": 2.5,
+      "operating_income": 108.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -84.5,
+      "income_before_tax": 24.9,
+      "tax_expense": 6.4,
+      "net_income": 17.9,
+      "net_income_yoy_pct": 280.6
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2025-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Chemical Products",
+        "revenue": 4.6,
+        "operating_income": -0.0,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Chemical Products - United States",
+            "revenue": 4.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Chemical Products - Non-U.S.",
+            "revenue": 2.6,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 82.3,
+      "cost_of_revenue": null,
+      "gross_profit": null,
+      "total_operating_expenses": 4.3,
+      "operating_income": 78.0,
+      "other_income_expense": -70.2,
+      "income_before_tax": 8.1,
+      "tax_expense": 1.3,
+      "net_income": 6.5,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.1,
+        "other_operating": 1.2
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 80,
+    "_synthetic_q4": true,
+    "_is_bank": true,
+    "_needs_retry": false
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2024-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 152.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 83.4,
+      "cost_of_revenue": null,
+      "gross_profit": null,
+      "total_operating_expenses": 3.6,
+      "operating_income": 79.8,
+      "other_income_expense": -70.3,
+      "income_before_tax": 9.8,
+      "tax_expense": 1.8,
+      "net_income": 7.7,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.6,
+        "other_operating": 1.0
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 70,
+    "_synthetic_q4": true,
+    "_is_bank": true,
+    "_needs_retry": false
+  },
+  {
+    "company": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "report_date": "2023-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Upstream",
+        "revenue": 123.7,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 89.4,
+      "cost_of_revenue": null,
+      "gross_profit": null,
+      "total_operating_expenses": 3.5,
+      "operating_income": 85.9,
+      "other_income_expense": -75.8,
+      "income_before_tax": 10.6,
+      "tax_expense": 2.5,
+      "net_income": 7.6,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.6,
+        "other_operating": 0.9
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 70,
+    "_synthetic_q4": true,
+    "_is_bank": true,
+    "_needs_retry": false
+  }
+]

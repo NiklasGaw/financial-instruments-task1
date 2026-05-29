@@ -1,0 +1,94 @@
+{
+  "company": "Novartis AG",
+  "ticker": "NVS",
+  "report_date": "2023-12-31",
+  "form_type": "20-F",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Innovative Medicines",
+      "revenue": 42.2,
+      "operating_income": 9.8,
+      "yoy_growth_pct": -1.0,
+      "sub_segments": [
+        {
+          "name": "Entresto",
+          "revenue": 6.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Cosentyx",
+          "revenue": 5.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Zolgensma",
+          "revenue": 1.6,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Kisqali",
+          "revenue": 1.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Pluvicto",
+          "revenue": 0.9,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Scemblix",
+          "revenue": 0.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Iptacopan",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Innovative Medicines",
+          "revenue": 26.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Sandoz (Discontinued Operations)",
+      "revenue": 7.4,
+      "operating_income": 0.3,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 46.7,
+    "total_revenue_yoy_pct": 7.7,
+    "cost_of_revenue": 12.5,
+    "cost_of_revenue_yoy_pct": 7.7,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 34.2,
+    "gross_profit_yoy_pct": 7.2,
+    "operating_expenses": {
+      "research_and_development": 11.4,
+      "selling_general_administrative": 12.5,
+      "other_operating": 1.1
+    },
+    "total_operating_expenses": 25.0,
+    "operating_income": 9.8,
+    "operating_income_yoy_pct": 22.9,
+    "other_income_expense": -0.5,
+    "income_before_tax": 9.1,
+    "tax_expense": 0.6,
+    "net_income": 14.9,
+    "net_income_yoy_pct": 113.6
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

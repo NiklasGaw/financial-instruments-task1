@@ -1,0 +1,80 @@
+{
+  "company": "Alphabet Inc. (Class C)",
+  "ticker": "GOOG",
+  "report_date": "2022-09-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2022",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Google Services",
+      "revenue": 61.4,
+      "operating_income": null,
+      "yoy_growth_pct": 2.5,
+      "sub_segments": [
+        {
+          "name": "Google Search & other",
+          "revenue": 39.5,
+          "yoy_growth_pct": 4.2
+        },
+        {
+          "name": "YouTube ads",
+          "revenue": 7.1,
+          "yoy_growth_pct": -1.9
+        },
+        {
+          "name": "Google Network",
+          "revenue": 7.9,
+          "yoy_growth_pct": -1.6
+        },
+        {
+          "name": "Google subscriptions, platforms, and devices",
+          "revenue": 6.9,
+          "yoy_growth_pct": 2.1
+        }
+      ]
+    },
+    {
+      "name": "Google Cloud",
+      "revenue": 6.9,
+      "operating_income": null,
+      "yoy_growth_pct": 37.6,
+      "sub_segments": []
+    },
+    {
+      "name": "Other Bets",
+      "revenue": 0.2,
+      "operating_income": null,
+      "yoy_growth_pct": 14.8,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 69.1,
+    "total_revenue_yoy_pct": 6.1,
+    "cost_of_revenue": 31.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 37.9,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 10.3,
+      "selling_general_administrative": 10.5
+    },
+    "total_operating_expenses": 20.8,
+    "operating_income": 17.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.9,
+    "income_before_tax": 16.2,
+    "tax_expense": 2.3,
+    "net_income": 13.9,
+    "net_income_yoy_pct": -26.5
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

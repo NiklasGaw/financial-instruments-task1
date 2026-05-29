@@ -1,0 +1,40 @@
+{
+  "ticker": "MS",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Institutional Securities",
+      "sub_segments": [
+        "Investment Banking",
+        "Trading",
+        "Commissions and Fees",
+        "Investments",
+        "Other",
+        "Other Institutional Securities",
+        "Interest rate",
+        "Foreign exchange",
+        "Equity",
+        "Commodity and other",
+        "Credit",
+        "Asset management"
+      ]
+    },
+    {
+      "name": "Wealth Management",
+      "sub_segments": [
+        "Asset Management",
+        "Transactional",
+        "Net Interest",
+        "Other"
+      ]
+    },
+    {
+      "name": "Investment Management",
+      "sub_segments": [
+        "Asset Management",
+        "Performance-based Income and Other",
+        "Asset management fees"
+      ]
+    }
+  ]
+}

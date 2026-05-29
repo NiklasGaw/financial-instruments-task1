@@ -1,0 +1,45 @@
+{
+  "company": "Coca-Cola Company",
+  "ticker": "KO",
+  "report_date": "2024-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Bottling Investments",
+      "revenue": 6.2,
+      "operating_income": 0.5,
+      "yoy_growth_pct": -14.2,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 47.1,
+    "total_revenue_yoy_pct": 2.9,
+    "cost_of_revenue": 18.3,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 28.7,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 14.6
+    },
+    "total_operating_expenses": 14.6,
+    "operating_income": 10.0,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 3.0,
+    "income_before_tax": 13.1,
+    "tax_expense": 2.4,
+    "net_income": 10.6,
+    "net_income_yoy_pct": -0.8
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 70
+}

@@ -1,0 +1,72 @@
+{
+  "company": "Apple Inc.",
+  "ticker": "AAPL",
+  "report_date": "2023-09-30",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "iPhone",
+      "revenue": 43.8,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Mac",
+      "revenue": 7.7,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "iPad",
+      "revenue": 6.4,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Wearables, Home and Accessories",
+      "revenue": 9.2,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Services",
+      "revenue": 22.3,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 89.5,
+    "cost_of_revenue": 49.0,
+    "gross_profit": 40.4,
+    "total_operating_expenses": 13.4,
+    "operating_income": 27.0,
+    "other_income_expense": -0.1,
+    "income_before_tax": 27.0,
+    "tax_expense": 4.0,
+    "net_income": 22.9,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "selling_general_administrative": 6.1,
+      "research_and_development": 7.3
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 80,
+  "_synthetic_q4": true
+}

@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Apple Inc. FY2025 FY</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#fff;font-family:'Segoe UI',system-ui,Arial,sans-serif;overflow-x:hidden}
+
+#hdr{
+  padding:16px 24px 10px;
+  text-align:center;
+  border-bottom:1px solid #e8e8e8;
+  background:#fff;
+  user-select:none;
+}
+#hdr h1{font-size:26px;font-weight:700;color:#212121;letter-spacing:.3px}
+#hdr .subtitle{font-size:15px;font-weight:400;color:#424242;margin-top:3px}
+#hdr .subtitle .period-label{font-weight:800;color:#388e3c}
+#hdr .sub-subtitle{font-size:12px;color:#757575;margin-top:2px}
+#hdr .ticker{font-size:11px;color:#9e9e9e;margin-top:2px}
+#hdr .margins{font-size:12px;font-weight:600;color:#455a64;margin-top:4px;letter-spacing:.15px}
+
+#chart{width:100%;overflow:hidden}
+</style>
+</head>
+<body>
+
+<div id="hdr">
+  <h1>Apple Inc.</h1>
+  <div class="subtitle"><span class="period-label">FY25</span> Income statement</div>
+  <div class="sub-subtitle">Year ended 27 Sep 2025</div>
+  <div class="ticker">AAPL · USD</div>
+  <div class="margins">Gross margin 46.9%   ·   Operating margin 32.0%   ·   Net margin 26.9%</div>
+</div>
+
+<div id="chart"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+<script>
+(function(){
+'use strict';
+
+const D    = {"nodes":[{"name":"iPhone","value":209.6,"depth":0,"itemStyle":{"color":"#424242","borderWidth":0},"label":{"position":"left"},"displayValue":209.6,"yoy":4.0,"nodeType":"segment"},{"name":"Mac","value":33.7,"depth":0,"itemStyle":{"color":"#424242","borderWidth":0},"label":{"position":"left"},"displayValue":33.7,"yoy":12.0,"nodeType":"segment"},{"name":"iPad","value":28.0,"depth":0,"itemStyle":{"color":"#424242","borderWidth":0},"label":{"position":"left"},"displayValue":28.0,"yoy":5.0,"nodeType":"segment"},{"name":"Wearables, Home and Accessories","value":35.7,"depth":0,"itemStyle":{"color":"#424242","borderWidth":0},"label":{"position":"left"},"displayValue":35.7,"yoy":-4.0,"nodeType":"segment"},{"name":"Services","value":109.2,"depth":0,"itemStyle":{"color":"#424242","borderWidth":0},"label":{"position":"left"},"displayValue":109.2,"yoy":14.0,"nodeType":"segment"},{"name":"Total Revenue","value":416.2,"depth":1,"itemStyle":{"color":"#424242","borderWidth":0},"label":{"position":"right"},"displayValue":416.2,"yoy":6.4,"nodeType":"revenue"},{"name":"Gross Profit","value":195.2,"depth":2,"itemStyle":{"color":"#388e3c","borderWidth":0},"label":{"position":"right"},"displayValue":195.2,"yoy":null,"nodeType":"profit"},{"name":"Cost of Revenue","value":221.0,"depth":2,"itemStyle":{"color":"#d81b60","borderWidth":0},"label":{"position":"right"},"displayValue":221.0,"yoy":null,"nodeType":"cost"},{"name":"Operating Income","value":133.1,"depth":3,"itemStyle":{"color":"#388e3c","borderWidth":0},"label":{"position":"right"},"displayValue":133.1,"yoy":null,"nodeType":"profit"},{"name":"Operating Expenses","value":62.1,"depth":3,"itemStyle":{"color":"#d81b60","borderWidth":0},"label":{"position":"right"},"displayValue":62.1,"yoy":null,"nodeType":"cost"},{"name":"Net Income","value":112.0,"depth":4,"itemStyle":{"color":"#388e3c","borderWidth":0},"label":{"position":"right"},"displayValue":112.0,"yoy":19.5,"nodeType":"profit"},{"name":"Income Tax","value":20.7,"depth":4,"itemStyle":{"color":"#d81b60","borderWidth":0},"label":{"position":"right"},"displayValue":20.7,"yoy":null,"nodeType":"cost"},{"name":"Other Loss","value":0.4,"depth":4,"itemStyle":{"color":"#d81b60","borderWidth":0},"label":{"position":"right"},"displayValue":0.4,"yoy":null,"nodeType":"cost"},{"name":"R&D","value":34.5,"depth":4,"itemStyle":{"color":"#d81b60","borderWidth":0},"label":{"position":"right"},"displayValue":34.5,"yoy":null,"nodeType":"cost"},{"name":"SG&A","value":27.6,"depth":4,"itemStyle":{"color":"#d81b60","borderWidth":0},"label":{"position":"right"},"displayValue":27.6,"yoy":null,"nodeType":"cost"}],"links":[{"source":"iPhone","target":"Total Revenue","value":209.6,"lineStyle":{"color":"#aaaaaa","opacity":0.5}},{"source":"Mac","target":"Total Revenue","value":33.7,"lineStyle":{"color":"#aaaaaa","opacity":0.5}},{"source":"iPad","target":"Total Revenue","value":28.0,"lineStyle":{"color":"#aaaaaa","opacity":0.5}},{"source":"Wearables, Home and Accessories","target":"Total Revenue","value":35.7,"lineStyle":{"color":"#aaaaaa","opacity":0.5}},{"source":"Services","target":"Total Revenue","value":109.2,"lineStyle":{"color":"#aaaaaa","opacity":0.5}},{"source":"Total Revenue","target":"Gross Profit","value":195.2,"lineStyle":{"color":"#66bb6a","opacity":0.62}},{"source":"Total Revenue","target":"Cost of Revenue","value":221.0,"lineStyle":{"color":"#f48fb1","opacity":0.56}},{"source":"Gross Profit","target":"Operating Income","value":133.1,"lineStyle":{"color":"#66bb6a","opacity":0.62}},{"source":"Gross Profit","target":"Operating Expenses","value":62.1,"lineStyle":{"color":"#f48fb1","opacity":0.56}},{"source":"Operating Income","target":"Net Income","value":112.0,"lineStyle":{"color":"#66bb6a","opacity":0.62}},{"source":"Operating Income","target":"Income Tax","value":20.7,"lineStyle":{"color":"#f48fb1","opacity":0.56}},{"source":"Operating Income","target":"Other Loss","value":0.4,"lineStyle":{"color":"#f48fb1","opacity":0.56}},{"source":"Operating Expenses","target":"R&D","value":34.5,"lineStyle":{"color":"#f48fb1","opacity":0.56}},{"source":"Operating Expenses","target":"SG&A","value":27.6,"lineStyle":{"color":"#f48fb1","opacity":0.56}}],"meta":{"company":"Apple Inc.","ticker":"AAPL","period":"FY2025 FY","fy":"FY2025","fiscal_period":"FY","report_date":"2025-09-27","currency":"USD","unit":"B","total_revenue":416.2,"gross_margin":46.9,"operating_margin":32.0,"net_margin":26.9,"has_sub_values":false,"num_layers":5}};
+const meta = D.meta;
+
+// ── helpers ───────────────────────────────────────────────────────────────────
+function fmtV(v){
+  if(v == null) return '?';
+  return v >= 10 ? v.toFixed(1) : v.toFixed(2);
+}
+
+// Word-wrap: break at spaces to keep lines ≤ maxChars
+function wrap(text, maxChars){
+  if(!text || text.length <= maxChars) return [text];
+  const words = text.split(' ');
+  const lines = [];
+  let cur = '';
+  for(const w of words){
+    const cand = cur ? cur + ' ' + w : w;
+    if(cand.length <= maxChars){ cur = cand; }
+    else { if(cur) lines.push(cur); cur = w; }
+  }
+  if(cur) lines.push(cur);
+  return lines;
+}
+
+// ── chart sizing ──────────────────────────────────────────────────────────────
+const hdrEl   = document.getElementById('hdr');
+const chartEl = document.getElementById('chart');
+
+function chartDims(){
+  const hdrH = hdrEl.offsetHeight;
+  return {
+    w: Math.max(window.innerWidth,  1420),
+    h: Math.max(window.innerHeight - hdrH, 520),
+  };
+}
+
+// Set explicit px dimensions BEFORE echarts.init so it sees a non-zero container
+const initDims = chartDims();
+chartEl.style.width  = initDims.w + 'px';
+chartEl.style.height = initDims.h + 'px';
+
+// ── ECharts init ──────────────────────────────────────────────────────────────
+// Must come AFTER the div has a non-zero size
+const chart = echarts.init(chartEl, null, {renderer: 'canvas'});
+
+function resize(){
+  const {w, h} = chartDims();
+  chartEl.style.width  = w + 'px';
+  chartEl.style.height = h + 'px';
+  chart.resize({width: w, height: h});
+}
+
+// ── label formatter (rich text) ───────────────────────────────────────────────
+// Each node shows:  Name (bold)  /  $XX.XB (gray)  /  +XX% Y/Y (green or red)
+function labelFmt(params){
+  const d      = params.data;
+  const isSub  = d.nodeType === 'subsegment';
+  const isSeg  = d.nodeType === 'segment';
+
+  const nStyle = isSub ? 'ns' : (isSeg ? 'nb' : 'nm');
+  const vStyle = isSub ? 'vs' : 'vn';
+
+  // Wrap name into lines of ≤ 24 chars (sub-segs) or ≤ 18 chars (others)
+  const maxC   = isSub ? 24 : 18;
+  const lines  = wrap(params.name, maxC);
+
+  // Build rich-text string — each line is {style|text} separated by \n
+  let out = lines.map(l => '{' + nStyle + '|' + l + '}').join('\n');
+  out += '\n{' + vStyle + '|$' + fmtV(d.displayValue) + meta.unit + '}';
+
+  if(d.yoy != null){
+    const pos  = d.yoy >= 0;
+    const ys   = isSub ? (pos ? 'yps' : 'yns') : (pos ? 'ypn' : 'ynn');
+    const sign = pos ? '+' : '';
+    out += '\n{' + ys + '|' + sign + Math.round(d.yoy) + '% Y/Y}';
+  }
+  return out;
+}
+
+// ── tooltip formatter ─────────────────────────────────────────────────────────
+function tipFmt(params){
+  if(params.dataType === 'node'){
+    const d = params.data;
+    let html = '<b>' + params.name + '</b><br/>$' + fmtV(d.displayValue) + meta.unit;
+    if(d.yoy != null){
+      const col  = d.yoy >= 0 ? '#388e3c' : '#d81b60';
+      const sign = d.yoy >= 0 ? '+' : '';
+      html += '<br/><span style="color:' + col + '">'
+           + sign + Math.round(d.yoy) + '% Y/Y</span>';
+    }
+    return html;
+  }
+  // edge / link
+  return params.data.source + '  →  ' + params.data.target
+       + '<br/>$' + fmtV(params.value) + meta.unit;
+}
+
+// ── ECharts option ────────────────────────────────────────────────────────────
+const leftPx  = meta.has_sub_values ? 295 : 210;
+const rightPx = 190;
+
+const option = {
+  backgroundColor: '#ffffff',
+
+  tooltip: {
+    trigger: 'item',
+    triggerOn: 'mousemove',
+    backgroundColor: 'rgba(20,20,30,0.88)',
+    borderWidth: 0,
+    textStyle: {color: '#fff', fontSize: 12},
+    formatter: tipFmt,
+  },
+
+  series: [{
+    type: 'sankey',
+    orient: 'horizontal',
+
+    // chart area insets (px) — leaves room for left/right labels
+    left:   leftPx,
+    right:  rightPx,
+    top:    18,
+    bottom: 18,
+
+    nodeWidth:        12,    // thin node bars
+    nodeGap:          10,    // vertical gap between nodes in same column
+    layoutIterations: 64,    // iterations for vertical ordering optimisation
+    draggable:        true,  // nodes can be dragged vertically
+
+    emphasis: {
+      focus:      'adjacency',   // highlight connected flows on hover
+      blurScope:  'coordinateSystem',
+    },
+
+    // Global link style — per-link lineStyle overrides these
+    lineStyle: {
+      curveness: 0.5,
+      opacity:   0.5,
+    },
+
+    // Node + link data (injected from Python _prepare output)
+    data:  D.nodes,
+    links: D.links,
+
+    // Node label — rich text with bold name, gray value, coloured YoY
+    label: {
+      show:      true,
+      formatter: labelFmt,
+      rich: {
+        // Segment (bold 12px)
+        nb:  {fontWeight:'bold', fontSize:12, color:'#212121', lineHeight:17},
+        // Revenue / profit / cost right-side nodes (semi-bold 12px)
+        nm:  {fontWeight:'600',  fontSize:12, color:'#212121', lineHeight:17},
+        // Sub-segment (regular 10px)
+        ns:  {fontWeight:'400',  fontSize:10, color:'#424242', lineHeight:14},
+        // Value lines
+        vn:  {fontWeight:'400',  fontSize:11, color:'#616161', lineHeight:15},
+        vs:  {fontWeight:'400',  fontSize:10, color:'#757575', lineHeight:14},
+        // YoY — normal nodes
+        ypn: {fontWeight:'600',  fontSize:10, color:'#388e3c', lineHeight:14},
+        ynn: {fontWeight:'600',  fontSize:10, color:'#d81b60', lineHeight:14},
+        // YoY — sub-segment (slightly smaller)
+        yps: {fontWeight:'600',  fontSize: 9, color:'#388e3c', lineHeight:13},
+        yns: {fontWeight:'600',  fontSize: 9, color:'#d81b60', lineHeight:13},
+      },
+    },
+  }],
+};
+
+chart.setOption(option);
+
+// ── resize on window change ───────────────────────────────────────────────────
+window.addEventListener('resize', resize, {passive: true});
+
+})();
+</script>
+</body>
+</html>

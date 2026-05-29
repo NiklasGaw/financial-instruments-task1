@@ -1,0 +1,93 @@
+{
+  "company": "Microsoft Corp",
+  "ticker": "MSFT",
+  "report_date": "2024-06-30",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Productivity and Business Processes",
+      "revenue": 20.3,
+      "operating_income": 10.1,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "LinkedIn",
+          "revenue": 4.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Productivity and Business Processes",
+          "revenue": 15.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Intelligent Cloud",
+      "revenue": 28.5,
+      "operating_income": 12.8,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Server products and cloud services",
+          "revenue": 27.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Intelligent Cloud",
+          "revenue": 0.8,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "More Personal Computing",
+      "revenue": 15.8,
+      "operating_income": 4.9,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Gaming",
+          "revenue": 4.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other More Personal Computing",
+          "revenue": 11.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 64.7,
+    "cost_of_revenue": 19.7,
+    "gross_profit": 45.0,
+    "total_operating_expenses": 17.1,
+    "operating_income": 27.9,
+    "other_income_expense": -0.7,
+    "income_before_tax": 27.3,
+    "tax_expense": 5.2,
+    "net_income": 22.0,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 8.0,
+      "selling_general_administrative": 9.1
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 100,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

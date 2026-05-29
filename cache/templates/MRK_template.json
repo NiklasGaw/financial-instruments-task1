@@ -1,0 +1,37 @@
+{
+  "ticker": "MRK",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Pharmaceutical",
+      "sub_segments": [
+        "Keytruda/Keytruda Qlex",
+        "Gardasil/Gardasil 9",
+        "Januvia/Janumet",
+        "ProQuad/M-M-R II/Varivax",
+        "Bridion",
+        "Alliance revenue - Lynparza",
+        "Winrevair",
+        "Alliance revenue - Lenvima",
+        "Other Pharmaceutical",
+        "Keytruda",
+        "Lagevrio",
+        "Vaxneuvance",
+        "Prevymis",
+        "RotaTeq"
+      ]
+    },
+    {
+      "name": "Animal Health",
+      "sub_segments": [
+        "Livestock",
+        "Companion Animal",
+        "Bravecto line of products"
+      ]
+    },
+    {
+      "name": "Other",
+      "sub_segments": []
+    }
+  ]
+}

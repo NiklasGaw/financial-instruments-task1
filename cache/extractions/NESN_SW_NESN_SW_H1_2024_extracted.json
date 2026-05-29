@@ -1,0 +1,98 @@
+{
+  "company": "Nestl\u00e9 S.A.",
+  "ticker": "NESN.SW",
+  "report_date": "2024-12-31",
+  "form_type": "Half-Year Report",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "H1",
+  "currency": "CHF",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Nestl\u00e9 Health Science",
+      "revenue": 3.2,
+      "operating_income": 0.3,
+      "yoy_growth_pct": -2.4,
+      "sub_segments": []
+    },
+    {
+      "name": "Nespresso",
+      "revenue": 3.1,
+      "operating_income": 0.7,
+      "yoy_growth_pct": -1.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Powdered and Liquid Beverages",
+      "revenue": 12.0,
+      "operating_income": 2.5,
+      "yoy_growth_pct": -2.4,
+      "sub_segments": []
+    },
+    {
+      "name": "Water",
+      "revenue": 1.6,
+      "operating_income": 0.2,
+      "yoy_growth_pct": -5.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Milk products and Ice cream",
+      "revenue": 5.2,
+      "operating_income": 1.2,
+      "yoy_growth_pct": -4.2,
+      "sub_segments": []
+    },
+    {
+      "name": "Nutrition and Health Science",
+      "revenue": 7.6,
+      "operating_income": 1.5,
+      "yoy_growth_pct": -2.5,
+      "sub_segments": []
+    },
+    {
+      "name": "Prepared dishes and cooking aids",
+      "revenue": 5.3,
+      "operating_income": 1.0,
+      "yoy_growth_pct": -11.3,
+      "sub_segments": []
+    },
+    {
+      "name": "Confectionery",
+      "revenue": 3.8,
+      "operating_income": 0.5,
+      "yoy_growth_pct": 4.1,
+      "sub_segments": []
+    },
+    {
+      "name": "PetCare",
+      "revenue": 9.5,
+      "operating_income": 2.1,
+      "yoy_growth_pct": 0.8,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 45.0,
+    "total_revenue_yoy_pct": -2.7,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 21.2,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.8,
+      "selling_general_administrative": 8.9
+    },
+    "total_operating_expenses": 9.7,
+    "operating_income": 7.8,
+    "operating_income_yoy_pct": -0.8,
+    "other_income_expense": -0.4,
+    "income_before_tax": null,
+    "tax_expense": null,
+    "net_income": null,
+    "net_income_yoy_pct": null
+  },
+  "notes": "Two-pass LLM extraction."
+}

@@ -1,0 +1,37 @@
+{
+  "company": "Johnson & Johnson",
+  "ticker": "JNJ",
+  "report_date": "2025-12-28",
+  "form_type": "10-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [],
+  "income_statement": {
+    "total_revenue": 94.2,
+    "total_revenue_yoy_pct": 6.0,
+    "cost_of_revenue": 30.3,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 63.9,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.1,
+      "selling_general_administrative": 23.7
+    },
+    "total_operating_expenses": 23.8,
+    "operating_income": 40.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -7.5,
+    "income_before_tax": 32.6,
+    "tax_expense": 5.8,
+    "net_income": 26.8,
+    "net_income_yoy_pct": 90.6
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": true,
+  "_quality_score": 30
+}

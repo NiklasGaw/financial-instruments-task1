@@ -1,0 +1,30 @@
+{
+  "ticker": "PEP",
+  "source": "cache: 10-K 2023-12-30",
+  "segments": [
+    {
+      "name": "Frito-Lay North America",
+      "sub_segments": []
+    },
+    {
+      "name": "Quaker Foods North America",
+      "sub_segments": []
+    },
+    {
+      "name": "PepsiCo Beverages North America",
+      "sub_segments": []
+    },
+    {
+      "name": "Frito-Lay North America (FLNA)",
+      "sub_segments": []
+    },
+    {
+      "name": "Quaker Foods North America (QFNA)",
+      "sub_segments": []
+    },
+    {
+      "name": "PepsiCo Beverages North America (PBNA)",
+      "sub_segments": []
+    }
+  ]
+}

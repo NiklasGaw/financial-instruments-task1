@@ -1,0 +1,150 @@
+{
+  "company": "Abbott Laboratories",
+  "ticker": "ABT",
+  "report_date": "2024-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Established Pharmaceutical Products",
+      "revenue": 1.2,
+      "operating_income": 0.3,
+      "yoy_growth_pct": 3.1,
+      "sub_segments": [
+        {
+          "name": "Key Emerging Markets",
+          "revenue": 0.9,
+          "yoy_growth_pct": 1.7
+        },
+        {
+          "name": "Other Emerging Markets",
+          "revenue": 0.3,
+          "yoy_growth_pct": 7.6
+        }
+      ]
+    },
+    {
+      "name": "Nutritional Products",
+      "revenue": 2.1,
+      "operating_income": 0.4,
+      "yoy_growth_pct": 5.1,
+      "sub_segments": [
+        {
+          "name": "Pediatric Nutritionals",
+          "revenue": 1.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Adult Nutritionals",
+          "revenue": 1.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Diagnostic Products",
+      "revenue": 2.2,
+      "operating_income": 0.5,
+      "yoy_growth_pct": -17.6,
+      "sub_segments": [
+        {
+          "name": "Core Laboratory",
+          "revenue": 1.2,
+          "yoy_growth_pct": 2.0
+        },
+        {
+          "name": "Molecular",
+          "revenue": 0.1,
+          "yoy_growth_pct": -11.9
+        },
+        {
+          "name": "Point of Care",
+          "revenue": 0.1,
+          "yoy_growth_pct": 3.7
+        },
+        {
+          "name": "Rapid Diagnostics",
+          "revenue": 0.7,
+          "yoy_growth_pct": -39.5
+        },
+        {
+          "name": "Other Diagnostic Products",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Medical Devices",
+      "revenue": 4.5,
+      "operating_income": 1.4,
+      "yoy_growth_pct": 14.2,
+      "sub_segments": [
+        {
+          "name": "Rhythm Management",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Electrophysiology",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Heart Failure",
+          "revenue": 0.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Vascular",
+          "revenue": 0.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Structural Heart",
+          "revenue": 0.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Neuromodulation",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Diabetes Care",
+          "revenue": 1.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 10.0,
+    "total_revenue_yoy_pct": 2.2,
+    "cost_of_revenue": 4.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 5.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.7,
+      "selling_general_administrative": 3.0
+    },
+    "total_operating_expenses": 3.6,
+    "operating_income": 1.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 1.4,
+    "tax_expense": 0.2,
+    "net_income": 1.2,
+    "net_income_yoy_pct": -7.1
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

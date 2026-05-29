@@ -1,0 +1,256 @@
+6-K
+ 1
+ f6k_093025.htm
+ FORM 6-K
+
+ UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+ FORM 6-K 
+
+ REPORT OF FOREIGN PRIVATE ISSUER 
+
+ PURSUANT TO RULE 13a-16 or 15d-16 OF 
+
+ THE SECURITIES EXCHANGE ACT OF 1934 
+
+ Report on Form 6-K dated September 30, 2025 
+
+ (Commission File No. 1-15024) 
+
+ ____________________
+
+ Novartis AG 
+
+ (Name of Registrant)
+
+ Lichtstrasse 35 
+
+ 4056 Basel 
+
+ Switzerland 
+
+ (Address of Principal Executive Offices)
+
+ ____________________
+
+ Indicate by check mark whether the registrant files or will file annual reports under cover
+of Form 20-F or Form 40-F:
+
+ Form 20-F: &#9746; 
+
+ Form 40-F: &#9744; 
+
+ Novartis International AG
+
+ CH-4002 Basel 
+ Switzerland 
+
+ https://www.novartis.com
+
+ http://x.com/NovartisNews
+
+ PRESS RELEASE
+
+ Novartis receives FDA approval
+for Rhapsido &reg; (remibrutinib), the only oral, targeted BTKi treatment for chronic spontaneous
+urticaria (CSU)
+
+ Ad hoc announcement pursuant to Art. 53 LR 
+
+ &middot; 
+ Rhapsido helps to inhibit release of histamine and proinflammatory mediators by targeting BTK, offering
+ unique approach to CSU treatment 1 
+
+ &middot; 
+ Well-controlled disease observed as fast as two weeks, with demonstrated safety profile that requires no
+ lab monitoring 1 
+
+ &middot; 
+ 1.7 million people in US live with CSU; more than half remain symptomatic despite increasing doses of antihistamines 2,3 
+
+ &middot; 
+ Remibrutinib also in clinical development for chronic inducible urticaria, food allergy, and hidradenitis
+ suppurativa, expanding Novartis Immunology portfolio 
+
+ Basel, September 30, 2025 &ndash; Novartis announced today that
+Rhapsido &reg; (remibrutinib) received US Food and Drug Administration (FDA) approval as an oral treatment
+for adult patients with chronic spontaneous urticaria (CSU) who remain symptomatic despite H1 antihistamine treatment. Rhapsido is a pill
+taken twice daily and does not require injections or lab monitoring. It is the first FDA-approved Bruton's tyrosine kinase inhibitor
+(BTKi) for CSU. Rhapsido helps to inhibit the release of histamine and other proinflammatory mediators by targeting BTK, offering a unique
+approach to CSU treatment. 1 
+
+ "CSU is a serious disease that can cause debilitating symptoms and
+unpredictable flares. It's difficult to diagnose and manage," said Mark Lebwohl, MD, Dean for Clinical Therapeutics at the
+Icahn School of Medicine at Mount Sinai and member of the steering committee for the remibrutinib REMIX Phase III clinical trial program.
+"Remibrutinib represents a new way of treating CSU. By blocking the activity of BTK, remibrutinib stops a key pathway of the immune
+response in CSU. This is an exciting new option that has the potential to help a broad range of patients get fast relief."
+
+ CSU is a mast cell-driven condition thought to be caused by immune dysregulation.
+In people with CSU, the immune system can become activated through allergic (IgE) or autoimmune (IgG) pathways. 4 
+This causes certain immune cells&mdash;mast cells and basophils&mdash;to activate the BTK protein. While not fully understood, it is believed
+that once activated, BTK leads to the release of histamine and other proinflammatory mediators that may cause the red, swollen, and itchy
+hives commonly seen in CSU. 5,6 
+
+ CSU symptoms are unpredictable, recurring for six weeks or more without
+an identified cause. 7 Diagnosis can take up to 24 months. 8 
+Many CSU patients say their symptoms negatively impact their sleep, work, and mental health. 9,10,11 
+ Antihistamines are the first-line treatment, but over half of patients still have symptoms, even at higher doses. 2 
+Injectable treatments exist for those who don't respond to antihistamines, yet fewer than 20% of eligible patients receive them. 12 
+
+ "The approval of remibrutinib is an important development in CSU
+care. It quickly reduces symptoms, offering patients control of the hives and itching that they experience on a daily basis," said
+Giselle Mosnaim, MD, MS, an Allergist and Immunologist from Endeavor Health, Clinical Associate Professor at the University of Chicago
+Pritzker School of Medicine and REMIX trial investigator. "This is significant because it expands beyond existing injectable treatments
+and gives patients an oral option that can easily be incorporated into their daily lives."
+
+ "Many CSU patients feel misunderstood and settle for treatments
+that don't fully meet their needs," said Lynda Mitchell, CEO of Allergy & Asthma Network. "We support new treatment
+options that empower patients to choose what works best for them. This convenient new oral therapy offers a promising new way to manage
+CSU and potentially improve daily life for those living with this challenging condition."
+
+ Clinical data supporting approval
+
+ The FDA approval of Rhapsido in CSU is based on results from the Phase
+III REMIX-1 ( NCT05030311 ) and REMIX-2 ( NCT05032157 ) clinical trials in patients who remained symptomatic on second-generation
+H1 antihistamines. Rhapsido demonstrated superiority in change from baseline versus placebo in itch (ISS7), hives (HSS7), and weekly urticaria
+activity (UAS7) at Week 12. 13 Significantly more patients treated with Rhapsido versus
+placebo achieved well-controlled disease (UAS7&le;6) as early as Week 2 and at Week 12, and about one-third of patients achieved complete
+absence of itch and hives at Week 12. 13 Rhapsido has a demonstrated safety profile that
+requires no lab monitoring. 13 The most common adverse events (incidence &ge;3%) were nasal
+congestion, sore throat, and runny nose (nasopharyngitis), bleeding, headache, nausea, and abdominal pain. 13 
+
+ Novartis has completed regulatory submissions for Rhapsido for the treatment
+of CSU across many countries, including in the European Union, Japan, and China, with priority review granted in China.
+
+ Transforming care in Immunology
+
+ "This approval of Rhapsido as the first and only BTK inhibitor in
+CSU is an important milestone in our journey to reshape care for overlooked immune-related conditions and offer more patients the potential
+to find fast relief," said Victor Bult&oacute;, President, US, Novartis. "Building on our legacy in advancing the treatment
+of allergic, dermatologic, and rheumatologic conditions, we are deeply committed to further investing in innovative, patient- focused
+therapies across immunology."
+
+ Discovered and developed by Novartis to target the BTK pathway as a driver
+of inflammation, remibrutinib is being investigated in ongoing clinical trials across a variety of immune-related conditions, including
+chronic inducible urticaria (CIndU), hidradenitis suppurativa (HS), and food allergy.
+
+ Disclaimer
+
+ This press release contains forward-looking statements within the meaning
+of the United States Private Securities Litigation Reform Act of 1995. Forward-looking statements can generally be identified by words
+such as "potential," "can," "will," "plan," "may," "could," "would,"
+"expect," "anticipate," "look forward," "believe," "committed," "investigational,"
+"pipeline," "launch," or similar terms, or by express or implied discussions regarding potential marketing approvals,
+new indications or labeling for the investigational or approved products described in this press release, or regarding potential future
+revenues from such products.You should not place undue reliance on these statements. Such forward-looking statements are based on our
+current beliefs and expectations regarding future events, and are subject to significant known and unknown risks and uncertainties. Should
+one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially
+from those set forth in the forward-looking statements. There can be no guarantee that the investigational or approved products described
+in this press release will be submitted or approved for sale or for any additional indications or labeling in any market, or at any particular
+time. Nor can there be any guarantee that such products will be commercially successful in the future. In particular, our expectations
+regarding such products could be affected by, among other things, the uncertainties inherent in research and development, including clinical
+trial results and additional analysis of existing clinical data; regulatory actions or delays or government regulation generally; global
+trends toward health care cost containment, including government, payor and general public pricing and reimbursement pressures and requirements
+for increased pricing transparency; our ability to obtain or maintain proprietary intellectual property protection; the particular prescribing
+preferences of physicians and patients; general political, economic and business conditions, including the effects of and efforts to mitigate
+pandemic diseases; safety, quality, data integrity or manufacturing issues; potential or actual data security and data privacy breaches,
+or disruptions of our information technology systems, and other risks and factors referred to in Novartis AG's current Form 20-F
+on file with the US Securities and Exchange Commission. Novartis is providing the information in this press release as of this date and
+does not undertake any obligation to update any forward-looking statements contained in this press release as a result of new information,
+future events or otherwise.
+
+ About Novartis
+
+ Novartis is an innovative medicines company. Every day, we work to reimagine
+medicine to improve and extend people's lives so that patients, healthcare professionals and societies are empowered in the face
+of serious disease. Our medicines reach nearly 300 million people worldwide.
+
+ Reimagine medicine with us: Visit us at https://www.novartis.com 
+and connect with us on LinkedIn , Facebook , X/Twitter and Instagram .
+
+ References
+
+ 1. 
+ Rhapsido &reg; (remibrutinib) Prescribing Information. Novartis Pharmaceuticals Corp. 
+
+ 2. 
+ Maurer M, Weller K, Bindslev-Jensen C, et al. Unmet clinical needs in chronic spontaneous urticaria. A GA&sup2;LEN
+ task force report. Allergy . 2011;66:317-330. doi:10.1111/j.1398-9995.2010.02496.x 
+
+ 3. 
+ The World Bank. Population, total. Accessed June 2025. https://data.worldbank.org/indicator/SP.POP.TOTL 
+
+ 4. 
+ Kolkhir P, Mu&ntilde;oz M, Asero R, et al. Autoimmune chronic spontaneous urticaria. J Allergy Clin Immunol .
+ 2022;149(6):1819-1831. doi:10.1016/j.jaci.2022.04.010 
+
+ 5. 
+ Kolkhir, P., Gim&eacute;nez-Arnau, A.M., Kulthanan, K. et al. Urticaria. Nat Rev Dis Primers. 8, 61
+ (2022). https://doi.org/10.1038/s41572-022-00389-z 
+
+ 6. 
+ Mendes-Bastos P, Brasileiro A, Kolkhir P, et al. Bruton's tyrosine kinase inhibition-An emerging therapeutic
+ strategy in immune-mediated dermatological conditions. Allergy . 2022;77(8):2355-2366. 
+
+ 7. 
+ Maurer M, Costa C, Gimenez Arnau A, et al. Antihistamine-resistant chronic spontaneous urticaria remains undertreated:
+ 2-year data from the AWARE study. Clin Exp Allergy . 2020;50:1166-1175. doi: 10.1111/cea.13716 
+
+ 8. 
+ Friedman A, Kwatra SG, Yosipovitch G. A Practical Approach to Diagnosing and Managing Chronic Spontaneous
+ Urticaria. Dermatol Ther (Heidelb). 2024;14(6):1371-1387. doi: 10.1007/s13555-024-01173-5 
+
+ 9. 
+ Mendelson M, Bernstein J, Gabriel S, et al. Patient-reported impact of chronic urticaria compared with psoriasis
+ in the United States. J Dermatolog Treat . 2017; 28(3):229-236. doi:10.1080/09546634.2016.1227421 
+
+ 10. 
+ Maurer M, Abuzakouk M, B&eacute;rard F, et al. The burden of chronic spontaneous urticaria is substantial:
+ Real-world evidence from ASSURE-CSU. Allergy . 2017;72(12):2005-2016. doi:10.1111/all.13209 
+
+ 11. 
+ Balp M-M, Krupsky K, Balkaran BL, et al. Oral presentation at: European Academy of Allergy and Clinical Immunology
+ (EAACI) Hybrid Congress 2023; June 9&ndash;11, 2023; Hamburg, Germany. 
+
+ 12. 
+ Maurer M, Raap U, Staubach P, et al. Antihistamine-resistant chronic spontaneous
+ urticaria: 1-year data from the AWARE study. Clin Exp Allergy.2019; 49: 655&ndash;662. https://doi.org/10.1111/cea.13309 
+
+ 13. 
+ Metz M, Gim&eacute;nez-Arnau A, Hide M, et al. Long-term efficacy and safety of remibrutinib in patients with
+ chronic spontaneous urticaria in the Phase 3 REMIX-1 and REMIX-2 studies. Presented as a late oral abstract session on clinical trials
+ at EAACI 2024; May 31-June 3, 2024; Valencia, Spain. 
+
+ # # #
+
+ Novartis Media Relations
+
+ E-mail: media.relations@novartis.com
+
+ Novartis Investor Relations
+
+ Central investor relations line: +41 61 324 7944
+
+ E-mail: investor.relations@novartis.com
+
+ SIGNATURES 
+
+ Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized. 
+
+ Novartis AG 
+
+ Date: September 30, 2025 
+ By: 
+ /s/ PAUL PENEPENT 
+
+ Name: 
+ Paul Penepent 
+
+ Title: 
+ Head of Financial Reporting and Accounting

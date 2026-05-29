@@ -1,0 +1,56 @@
+{
+  "company": "Alibaba Group Holding",
+  "ticker": "9988.HK",
+  "report_date": "2026-03-31",
+  "form_type": "20-F",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Alibaba International Digital Commerce Group",
+      "revenue": 144.2,
+      "operating_income": -2.1,
+      "yoy_growth_pct": 9.0,
+      "sub_segments": [
+        {
+          "name": "International commerce retail",
+          "revenue": 117.7,
+          "yoy_growth_pct": 9.0
+        },
+        {
+          "name": "International commerce wholesale",
+          "revenue": 26.4,
+          "yoy_growth_pct": 11.0
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 148.4,
+    "total_revenue_yoy_pct": 8.1,
+    "cost_of_revenue": 89.3,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 59.1,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 9.6,
+      "selling_general_administrative": 40.3
+    },
+    "total_operating_expenses": 50.0,
+    "operating_income": 7.3,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 12.1,
+    "income_before_tax": 18.8,
+    "tax_expense": 4.4,
+    "net_income": 15.0,
+    "net_income_yoy_pct": -16.2
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

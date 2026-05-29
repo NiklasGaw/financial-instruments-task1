@@ -1,0 +1,66 @@
+{
+  "ticker": "JNJ",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Innovative Medicine",
+      "sub_segments": [
+        "Immunology",
+        "REMICADE",
+        "SIMPONI/SIMPONI ARIA",
+        "STELARA",
+        "TREMFYA",
+        "Infectious Diseases",
+        "COVID-19 VACCINE",
+        "EDURANT/rilpivirine",
+        "PREZISTA/PREZCOBIX/REZOLSTA/SYMTUZA",
+        "Other Infectious Diseases",
+        "Neuroscience",
+        "CONCERTA/methylphenidate",
+        "INVEGA SUSTENNA/XEPLION/INVEGA TRINZA/TREVICTA",
+        "SPRAVATO",
+        "Other Neuroscience",
+        "Oncology",
+        "CARVYKTI",
+        "DARZALEX",
+        "ERLEADA",
+        "IMBRUVICA",
+        "TECVAYLI",
+        "ZYTIGA /abiraterone acetate",
+        "Other Oncology",
+        "Pulmonary Hypertension",
+        "OPSUMIT",
+        "UPTRAVI",
+        "Other Pulmonary Hypertension",
+        "Cardiovascular / Metabolism / Other",
+        "XARELTO",
+        "Other",
+        "ZYTIGA/abiraterone acetate",
+        "Other Cardiovascular / Metabolism / Other"
+      ]
+    },
+    {
+      "name": "MedTech",
+      "sub_segments": [
+        "Surgery",
+        "Advanced Surgery",
+        "General Surgery",
+        "Orthopaedics",
+        "Hips",
+        "Knees",
+        "Trauma",
+        "Spine, Sports & Other",
+        "Cardiovascular",
+        "Electrophysiology",
+        "Abiomed",
+        "Shockwave",
+        "Other Cardiovascular",
+        "Vision",
+        "Contact Lenses/Other",
+        "Surgical Vision",
+        "Interventional Solutions",
+        "Other Interventional Solutions"
+      ]
+    }
+  ]
+}

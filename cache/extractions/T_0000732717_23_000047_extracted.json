@@ -1,0 +1,102 @@
+{
+  "company": "AT&T Inc.",
+  "ticker": "T",
+  "report_date": "2023-06-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Mobility",
+      "revenue": 20.3,
+      "operating_income": 6.6,
+      "yoy_growth_pct": 2.0,
+      "sub_segments": [
+        {
+          "name": "Service",
+          "revenue": 15.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Equipment",
+          "revenue": 5.1,
+          "yoy_growth_pct": -5.7
+        }
+      ]
+    },
+    {
+      "name": "Business Wireline",
+      "revenue": 5.3,
+      "operating_income": 0.4,
+      "yoy_growth_pct": -5.6,
+      "sub_segments": [
+        {
+          "name": "Legacy and other transitional services",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Fiber and advanced connectivity services",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Equipment",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Consumer Wireline",
+      "revenue": 3.3,
+      "operating_income": 0.2,
+      "yoy_growth_pct": 2.4,
+      "sub_segments": [
+        {
+          "name": "Broadband",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Legacy voice and data services",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other service and equipment",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 29.9,
+    "total_revenue_yoy_pct": 0.9,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 7.0
+    },
+    "total_operating_expenses": 23.5,
+    "operating_income": 6.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.5,
+    "income_before_tax": 6.2,
+    "tax_expense": 1.4,
+    "net_income": 4.5,
+    "net_income_yoy_pct": 8.0
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

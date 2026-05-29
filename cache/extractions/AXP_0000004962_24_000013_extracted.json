@@ -1,0 +1,71 @@
+{
+  "company": "American Express",
+  "ticker": "AXP",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Commercial Services (CS)",
+      "revenue": 14.8,
+      "operating_income": 2.9,
+      "yoy_growth_pct": 8.9,
+      "sub_segments": [
+        {
+          "name": "Discount revenue",
+          "revenue": 11.4,
+          "yoy_growth_pct": 4.9
+        },
+        {
+          "name": "Net card fees",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Service fees and other revenue",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Processed revenue",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Interest income",
+          "revenue": 3.3,
+          "yoy_growth_pct": 60.8
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 37.2,
+    "total_revenue_yoy_pct": 8.8,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": null,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 10.5,
+    "tax_expense": 2.1,
+    "net_income": 8.4,
+    "net_income_yoy_pct": 11.4
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 65
+}

@@ -1,0 +1,91 @@
+{
+  "company": "Tesla Inc.",
+  "ticker": "TSLA",
+  "report_date": "2025-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Automotive",
+      "revenue": 16.6,
+      "operating_income": null,
+      "yoy_growth_pct": -15.6,
+      "sub_segments": [
+        {
+          "name": "Automotive sales",
+          "revenue": 12.9,
+          "yoy_growth_pct": -21.5
+        },
+        {
+          "name": "Automotive regulatory credits",
+          "revenue": 0.6,
+          "yoy_growth_pct": 34.6
+        },
+        {
+          "name": "Automotive leasing",
+          "revenue": 0.4,
+          "yoy_growth_pct": -6.1
+        },
+        {
+          "name": "Other Automotive",
+          "revenue": 2.7,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Energy generation and storage",
+      "revenue": 2.7,
+      "operating_income": null,
+      "yoy_growth_pct": 66.9,
+      "sub_segments": [
+        {
+          "name": "Energy generation and storage sales",
+          "revenue": 2.6,
+          "yoy_growth_pct": 72.1
+        },
+        {
+          "name": "Energy generation and storage leasing",
+          "revenue": 0.1,
+          "yoy_growth_pct": -3.5
+        }
+      ]
+    },
+    {
+      "name": "Services and other",
+      "revenue": 2.6,
+      "operating_income": null,
+      "yoy_growth_pct": 15.3,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 19.3,
+    "total_revenue_yoy_pct": -9.2,
+    "cost_of_revenue": 16.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 3.2,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.4,
+      "selling_general_administrative": 1.3
+    },
+    "total_operating_expenses": 2.7,
+    "operating_income": 0.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.2,
+    "income_before_tax": 0.6,
+    "tax_expense": 0.2,
+    "net_income": 0.4,
+    "net_income_yoy_pct": -63.8
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

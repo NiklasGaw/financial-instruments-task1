@@ -1,0 +1,72 @@
+{
+  "company": "Tencent Holdings Ltd.",
+  "ticker": "TCEHY",
+  "report_date": "2023-12-31",
+  "form_type": "Quarterly Report",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q2",
+  "currency": "RMB",
+  "exchange_rate_to_usd": 7.18,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Value-added Services",
+      "revenue": 79.3,
+      "operating_income": null,
+      "yoy_growth_pct": 2.0,
+      "sub_segments": [
+        {
+          "name": "Social Networks",
+          "revenue": 35.1,
+          "yoy_growth_pct": 4.0
+        },
+        {
+          "name": "Domestic Games",
+          "revenue": 31.8,
+          "yoy_growth_pct": 0.1
+        },
+        {
+          "name": "International Games",
+          "revenue": 12.7,
+          "yoy_growth_pct": 19.0
+        }
+      ]
+    },
+    {
+      "name": "Online Advertising",
+      "revenue": 23.0,
+      "operating_income": null,
+      "yoy_growth_pct": 1.0,
+      "sub_segments": []
+    },
+    {
+      "name": "FinTech and Business Services",
+      "revenue": 48.6,
+      "operating_income": null,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 0.1,
+    "total_revenue_yoy_pct": 11.0,
+    "cost_of_revenue": 0.1,
+    "cost_of_revenue_yoy_pct": 3.0,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 0.1,
+    "gross_profit_yoy_pct": 22.0,
+    "operating_expenses": {
+      "research_and_development": 0.016,
+      "selling_general_administrative": 0.017
+    },
+    "total_operating_expenses": 0.034,
+    "operating_income": 0.04,
+    "operating_income_yoy_pct": 34.0,
+    "other_income_expense": 3.2,
+    "income_before_tax": 0.04,
+    "tax_expense": 0.011,
+    "net_income": 0.027,
+    "net_income_yoy_pct": 41.0
+  },
+  "notes": "Two-pass LLM extraction."
+}

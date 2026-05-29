@@ -1,0 +1,6694 @@
+orcl-10q_20220831.htm
+
+ false 
+ Q1 
+ 2023 
+ 0001341439 
+ --05-31 
+ true 
+ P2Y 
+ P2Y 
+ P2Y 
+ 2023-05-31 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 1 
+ 0 
+ 0 
+ P4Y 
+ P7Y 
+ P7Y 
+ P4Y 
+
+ 0001341439 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ xbrli:shares 
+
+ 0001341439 
+
+ 2022-09-08 
+
+ 0001341439 
+
+ us-gaap:CommonStockMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:SeniorNotesDueJuly2025Member 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ iso4217:USD 
+
+ 0001341439 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ 2022-05-31 
+
+ iso4217:USD 
+
+ xbrli:shares 
+
+ 0001341439 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 
+
+ 2021-05-31 
+
+ 0001341439 
+
+ us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 
+
+ 2021-08-31 
+
+ 0001341439 
+
+ us-gaap:RetainedEarningsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:RetainedEarningsMember 
+
+ 2021-05-31 
+
+ 0001341439 
+
+ us-gaap:RetainedEarningsMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:RetainedEarningsMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ us-gaap:RetainedEarningsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:RetainedEarningsMember 
+
+ 2021-08-31 
+
+ 0001341439 
+
+ us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember 
+
+ 2021-05-31 
+
+ 0001341439 
+
+ us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember 
+
+ 2021-08-31 
+
+ 0001341439 
+
+ 2021-08-31 
+
+ 0001341439 
+
+ 2021-05-31 
+
+ orcl:Subsidiary 
+
+ 0001341439 
+
+ 2022-06-08 
+ 2022-06-08 
+
+ orcl:Business 
+
+ 0001341439 
+
+ orcl:ServersMember 
+ srt:MinimumMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:ServersMember 
+ srt:MaximumMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ xbrli:pure 
+
+ 0001341439 
+
+ 2022-09-01 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ 2023-09-01 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:CommonStockMember 
+ orcl:CernerCorporationMember 
+
+ 2022-01-19 
+
+ 0001341439 
+
+ orcl:CernerCorporationMember 
+
+ 2022-01-19 
+ 2022-01-19 
+
+ 0001341439 
+
+ orcl:CernerCorporationMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CernerCorporationMember 
+
+ 2022-06-08 
+ 2022-06-08 
+
+ 0001341439 
+
+ orcl:CernerCorporationMember 
+
+ 2022-06-08 
+
+ 0001341439 
+
+ 2022-06-08 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel1Member 
+ us-gaap:MoneyMarketFundsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel2Member 
+ us-gaap:MoneyMarketFundsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:MoneyMarketFundsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel1Member 
+ us-gaap:MoneyMarketFundsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel2Member 
+ us-gaap:MoneyMarketFundsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:MoneyMarketFundsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel1Member 
+ us-gaap:BankTimeDepositsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel2Member 
+ us-gaap:BankTimeDepositsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:BankTimeDepositsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel1Member 
+ us-gaap:BankTimeDepositsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel2Member 
+ us-gaap:BankTimeDepositsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:BankTimeDepositsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel1Member 
+ us-gaap:CommercialPaperMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel2Member 
+ us-gaap:CommercialPaperMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:CommercialPaperMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel1Member 
+ us-gaap:CommercialPaperMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel2Member 
+ us-gaap:CommercialPaperMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:CommercialPaperMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel1Member 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel2Member 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel1Member 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel2Member 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel2Member 
+ orcl:SeniorNotesAndOtherBorrowingsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:FairValueInputsLevel2Member 
+ orcl:SeniorNotesAndOtherBorrowingsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:SeniorNotesAndOtherBorrowingsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:SeniorNotesAndOtherBorrowingsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:DevelopedTechnologyRightsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:CloudServicesAndLicenseSupportAgreementsAndRelatedRelationshipsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:CloudLicenseAndOnPremiseLicenseAgreementsAndRelatedRelationshipsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:OtherIntangibleAssetsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:DevelopedTechnologyRightsMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudServicesAndLicenseSupportAgreementsAndRelatedRelationshipsMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudLicenseAndOnPremiseLicenseAgreementsAndRelatedRelationshipsMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:OtherIntangibleAssetsMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:DevelopedTechnologyRightsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudServicesAndLicenseSupportAgreementsAndRelatedRelationshipsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudLicenseAndOnPremiseLicenseAgreementsAndRelatedRelationshipsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:OtherIntangibleAssetsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudAndLicenseBusinessMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:HardwareBusinessMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:ServicesBusinessMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:CloudAndLicenseBusinessMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:HardwareBusinessMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:ServicesBusinessMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudAndLicenseBusinessMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:HardwareBusinessMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:ServicesBusinessMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:BridgeCreditAgreement2Member 
+
+ 2022-06-08 
+
+ 0001341439 
+
+ orcl:BridgeCreditAgreement2Member 
+
+ 2022-06-08 
+ 2022-06-08 
+
+ 0001341439 
+
+ orcl:BridgeCreditAgreement2Member 
+ srt:MinimumMember 
+ us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 
+
+ 2022-06-08 
+ 2022-06-08 
+
+ 0001341439 
+
+ orcl:BridgeCreditAgreement2Member 
+ srt:MaximumMember 
+ us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 
+
+ 2022-06-08 
+ 2022-06-08 
+
+ 0001341439 
+
+ orcl:BridgeCreditAgreement2Member 
+ srt:MinimumMember 
+ us-gaap:BaseRateMember 
+
+ 2022-06-08 
+ 2022-06-08 
+
+ 0001341439 
+
+ orcl:BridgeCreditAgreement2Member 
+ srt:MaximumMember 
+ us-gaap:BaseRateMember 
+
+ 2022-06-08 
+ 2022-06-08 
+
+ 0001341439 
+
+ orcl:BridgeCreditAgreement2Member 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:TermLoanCreditAgreementMember 
+
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanOneFacilityMember 
+
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanTwoFacilityMember 
+
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanCreditAgreementMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:TermLoanCreditAgreementMember 
+ orcl:PrepaymentsMultipliedByOnePointTwoFiveMember 
+
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanCreditAgreementMember 
+ orcl:PrepaymentsMultipliedByOnePointTwoFiveMember 
+
+ 2022-08-16 
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanCreditAgreementMember 
+ orcl:PrepaymentsMultipliedByTwoPointFiveZeroMember 
+
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanCreditAgreementMember 
+ orcl:PrepaymentsMultipliedByTwoPointFiveZeroMember 
+
+ 2022-08-16 
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanOneFacilityMember 
+
+ 2022-08-16 
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanTwoFacilityMember 
+
+ 2022-08-16 
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanTwoFacilityMember 
+ srt:MaximumMember 
+
+ 2022-08-16 
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanCreditAgreementMember 
+ srt:MaximumMember 
+
+ 2022-08-16 
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanCreditAgreementMember 
+ srt:MinimumMember 
+ us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 
+
+ 2022-08-16 
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanCreditAgreementMember 
+ srt:MaximumMember 
+ us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember 
+
+ 2022-08-16 
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanCreditAgreementMember 
+ srt:MinimumMember 
+ us-gaap:BaseRateMember 
+
+ 2022-08-16 
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:TermLoanCreditAgreementMember 
+ srt:MaximumMember 
+ us-gaap:BaseRateMember 
+
+ 2022-08-16 
+ 2022-08-16 
+
+ 0001341439 
+
+ srt:MinimumMember 
+ orcl:TermLoanCreditAgreementMember 
+
+ 2022-08-16 
+ 2022-08-16 
+
+ 0001341439 
+
+ orcl:InterestRateSwapAgreementsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CernerCorporationMember2Member 
+
+ 2022-06-08 
+
+ 0001341439 
+
+ orcl:CernerCorporationMember2Member 
+ us-gaap:SeniorNotesMember 
+
+ 2022-06-08 
+ 2022-06-08 
+
+ 0001341439 
+
+ orcl:CernerCorporationMember2Member 
+ us-gaap:RevolvingCreditFacilityMember 
+
+ 2022-06-08 
+ 2022-06-08 
+
+ 0001341439 
+
+ us-gaap:CommercialPaperMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:Fiscal2022OracleRestructuringMember 
+ srt:MaximumMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:Fiscal2022OracleRestructuringMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:Fiscal2022OracleRestructuringMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ orcl:Fiscal2022OracleRestructuringMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudAndLicenseBusinessMember 
+ orcl:Fiscal2022OracleRestructuringMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:HardwareBusinessMember 
+ orcl:Fiscal2022OracleRestructuringMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:ServicesBusinessMember 
+ orcl:Fiscal2022OracleRestructuringMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:Fiscal2022OracleRestructuringMember 
+ us-gaap:CorporateNonSegmentMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:Fiscal2022OracleRestructuringMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:OtherRestructuringPlansIncludingSunMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:CloudAndLicenseBusinessMember 
+ orcl:Fiscal2022OracleRestructuringMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:HardwareBusinessMember 
+ orcl:Fiscal2022OracleRestructuringMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:ServicesBusinessMember 
+ orcl:Fiscal2022OracleRestructuringMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:Fiscal2022OracleRestructuringMember 
+ us-gaap:CorporateNonSegmentMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:OtherRestructuringPlansIncludingSunMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudAndLicenseBusinessMember 
+ orcl:Fiscal2022OracleRestructuringMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:HardwareBusinessMember 
+ orcl:Fiscal2022OracleRestructuringMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:ServicesBusinessMember 
+ orcl:Fiscal2022OracleRestructuringMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:Fiscal2022OracleRestructuringMember 
+ us-gaap:CorporateNonSegmentMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:OtherRestructuringPlansIncludingSunMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudServicesAndLicenseSupportMember 
+ orcl:CloudAndLicenseBusinessMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudServicesAndLicenseSupportMember 
+ orcl:CloudAndLicenseBusinessMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:HardwareMember 
+ orcl:HardwareBusinessMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:HardwareMember 
+ orcl:HardwareBusinessMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:ServicesToCustomersAndPartnersMember 
+ orcl:ServicesBusinessMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:ServicesToCustomersAndPartnersMember 
+ orcl:ServicesBusinessMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ orcl:CloudLicenseAndOnPremiseLicenseMember 
+ orcl:CloudAndLicenseBusinessMember 
+
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudLicenseAndOnPremiseLicenseMember 
+ orcl:CloudAndLicenseBusinessMember 
+
+ 2022-05-31 
+
+ 0001341439 
+
+ us-gaap:SubsequentEventMember 
+
+ 2022-09-12 
+ 2022-09-12 
+
+ 0001341439 
+
+ orcl:CloudServicesAndLicenseSupportMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudServicesAndLicenseSupportMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ orcl:HardwareMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:HardwareMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ orcl:ServicesBusinessMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:ServicesBusinessMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ us-gaap:SellingAndMarketingExpenseMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:SellingAndMarketingExpenseMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ us-gaap:ResearchAndDevelopmentExpenseMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:ResearchAndDevelopmentExpenseMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ us-gaap:GeneralAndAdministrativeExpenseMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:GeneralAndAdministrativeExpenseMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ orcl:Segment 
+
+ 0001341439 
+
+ orcl:CloudAndLicenseBusinessMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudAndLicenseBusinessMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ orcl:HardwareBusinessMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:HardwareBusinessMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ orcl:ServicesBusinessMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:ServicesBusinessMember 
+ us-gaap:OperatingSegmentsMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ us-gaap:OperatingSegmentsMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:OperatingSegmentsMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ srt:AmericasMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ srt:AmericasMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ us-gaap:EMEAMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ us-gaap:EMEAMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ srt:AsiaPacificMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ srt:AsiaPacificMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ orcl:CloudServicesMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudServicesMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ orcl:LicenseSupportMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:LicenseSupportMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ orcl:CloudServicesAndLicenseSupportMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:CloudServicesAndLicenseSupportMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ orcl:ApplicationsCloudServicesAndLicenseSupportMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:ApplicationsCloudServicesAndLicenseSupportMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ orcl:InfrastructureCloudServicesAndLicenseSupportMember 
+
+ 2022-06-01 
+ 2022-08-31 
+
+ 0001341439 
+
+ orcl:InfrastructureCloudServicesAndLicenseSupportMember 
+
+ 2021-06-01 
+ 2021-08-31 
+
+ 0001341439 
+
+ srt:ScenarioForecastMember 
+ orcl:SecuritiesClassActionAndDerivativeLitigationConcerningOraclesCloudBusinessMember 
+
+ 2022-09-15 
+ 2022-09-15 
+
+ Table of Contents 
+
+ UNITED STATES
+
+ SECURITIES AND EXCHANGE COMMISSION
+
+ Washington, D.C. 20549
+
+ FORM 10-Q 
+
+ &#9746; QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ For the quarterly period ended August 31, 2022 
+
+ or
+
+ &#9744; TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ For the transition period from ____________ to ____________
+
+ Commission File Number: 001-35992 
+
+ Oracle Corporation 
+
+ (Exact name of registrant as specified in its charter)
+
+ Delaware 
+
+ 54-2185193 
+
+ (State or other jurisdiction of
+
+ incorporation or organization)
+
+ (I.R.S. Employer
+
+ Identification No.)
+
+ 2300 Oracle Way 
+ Austin , Texas 
+
+ 78741 
+
+ (Address of principal executive offices) 
+
+ (Zip Code)
+
+ ( 737 ) 867-1000 
+
+ (Registrant&#8217;s telephone number, including area code) 
+
+ Securities registered pursuant to Section 12(b) of the Act:
+
+ Title of each class
+
+ Trading Symbol(s)
+
+ Name of each exchange on which registered
+
+ Common Stock, par value $0.01 per share 
+
+ 3.125% senior notes due July 2025 
+
+ ORCL 
+
+ —
+
+ New York Stock Exchange 
+
+ New York Stock Exchange 
+
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes &#9746; No &#9744;
+
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (&#167;232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes &#9746; No &#9744;
+
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of &#8220;large accelerated filer,&#8221; &#8220;accelerated filer,&#8221; &#8220;smaller reporting company&#8221; and &#8220;emerging growth company&#8221; in Rule 12b-2 of the Exchange Act.
+
+ Large accelerated filer &#9746; 
+
+ Accelerated filer &#9744; 
+
+ Non-accelerated filer &#9744; 
+
+ Smaller reporting company &#9744; 
+
+ Emerging growth company &#9744; 
+
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. &#9744;
+
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes &#9744; No &#9746;
+
+ The number of shares of registrant&#8217;s common stock outstanding as of September 8, 2022 was: 2,695,653,000 .
+
+ Table of Contents 
+
+ ORACLE CORPORATION 
+
+ FORM 10-Q QUARTERLY REPORT
+
+ TABLE OF CONTENTS
+
+ Page
+
+ PART I.
+
+ FINANCIAL INFORMATION 
+
+ 3
+
+ Item 1.
+
+ Financial Statements (Unaudited) 
+
+ 3
+
+ Condensed Consolidated Balance Sheets as of August 31, 2022 and May 31, 2022 
+
+ 3
+
+ Condensed Consolidated Statements of Operations for the Three Months Ended August 31, 2022 and 2021 
+
+ 4
+
+ Condensed Consolidated Statements of Comprehensive Income for the Three Months Ended August 31, 2022 and 2021 
+
+ 5
+
+ Condensed Consolidated Statements of Stockholders&#8217; Deficit for the Three Months Ended August 31, 2022 and 2021 
+
+ 6
+
+ Condensed Consolidated Statements of Cash Flows for the Three Months Ended August 31, 2022 and 2021 
+
+ 7
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ 8
+
+ Item 2.
+
+ Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+ 27
+
+ Item 3.
+
+ Quantitative and Qualitative Disclosures About Market Risk 
+
+ 43
+
+ Item 4.
+
+ Controls and Procedures 
+
+ 44
+
+ PART II.
+
+ OTHER INFORMATION 
+
+ 45
+
+ Item 1.
+
+ Legal Proceedings 
+
+ 45
+
+ Item 1A.
+
+ Risk Factors 
+
+ 45
+
+ Item 2.
+
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+
+ 45
+
+ Item 6.
+
+ Exhibits 
+
+ 46
+
+ Signatures 
+
+ 47
+
+ Table of Contents 
+
+ Cautionary Note on Forward-Looking Statements
+
+ For purposes of this Quarterly Report, the terms &#8220;Oracle,&#8221; &#8220;we,&#8221; &#8220;us&#8221; and &#8220;our&#8221; refer to Oracle Corporation and its consolidated subsidiaries. This Quarterly Report on Form 10-Q contains statements that are not historical in nature, are predictive in nature, or that depend upon or refer to future events or conditions or otherwise contain forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (Exchange Act), and Section 27A of the Securities Act of 1933, as amended (Securities Act). These include, among other things, statements regarding:
+
+ • 
+
+ our expectations regarding the impacts on our business as a result of the global COVID-19 pandemic&#59; 
+
+ • 
+
+ our expectation that we may acquire, and realize the anticipated benefits of acquiring, companies, products, services and technologies to further our corporate strategy as compelling opportunities become available&#59; 
+
+ • 
+
+ our expectation that, on a constant currency basis, our total cloud and license revenues generally will continue to increase due to expected growth in our cloud services and license support offerings, and continued demand for our cloud license and on-premise license offerings&#59; 
+
+ • 
+
+ our expectation that substantially all of our customers will renew their license support contracts annually&#59; 
+
+ • 
+
+ our expectation that our hardware business will have lower operating margins as a percentage of revenues than our cloud and license business&#59; 
+
+ • 
+
+ our expectation that we will continue to make significant investments in research and development, and our belief that research and development efforts are essential to maintaining our competitive position&#59; 
+
+ • 
+
+ our expectation that our international operations will continue to provide a significant portion of our total revenues and expenses&#59; 
+
+ • 
+
+ our expectation that variable expenditures that were curtailed primarily in response to COVID-19 may normalize in future periods provided global economic and health conditions improve&#59; 
+
+ • 
+
+ our expectation that the proportion of our cloud services revenues relative to our total revenues will continue to increase&#59; 
+
+ • 
+
+ the sufficiency of our sources of funding for working capital, capital expenditures, contractual obligations, acquisitions, dividends, stock repurchases, debt repayments and other matters&#59; 
+
+ • 
+
+ our belief that we have adequately provided under U.S. generally accepted accounting principles for outcomes related to our tax audits and that the final outcome of our tax-related examinations, agreements or judicial proceedings will not have a material effect on our results of operations, and our belief that our net deferred tax assets will likely be realized in the foreseeable future&#59; 
+
+ • 
+
+ our belief that the outcome of certain legal proceedings and claims to which we are a party will not, individually or in the aggregate, result in losses that are materially in excess of amounts already recognized, if any&#59; 
+
+ • 
+
+ the possibility that certain legal proceedings to which we are a party could have a material impact on our financial position or results of operations&#59; 
+
+ • 
+
+ the timing and amount of expenses we expect to incur&#59; 
+
+ • 
+
+ the cost savings we expect to realize pursuant to our Fiscal 2022 Oracle Restructuring Plan&#59; 
+
+ • 
+
+ declarations of future cash dividend payments and the timing and amount of future stock repurchases, including our expectation that the levels of our future stock repurchase activity may be modified in comparison to past periods in order to use available cash for other purposes&#59; 
+
+ 1
+
+ Table of Contents 
+
+ • 
+
+ our expectations regarding the impact of recent accounting pronouncements on our consolidated financial statements &#59; 
+
+ • 
+
+ our ability to predict revenues, particularly certain cloud license and on-premise license revenues and hardware revenues&#59; 
+
+ • 
+
+ the percentages of remaining performance obligations that we expect to recognize as revenues over respective future periods&#59; 
+
+ as well as other statements regarding our future operations, financial condition and prospects, and business strategies. Forward-looking statements may be preceded by, followed by or include the words &#8220;expects,&#8221; &#8220;anticipates,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;seeks,&#8221; &#8220;strives,&#8221; &#8220;endeavors,&#8221; &#8220;estimates,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;is designed to&#8221; and similar expressions. We claim the protection of the safe harbor for forward-looking statements contained in the Exchange Act and the Securities Act for all forward-looking statements. We have based these forward-looking statements on our current expectations and projections about future events. These forward-looking statements are subject to risks, uncertainties and assumptions about our business that could affect our future results and could cause those results or other outcomes to differ materially from those expressed or implied in the forward-looking statements. Factors that might cause or contribute to such differences include, but are not limited to, those discussed in &#8220;Risk Factors&#8221; included in documents we file from time to time with the U.S. Securities and Exchange Commission, including our Annual Report on Form 10-K for our fiscal year ended May 31, 2022 and our other Quarterly Reports on Form 10-Q to be filed by us in our fiscal 2023, which runs from June 1, 2022 to May 31, 2023.
+
+ We have no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or risks, except to the extent required by applicable securities laws. If we do update one or more forward-looking statements, no inference should be drawn that we will make additional updates with respect to those or other forward-looking statements. New information, future events or risks could cause the forward-looking events we discuss in this Quarterly Report not to occur. You should not place undue reliance on these forward-looking statements, which reflect our expectations only as of the date of this Quarterly Report.
+
+ 2
+
+ Table of Contents 
+
+ PART I. FINANCI AL INFORMATION 
+
+ Item 1. 
+
+ Financial Statements (Unaudited)
+
+ ORACLE CORPORATION
+
+ CONDENSED CONSOLIDATED BALANCE SHEETS
+
+ As of August 31, 2022 and May 31, 2022
+
+ (Unaudited)
+
+ (in millions, except per share data)
+
+ August 31,
+
+ 2022
+
+ May 31,
+
+ 2022
+
+ ASSETS
+
+ Current assets:
+
+ Cash and cash equivalents
+
+ $
+
+ 10,448 
+
+ $
+
+ 21,383 
+
+ Marketable securities
+
+ 772 
+
+ 519 
+
+ Trade receivables, net of allowances for credit losses of $ 385 and $ 362 as of August 31, 2022 and May 31, 2022, respectively
+
+ 5,937 
+
+ 5,953 
+
+ Prepaid expenses and other current assets
+
+ 3,847 
+
+ 3,778 
+
+ Total current assets
+
+ 21,004 
+
+ 31,633 
+
+ Non-current assets:
+
+ Property, plant and equipment, net
+
+ 12,280 
+
+ 9,716 
+
+ Intangible assets, net
+
+ 12,499 
+
+ 1,440 
+
+ Goodwill, net
+
+ 61,629 
+
+ 43,811 
+
+ Deferred tax assets
+
+ 12,065 
+
+ 12,782 
+
+ Other non-current assets
+
+ 10,832 
+
+ 9,915 
+
+ Total non-current assets
+
+ 109,305 
+
+ 77,664 
+
+ Total assets
+
+ $
+
+ 130,309 
+
+ $
+
+ 109,297 
+
+ LIABILITIES AND STOCKHOLDERS' DEFICIT
+
+ Current liabilities:
+
+ Notes payable and other borrowings, current
+
+ $
+
+ 16,097 
+
+ $
+
+ 3,749 
+
+ Accounts payable
+
+ 1,461 
+
+ 1,317 
+
+ Accrued compensation and related benefits
+
+ 1,958 
+
+ 1,944 
+
+ Deferred revenues
+
+ 10,473 
+
+ 8,357 
+
+ Other current liabilities
+
+ 4,830 
+
+ 4,144 
+
+ Total current liabilities
+
+ 34,819 
+
+ 19,511 
+
+ Non-current liabilities:
+
+ Notes payable and other borrowings, non-current
+
+ 75,480 
+
+ 72,110 
+
+ Income taxes payable
+
+ 12,128 
+
+ 12,210 
+
+ Deferred tax liabilities
+
+ 7,693 
+
+ 6,031 
+
+ Other non-current liabilities
+
+ 5,638 
+
+ 5,203 
+
+ Total non-current liabilities
+
+ 100,939 
+
+ 95,554 
+
+ Commitments and contingencies
+
+ Oracle Corporation stockholders&#8217; deficit:
+
+ Preferred stock, $ 0.01 par value—authorized: 1.0 shares&#59; outstanding: none 
+
+ — 
+
+ — 
+
+ Common stock, $ 0.01 par value and additional paid in capital—authorized: 11,000 shares&#59; outstanding: 2,696 shares and 2,665 shares as of August 31, 2022 and May 31, 2022, respectively
+
+ 27,224 
+
+ 26,808 
+
+ Accumulated deficit
+
+ ( 31,134 
+
+ )
+
+ ( 31,336 
+
+ )
+
+ Accumulated other comprehensive loss
+
+ ( 1,965 
+
+ )
+
+ ( 1,692 
+
+ )
+
+ Total Oracle Corporation stockholders&#8217; deficit
+
+ ( 5,875 
+
+ )
+
+ ( 6,220 
+
+ )
+
+ Noncontrolling interests
+
+ 426 
+
+ 452 
+
+ Total stockholders&#8217; deficit
+
+ ( 5,449 
+
+ )
+
+ ( 5,768 
+
+ )
+
+ Total liabilities and stockholders&#8217; deficit
+
+ $
+
+ 130,309 
+
+ $
+
+ 109,297 
+
+ See notes to condensed consolidated financial statements.
+
+ 3
+
+ Table of Contents 
+
+ ORACLE CORPORATION 
+
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+ For the Three Months Ended August 31, 2022 and 2021
+
+ (Unaudited)
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions, except per share data)
+
+ 2022
+
+ 2021
+
+ Revenues:
+
+ Cloud services and license support
+
+ $
+
+ 8,417 
+
+ $
+
+ 7,371 
+
+ Cloud license and on-premise license
+
+ 904 
+
+ 813 
+
+ Hardware
+
+ 763 
+
+ 763 
+
+ Services
+
+ 1,361 
+
+ 781 
+
+ Total revenues
+
+ 11,445 
+
+ 9,728 
+
+ Operating expenses:
+
+ Cloud services and license support (1) 
+
+ 1,735 
+
+ 1,214 
+
+ Hardware (1) 
+
+ 249 
+
+ 245 
+
+ Services (1) 
+
+ 1,053 
+
+ 644 
+
+ Sales and marketing (1) 
+
+ 2,177 
+
+ 1,854 
+
+ Research and development
+
+ 2,093 
+
+ 1,684 
+
+ General and administrative
+
+ 411 
+
+ 298 
+
+ Amortization of intangible assets
+
+ 919 
+
+ 303 
+
+ Acquisition related and other
+
+ 41 
+
+ 21 
+
+ Restructuring
+
+ 144 
+
+ 38 
+
+ Total operating expenses
+
+ 8,822 
+
+ 6,301 
+
+ Operating income
+
+ 2,623 
+
+ 3,427 
+
+ Interest expense
+
+ ( 787 
+
+ )
+
+ ( 705 
+
+ )
+
+ Non-operating expenses, net
+
+ ( 180 
+
+ )
+
+ ( 41 
+
+ )
+
+ Income before income taxes
+
+ 1,656 
+
+ 2,681 
+
+ Provision for income taxes
+
+ 108 
+
+ 224 
+
+ Net income
+
+ $
+
+ 1,548 
+
+ $
+
+ 2,457 
+
+ Earnings per share:
+
+ Basic
+
+ $
+
+ 0.58 
+
+ $
+
+ 0.89 
+
+ Diluted
+
+ $
+
+ 0.56 
+
+ $
+
+ 0.86 
+
+ Weighted average common shares outstanding:
+
+ Basic
+
+ 2,685 
+
+ 2,769 
+
+ Diluted
+
+ 2,747 
+
+ 2,861 
+
+ (1) 
+
+ Exclusive of amortization of intangible assets, which is shown separately. 
+
+ See notes to condensed consolidated financial statements. 
+
+ 4
+
+ Table of Contents 
+
+ ORACLE CORPORATION 
+
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+ For the Three Months Ended August 31, 2022 and 2021
+
+ (Unaudited)
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions)
+
+ 2022
+
+ 2021
+
+ Net income
+
+ $
+
+ 1,548 
+
+ $
+
+ 2,457 
+
+ Other comprehensive loss, net of tax:
+
+ Net foreign currency translation losses
+
+ ( 288 
+
+ )
+
+ ( 223 
+
+ )
+
+ Net unrealized (losses) gains on defined benefit plans
+
+ ( 1 
+
+ )
+
+ 2 
+
+ Net unrealized gains on cash flow hedges
+
+ 17 
+
+ — 
+
+ Total other comprehensive loss, net
+
+ ( 272 
+
+ )
+
+ ( 221 
+
+ )
+
+ Comprehensive income
+
+ $
+
+ 1,276 
+
+ $
+
+ 2,236 
+
+ See notes to condensed consolidated financial statements.
+
+ 5
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS&#8217; DEFICIT
+
+ For the Three Months Ended August 31, 2022 and 2021
+
+ (Unaudited)
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions, except per share data)
+
+ 2022
+
+ 2021
+
+ Common stock and additional paid in capital
+
+ Balance, beginning of period
+
+ $
+
+ 26,808 
+
+ $
+
+ 26,533 
+
+ Common stock issued
+
+ 515 
+
+ 148 
+
+ Stock-based compensation
+
+ 750 
+
+ 545 
+
+ Repurchases of common stock
+
+ ( 73 
+
+ )
+
+ ( 872 
+
+ )
+
+ Other, net
+
+ ( 776 
+
+ )
+
+ ( 820 
+
+ )
+
+ Balance, end of period
+
+ $
+
+ 27,224 
+
+ $
+
+ 25,534 
+
+ Accumulated deficit
+
+ Balance, beginning of period
+
+ $
+
+ ( 31,336 
+
+ )
+
+ $
+
+ ( 20,120 
+
+ )
+
+ Repurchases of common stock
+
+ ( 486 
+
+ )
+
+ ( 7,128 
+
+ )
+
+ Cash dividends declared
+
+ ( 860 
+
+ )
+
+ ( 887 
+
+ )
+
+ Net income
+
+ 1,548 
+
+ 2,457 
+
+ Other, net
+
+ — 
+
+ ( 1 
+
+ )
+
+ Balance, end of period
+
+ $
+
+ ( 31,134 
+
+ )
+
+ $
+
+ ( 25,679 
+
+ )
+
+ Other stockholders' deficit, net
+
+ Balance, beginning of period
+
+ $
+
+ ( 1,240 
+
+ )
+
+ $
+
+ ( 461 
+
+ )
+
+ Other comprehensive loss, net
+
+ ( 272 
+
+ )
+
+ ( 221 
+
+ )
+
+ Other, net
+
+ ( 27 
+
+ )
+
+ ( 303 
+
+ )
+
+ Balance, end of period
+
+ $
+
+ ( 1,539 
+
+ )
+
+ $
+
+ ( 985 
+
+ )
+
+ Total stockholders&#8217; deficit
+
+ $
+
+ ( 5,449 
+
+ )
+
+ $
+
+ ( 1,130 
+
+ )
+
+ Cash dividends declared per common share
+
+ $
+
+ 0.32 
+
+ $
+
+ 0.32 
+
+ See notes to condensed consolidated financial statements.
+
+ 6
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+ For the Three Months Ended August 31, 2022 and 2021
+
+ (Unaudited)
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions)
+
+ 2022
+
+ 2021
+
+ Cash flows from operating activities:
+
+ Net income
+
+ $
+
+ 1,548 
+
+ $
+
+ 2,457 
+
+ Adjustments to reconcile net income to net cash provided by operating activities:
+
+ Depreciation
+
+ 547 
+
+ 454 
+
+ Amortization of intangible assets
+
+ 919 
+
+ 303 
+
+ Deferred income taxes
+
+ ( 344 
+
+ )
+
+ ( 15 
+
+ )
+
+ Stock-based compensation
+
+ 750 
+
+ 545 
+
+ Other, net
+
+ 156 
+
+ ( 27 
+
+ )
+
+ Changes in operating assets and liabilities, net of effects from acquisitions:
+
+ Decrease in trade receivables, net
+
+ 761 
+
+ 852 
+
+ Decrease in prepaid expenses and other assets
+
+ 44 
+
+ 270 
+
+ Decrease in accounts payable and other liabilities
+
+ ( 166 
+
+ )
+
+ ( 713 
+
+ )
+
+ Increase (decrease) in income taxes payable
+
+ 145 
+
+ ( 221 
+
+ )
+
+ Increase in deferred revenues
+
+ 2,034 
+
+ 1,486 
+
+ Net cash provided by operating activities
+
+ 6,394 
+
+ 5,391 
+
+ Cash flows from investing activities:
+
+ Purchases of marketable securities and other investments
+
+ ( 57 
+
+ )
+
+ ( 7,671 
+
+ )
+
+ Proceeds from sales and maturities of marketable securities and other investments
+
+ 138 
+
+ 8,002 
+
+ Acquisitions, net of cash acquired
+
+ ( 27,798 
+
+ )
+
+ ( 50 
+
+ )
+
+ Capital expenditures
+
+ ( 1,719 
+
+ )
+
+ ( 1,062 
+
+ )
+
+ Net cash used for investing activities
+
+ ( 29,436 
+
+ )
+
+ ( 781 
+
+ )
+
+ Cash flows from financing activities:
+
+ Payments for repurchases of common stock
+
+ ( 552 
+
+ )
+
+ ( 7,995 
+
+ )
+
+ Proceeds from issuances of common stock
+
+ 515 
+
+ 148 
+
+ Shares repurchased for tax withholdings upon vesting of restricted stock-based awards
+
+ ( 829 
+
+ )
+
+ ( 820 
+
+ )
+
+ Payments of dividends to stockholders
+
+ ( 860 
+
+ )
+
+ ( 887 
+
+ )
+
+ Proceeds from borrowings, net of issuance costs
+
+ 20,046 
+
+ — 
+
+ Repayments of borrowings
+
+ ( 5,883 
+
+ )
+
+ ( 1,500 
+
+ )
+
+ Other, net
+
+ ( 127 
+
+ )
+
+ ( 414 
+
+ )
+
+ Net cash provided by (used for) financing activities
+
+ 12,310 
+
+ ( 11,468 
+
+ )
+
+ Effect of exchange rate changes on cash and cash equivalents
+
+ ( 203 
+
+ )
+
+ ( 181 
+
+ )
+
+ Net decrease in cash and cash equivalents
+
+ ( 10,935 
+
+ )
+
+ ( 7,039 
+
+ )
+
+ Cash and cash equivalents at beginning of period
+
+ 21,383 
+
+ 30,098 
+
+ Cash and cash equivalents at end of period
+
+ $
+
+ 10,448 
+
+ $
+
+ 23,059 
+
+ Non-cash financing activities:
+
+ Fair values of stock awards assumed in connection with acquisitions
+
+ $
+
+ 55 
+
+ $
+
+ — 
+
+ See notes to condensed consolidated financial statements.
+
+ 7
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ 1. 
+
+ BASIS OF PRESENTATION, RECENT ACCOUNTING PRONOUNCEMENTS AND OTHER
+
+ Basis of Presentation
+
+ We have prepared the condensed consolidated financial statements included herein pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (SEC). Certain information and footnote disclosures normally included in financial statements prepared in accordance with U.S. generally accepted accounting principles (GAAP) have been condensed or omitted pursuant to such rules and regulations. However, we believe that the disclosures herein are adequate to ensure the information presented is not misleading. These unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and the notes thereto included in our Annual Report on Form 10-K for the fiscal year ended May 31, 2022.
+
+ On June 8, 2022, we completed our acquisition of Cerner Corporation (Cerner), a provider of digital information systems used within hospitals and health systems, by means of a merger of one of our wholly owned subsidiaries with and into Cerner such that Cerner became an indirect, wholly owned subsidiary of Oracle. Through our acquisition of Cerner, we enhanced our offerings of each of our three existing businesses, cloud and license, hardware and services. The condensed consolidated financial statements included in this Quarterly Report include the financial results of Cerner prospectively from the date of acquisition. Refer to Note 2 below for additional details regarding our acquisition of Cerner.
+
+ We believe that all necessary adjustments, which consisted only of normal recurring items, have been included in the accompanying financial statements to present fairly the results of the interim periods. The results of operations for the interim periods presented are not necessarily indicative of the operating results to be expected for any subsequent interim period or for our fiscal year ending May 31, 2023. 
+
+ There have been no changes to our significant accounting policies as disclosed in our Annual Report on Form 10-K for the fiscal year ended May 31, 2022 that had a significant impact on our condensed consolidated financial statements or notes thereto as of and for the three months ended August 31, 2022.
+
+ 8
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ Use of Estimates
+
+ Our condensed consolidated financial statements are prepared in accordance with GAAP as set forth in the Financial Accounting Standards Board&#8217;s (FASB) Accounting Standards Codification, and we consider various staff accounting bulletins and other applicable guidance issued by the SEC. These accounting principles require us to make certain estimates, judgments and assumptions. We believe that the estimates, judgments and assumptions upon which we rely are reasonable based upon information available to us at the time that these estimates, judgments and assumptions are made. These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities as of the date of the financial statements as well as the reported amounts of revenues and expenses during the periods presented. To the extent that there are differences between these estimates, judgments or assumptions and actual results, our consolidated financial statements will be affected. In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require management&#8217;s judgment in its application. There are also areas in which management&#8217;s judgment in selecting among available alternatives would not produce a materially different result.
+
+ During the first quarter of fiscal 2023, we completed an assessment of the useful lives of our servers and increased the estimate of the useful lives from four years to five years effective at the beginning of fiscal 2023. Based on the carrying value of our servers as of May 31, 2022, this change in accounting estimate decreased our total operating expenses by $ 131 million for the first quarter of fiscal 2023.
+
+ Cash, Cash Equivalents and Restricted Cash
+
+ Restricted cash that was included within cash and cash equivalents as presented within our condensed consolidated balance sheets as of August 31, 2022 and May 31, 2022 and our condensed consolidated statements of cash flows for the three months ended August 31, 2022 and 2021 was nominal.
+
+ Remaining Performance Obligations from Contracts with Customers
+
+ Trade receivables, net of allowance for credit losses, and deferred revenues are reported net of related uncollected deferred revenues in our condensed consolidated balance sheets as of August 31, 2022 and May 31, 2022. The revenues recognized during the three months ended August 31, 2022 and 2021, respectively, that were included in the opening deferred revenues balances as of May 31, 2022 and 2021, respectively, were approximately $ 3.5 billion and $ 3.7 billion, respectively. Revenues recognized from performance obligations satisfied in prior periods and impairment losses recognized on our receivables were immaterial in each of the three months ended August 31, 2022 and 2021. 
+
+ Remaining performance obligations, as defined in Note 1 of Notes to Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended May 31, 2022, were $ 60.7 billion as of August 31, 2022, approximately 49 % of which we expect to recognize as revenues over the next twelve months , 34 % over the subsequent month 13 to month 36, and the remainder thereafter.
+
+ 9
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ Sales of Financing Receivables
+
+ We offer certain of our customers the option to acquire certain of our cloud and license, hardware and services offerings through separate long-term payment contracts. We generally sell these contracts that we have financed for our customers on a non-recourse basis to financial institutions within 90 days of the contracts&#8217; dates of execution. We record the transfers of amounts due from customers to financial institutions as sales of financing receivables because we are considered to have surrendered control of these financing receivables. Financing receivables sold to financial institutions were $ 927 million and $ 656 million for the three months ended August 31, 2022 and 2021, respectively.
+
+ Non-Marketable Investments
+
+ Our non-marketable debt investments and equity securities and related instruments totaled $ 1.5 billion and $ 1.2 billion as of August 31, 2022 and May 31, 2022, respectively, and are included in other non-current assets in the accompanying consolidated balance sheets and are subject to periodic impairment reviews. Certain of these non-marketable equity securities and related instruments are adjusted for observable price changes from orderly transactions. The substantial majority of the non-marketable investments held as of these dates were with a related party entity for which we follow the equity method of accounting. We are also a counterparty to certain options to acquire additional equity interests in that entity at various times through December 2023 and we could obtain control of that entity should such options be exercised.
+
+ Acquisition Related and Other Expenses
+
+ Acquisition related and other expenses consist of personnel related costs for transitional and certain other employees, certain business combination adjustments, including adjustments after the measurement period has ended, and certain other operating items, net. 
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions)
+
+ 2022
+
+ 2021
+
+ Transitional and other employee related costs
+
+ $
+
+ 17 
+
+ $
+
+ 2 
+
+ Business combination adjustments, net
+
+ 5 
+
+ 3 
+
+ Other, net
+
+ 19 
+
+ 16 
+
+ Total acquisition related and other expenses
+
+ $
+
+ 41 
+
+ $
+
+ 21 
+
+ Non-Operating Expenses, net
+
+ Non-operating expenses, net consists primarily of interest income, net foreign currency exchange losses, the noncontrolling interests in the net profits of our majority-owned subsidiaries (primarily Oracle Financial Services Software Limited and Oracle Corporation Japan), net losses related to equity investments including losses attributable to equity method investments and net other income and expenses, including net unrealized gains and losses from our investment portfolio related to our deferred compensation plan, and non-service net periodic pension income and losses.
+
+ 10
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions)
+
+ 2022
+
+ 2021
+
+ Interest income
+
+ $
+
+ 38 
+
+ $
+
+ 20 
+
+ Foreign currency losses, net
+
+ ( 71 
+
+ )
+
+ ( 35 
+
+ )
+
+ Noncontrolling interests in income
+
+ ( 38 
+
+ )
+
+ ( 47 
+
+ )
+
+ Losses from equity investments, net
+
+ ( 86 
+
+ )
+
+ ( 22 
+
+ )
+
+ Other (losses) gains, net
+
+ ( 23 
+
+ )
+
+ 43 
+
+ Total non-operating expenses, net
+
+ $
+
+ ( 180 
+
+ )
+
+ $
+
+ ( 41 
+
+ )
+
+ Recent Accounting Pronouncements
+
+ Financial Instruments : In March 2020, the FASB issued ASU 2020-04, Reference Rate Reform (Topic 848): Facilitation of the Effects of Reference Rate Reform on Financial Reporting (ASU 2020-04) and also issued subsequent amendments to the initial guidance (collectively, Topic 848). Topic 848 provides optional guidance for contract modifications and certain hedging relationships associated with the transition from reference rates that are expected to be discontinued. We will adopt Topic 848 when our relevant contracts are modified upon transition to alternative reference rates and expect this to occur through December 31, 2022. We do not expect our adoption of Topic 848 to have a material impact on our consolidated financial statements. 
+
+ 2. 
+
+ ACQUISITIONS
+
+ Acquisition of Cerner Corporation
+
+ On December 20, 2021, we entered into an Agreement and Plan of Merger (Merger Agreement) with Cerner, a provider of digital information systems used within hospitals and health systems that are designed to enable medical professionals to deliver better healthcare to individual patients and communities.
+
+ On January 19, 2022, pursuant to the Merger Agreement, we commenced a tender offer to purchase all of the issued and outstanding shares of common stock of Cerner at a purchase price of $ 95.00 per share, net to the seller in cash, without interest thereon, based upon the terms and subject to the conditions set forth in the Offer to Purchase dated January 19, 2022 , and the related Letter of Transmittal.
+
+ On June 8, 2022, pursuant to the terms of the tender offer and applicable Delaware law, we acquired all the outstanding Cerner shares and effectuated the merger of Cerner with and into a wholly-owned subsidiary of Oracle and Cerner became an indirect, wholly-owned subsidiary of Oracle. Vested equity awards outstanding immediately prior to the consummation of the merger were cancelled in exchange for the right to receive an amount in cash based on a formula contained in the Merger Agreement. The unvested equity awards to acquire Cerner common stock that were outstanding immediately prior to the conclusion of the merger were converted into equity awards denominated in shares of Oracle common stock based on formulas contained in the Merger Agreement. We have included the financial results of Cerner in our consolidated financial statements from the date of acquisition. For the first quarter of fiscal 2023, Cerner contributed $ 1.4 billion to our total revenues.
+
+ The total preliminary purchase price for Cerner is approximately $ 28.2 billion, which consisted of approximately $ 28.2 billion in cash and $ 55 million for the fair values of restricted stock-based awards and stock options assumed. Pursuant to our business combinations accounting policy, we estimated the preliminary fair values of net tangible and intangible assets acquired, and the excess of the consideration transferred over the aggregate of such fair values was recorded as goodwill. The preliminary fair values of net tangible assets and intangible assets acquired were based on preliminary valuations, and our estimates and assumptions are subject to change within the measurement period (up to one year from the acquisition date). The primary areas that remain preliminary relate to the fair values of intangible assets acquired, certain tangible assets and liabilities acquired, certain legal matters, income and non-income based taxes and residual goodwill. We expect to continue to obtain information to assist us in determining the fair values of the net assets acquired during the measurement period. The following table summarizes the estimated preliminary fair values of net tangible and intangible assets acquired from Cerner:
+
+ 11
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ (in millions)
+
+ Cash and marketable securities
+
+ $
+
+ 769 
+
+ Trade receivables, net
+
+ 885 
+
+ Property, plant and equipment, net
+
+ 1,514 
+
+ Intangible assets
+
+ 11,972 
+
+ Goodwill
+
+ 17,871 
+
+ Other assets
+
+ 840 
+
+ Accounts payable and other liabilities
+
+ ( 968 
+
+ ) 
+
+ Deferred revenues
+
+ ( 420 
+
+ ) 
+
+ Senior notes and other borrowings
+
+ ( 1,600 
+
+ ) 
+
+ Deferred tax liabilities, net
+
+ ( 2,638 
+
+ ) 
+
+ Total
+
+ $
+
+ 28,225 
+
+ Of the $ 1.6 billion of senior notes and other borrowings assumed through our Cerner acquisition, $ 1.5 billion were paid on June 8, 2022. Refer to Note 5 below for more information. We do not expect the goodwill recognized as a part of our acquisition of Cerner to be deductible for income tax purposes.
+
+ Other Fiscal 2023 and 2022 Acquisitions
+
+ During the first quarter of fiscal 2023 and full year fiscal 2022, we acquired certain other companies and purchased certain technology and development assets primarily to expand our products and services offerings . These acquisitions were not significant individually or in the aggregate to our condensed consolidated financial statements.
+
+ 12
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ Unaudited Pro Forma Financial Information 
+
+ The unaudited pro forma financial information in the table below summarizes the combined results of operations for Oracle and Cerner. The unaudited pro forma financial information for all periods presented included the business combination accounting effects resulting from this acquisition, including amortization charges from acquired intangible assets (certain of which are preliminary), stock-based compensation charges for unvested restricted stock-based awards and stock options assumed and the related tax effects as though Cerner was combined as of the beginning of fiscal 2022. The unaudited pro forma financial information as presented below is for informational purposes only and is not necessarily indicative of the results of operations that would have been achieved if the acquisition had taken place at the beginning of fiscal 2022.
+
+ The unaudited pro forma financial information for the three months ended August 31, 2022 and 2021 combined the historical results of Oracle for the three months ended August 31, 2022 and 2021, respectively, the historical results of Cerner for the three months ended June 30, 2022 and 2021, respectively, (adjusted due to differences in reporting periods and considering the date we acquired Cerner) and the effects of the pro forma adjustments listed above. The unaudited pro forma financial information was as follows:
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions, except per share data)
+
+ 2022
+
+ 2021
+
+ Total revenues
+
+ $
+
+ 11,556 
+
+ $
+
+ 11,178 
+
+ Net income
+
+ $
+
+ 1,501 
+
+ $
+
+ 1,852 
+
+ Basic earnings per share
+
+ $
+
+ 0.56 
+
+ $
+
+ 0.67 
+
+ Diluted earnings per share
+
+ $
+
+ 0.55 
+
+ $
+
+ 0.65 
+
+ 3. 
+
+ FAIR VALUE MEASUREMENTS
+
+ We perform fair value measurements in accordance with FASB Accounting Standards Codification (ASC) 820, Fair Value Measurement . ASC 820 defines fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities required to be recorded at their fair values, we consider the principal or most advantageous market in which we would transact and consider assumptions that market participants would use when pricing the assets or liabilities, such as inherent risk, transfer restrictions and risk of nonperformance.
+
+ ASC 820 establishes a fair value hierarchy that requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. An asset&#8217;s or a liability&#8217;s categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement. ASC 820 establishes three levels of inputs that may be used to measure fair value:
+
+ • 
+
+ Level 1: quoted prices in active markets for identical assets or liabilities&#59; 
+
+ • 
+
+ Level 2: inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices in active markets for similar assets or liabilities, quoted prices for identical or similar assets or liabilities in markets that are not active, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities&#59; or 
+
+ • 
+
+ Level 3: unobservable inputs that are supported by little or no market activity and that are significant to the fair values of the assets or liabilities. 
+
+ 13
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ Assets and Liabilities Measured at Fair Value on a Recurring Basis
+
+ Our assets and liabilities measured at fair value on a recurring basis consisted of the following (Level 1 and Level 2 inputs are defined above):
+
+ August 31, 2022
+
+ May 31, 2022
+
+ Fair Value Measurements
+
+ Using Input Types
+
+ Fair Value Measurements
+
+ Using Input Types
+
+ (in millions)
+
+ Level 1
+
+ Level 2
+
+ Total
+
+ Level 1
+
+ Level 2
+
+ Total
+
+ Assets:
+
+ Money market funds
+
+ $
+
+ 2,545 
+
+ $
+
+ — 
+
+ $
+
+ 2,545 
+
+ $
+
+ 12,842 
+
+ $
+
+ — 
+
+ $
+
+ 12,842 
+
+ Time deposits and other
+
+ 197 
+
+ 438 
+
+ 635 
+
+ 240 
+
+ 280 
+
+ 520 
+
+ Commercial paper debt securities
+
+ — 
+
+ 167 
+
+ 167 
+
+ — 
+
+ — 
+
+ — 
+
+ Derivative financial instruments
+
+ — 
+
+ 17 
+
+ 17 
+
+ — 
+
+ — 
+
+ — 
+
+ Total assets
+
+ $
+
+ 2,742 
+
+ $
+
+ 622 
+
+ $
+
+ 3,364 
+
+ $
+
+ 13,082 
+
+ $
+
+ 280 
+
+ $
+
+ 13,362 
+
+ Liabilities:
+
+ Derivative financial instruments
+
+ $
+
+ — 
+
+ $
+
+ 166 
+
+ $
+
+ 166 
+
+ $
+
+ — 
+
+ $
+
+ 97 
+
+ $
+
+ 97 
+
+ Our marketable securities investments consist of money market funds, time deposits and certain other securities. Marketable securities as presented per our condensed consolidated balance sheets included debt securities with original maturities at the time of purchase greater than three months and the remainder of the debt securities were included in cash and cash equivalents. We classify our marketable debt securities as available-for-sale debt securities at the time of purchase and reevaluate such classification as of each balance sheet date. As of August 31, 2022 and May 31, 2022, substantially all of our marketable debt securities investments mature within one year. Our valuation techniques used to measure the fair values of our instruments that were classified as Level 1 in the table above were derived from quoted market prices and active markets for these instruments that exist. Our valuation techniques used to measure the fair values of Level 2 instruments listed in the table above were derived from the following: non-binding market consensus prices that were corroborated by observable market data, quoted market prices for similar instruments, or pricing models, such as discounted cash flow techniques, with all significant inputs derived from or corroborated by observable market data including reference rate yield curves, among others.
+
+ Based on the trading prices of the $ 91.6 billion and $ 75.9 billion of senior notes and other borrowings and the related fair value hedges that we had outstanding as of August 31, 2022 and May 31, 2022, respectively, the estimated fair values of the senior notes and other borrowings and the related fair value hedges using Level 2 inputs at August 31, 2022 and May 31, 2022 were $ 80.2 billion and $ 67.0 billion, respectively.
+
+ 14
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ 4. 
+
+ INTANGIBLE ASSETS AND GOODWILL
+
+ The changes in intangible assets for fiscal 2023 and the net book value of intangible assets as of August 31, 2022 and May 31, 2022 were as follows:
+
+ Intangible Assets, Gross
+
+ Accumulated Amortization
+
+ Intangible Assets, Net
+
+ Weighted
+
+ Average
+
+ Useful
+
+ Life (2) 
+
+ (Dollars in millions)
+
+ May 31,
+
+ 2022
+
+ Additions &#38;
+
+ Adjustments, net (1) 
+
+ August 31,
+
+ 2022
+
+ May 31,
+
+ 2022
+
+ Expense
+
+ August 31,
+
+ 2022
+
+ May 31,
+
+ 2022
+
+ August 31,
+
+ 2022
+
+ Developed technology
+
+ $
+
+ 3,966 
+
+ $
+
+ 2,377 
+
+ $
+
+ 6,343 
+
+ $
+
+ ( 3,660 
+
+ )
+
+ $
+
+ ( 233 
+
+ )
+
+ $
+
+ ( 3,893 
+
+ )
+
+ $
+
+ 306 
+
+ $
+
+ 2,450 
+
+ 4 
+
+ Cloud services and license support agreements and related relationships
+
+ 5,260 
+
+ 4,319 
+
+ 9,579 
+
+ ( 4,194 
+
+ )
+
+ ( 385 
+
+ )
+
+ ( 4,579 
+
+ )
+
+ 1,066 
+
+ 5,000 
+
+ 7 
+
+ Cloud license and on-premise license agreements and related relationships
+
+ 356 
+
+ 2,437 
+
+ 2,793 
+
+ ( 343 
+
+ )
+
+ ( 108 
+
+ )
+
+ ( 451 
+
+ )
+
+ 13 
+
+ 2,342 
+
+ 7 
+
+ Other
+
+ 865 
+
+ 2,845 
+
+ 3,710 
+
+ ( 810 
+
+ )
+
+ ( 193 
+
+ )
+
+ ( 1,003 
+
+ )
+
+ 55 
+
+ 2,707 
+
+ 4 
+
+ Total intangible assets, net
+
+ $
+
+ 10,447 
+
+ $
+
+ 11,978 
+
+ $
+
+ 22,425 
+
+ $
+
+ ( 9,007 
+
+ )
+
+ $
+
+ ( 919 
+
+ )
+
+ $
+
+ ( 9,926 
+
+ )
+
+ $
+
+ 1,440 
+
+ $
+
+ 12,499 
+
+ (1) 
+
+ Amounts also included any changes in intangible asset balances for the periods presented that resulted from foreign currency translations. 
+
+ (2) 
+
+ Represents weighted-average useful lives (in years) of intangible assets acquired during fiscal 2023. 
+
+ As of August 31, 2022, estimated future amortization expenses related to intangible assets were as follows (in millions):
+
+ Remainder of fiscal 2023
+
+ $
+
+ 2,753 
+
+ Fiscal 2024
+
+ 3,086 
+
+ Fiscal 2025
+
+ 2,105 
+
+ Fiscal 2026
+
+ 1,615 
+
+ Fiscal 2027
+
+ 664 
+
+ Fiscal 2028
+
+ 635 
+
+ Thereafter
+
+ 1,641 
+
+ Total intangible assets, net
+
+ $
+
+ 12,499 
+
+ The changes in the carrying amounts of goodwill, net, which is generally not deductible for tax purposes, for our operating segments for the three months ended August 31, 2022 were as follows:
+
+ (in millions)
+
+ Cloud and License
+
+ Hardware
+
+ Services
+
+ Total Goodwill, net
+
+ Balances as of May 31, 2022
+
+ $
+
+ 39,938 
+
+ $
+
+ 2,367 
+
+ $
+
+ 1,506 
+
+ $
+
+ 43,811 
+
+ Goodwill from acquisitions
+
+ 16,460 
+
+ 346 
+
+ 1,065 
+
+ 17,871 
+
+ Goodwill adjustments, net (1) 
+
+ ( 42 
+
+ )
+
+ — 
+
+ ( 11 
+
+ )
+
+ ( 53 
+
+ )
+
+ Balances as of August 31, 2022
+
+ $
+
+ 56,356 
+
+ $
+
+ 2,713 
+
+ $
+
+ 2,560 
+
+ $
+
+ 61,629 
+
+ (1) 
+
+ Amounts include any changes in goodwill balances for the period presented that resulted from foreign currency translations. 
+
+ 5. 
+
+ NOTES PAYABLE AND OTHER BORROWINGS
+
+ The Delayed Draw Term Loan Credit Agreement
+
+ On June 8, 2022, we borrowed $ 15.7 billion under a delayed draw term loan credit agreement (Bridge Credit Agreement) that we entered into in March 2022 to partly finance our acquisition of Cerner. The Bridge Credit Agreement provides that, subject to certain exceptions, net cash proceeds received by us from certain debt and equity issuances shall result in mandatory prepayments under the Bridge Credit Agreement. All amounts borrowed under the Bridge Credit Agreement will become due on March 7, 2023 , unless settled earlier pursuant to the terms of the Bridge Credit Agreement. Interest is based on either (a) a Term Secured Overnight Financing Rate (SOFR)-based formula plus a margin of 100.0 basis points to 137.5 basis points, depending on the credit rating assigned to 
+
+ 15
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ our long-term senior unsecured debt , or (b) a Base Rate formula plus a margin of 0.0 basis points to 37.5 basis points, depending on the same such credit rating, each as set forth in the Bridge Credit Agreement. The e ffective interest rate for the first quarter of fiscal 2023 was 2.76 %. 
+
+ Five-Year Term Loan Credit Agreement
+
+ On August 16, 2022, we entered into a $ 4.4 billion term loan credit agreement (Term Loan Credit Agreement) which provides for a total term loan commitment of $ 4.4 billion, comprised of a $ 3.6 billion term loan (Term Loan 1 Facility) and a $ 790 million term loan (Term Loan 2 Facility and, together with the Term Loan 1 Facility, the Term Loan Facilities). The proceeds of the Term Loan Facilities may only be used to refinance indebtedness incurred under the Bridge Credit Agreement and to pay related fees and expenses. We may request additional commitments under the Term Loan Credit Agreement up to a maximum of $ 6.0 billion (each, an Incremental Borrowing). The use of proceeds of any Incremental Borrowing will be specified at the time of such borrowing and may include working capital purposes and other general corporate purposes.
+
+ On August 16, 2022, we borrowed $ 4.4 billion under the Term Loan Facilities and used the net proceeds of such borrowing to reduce the amount of indebtedness outstanding under the Bridge Credit Agreement. The effective interest rate for the first quarter of fiscal 2023 was 4.00 %.
+
+ The Term Loan Credit Agreement provides for repayment of borrowings under the Term Loan Facilities as follows:
+
+ • 
+
+ an amount equal to the amount borrowed reduced by any prepayments multiplied by 1.25 % on September 30, 2024 and quarterly thereafter until June 30, 2026 &#59; 
+
+ • 
+
+ an amount equal to the amount borrowed reduced by any prepayments multiplied by 2.50 % on September 30, 2026 and quarterly thereafter until June 30, 2027 &#59; and 
+
+ • 
+
+ any remaining unpaid principal balance under the Term Loan 1 Facility will become fully due and payable on August 16, 2027 and any remaining unpaid principal balance under the Term Loan 2 Facility will become fully due and payable on August 16, 2025 (subject to any extension of the Term Loan 2 Facility termination date, as set out below), unless the outstanding loans are prepaid earlier at the request of Oracle or accelerated by the lenders if an event of default occurs. 
+
+ The termination date of the Term Loan 2 Facility may be extended at our sole option by up to 2 years. The termination date of each Term Loan Facility may also be further extended at each lender&#8217;s option by up to 2 years.
+
+ Interest is based on either (a) a Term SOFR-based formula plus a margin of 147.5 basis points to 197.5 basis points, depending on the credit rating assigned to our long-term senior unsecured debt, or (b) a Base Rate formula plus a margin of 47.5 basis points to 97.5 basis points, depending on the same such credit rating, each as set forth in the Term Loan Credit Agreement.
+
+ The Term Loan Credit Agreement contains certain customary representations and warranties, covenants and events of default, including the requirement that the ratio of &#8220;Consolidated EBITDA&#8221; to &#8220;Consolidated Net Interest Expense&#8221; (each term as defined in the Term Loan Credit Agreement) of Oracle and its subsidiaries shall not be less than 3.0 to 1.0 at the end of any fiscal quarter during the period that the Term Loan Credit Agreement is effective. If an event of default occurs under the Term Loan Credit Agreement and is not cured within the applicable grace period or waived, any unpaid amounts under the Term Loan Credit Agreement may be declared immediately due and payable. We were in compliance with such covenants as of August 31, 2022.
+
+ The summary above does not purport to be complete and is qualified in its entirety by reference to the full text of the Term Loan Credit Agreement, which is filed as Exhibit 99.1 to this Quarterly Report on Form 10-Q.
+
+ Cash Flow Hedge —Interest Rate Swap Agreements
+
+ 16
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ In August 2022, we entered into certain interest rate swap agreements to manage the related interest rate risk of the Term Loan Credit Agreement by effectively converting the floating-rate to fixed-rate. The economic effect of the swap agreements was to eliminate the uncertainty of the cash flows associated with floating-rate interest payments of the Term Loan Credit Agreement by a fixed annual interest rate of 3.07 %, plus a margin depending on the credit rating assigned to our long-term senior unsecured debt as mentioned above. We have designated these interest rate swap agreements as qualifying hedging instruments and are accounting for these as cash flow hedges pursuant to ASC 815, Derivatives and Hedging . 
+
+ The fair values of these interest rate swap agreements are recognized either as non-current assets or non-current liabilities in our consolidated balance sheets. Changes in the fair values of these interest rate swap agreements are reported in accumulated other comprehensive loss in our consolidated balance sheets and an amount is reclassified out of accumulated other comprehensive loss into non-operating income or expense, net in the same period that corresponding interest expense is recognized.
+
+ We do not use any interest rate swap agreements for trading purposes.
+
+ Cerner Senior Notes and Other Borrowings
+
+ In connection with our acquisition of Cerner, we assumed:
+
+ • 
+
+ $ 1.0 billion par value of legacy Cerner senior notes. The acquisition triggered a mandatory offer to prepay such senior notes in accordance with the terms of the underlying note purchase agreements. Holders of $ 931 million par value of senior notes exercised the option for prepayment, and accordingly, such notes together with accrued interest were redeemed on June 8, 2022&#59; and 
+
+ • 
+
+ $ 600 million of principal amount of revolving credit loans. The entire loan along with accrued interest was settled and the credit facility was terminated on June 8, 2022. 
+
+ Commercial Paper Program and Commercial Paper Notes
+
+ During the first quarter of fiscal 2023, our commercial paper program was increased to $ 6.0 billion. Our commercial paper program allows us to issue and sell unsecured short-term promissory notes pursuant to a private placement exemption from the registration requirements under federal and state securities laws pursuant to dealer agreements with various banks and an Issuing and Paying Agency Agreement with Deutsche Bank Trust Company Americas. As of August 31, 2022 and May 31, 2022, we did not have any outstanding commercial paper notes.
+
+ There have been no other significant changes in our notes payable or other borrowing arrangements that were disclosed in our Annual Report on Form 10-K for the fiscal year ended May 31, 2022.
+
+ 17
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ 6 . 
+
+ RESTRUCTURING ACTIVITIES
+
+ Fiscal 2022 Oracle Restructuring Plan
+
+ During fiscal 2022, our management approved, committed to and initiated plans to restructure and further improve efficiencies in our operations due to our acquisitions and certain other operational activities (2022 Restructuring Plan). In the first quarter of fiscal 2023, our management supplemented the 2022 Restructuring Plan to reflect additional actions that we expect to take. The total estimated restructuring costs associated with the 2022 Restructuring Plan are up to $ 888 million and will be recorded to the restructuring expense line item within our condensed consolidated statements of operations as they are incurred. We recorded $ 146 million and $ 55 million of restructuring expenses in connection with the 2022 Restructuring Plan in the first three months of fiscal 2023 and 2022, respectively. We expect to incur the majority of the estimated remaining $ 519 million through the end of fiscal 2023. Any changes to the estimates or timing of executing the 2022 Restructuring Plan will be reflected in our future results of operations.
+
+ Summary of All Plans
+
+ Three Months Ended August 31, 2022
+
+ Accrued
+
+ August 31,
+
+ 2022 (2) 
+
+ Total
+
+ Costs
+
+ Accrued
+
+ to Date
+
+ Total
+
+ Expected
+
+ Program
+
+ Costs
+
+ (in millions)
+
+ Accrued
+
+ May 31,
+
+ 2022 (2) 
+
+ Initial
+
+ Costs (3) 
+
+ Adj. to
+
+ Cost (4) 
+
+ Cash
+
+ Payments
+
+ Others (5) 
+
+ 2022 Restructuring Plan (1) 
+
+ Cloud and license
+
+ $
+
+ 34 
+
+ $
+
+ 73 
+
+ $
+
+ ( 1 
+
+ )
+
+ $
+
+ ( 52 
+
+ )
+
+ $
+
+ ( 3 
+
+ )
+
+ $
+
+ 51 
+
+ $
+
+ 160 
+
+ $
+
+ 544 
+
+ Hardware
+
+ 7 
+
+ 4 
+
+ — 
+
+ ( 4 
+
+ )
+
+ ( 1 
+
+ )
+
+ 6 
+
+ 15 
+
+ 32 
+
+ Services
+
+ 9 
+
+ 8 
+
+ — 
+
+ ( 6 
+
+ )
+
+ ( 1 
+
+ )
+
+ 10 
+
+ 24 
+
+ 29 
+
+ Other
+
+ 10 
+
+ 59 
+
+ 3 
+
+ ( 34 
+
+ )
+
+ ( 2 
+
+ )
+
+ 36 
+
+ 170 
+
+ 283 
+
+ Total 2022 Restructuring Plan
+
+ $
+
+ 60 
+
+ $
+
+ 144 
+
+ $
+
+ 2 
+
+ $
+
+ ( 96 
+
+ )
+
+ $
+
+ ( 7 
+
+ )
+
+ $
+
+ 103 
+
+ $
+
+ 369 
+
+ $
+
+ 888 
+
+ Total other restructuring plans (6) 
+
+ $
+
+ 71 
+
+ $
+
+ — 
+
+ $
+
+ ( 2 
+
+ )
+
+ $
+
+ ( 8 
+
+ )
+
+ $
+
+ ( 3 
+
+ )
+
+ $
+
+ 58 
+
+ Total restructuring plans
+
+ $
+
+ 131 
+
+ $
+
+ 144 
+
+ $
+
+ — 
+
+ $
+
+ ( 104 
+
+ )
+
+ $
+
+ ( 10 
+
+ )
+
+ $
+
+ 161 
+
+ (1) 
+
+ Restructuring costs recorded to each of the operating segments presented primarily related to employee severance costs. Other restructuring costs represented employee severance costs not related to our operating segments and certain other restructuring plan costs. 
+
+ (2) 
+
+ As of August 31, 2022 and May 31, 2022, substantially all restructuring liabilities have been recorded in other current liabilities within our condensed consolidated balance sheets. 
+
+ (3) 
+
+ Costs recorded for the respective restructuring plans during the period presented. 
+
+ (4) 
+
+ All plan adjustments were changes in estimates whereby increases and decreases in costs were generally recorded to operating expenses in the period of adjustments. 
+
+ (5 ) 
+
+ Represents foreign currency translation and certain other non-cash adjustments. 
+
+ ( 6 ) 
+
+ Other restructuring plans presented in the table above included condensed information for other Oracle based plans and other plans associated with certain of our acquisitions whereby we continued to make cash outlays to settle obligations under these plans during the period presented but for which the periodic impact to our condensed consolidated statements of operations was not significant. 
+
+ 18
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ 7 . 
+
+ DEFERRED REVENUES
+
+ Deferred revenues consisted of the following:
+
+ (in millions)
+
+ August 31,
+
+ 2022
+
+ May 31,
+
+ 2022
+
+ Cloud services and license support
+
+ $
+
+ 9,382 
+
+ $
+
+ 7,406 
+
+ Hardware
+
+ 589 
+
+ 555 
+
+ Services
+
+ 453 
+
+ 360 
+
+ Cloud license and on-premise license
+
+ 49 
+
+ 36 
+
+ Deferred revenues, current
+
+ 10,473 
+
+ 8,357 
+
+ Deferred revenues, non-current (in other non-current liabilities)
+
+ 788 
+
+ 753 
+
+ Total deferred revenues
+
+ $
+
+ 11,261 
+
+ $
+
+ 9,110 
+
+ Deferred cloud services and license support revenues and deferred hardware revenues substantially represent customer payments made in advance for cloud or support contracts that are typically billed in advance with corresponding revenues generally being recognized ratably or based upon customer usage over the respective contractual periods. Deferred services revenues include prepayments for our services business and revenues for these services are generally recognized as the services are performed. Deferred cloud license and on-premise license revenues typically resulted from customer payments that related to undelivered products and services or specified enhancements.
+
+ 8 . 
+
+ STOCKHOLDERS&#8217; DEFICIT 
+
+ Common Stock Repurchases
+
+ Our Board of Directors has approved a program for us to repurchase shares of our common stock. As of August 31, 2022, approximately $ 8.9 billion remained available for stock repurchases pursuant to our stock repurchase program. We repurchased 7.5 million shares for $ 559 million during the three months ended August 31, 2022 (including 0.3 million shares for $ 26 million that were repurchased but not settled) and 94.0 million shares for $ 8.0 billion during the three months ended August 31, 2021 under the stock repurchase program.
+
+ Our stock repurchase authorization does not have an expiration date and the pace of our repurchase activity will depend on factors such as our working capital needs, our cash requirements for acquisitions and dividend payments, our debt repayment obligations or repurchases of our debt, our stock price, and economic and market conditions. Our stock repurchases may be effected from time to time through open market purchases or pursuant to a Rule 10b5-1 plan. Our stock repurchase program may be accelerated, suspended, delayed or discontinued at any time.
+
+ Dividends on Common Stock
+
+ In September 2022, our Board of Directors declared a quarterly cash dividend of $ 0.32 per share of our outstanding common stock. The dividend is payable on October 25, 2022 to stockholders of record as of the close of business on October 12, 2022 . Future declarations of dividends and the establishment of future record and payment dates are subject to the final determination of our Board of Directors.
+
+ Fiscal 2023 Stock&#8209;Based Awards Activity and Compensation Expense
+
+ During the first quarter of fiscal 2023, we issued 6 million restricted stock-based units (RSUs) and assumed 5 million RSUs in connection with our acquisition of Cerner, all of which are subject to service-based vesting 
+
+ 19
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ restrictions. These fiscal 2023 stock-based award issuances were partially offset by stock-based award forfeitures and cancellations of 3 million shares during the first quarter of fiscal 2023 . 
+
+ The RSUs that were granted during the three months ended August 31, 2022 have similar vesting restrictions and contractual lives and were valued using methodologies of a similar nature as those described in Note 12 of Notes to Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended May 31, 2022.
+
+ Stock-based compensation expense is included in the following operating expense line items in our condensed consolidated statements of operations:
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions)
+
+ 2022
+
+ 2021
+
+ Cloud services and license support
+
+ $
+
+ 91 
+
+ $
+
+ 40 
+
+ Hardware
+
+ 4 
+
+ 3 
+
+ Services
+
+ 25 
+
+ 14 
+
+ Sales and marketing
+
+ 124 
+
+ 95 
+
+ Research and development
+
+ 422 
+
+ 344 
+
+ General and administrative
+
+ 84 
+
+ 49 
+
+ Total stock-based compensation
+
+ $
+
+ 750 
+
+ $
+
+ 545 
+
+ 9 . 
+
+ INCOME TAXES
+
+ Our effective tax rates for each of the periods presented are the result of the mix of income earned in various tax jurisdictions that apply a broad range of income tax rates. Our provision for income taxes varied from the tax computed at the U.S. federal statutory income tax rate for the periods presented primarily due to earnings in foreign operations, state taxes, the U.S. research and development tax credit, settlements with tax authorities, the tax effects of stock-based compensation, the Foreign Derived Intangible Income deduction and the tax effect of Global Intangible Low-Taxed Income. Our effective tax rates were 6.5 % and 8.4 % for the three months ended August 31, 2022 and 2021, respectively. 
+
+ Our net deferred tax assets were $ 4.4 billion and $ 6.8 billion as of August 31, 2022 and May 31, 2022, respectively. We believe that it is more likely than not that the net deferred tax assets will be realized in the foreseeable future. Realization of our net deferred tax assets is dependent upon our generation of sufficient taxable income in future years in appropriate tax jurisdictions to obtain benefit from the reversal of temporary differences, net operating loss carryforwards and tax credit carryforwards. The amount of net deferred tax assets considered realizable is subject to adjustment in future periods if estimates of future taxable income change.
+
+ Domestically, U.S. federal and state taxing authorities are currently examining income tax returns of Oracle and various acquired entities for years through fiscal 2021. Our U.S. federal income tax returns have been examined for all years prior to fiscal 2011 and, with some exceptions, we are no longer subject to audit for those periods. Our U.S. state income tax returns, with some exceptions, have been examined for all years prior to fiscal 2007, and we are no longer subject to audit for those periods.
+
+ Internationally, tax authorities for numerous non-U.S. jurisdictions are also examining or have examined returns of Oracle and various acquired entities for years through fiscal 2022. Many of the relevant tax years are at an advanced stage in examination or subsequent controversy resolution processes. With some exceptions, we are generally no longer subject to tax examinations in non-U.S. jurisdictions for years prior to fiscal 2001.
+
+ 20
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ We are under audit by the IRS and various other domestic and foreign tax authorities with regards to income tax and indirect tax matters and are involved in various challenges and litigation in a number of countries, including, in particular, Australia, Brazil, Canada, India, Indonesia, Israel, Italy, Mexico, New Zealand, Pakistan, Saudi Arabia, South Korea and Spain, where the amounts under controversy are significant . In some, although not all, cases, we have reserved for potential adjustments to our provision for income taxes and accrual of indirect taxes that may result from examinations by, or any negotiated agreements with, these tax authorities or final outcomes in judicial proceedings, and we believe that the final outcome of these examinations, agreements or judicial proceedings will not have a material effect on our results of operations. If events occur which indicate payment of these amounts is unnecessary, the reversal of the liabilities would result in the recognition of benefits in the period we determine the liabilities are no longer necessary. If our estimates of the federal, state, and foreign income tax liabilities and indirect tax liabilities are less than the ultimate assessment, it could result in a further charge to expense . 
+
+ We believe that we have adequately provided under GAAP for outcomes related to our tax audits. However, there can be no assurances as to the possible outcomes or any related financial statement effect thereof.
+
+ 10 . 
+
+ SEGMENT INFORMATION
+
+ ASC 280, Segment Reporting , establishes standards for reporting information about operating segments. Operating segments are defined as components of an enterprise about which separate financial information is available that is evaluated regularly by the chief operating decision maker, or decision-making group, in deciding how to allocate resources and in assessing performance. Our chief operating decision makers (CODMs) are our Chief Executive Officer and Chief Technology Officer. We are organized by line of business and geographically. While our CODMs evaluate results in a number of different ways, the line of business management structure is the primary basis for which the allocation of resources and financial results are assessed. The tabular information below presents financial information that is provided to our CODMs for their review and assists our CODMs with evaluating the company&#8217;s performance and allocating company resources.
+
+ We have three businesses—cloud and license, hardware and services—each of which is comprised of a single operating segment. All three of our businesses market and sell our offerings globally to businesses of many sizes, government agencies, educational institutions and resellers with a worldwide sales force positioned to offer the combinations that best meet customer needs.
+
+ Our cloud and license business engages in the sale, marketing and delivery of our enterprise applications and infrastructure technologies through cloud and on-premise deployment models including our cloud services and license support offerings&#59; and our cloud license and on-premise license offerings. Cloud services and license support revenues are generated from offerings that are typically contracted with customers directly, billed to customers in advance, delivered to customers over time with our revenue recognition occurring over the contractual terms, and renewed by customers upon completion of the contractual terms. Cloud services and license support contracts provide customers with access to the latest updates to the applications and infrastructure technologies as they become available and for which the customer contracted and also include related technical support services over the contractual term. Cloud license and on-premise license revenues represent fees earned from granting customers licenses, generally on a perpetual basis, to use our database and middleware and our applications software products within cloud and on-premise IT environments. We generally recognize revenues at the point in time the software is made available to the customer to download and use, which typically is immediate upon signature of the license contract. In each fiscal year, our cloud and license business&#8217; contractual activities are typically highest in our fourth fiscal quarter and the related cash flows are typically highest in the following quarter (i.e., in the first fiscal quarter of the next fiscal year) as we receive payments from these contracts.
+
+ 21
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ Our hardware business provides infrastructure technologies including Oracle Engineered Systems, servers, storage, industry-specific hardware, operating systems, virtualization, management and other hardware-related software to support diverse IT environments. Our hardware business also offers hardware support, which provides customers with software updates for the software components that are essential to the functionality of their hardware products and can also include product repairs, maintenance services and technical support services that are typically delivered and recognized ratably over the contractual term . 
+
+ Our services business provides services to customers and partners to help maximize the performance of their investments in Oracle applications and infrastructure technologies.
+
+ We do not track our assets for each business. Consequently, it is not practical to show assets by operating segment.
+
+ The following table presents summary results for each of our three businesses:
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions)
+
+ 2022
+
+ 2021
+
+ Cloud and license:
+
+ Revenues
+
+ $
+
+ 9,321 
+
+ $
+
+ 8,184 
+
+ Cloud services and license support expenses
+
+ 1,620 
+
+ 1,153 
+
+ Sales and marketing expenses
+
+ 1,930 
+
+ 1,626 
+
+ Margin (1) 
+
+ $
+
+ 5,771 
+
+ $
+
+ 5,405 
+
+ Hardware:
+
+ Revenues
+
+ $
+
+ 763 
+
+ $
+
+ 763 
+
+ Hardware products and support expenses
+
+ 243 
+
+ 238 
+
+ Sales and marketing expenses
+
+ 79 
+
+ 89 
+
+ Margin (1) 
+
+ $
+
+ 441 
+
+ $
+
+ 436 
+
+ Services:
+
+ Revenues
+
+ $
+
+ 1,361 
+
+ $
+
+ 781 
+
+ Services expenses
+
+ 1,007 
+
+ 609 
+
+ Margin (1) 
+
+ $
+
+ 354 
+
+ $
+
+ 172 
+
+ Totals:
+
+ Revenues
+
+ $
+
+ 11,445 
+
+ $
+
+ 9,728 
+
+ Expenses
+
+ 4,879 
+
+ 3,715 
+
+ Margin (1) 
+
+ $
+
+ 6,566 
+
+ $
+
+ 6,013 
+
+ ( 1 ) 
+
+ The margins reported reflect only the direct controllable costs of each line of business and do not include allocations of research and development, general and administrative and certain other allocable expenses, net. Additionally, the margins reported above do not reflect amortization of intangible assets, acquisition related and other expenses, restructuring expenses, stock-based compensation, interest expense or certain other non-operating expenses, net. Refer to the table below for a reconciliation of our total margin for operating segments to our income before income taxes as reported per our condensed consolidated statements of operations. 
+
+ 22
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ The following table reconciles total operating segment margin to income before income taxes:
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions)
+
+ 2022
+
+ 2021
+
+ Total margin for operating segments
+
+ $
+
+ 6,566 
+
+ $
+
+ 6,013 
+
+ Research and development
+
+ ( 2,093 
+
+ )
+
+ ( 1,684 
+
+ )
+
+ General and administrative
+
+ ( 411 
+
+ )
+
+ ( 298 
+
+ )
+
+ Amortization of intangible assets
+
+ ( 919 
+
+ )
+
+ ( 303 
+
+ )
+
+ Acquisition related and other
+
+ ( 41 
+
+ )
+
+ ( 21 
+
+ )
+
+ Restructuring
+
+ ( 144 
+
+ )
+
+ ( 38 
+
+ )
+
+ Stock-based compensation for operating segments
+
+ ( 244 
+
+ )
+
+ ( 152 
+
+ )
+
+ Expense allocations and other, net
+
+ ( 91 
+
+ )
+
+ ( 90 
+
+ )
+
+ Interest expense
+
+ ( 787 
+
+ )
+
+ ( 705 
+
+ )
+
+ Non-operating expenses, net
+
+ ( 180 
+
+ )
+
+ ( 41 
+
+ )
+
+ Income before income taxes
+
+ $
+
+ 1,656 
+
+ $
+
+ 2,681 
+
+ Disaggregation of Revenues
+
+ We have considered information that is regularly reviewed by our CODMs in evaluating financial performance, and disclosures presented outside of our financial statements in our earnings releases and used in investor presentations to disaggregate revenues to depict how the nature, amount, timing and uncertainty of revenues and cash flows are affected by economic factors. The principal category we use to disaggregate revenues is the nature of our products and services as presented in our condensed consolidated statements of operations. 
+
+ The following table is a summary of our total revenues by geographic region:
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions)
+
+ 2022
+
+ 2021
+
+ Americas
+
+ $
+
+ 7,192 
+
+ $
+
+ 5,321 
+
+ EMEA (1) 
+
+ 2,691 
+
+ 2,784 
+
+ Asia Pacific
+
+ 1,562 
+
+ 1,623 
+
+ Total revenues
+
+ $
+
+ 11,445 
+
+ $
+
+ 9,728 
+
+ (1) 
+
+ Comprised of Europe, the Middle East and Africa 
+
+ The following table presents our cloud services and license support revenues by offerings:
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions)
+
+ 2022
+
+ 2021
+
+ Cloud services
+
+ $
+
+ 3,579 
+
+ $
+
+ 2,461 
+
+ License support
+
+ 4,838 
+
+ 4,910 
+
+ Total cloud services and license support revenues
+
+ $
+
+ 8,417 
+
+ $
+
+ 7,371 
+
+ 23
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ The following table presents our cloud services and license support revenues by applications and infrastructure ecosystems:
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions)
+
+ 2022
+
+ 2021
+
+ Applications cloud services and license support
+
+ $
+
+ 4,016 
+
+ $
+
+ 3,041 
+
+ Infrastructure cloud services and license support
+
+ 4,401 
+
+ 4,330 
+
+ Total cloud services and license support revenues
+
+ $
+
+ 8,417 
+
+ $
+
+ 7,371 
+
+ 1 1 . 
+
+ EARNINGS PER SHARE
+
+ Basic earnings per share is computed by dividing net income for the period by the weighted-average number of common shares outstanding during the period. Diluted earnings per share is computed by dividing net income for the period by the weighted-average number of common shares outstanding during the period, plus the dilutive effect of outstanding restricted stock-based awards, stock options, and shares issuable under the employee stock purchase plan as applicable pursuant to the treasury stock method. The following table sets forth the computation of basic and diluted earnings per share: 
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions, except per share data)
+
+ 2022
+
+ 2021
+
+ Net income
+
+ $
+
+ 1,548 
+
+ $
+
+ 2,457 
+
+ Weighted average common shares outstanding
+
+ 2,685 
+
+ 2,769 
+
+ Dilutive effect of employee stock plans
+
+ 62 
+
+ 92 
+
+ Dilutive weighted average common shares outstanding
+
+ 2,747 
+
+ 2,861 
+
+ Basic earnings per share
+
+ $
+
+ 0.58 
+
+ $
+
+ 0.89 
+
+ Diluted earnings per share
+
+ $
+
+ 0.56 
+
+ $
+
+ 0.86 
+
+ Shares subject to anti-dilutive restricted stock-based awards and stock options excluded from calculation (1) 
+
+ 71 
+
+ 30 
+
+ (1) 
+
+ These weighted shares relate to anti-dilutive restricted service based stock-based awards as calculated using the treasury stock method and contingently issuable shares pursuant to PSO arrangements. Such shares could be dilutive in the future. 
+
+ 1 2 . 
+
+ LEGAL PROCEEDINGS
+
+ Derivative Litigation Concerning Oracle&#8217;s NetSuite Acquisition
+
+ On May 3 and July 18, 2017, two alleged stockholders filed separate derivative lawsuits in the Court of Chancery of the State of Delaware, purportedly on Oracle&#8217;s behalf. Thereafter, the court consolidated the two derivative cases and designated the July 18, 2017 complaint as the operative complaint. The consolidated lawsuit was brought against all the then-current members and one former member of our Board of Directors, and Oracle as a nominal defendant. Plaintiff alleged that the defendants breached their fiduciary duties by causing Oracle to agree to purchase NetSuite Inc. (NetSuite) at an excessive price. The complaint sought (and the operative complaint continues to seek) declaratory relief, unspecified monetary damages (including interest), and attorneys&#8217; fees and costs. The defendants filed a motion to dismiss, which the court denied on March 19, 2018.
+
+ 24
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ On May 4, 2018, our Board of Directors established a Special Litigation Committee (SLC) to investigate the allegations in this derivative action. Three non-employee directors served on the SLC. On August 15, 2019, the SLC filed a letter with the court, stating that the SLC believed that plaintiff should be allowed to proceed with the derivative litigation on behalf of Oracle. After the SLC advised the Board that it had fulfilled its duties and obligations, the Board withdrew the SLC&#8217;s authority, except that the SLC maintained certain authority to respond to discovery requests in the litigation . 
+
+ After plaintiff filed the July 18, 2017 complaint, an additional plaintiff joined the case. Plaintiffs filed several amended complaints, and filed their most recent amended complaint on December 11, 2020. The operative complaint asserts claims for breach of fiduciary duty against our Chief Executive Officer, our Chief Technology Officer, the estate of Mark Hurd (our former Chief Executive Officer who passed away on October 18, 2019), and two other members of our Board of Directors. Oracle is named as a nominal defendant. On December 11, 2020, the estate of Mark Hurd and the two other members of our Board of Directors moved to dismiss this complaint, and a hearing on this motion was held on February 16, 2021. On June 21, 2021, the court granted this motion as to the estate of Mark Hurd and one Board member and denied the motion as to the other Board member, who filed an answer to the complaint on August 9, 2021. On December 28, 2020, our Chief Executive Officer, our Chief Technology Officer, and Oracle as a nominal defendant filed answers to the operative complaint.
+
+ On December 23, 2021, the Board member defendant brought a motion for summary judgment, and on May 20, 2022, the court granted this motion in part and denied this motion in part. This Board member remains a defendant in this case. Trial commenced on July 18, 2022, and has concluded. The parties are engaging in post-trial briefing, and a final hearing on that briefing is scheduled for November 18, 2022.
+
+ While Oracle continues to evaluate these claims, we do not believe this litigation will have a material impact on our financial position or results of operations. 
+
+ Securities Class Action and Derivative Litigation Concerning Oracle&#8217;s Cloud Business
+
+ On August 10, 2018, a putative class action, brought by an alleged stockholder of Oracle, was filed in the U.S. District Court for the Northern District of California against us, our Chief Technology Officer, our then-two Chief Executive Officers, two other Oracle executives, and one former Oracle executive. As noted above, Mr. Hurd, one of our then-two Chief Executive Officers, passed away on October 18, 2019. On March 8, 2019, plaintiff filed an amended complaint. Plaintiff alleges that the defendants made or are responsible for false and misleading statements regarding Oracle&#8217;s cloud business. Plaintiff further alleges that the former Oracle executive engaged in insider trading. Plaintiff seeks a ruling that this case may proceed as a class action, and seeks damages, attorneys&#8217; fees and costs, and unspecified declaratory/injunctive relief. On April 19, 2019, defendants moved to dismiss plaintiff&#8217;s amended complaint. On December 17, 2019, the court granted this motion, giving plaintiffs an opportunity to file an amended complaint, which plaintiff filed on February 17, 2020. On April 23, 2020, defendants filed a motion to dismiss, and the court held a hearing on this motion on September 24, 2020. On March 22, 2021, the court granted in part and denied in part this motion. The court dismissed the action as to one Oracle executive and the former Oracle executive. The court permitted plaintiff to proceed with only a narrow omissions theory against the remaining defendants. On April 21, 2021, defendants filed an answer to the complaint. On October 8, 2021, plaintiffs filed a motion for class certification, which the court granted on May 9, 2022. On May 23, 2022, defendants filed a petition in the Ninth Circuit Court of Appeals for permission to appeal the court&#8217;s order granting class certification, and plaintiffs filed an opposition on June 2, 2022. On June 3, 2022, the District Court &#8220;So Ordered&#8221; a stipulation by the parties, which vacated all dates in this case because the parties had reached an agreement to settle this action, subject to the court&#8217;s approval. On June 8, 2022, the Ninth Circuit Court of Appeals granted defendants&#8217; unopposed motion to stay the petition for permission to appeal in light of the proposed settlement. On September 15, 2022, the District Court is scheduled to hear plaintiffs&#8217; motion for 
+
+ 25
+
+ Table of Contents 
+
+ ORACLE CORPORATION
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS —(Continued) 
+
+ August 31, 2022 
+
+ (Unaudited)
+
+ preliminary approval of the proposed settlement, which proposes that the Company pay $ 17,500,000 to settle this matter. This sum includes all fees and costs. 
+
+ On February 12 and May 8, 2019, two stockholder derivative lawsuits were filed in the United States District Court for the Northern District of California. The cases were consolidated, and on July 8, 2019, a single plaintiff filed a consolidated complaint. The consolidated complaint brought various claims relating to the 10b-5 class action described immediately above. The parties agreed to stay the derivative case pending resolution of defendants&#8217; motion to dismiss the securities case, which the court granted in part and denied in part on March 22, 2021.
+
+ Plaintiff filed an amended complaint on June 4, 2021. The derivative suit is brought by an alleged stockholder of Oracle, purportedly on Oracle&#8217;s behalf, against our Chief Technology Officer, our Chief Executive Officer, and the estate of Mark Hurd. Plaintiff claims that the alleged actions described in the class action discussed above caused harm to Oracle, and that defendants violated their fiduciary duties of candor, good faith, loyalty, and due care by failing to prevent this alleged harm. Plaintiff also brings derivative claims for violations of federal securities laws. Plaintiffs seek a ruling that this case may proceed as a derivative action, a finding that defendants are liable for breaching their fiduciary duties, damages, an order directing defendants to enact corporate reforms, attorneys&#8217; fees and costs, and unspecified relief. On June 14, 2021, the court &#8220;so ordered&#8221; a stipulation from the parties, staying this case pending resolution of the 10b-5 action. The parties are scheduled to participate in a mediation on October 14, 2022. On September 9, 2022, the District Court &#8220;So Ordered&#8221; a stipulation extending the stay in this case until October 28, 2022.
+
+ While Oracle continues to evaluate these claims, we do not believe these matters will have a material impact on our financial position or results of operations.
+
+ Other Litigation
+
+ We are party to various other legal proceedings and claims, either asserted or unasserted, which arise in the ordinary course of business, including proceedings and claims that relate to acquisitions we have completed or to companies we have acquired or are attempting to acquire. While the outcome of these matters cannot be predicted with certainty, we do not believe that the outcome of any of these matters, individually or in the aggregate, will result in losses that are materially in excess of amounts already recognized, if any.
+
+ 26
+
+ Table of Contents 
+
+ Item 2. 
+
+ Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations
+
+ We begin Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations with an overview of our businesses and significant trends. This overview is followed by a summary of our critical accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results. We then provide a more detailed analysis of our results of operations and financial condition.
+
+ Business Overview
+
+ Oracle provides products and services that address enterprise information technology (IT) environments. Our products and services include enterprise applications and infrastructure offerings that are delivered worldwide through a variety of flexible and interoperable IT deployment models. These models include on-premise deployments, cloud-based deployments, and hybrid deployments (an approach that combines both on-premise and cloud-based deployments). Accordingly, we offer choice and flexibility to our customers and facilitate the product, service and deployment combinations that best suit our customers&#8217; needs. Through our worldwide sales force and Oracle Partner Network, we sell to customers all over the world including businesses of many sizes, government agencies, educational institutions and resellers.
+
+ We have three businesses: cloud and license&#59; hardware&#59; and services&#59; each of which comprises a single operating segment. The descriptions set forth below as a part of this Item 2 Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations and the information contained within Note 10 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report provide additional information related to our businesses and operating segments and align to how our chief operating decision makers (CODMs), which include our Chief Executive Officer and Chief Technology Officer, view our operating results and allocate resources.
+
+ Cloud and License Business 
+
+ Our cloud and license business, which represented 84% of our total revenues on a trailing 4-quarter basis, markets, sells and delivers a broad spectrum of enterprise applications and infrastructure technologies through our cloud and license offerings. Revenue streams included in our cloud and license business are: 
+
+ • 
+
+ Cloud services and license support revenues, which include: 
+
+ o 
+
+ license support revenues, which are earned by providing Oracle license support services to customers that have elected to purchase support services in connection with the purchase of Oracle applications and infrastructure software licenses for use in cloud, on-premise and other IT environments. Substantially all license support customers renew their support contracts with us upon expiration in order to continue to benefit from technical support services and the periodic issuance of unspecified updates and enhancements, which current license support customers are entitled to receive. License support contracts are generally priced as a percentage of the net fees paid by the customer to purchase a cloud license and/or on-premise license&#59; are generally billed in advance of the support services being performed&#59; are generally renewed at the customer&#8217;s option&#59; and are generally recognized as revenues ratably over the contractual period that the support services are provided, which is generally one year&#59; and 
+
+ o 
+
+ cloud services revenues, which provide customers access to Oracle Cloud applications and infrastructure technologies via cloud-based deployment models that Oracle develops, provides unspecified updates and enhancements for, deploys, hosts, manages and supports and that customers access by entering into a subscription agreement with us for a stated period. Oracle Cloud Services arrangements are generally billed in advance of the cloud services being performed&#59; generally have durations of one to three years&#59; are generally renewed at the customer&#8217;s option&#59; and are generally recognized as revenues ratably over the contractual period of the cloud contract or, in the case of usage model contracts, as the cloud services are consumed over time. 
+
+ • 
+
+ Cloud license and on-premise license revenues, which include revenues from the licensing of our software products including Oracle Applications, Oracle Database, Oracle Middleware and Java, among others, 
+
+ 27
+
+ Table of Contents 
+
+ which our customers deploy within cloud-based, on-premise and other IT environments. Our cloud license and on-premise license transactions are generally perpetual in nature and are generally recognized as revenues up front at the point in time when the software is made available to the customer to download and use. Revenues from usage-based royalty arrangements for distinct cloud licenses and on-premise licenses are recognized at the point in time when the software end user usage occurs. The timing of a few large license transactions can substantially affect our quarterly license revenues due to the point-in-time nature of revenue recognition for license transactions, which is different than the typical revenue recognition pattern for our cloud services and license support revenues in which revenues are generally recognized ratably over the contractual terms. Cloud license and on-premise license customers have the option to purchase and renew license support contracts, as further described above . 
+
+ Providing choice and flexibility to our customers as to when and how they deploy Oracle applications and infrastructure technologies are important elements of our corporate strategy. In recent periods, customer demand for our applications and infrastructure technologies delivered through our Oracle Cloud Services has increased. To address customer demand and enable customer choice, we have introduced certain programs for customers to pivot their applications and infrastructure licenses and the related license support to the Oracle Cloud for new deployments and to migrate to and expand with the Oracle Cloud for their existing workloads. The proportion of our cloud services revenues relative to our total revenues has increased and we expect this trend to continue. Cloud services revenues represented 31% and 25% of our total revenues in the first three months of fiscal 2023 and 2022, respectively.
+
+ Our cloud and license business&#8217; revenue growth is affected by many factors, including the strength of general economic and business conditions&#59; governmental budgetary constraints&#59; the strategy for and competitive position of our offerings&#59; customer satisfaction with our offerings&#59; the continued renewal of our cloud services and license support customer contracts by the customer contract base&#59; substantially all customers continuing to purchase license support contracts in connection with their license purchases&#59; the pricing of license support contracts sold in connection with the sales of licenses&#59; the pricing, amounts and volumes of licenses and cloud services sold&#59; our ability to manage Oracle Cloud capacity requirements to meet existing and prospective customer demand&#59; and foreign currency rate fluctuations.
+
+ On a constant currency basis, we expect that our total cloud and license revenues generally will continue to increase due to:
+
+ • 
+
+ expected growth in our cloud services and license support offerings&#59; and 
+
+ • 
+
+ continued demand for our cloud license and on-premise license offerings. 
+
+ We believe these factors should contribute to future growth in our cloud and license business&#8217; total revenues, which should enable us to continue to make investments in research and development and our cloud operations to develop, improve, increase the capacity of and expand the geographic footprint of our cloud and license products and services.
+
+ Our cloud and license business&#8217; margin has historically trended upward over the course of the four quarters within a particular fiscal year due to the historical upward trend of our cloud and license business&#8217; revenues over those quarterly periods and because the majority of our costs for this business are generally fixed in the short term. The historical upward trend of our cloud and license business&#8217; revenues over the course of the four quarters within a particular fiscal year is primarily due to the addition of new cloud services and license support contracts to the customer contract base that we generally recognize as revenues ratably or based upon customer usage over the respective contractual terms and the renewal of existing customers&#8217; cloud services and license support contracts over the course of each fiscal year that we generally recognize as revenues in a similar manner&#59; and the historical upward trend of our cloud license and on-premise license revenues, which we generally recognize at a point in time upon delivery&#59; in each case over those four fiscal quarterly periods. 
+
+ Hardware Business 
+
+ Our hardware business, which represented 7% of our total revenues on a trailing 4-quarter basis, provides a broad selection of enterprise hardware products and hardware-related software products including Oracle Engineered Systems, servers, storage, industry-specific hardware offerings, operating systems, virtualization, management and 
+
+ 28
+
+ Table of Contents 
+
+ other hardware-related software, and related hardware support. Each hardware product and its related software, such as an operating system or firmware, are highly interdependent and interrelated and are accounted for as a combined performance obligation. The revenues for this combined performance obligation are generally recognized at the point in time that the hardware product and its related software are delivered to the customer and ownership is transferred to the customer. We expect to make investments in research and development to improve existing hardware products and services and to develop new hardware products and services. The majority of our hardware products are sold through indirect channels, including independent distributors and value-added resellers. Our hardware support offerings provide customers with unspecified software updates for software components that are essential to the functionality of our hardware products and associated software products. Our hardware support offerings can also include product repairs, maintenance services and technical support services. Hardware support contracts are entered into and renewed at the option of the customer, are generally priced as a percentage of the net hardware products fees and are generally recognized as revenues ratably as the hardware support services are delivered over the contractual terms . 
+
+ We generally expect our hardware business to have lower operating margins as a percentage of revenues than our cloud and license business due to the incremental costs we incur to produce and distribute these products and to provide support services, including direct materials and labor costs. 
+
+ Our quarterly hardware revenues are difficult to predict. Our hardware revenues, cost of hardware and hardware operating margins that we report are affected by many factors, including our manufacturing partners&#8217; abilities to timely manufacture or deliver a few large hardware transactions, with this factor becoming more pronounced in recent periods due to global supply chain constraints for certain technology components&#59; our strategy for and the position of our hardware products relative to competitor offerings&#59; customer demand for competing offerings, including cloud infrastructure offerings&#59; the strength of general economic and business conditions&#59; governmental budgetary constraints&#59; whether customers decide to purchase hardware support contracts at or in close proximity to the time of hardware product sale&#59; the percentage of our hardware support contract customer base that renews its support contracts and the close association between hardware products, which have a finite life, and customer demand for related hardware support as hardware products age&#59; customer decisions to either maintain or upgrade their existing hardware infrastructure to newly developed technologies that are available&#59; and foreign currency rate fluctuations . 
+
+ Services Business 
+
+ Our services business, which represented 9% of our total revenues on a trailing 4-quarter basis, helps customers and partners maximize the performance of their investments in Oracle applications and infrastructure technologies. We believe that our services are differentiated based on our focus on Oracle technologies, extensive experience, broad sets of intellectual property and best practices. Our services offerings include consulting services and advanced customer services. Our services business has lower margins than our cloud and license and hardware businesses. Our services revenues are affected by many factors including our strategy for, and the competitive position of, our services&#59; customer demand for our cloud and license and hardware offerings and the related services that we may market and sell in connection with these offerings&#59; general economic conditions&#59; governmental budgetary constraints&#59; personnel reductions in our customers&#8217; IT departments&#59; tighter controls over customer discretionary spending&#59; and foreign currency rate fluctuations. 
+
+ Acquisitions 
+
+ Our selective and active acquisition program is another important element of our corporate strategy. Historically, we have invested billions of dollars to acquire a number of complementary companies, products, services and technologies. As compelling opportunities become available, we may acquire companies, products, services and technologies in furtherance of our corporate strategy. We have acquired certain companies and technologies during the first quarter of fiscal 2023 and full year fiscal 2022, including Cerner. Refer to Note 2 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for additional information related to our acquisition of Cerner and our other recent acquisitions.
+
+ We believe that we can fund our future acquisitions with our internally available cash, cash equivalents and marketable securities balances, cash generated from operations, additional borrowings or from the issuance of 
+
+ 29
+
+ Table of Contents 
+
+ additional securities. We estimate the financial impact of any potential acquisition with regard to earnings, operating margin, cash flows and return on invested capital targets, among others, before deciding to move forward with an acquisition . 
+
+ Critical Accounting Policies and Estimates 
+
+ Our consolidated financial statements are prepared in accordance with U.S. generally accepted accounting principles (GAAP) as set forth in the Financial Accounting Standards Board&#8217;s Accounting Standards Codification (ASC), and we consider various staff accounting bulletins and other applicable guidance issued by the SEC. GAAP, as set forth within the ASC, requires us to make certain estimates, judgments and assumptions. We believe that the estimates, judgments and assumptions upon which we rely are reasonable based upon information available to us at the time that these estimates, judgments and assumptions are made. These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities as of the date of the financial statements as well as the reported amounts of revenues and expenses during the periods presented. To the extent that there are differences between these estimates, judgments or assumptions and actual results, our financial statements will be affected. The accounting policies that reflect our more significant estimates, judgments and assumptions and which we believe are the most critical to aid in fully understanding and evaluating our reported financial results include:
+
+ • 
+
+ Revenue Recognition&#59; 
+
+ • 
+
+ Business Combinations&#59; 
+
+ • 
+
+ Goodwill and Intangible Assets—Impairment Assessments&#59; 
+
+ • 
+
+ Accounting for Income Taxes&#59; and 
+
+ • 
+
+ Legal and Other Contingencies. 
+
+ During the first quarter of fiscal 2023, we completed an assessment of the useful lives of our servers and increased the estimated useful lives from four years to five years, effective at the beginning of fiscal 2023. Refer to Note 1 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for more information. There were no other significant changes to our critical accounting policies and estimates. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Annual Report on Form 10-K for our fiscal year ended May 31, 2022 provides a more complete discussion of our critical accounting policies and estimates.
+
+ Results of Operations
+
+ Impact of Acquisitions 
+
+ The comparability of our operating results in the first quarter of fiscal 2023 compared to the same period of fiscal 2022 was impacted by our recent acquisitions, including Cerner. In our discussion of changes in our results of operations from the first quarter of fiscal 2023 compared to the same period of fiscal 2022, we may qualitatively disclose the impact of our acquired products and services for the one-year period subsequent to the acquisition date to the growth in certain of our operating segments&#8217; revenues where such qualitative discussions would be meaningful for an understanding of the factors that influenced the changes in our results of operations. When material, we may also provide quantitative disclosures related to such acquired products and services. Expense contributions from our recent acquisitions for each of the respective period comparisons generally were not separately identifiable due to the integration of these businesses and operating segments into our existing operations, and/or were insignificant to our results of operations during the periods presented.
+
+ Presentation of Operating Segment Results and Other Financial Information 
+
+ In our results of operations discussion below, we provide an overview of our total consolidated revenues, total consolidated operating expenses and total consolidated operating margin, all of which are presented on a GAAP basis. We also present a GAAP-based discussion below for substantially all of the other expense items as presented in our condensed consolidated statements of operations that are not directly attributable to our three businesses.
+
+ 30
+
+ Table of Contents 
+
+ In addition, we discuss below the results of each of our three businesses—cloud and license, hardware and services—which are our operating segments as defined pursuant to ASC 280, Segment Reporting . The financial reporting for our three businesses that is presented below is presented in a manner that is consistent with that used by our CODMs. Our operating segment presentation below reflects revenues, direct costs and sales and marketing expenses that correspond to and are directly attributable to each of our three businesses. We also utilize these inputs to calculate and present a segment margin for each of our three businesses in the discussion below . 
+
+ Consistent with our internal management reporting processes, research and development expenses, general and administrative expenses, stock-based compensation expenses, amortization of intangible assets, certain other expense allocations, acquisition related and other expenses, restructuring expenses, interest expense, non-operating expenses, net and provision for income taxes are not attributed to our three operating segments because our management does not view the performance of our three businesses including such items and/or it is impracticable to do so. Refer to &#8220;Supplemental Disclosure Related to Certain Charges&#8221; below for additional discussion of certain of these items and Note 10 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for a reconciliation of the summations of total segment margin as presented in the discussion below to total income before income taxes as presented per our condensed consolidated statements of operations for all periods presented.
+
+ We experienced COVID-19 related impacts to our businesses during each of the first quarter of fiscal 2023 and 2022. Certain of these historical impacts to our operating results are further discussed below. Any future impacts are currently unknown.
+
+ Constant Currency Presentation 
+
+ Our international operations have provided and are expected to continue to provide a significant portion of each of our businesses&#8217; revenues and expenses. As a result, each of our businesses&#8217; revenues and expenses and our total revenues and expenses will continue to be affected by changes in the U.S. Dollar against major international currencies. In order to provide a framework for assessing how our underlying businesses performed, excluding the effects of foreign currency rate fluctuations, we compare the percent change in the results from one period to another period in this Quarterly Report using constant currency disclosure. To present this information, current and comparative prior period results for entities reporting in currencies other than U.S. Dollars are converted into U.S. Dollars at constant exchange rates (i.e., the rates in effect on May 31, 2022, which was the last day of our prior fiscal year) rather than the actual exchange rates in effect during the respective periods. For example, if an entity reporting in Euros had revenues of 1.0 million Euros from products sold on August 31, 2022 and 2021, our financial statements would reflect reported revenues of $1.0 million in the first quarter of fiscal 2023 (using 1.0 as the month-end average exchange rate for the period) and $1.17 million in the first quarter of fiscal 2022 (using 1.17 as the month-end average exchange rate for the period). The constant currency presentation, however, would translate the results for each of the first quarter of fiscal 2023 and 2022 using the May 31, 2022 exchange rate and indicate, in this example, no change in revenues during the period. In each of the tables below, we present the percent change based on actual, unrounded results in reported currency and in constant currency.
+
+ 31
+
+ Table of Contents 
+
+ Total Revenues and Operating Expenses 
+
+ Three Months Ended August 31,
+
+ Percent Change
+
+ (Dollars in millions)
+
+ 2022
+
+ Actual
+
+ Constant
+
+ 2021
+
+ Total Revenues by Geography : 
+
+ Americas
+
+ $
+
+ 7,192
+
+ 35%
+
+ 36%
+
+ $
+
+ 5,321
+
+ EMEA (1) 
+
+ 2,691
+
+ -3%
+
+ 8%
+
+ 2,784
+
+ Asia Pacific
+
+ 1,562
+
+ -4%
+
+ 7%
+
+ 1,623
+
+ Total revenues
+
+ 11,445
+
+ 18%
+
+ 23%
+
+ 9,728
+
+ Total Operating Expenses
+
+ 8,822
+
+ 40%
+
+ 45%
+
+ 6,301
+
+ Total Operating Margin
+
+ $
+
+ 2,623
+
+ -23%
+
+ -17%
+
+ $
+
+ 3,427
+
+ Total Operating Margin %
+
+ 23%
+
+ 35%
+
+ % Revenues by Geography : 
+
+ Americas
+
+ 63%
+
+ 55%
+
+ EMEA
+
+ 23%
+
+ 28%
+
+ Asia Pacific
+
+ 14%
+
+ 17%
+
+ Total Revenues by Business : 
+
+ Cloud and license
+
+ $
+
+ 9,321
+
+ 14%
+
+ 19%
+
+ $
+
+ 8,184
+
+ Hardware
+
+ 763
+
+ 0%
+
+ 5%
+
+ 763
+
+ Services
+
+ 1,361
+
+ 74%
+
+ 84%
+
+ 781
+
+ Total revenues
+
+ $
+
+ 11,445
+
+ 18%
+
+ 23%
+
+ $
+
+ 9,728
+
+ % Revenues by Business : 
+
+ Cloud and license
+
+ 81%
+
+ 84%
+
+ Hardware
+
+ 7%
+
+ 8%
+
+ Services
+
+ 12%
+
+ 8%
+
+ (1) 
+
+ Comprised of Europe, the Middle East and Africa
+
+ Excluding the effects of foreign currency rate fluctuations, our total revenues increased across all of our three businesses in the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022, primarily due to revenue contributions from our acquisition of Cerner. Excluding the impact of our acquisition of Cerner, the constant currency increase during the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022 in our cloud and license business&#8217; revenues was attributable to growth in our cloud services and license support revenues and cloud license and on-premise license revenues as customers purchased our applications and infrastructure technologies via cloud and license deployment models and also renewed their related cloud contracts and license support contracts to continue to gain access to the latest versions of our technologies and to receive support services, and in our services business&#8217; revenues was attributable to an increase in revenues for each of our primary services offerings. In reported currency, Cerner contributed $1.4 billion to our total revenues during the first quarter of fiscal 2023. In constant currency, the Americas, the EMEA and the Asia Pacific regions contributed 86%, 9% and 5%, respectively, to our total revenue growth during the first quarter of fiscal 2023.
+
+ 32
+
+ Table of Contents 
+
+ Excluding the effects of foreign currency rate fluctuations, our total operating expenses increased during the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022, due to additional operating expenses as a result of our acquisition of Cerner , including higher intangible assets amortization&#59; higher cloud services and license support expenses, which were primarily due to higher employee related expenses due to higher headcount, and infrastructure investments that were made to support the increase in our cloud and license business&#8217; revenues&#59; higher sales and marketing, higher services expenses, and higher research and development expenses, each of which increased primarily due to higher employee related expenses due to higher headcount&#59; and higher restructuring expenses. In addition, during the first quarter of fiscal 2022, we recorded a $125 million gain on an operating asset sale, which was allocated as a benefit to most of our operating expense lines as presented per our condensed consolidated statement of operations which reduced our total operating expenses during the same period. During each of the first quarter of fiscal 2023 and 2022, we curtailed certain variable expenditures including employee travel expenses, among others, primarily in response to COVID-19. We expect certain of these expenses may normalize in future periods provided global economic and health conditions improve . 
+
+ In constant currency, our total operating margin and total operating margin as a percentage of revenues decreased in the first quarter of fiscal 2023, relative to the corresponding prior year period, due to total expenses growth. 
+
+ Supplemental Disclosure Related to Certain Charges
+
+ To supplement our condensed consolidated financial information, we believe that the following information is helpful to an overall understanding of our past financial performance and prospects for the future.
+
+ Our operating results reported pursuant to GAAP included the following business combination accounting adjustments and expenses related to acquisitions and certain other expense and income items that affected our GAAP net income: 
+
+ Three Months Ended
+
+ August 31,
+
+ (in millions)
+
+ 2022
+
+ 2021
+
+ Amortization of intangible assets (1) 
+
+ $
+
+ 919
+
+ $
+
+ 303
+
+ Acquisition related and other (2) 
+
+ 41
+
+ 21
+
+ Restructuring (3) 
+
+ 144
+
+ 38
+
+ Stock-based compensation, operating segments (4) 
+
+ 244
+
+ 152
+
+ Stock-based compensation, R&#38;D and G&#38;A (4) 
+
+ 506
+
+ 393
+
+ Income tax effects (5) 
+
+ (574
+
+ )
+
+ (420
+
+ )
+
+ $
+
+ 1,280
+
+ $
+
+ 487
+
+ ( 1 ) 
+
+ Represents the amortization of intangible assets, substantially all of which were acquired in connection with our acquisitions. As of August 31, 2022, estimated future amortization related to intangible assets was as follows (in millions):
+
+ Remainder of fiscal 2023
+
+ $
+
+ 2,753
+
+ Fiscal 2024
+
+ 3,086
+
+ Fiscal 2025
+
+ 2,105
+
+ Fiscal 2026
+
+ 1,615
+
+ Fiscal 2027
+
+ 664
+
+ Fiscal 2028
+
+ 635
+
+ Thereafter
+
+ 1,641
+
+ Total intangible assets, net
+
+ $
+
+ 12,499
+
+ ( 2 ) 
+
+ Acquisition related and other expenses primarily consist of personnel related costs for transitional and certain other employees, certain business combination adjustments including certain adjustments after the measurement period has ended and certain other operating items, net.
+
+ ( 3 ) 
+
+ Restructuring expenses during each of the first quarter of fiscal 2023 and 2022 primarily related to employee severance in connection with our Fiscal 2022 Oracle Restructuring Plan (2022 Restructuring Plan). Additional information regarding certain of our restructuring plans is provided in management&#8217;s discussion below under &#8220;Restructuring Expenses,&#8221; in Note 6 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report and in Note 8 of Notes to Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended May 31, 2022.
+
+ 33
+
+ Table of Contents 
+
+ ( 4 ) 
+
+ Stock-based compensation was included in the following operating expense line items of our condensed consolidated statements of operations (in millions): 
+
+ Three Months Ended
+
+ August 31,
+
+ 2022
+
+ 2021
+
+ Cloud services and license support
+
+ $
+
+ 91
+
+ $
+
+ 40
+
+ Hardware
+
+ 4
+
+ 3
+
+ Services
+
+ 25
+
+ 14
+
+ Sales and marketing
+
+ 124
+
+ 95
+
+ Stock-based compensation, operating segments
+
+ 244
+
+ 152
+
+ Research and development
+
+ 422
+
+ 344
+
+ General and administrative
+
+ 84
+
+ 49
+
+ Total stock-based compensation
+
+ $
+
+ 750
+
+ $
+
+ 545
+
+ ( 5 ) 
+
+ For each of the first quarter of fiscal 2023 and 2022, respectively, the applicable jurisdictional tax rates applied to our income before income taxes after excluding the tax effects of items within the table above such as for stock-based compensation, amortization of intangible assets, restructuring, and certain acquisition related and other items, and after excluding the net deferred tax effects associated with a previously recorded income tax benefit that resulted from a partial realignment of our legal entity structure, resulted in effective tax rates of 19.4% and 18.0%, respectively, instead of 6.5% and 8.4%, respectively, which represented our effective tax rates as derived per our condensed consolidated statements of operations.
+
+ Cloud and License Business 
+
+ Our cloud and license business engages in the sale and marketing of our applications and infrastructure technologies that are delivered through various deployment models and include: Oracle license support offerings&#59; Oracle Cloud Services offerings&#59; and Oracle cloud license and on-premise license offerings. License support revenues are typically generated through the sale of applications and infrastructure license support contracts related to cloud licenses and on-premise licenses&#59; are purchased by our customers at their option&#59; and are generally recognized as revenues ratably over the contractual term, which is generally one year. Our cloud services deliver applications and infrastructure technologies on a subscription basis via cloud-based deployment models that we develop, provide unspecified updates and enhancements for, deploy, host, manage and support. Revenues for our cloud services are generally recognized over the contractual term, which is generally one to three years, or in the case of usage model contracts, as the cloud services are consumed. Cloud license and on-premise license revenues represent fees earned from granting customers licenses, generally on a perpetual basis, to use our database and middleware and our applications software products within cloud and on-premise IT environments and are generally recognized up front at the point in time when the software is made available to the customer to download and use. We continue to place significant emphasis, both domestically and internationally, on direct sales through our own sales force. We also continue to market certain of our offerings through indirect channels. Costs associated with our cloud and license business are included in cloud services and license support expenses, and sales and marketing expenses. These costs are largely personnel and infrastructure related including the cost of providing our cloud services and license support offerings, salaries and commissions earned by our sales force for the sale of our cloud and license offerings, and marketing program costs.
+
+ 34
+
+ Table of Contents 
+
+ Three Months Ended August 31,
+
+ Percent Change
+
+ (Dollars in millions)
+
+ 2022
+
+ Actual
+
+ Constant
+
+ 2021
+
+ Cloud and License Revenues : 
+
+ Americas
+
+ $
+
+ 5,887
+
+ 28%
+
+ 29%
+
+ $
+
+ 4,582
+
+ EMEA
+
+ 2,184
+
+ -5%
+
+ 6%
+
+ 2,297
+
+ Asia Pacific
+
+ 1,250
+
+ -4%
+
+ 7%
+
+ 1,305
+
+ Total revenues
+
+ 9,321
+
+ 14%
+
+ 19%
+
+ 8,184
+
+ Expenses : 
+
+ Cloud services and license support (1) 
+
+ 1,620
+
+ 40%
+
+ 45%
+
+ 1,153
+
+ Sales and marketing (1) 
+
+ 1,930
+
+ 19%
+
+ 24%
+
+ 1,626
+
+ Total expenses (1) 
+
+ 3,550
+
+ 28%
+
+ 33%
+
+ 2,779
+
+ Total Margin
+
+ $
+
+ 5,771
+
+ 7%
+
+ 12%
+
+ $
+
+ 5,405
+
+ Total Margin %
+
+ 62%
+
+ 66%
+
+ % Revenues by Geography : 
+
+ Americas
+
+ 63%
+
+ 56%
+
+ EMEA
+
+ 24%
+
+ 28%
+
+ Asia Pacific
+
+ 13%
+
+ 16%
+
+ Revenues by Offerings : 
+
+ Cloud services
+
+ $
+
+ 3,579
+
+ 45%
+
+ 50%
+
+ $
+
+ 2,461
+
+ License support
+
+ 4,838
+
+ -1%
+
+ 4%
+
+ 4,910
+
+ Cloud license and on-premise license
+
+ 904
+
+ 11%
+
+ 19%
+
+ 813
+
+ Total revenues
+
+ $
+
+ 9,321
+
+ 14%
+
+ 19%
+
+ $
+
+ 8,184
+
+ Cloud Services and License Support Revenues by Ecosystem : 
+
+ Applications cloud services and license support
+
+ $
+
+ 4,016
+
+ 32%
+
+ 37%
+
+ $
+
+ 3,041
+
+ Infrastructure cloud services and license support
+
+ 4,401
+
+ 2%
+
+ 7%
+
+ 4,330
+
+ Total cloud services and license support revenues
+
+ $
+
+ 8,417
+
+ 14%
+
+ 20%
+
+ $
+
+ 7,371
+
+ ( 1 ) 
+
+ Excludes stock-based compensation and certain expense allocations. Also excludes amortization of intangible assets and certain other GAAP-based expenses, which were not allocated to our operating segment results for purposes of reporting to and review by our CODMs, as further described under &#8220;Presentation of Operating Segment Results and Other Financial Information&#8221; above.
+
+ Excluding the effects of foreign currency rate fluctuations, our cloud and license business&#8217; total revenues increased in the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022, due to growth in our cloud services and license support revenues and growth in our cloud license and on-premise license revenues as customers purchased our applications and infrastructure technologies via cloud and license deployment models and renewed their related cloud contracts and license support contracts to continue to gain access to the latest versions of our technologies and to receive support for which we delivered such cloud and support services during the periods presented&#59; and revenue contributions from our Cerner acquisition. In reported currency, Cerner contributed $870 million to our cloud and license business&#8217; revenues during the first quarter of fiscal 2023. In constant currency, the Americas, the EMEA and the Asia Pacific regions contributed 86%, 9% and 5%, respectively, of the constant currency revenue growth for this business during the first quarter of fiscal 2023.
+
+ In constant currency, our total cloud and license business&#8217; expenses increased in the first quarter of fiscal 2023, relative to the corresponding prior year period, primarily due to higher employee related expenses due to higher headcount&#59; higher technology infrastructure expenses to support the increase in our cloud and license business&#8217; revenues&#59; and additional operating expenses due to our Cerner acquisition. Our cloud services and license support expenses have grown in recent periods and we expect this growth to continue during fiscal 2023 as we increase our existing data center capacity and establish data centers in new geographic locations in order to meet current and expected customer demand.
+
+ Excluding the effects of currency rate fluctuations, our cloud and license business&#8217; total margin increased during the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022, due to increases in total revenues for this business. Total margin as a percentage of revenues for this business decreased during the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022, due to expenses growth.
+
+ 35
+
+ Table of Contents 
+
+ Hardware Business 
+
+ Our hardware business&#8217; revenues are generated from the sales of our Oracle Engineered Systems, server, storage, and industry-specific hardware offerings. The hardware product and related software, such as an operating system or firmware, are highly interdependent and interrelated and are accounted for as a combined performance obligation. The revenues for this combined performance obligation are generally recognized at the point in time that the hardware product is delivered to the customer and ownership is transferred to the customer. Our hardware business also earns revenues from the sale of hardware support contracts purchased by our customers at their option and that are generally recognized as revenues ratably as the hardware support services are delivered over the contractual term, which is generally one year. The majority of our hardware products are sold through indirect channels such as independent distributors and value-added resellers and we also market and sell our hardware products through our direct sales force. Operating expenses associated with our hardware business include the cost of hardware products, which consists of expenses for materials and labor used to produce these products by our internal manufacturing operations or by third-party manufacturers, warranty and related expenses and the impact of periodic changes in inventory valuation, including the impact of inventory determined to be excess and obsolete&#59; the cost of materials used to repair customer products with eligible support contracts&#59; the cost of labor and infrastructure to provide support services&#59; and sales and marketing expenses, which are largely personnel related and include variable compensation earned by our sales force for the sales of our hardware offerings.
+
+ Three Months Ended August 31,
+
+ Percent Change
+
+ (Dollars in millions)
+
+ 2022
+
+ Actual
+
+ Constant
+
+ 2021
+
+ Hardware Revenues : 
+
+ Americas
+
+ $
+
+ 407
+
+ 10%
+
+ 10%
+
+ $
+
+ 372
+
+ EMEA
+
+ 210
+
+ -10%
+
+ 0%
+
+ 232
+
+ Asia Pacific
+
+ 146
+
+ -8%
+
+ 1%
+
+ 159
+
+ Total revenues
+
+ 763
+
+ 0%
+
+ 5%
+
+ 763
+
+ Expenses : 
+
+ Hardware products and support (1) 
+
+ 243
+
+ 2%
+
+ 6%
+
+ 238
+
+ Sales and marketing (1) 
+
+ 79
+
+ -11%
+
+ -7%
+
+ 89
+
+ Total expenses (1) 
+
+ 322
+
+ -2%
+
+ 3%
+
+ 327
+
+ Total Margin
+
+ $
+
+ 441
+
+ 1%
+
+ 7%
+
+ $
+
+ 436
+
+ Total Margin %
+
+ 58%
+
+ 57%
+
+ % Revenues by Geography : 
+
+ Americas
+
+ 53%
+
+ 49%
+
+ EMEA
+
+ 28%
+
+ 30%
+
+ Asia Pacific
+
+ 19%
+
+ 21%
+
+ (1) 
+
+ Excludes stock-based compensation and certain expense allocations. Also excludes amortization of intangible assets and certain other GAAP&#8209;based expenses, which were not allocated to our operating segment results for purposes of reporting to and review by our CODMs, as further described under &#8220;Presentation of Operating Segment Results and Other Financial Information&#8221; above.
+
+ Our constant currency hardware revenues increased in the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022, primarily due to revenue contributions from our Cerner acquisition. In reported currency, Cerner contributed $41 million to our hardware business&#8217; revenues during the first quarter of fiscal 2023. Our hardware business&#8217; revenues were adversely impacted during each of the first quarter of fiscal 2023 and 2022 due to the impacts of the COVID-19 pandemic, including global supply chain shortages for technology components that resulted in certain manufacturing delays, and any such prospective impacts are unknown. Geographically, we experienced constant currency revenue growth in the Americas and the Asia Pacific regions, partially offset by constant currency revenue decreases in the EMEA region during the first quarter of fiscal 2023.
+
+ 36
+
+ Table of Contents 
+
+ Excluding the effects of currency rate fluctuations, total hardware expenses increased in the first quarter of fiscal 2023 compared to the first quarter of fiscal 2022 primarily due to higher hardware product cost attributed to Cerner&#8217;s hardware business . 
+
+ In constant currency, our hardware business&#8217; total margin and total margin as a percentage of revenues increased in the first quarter of fiscal 2023 compared to the first quarter of fiscal 2022 due to higher total revenues for this business.
+
+ Services Business 
+
+ Our services offerings are designed to help maximize the performance of customer investments in Oracle applications and infrastructure technologies and substantially include our consulting services and advanced customer services offerings. Services revenues are generally recognized over time as the services are performed. The cost of providing our services consists primarily of personnel related expenses, technology infrastructure expenditures, facilities expenses and external contractor expenses. 
+
+ Three Months Ended August 31,
+
+ Percent Change
+
+ (Dollars in millions)
+
+ 2022
+
+ Actual
+
+ Constant
+
+ 2021
+
+ Services Revenues : 
+
+ Americas
+
+ $
+
+ 898
+
+ 145%
+
+ 145%
+
+ $
+
+ 367
+
+ EMEA
+
+ 297
+
+ 16%
+
+ 30%
+
+ 255
+
+ Asia Pacific
+
+ 166
+
+ 5%
+
+ 16%
+
+ 159
+
+ Total revenues
+
+ 1,361
+
+ 74%
+
+ 84%
+
+ 781
+
+ Total Expenses (1) 
+
+ 1,007
+
+ 65%
+
+ 74%
+
+ 609
+
+ Total Margin
+
+ $
+
+ 354
+
+ 107%
+
+ 117%
+
+ $
+
+ 172
+
+ Total Margin %
+
+ 26%
+
+ 22%
+
+ % Revenues by Geography : 
+
+ Americas
+
+ 66%
+
+ 47%
+
+ EMEA
+
+ 22%
+
+ 33%
+
+ Asia Pacific
+
+ 12%
+
+ 20%
+
+ (1) 
+
+ Excludes stock-based compensation and certain allocations. Also excludes certain other GAAP-based expenses, which were not allocated to our operating segment results for purposes of reporting to and review by our CODMs, as further described under &#8220;Presentation of Operating Segment Results and Other Financial Information&#8221; above.
+
+ Excluding the effects of currency rate fluctuations, our total services revenues increased in the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022, due to revenue contributions from our Cerner acquisition, and revenue increases in each of our primary services offerings. In reported currency, Cerner contributed $529 million to our services business&#8217; revenues during the first quarter of fiscal 2023. In constant currency, the Americas, the EMEA and the Asia Pacific regions contributed 85%, 11% and 4%, respectively, to the revenue growth for this business in the first quarter of fiscal 2023.
+
+ In constant currency, total services expenses increased in the first quarter of fiscal 2023, compared to the first quarter of fiscal 2022, primarily due to additional operating expenses due to our acquisition of Cerner, including higher employee related expenses due to higher headcount.
+
+ In constant currency, our services business&#8217; total margin and total margin as a percentage of revenues increased during the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022, due to higher total revenues for this business during the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022.
+
+ 37
+
+ Table of Contents 
+
+ Research and Development Expenses : Research and development expenses consist primarily of personnel related expenditures. We intend to continue to invest significantly in our research and development efforts because, in our judgment, they are essential to maintaining our competitive position . 
+
+ Three Months Ended August 31,
+
+ Percent Change
+
+ (Dollars in millions)
+
+ 2022
+
+ Actual
+
+ Constant
+
+ 2021
+
+ Research and development (1) 
+
+ $
+
+ 1,671
+
+ 25%
+
+ 28%
+
+ $
+
+ 1,340
+
+ Stock-based compensation
+
+ 422
+
+ 23%
+
+ 23%
+
+ 344
+
+ Total expenses
+
+ $
+
+ 2,093
+
+ 24%
+
+ 27%
+
+ $
+
+ 1,684
+
+ % of Total Revenues
+
+ 19%
+
+ 18%
+
+ (1) 
+
+ Excluding stock-based compensation
+
+ On a constant currency basis, total research and development expenses increased in the first quarter of fiscal 2023, compared to the first quarter of fiscal 2022, primarily due to higher employee related expenses including stock-based compensation due to increased headcount and additional operating expenses due to our acquisition of Cerner. Furthermore, an allocation of the gain from an operating asset sale in the first quarter of fiscal 2022 decreased our expenses during that period, with no comparable transaction in the first quarter of fiscal 2023.
+
+ General and Administrative Expenses : General and administrative expenses primarily consist of personnel related expenditures for IT, finance, legal and human resources support functions. 
+
+ Three Months Ended August 31,
+
+ Percent Change
+
+ (Dollars in millions)
+
+ 2022
+
+ Actual
+
+ Constant
+
+ 2021
+
+ General and administrative (1) 
+
+ $
+
+ 327
+
+ 31%
+
+ 36%
+
+ $
+
+ 249
+
+ Stock-based compensation
+
+ 84
+
+ 71%
+
+ 71%
+
+ 49
+
+ Total expenses
+
+ $
+
+ 411
+
+ 38%
+
+ 42%
+
+ $
+
+ 298
+
+ % of Total Revenues
+
+ 4%
+
+ 3%
+
+ (1) 
+
+ Excluding stock-based compensation 
+
+ Excluding the effects of foreign currency rate fluctuations, total general and administrative expenses increased during the first quarter of fiscal 2023, in comparison to the first quarter of fiscal 2022, primarily due to additional operating expenses due to our acquisition of Cerner, higher professional services expenses, and an allocation of the gain from an operating asset sale during the first quarter of fiscal 2022 that decreased our expenses during that period, with no comparable transaction in the first quarter of fiscal 2023.
+
+ Amortization of Intangible Assets : Substantially all of our intangible assets were acquired through our business combinations. We amortize our intangible assets over, and monitor the appropriateness of, the estimated useful lives of these assets. We also periodically review these intangible assets for potential impairment based upon relevant facts and circumstances. Refer to Note 4 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for additional information regarding our intangible assets and related amortization. 
+
+ Three Months Ended August 31,
+
+ Percent Change
+
+ (Dollars in millions)
+
+ 2022
+
+ Actual
+
+ Constant
+
+ 2021
+
+ Developed technology
+
+ $
+
+ 233
+
+ 83%
+
+ 83%
+
+ $
+
+ 127
+
+ Cloud services and license support agreements and related relationships
+
+ 385
+
+ 149%
+
+ 148%
+
+ 155
+
+ Cloud license and on-premise license agreements and related relationships
+
+ 108
+
+ *
+
+ *
+
+ 5
+
+ Other
+
+ 193
+
+ *
+
+ *
+
+ 16
+
+ Total amortization of intangible assets
+
+ $
+
+ 919
+
+ 203%
+
+ 204%
+
+ $
+
+ 303
+
+ * 
+
+ Not meaningful
+
+ 38
+
+ Table of Contents 
+
+ Amortization of intangible assets increased in the first quarter of fiscal 2023 due to additional amortization from intangible assets that we acquired in recent periods, primarily from our acquisition of Cerner, partially offset by a reduction in expenses associated with certain of our intangible assets that became fully amortized.
+
+ Acquisition Related and Other Expenses : Acquisition related and other expenses consist of personnel related costs for transitional and certain other employees, certain business combination adjustments, including adjustments after the measurement period has ended, and certain other operating items, net. 
+
+ Three Months Ended August 31,
+
+ Percent Change
+
+ (Dollars in millions)
+
+ 2022
+
+ Actual
+
+ Constant
+
+ 2021
+
+ Transitional and other employee related costs
+
+ $
+
+ 17
+
+ *
+
+ *
+
+ $
+
+ 2
+
+ Business combination adjustments, net
+
+ 5
+
+ 180%
+
+ 186%
+
+ 3
+
+ Other, net
+
+ 19
+
+ 17%
+
+ 20%
+
+ 16
+
+ Total acquisition related and other expenses
+
+ $
+
+ 41
+
+ 106%
+
+ 110%
+
+ $
+
+ 21
+
+ * 
+
+ Not meaningful
+
+ On a constant currency basis, acquisition related and other expenses increased during the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022, primarily due to higher transitional employee related cost related to our acquisition of Cerner. 
+
+ Restructuring Expenses : Restructuring expenses resulted from the execution of management approved restructuring plans that were generally developed to improve our cost structure and/or operations, often in conjunction with our acquisition integration strategies and/or other strategic initiatives. Restructuring expenses consist of employee severance costs, contract termination costs and certain other exit costs to improve our cost structure prospectively. For additional information regarding our restructuring plans, see Note 6 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report and Note 8 of Notes to Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended May 31, 2022. 
+
+ Three Months Ended August 31,
+
+ Percent Change
+
+ (Dollars in millions)
+
+ 2022
+
+ Actual
+
+ Constant
+
+ 2021
+
+ Restructuring expenses
+
+ $
+
+ 144
+
+ 276%
+
+ 310%
+
+ $
+
+ 38
+
+ Restructuring expenses in each of the first quarter of fiscal 2023 and 2022 primarily related to our 2022 Restructuring Plan. Our management approved, committed to and initiated the 2022 Restructuring Plan in order to restructure and further improve efficiencies in our operations. We may incur additional restructuring expenses in future periods due to the initiation of new restructuring plans or from changes in estimated costs associated with existing restructuring plans.
+
+ The majority of the initiatives undertaken by our 2022 Restructuring Plan were effected to implement our continued emphasis in developing, marketing, selling and delivering our cloud-based offerings. Certain of the cost savings realized pursuant to our 2022 Restructuring Plan initiatives were offset by investments in resources and geographies that better address the development, marketing, sale and delivery of our cloud &#8209; based offerings including investments in the development and delivery of our second &#8209; generation cloud infrastructure.
+
+ Interest Expense :
+
+ Three Months Ended August 31,
+
+ Percent Change
+
+ (Dollars in millions)
+
+ 2022
+
+ Actual
+
+ Constant
+
+ 2021
+
+ Interest expense
+
+ $
+
+ 787
+
+ 12%
+
+ 12%
+
+ $
+
+ 705
+
+ 39
+
+ Table of Contents 
+
+ Interest expense increased during the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022, primarily due to higher average borrowings during the first quarter of fiscal 2023 resulting from borrowings, net of partial repayment pursuant to a delayed draw term loan credit agreement (Bridge Credit Agreement), and a $4.4 billion term loan credit agreement (Term Loan Credit Agreement) during the first quarter of fiscal 2023. The increase in interest expense was partially offset by lower interest expense that resulted from $8.3 billion of scheduled repayments made during fiscal 2022. Refer to Note 5 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for additional information.
+
+ Non-Operating Expenses, net : Non-operating expenses, net consists primarily of interest income, net foreign currency exchange losses, the noncontrolling interests in the net profits of our majority-owned subsidiaries (primarily Oracle Financial Services Software Limited and Oracle Corporation Japan), net losses related to equity investments including losses attributable to equity method investments and net other income and expenses, including net unrealized gains and losses from our investment portfolio related to our deferred compensation plan, and non-service net periodic pension income and losses. 
+
+ Three Months Ended August 31,
+
+ Percent Change
+
+ (Dollars in millions)
+
+ 2022
+
+ Actual
+
+ Constant
+
+ 2021
+
+ Interest income
+
+ $
+
+ 38
+
+ 95%
+
+ 102%
+
+ $
+
+ 20
+
+ Foreign currency losses, net
+
+ (71
+
+ )
+
+ 105%
+
+ 108%
+
+ (35
+
+ )
+
+ Noncontrolling interests in income
+
+ (38
+
+ )
+
+ -19%
+
+ -19%
+
+ (47
+
+ )
+
+ Losses from equity investments, net
+
+ (86
+
+ )
+
+ 298%
+
+ 291%
+
+ (22
+
+ )
+
+ Other (losses) gains, net
+
+ (23
+
+ )
+
+ *
+
+ *
+
+ 43
+
+ Total non-operating expenses, net
+
+ $
+
+ (180
+
+ )
+
+ 340%
+
+ 346%
+
+ $
+
+ (41
+
+ )
+
+ * 
+
+ Not meaningful 
+
+ Our non-operating expenses, net increased in the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022, primarily due to higher foreign currency losses, net&#59; higher net losses associated with equity investments&#59; and higher other expense, net, which was primarily attributable to higher unrealized investment losses associated with certain marketable equity securities that we held for employee benefit plans, and for which an equal and offsetting amount was recorded to our operating expenses during the same period. The increase in non-operating expenses, net was partially offset by higher interest income and lower noncontrolling interests in income.
+
+ Provision for Income Taxes : Our effective income tax rates for each of the periods presented were the result of the mix of income earned in various tax jurisdictions that apply a broad range of income tax rates. Refer to Note 9 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for a discussion regarding the differences between the effective income tax rates as presented for the periods below and the U.S. federal statutory income tax rates that were in effect during these periods. Future effective tax rates could be adversely affected by an unfavorable shift of earnings weighted to jurisdictions with higher tax rates, by unfavorable changes in tax laws and regulations, by adverse rulings in tax related litigation, or by shortfalls in stock-based compensation realized by employees relative to stock-based compensation that was recorded for book purposes, among others. 
+
+ Three Months Ended August 31,
+
+ Percent Change
+
+ (Dollars in millions)
+
+ 2022
+
+ Actual
+
+ Constant
+
+ 2021
+
+ Provision for income taxes
+
+ $
+
+ 108
+
+ -52%
+
+ -46%
+
+ $
+
+ 224
+
+ Effective tax rate
+
+ 6.5%
+
+ 8.4%
+
+ Provision for income taxes decreased in the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022, primarily due to lower income before provision for income taxes due to the amortization of Cerner intangible assets in the first quarter of fiscal 2023, partially offset by a decrease in tax benefits related to stock-based compensation and unrecognized tax benefits due to settlements with tax authorities and other events.
+
+ 40
+
+ Table of Contents 
+
+ Liquidity and Capital Resources 
+
+ (Dollars in millions)
+
+ August 31,
+
+ 2022
+
+ Change
+
+ May 31,
+
+ 2022
+
+ Working capital
+
+ $
+
+ (13,815
+
+ )
+
+ *
+
+ $
+
+ 12,122
+
+ Cash, cash equivalents and marketable securities
+
+ $
+
+ 11,220
+
+ -49%
+
+ $
+
+ 21,902
+
+ * 
+
+ Not meaningful
+
+ Working capital : The decrease in working capital as of August 31, 2022 in comparison to May 31, 2022 was primarily due to $27.8 billion net cash used for our acquisition of Cerner, $1.5 billion of repayment of senior notes assumed from our acquisition of Cerner, $1.0 billion of long-term senior notes that were reclassified to current liabilities, cash used for repurchases of our common stock, cash used to pay dividends to our stockholders and cash used for capital expenditures during the first quarter of fiscal 2023. These unfavorable impacts were partially offset by cash proceeds from borrowings pursuant to the Term Loan Credit Agreement (refer to Note 5 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report for additional information), the favorable impacts to our net current assets resulting from net income and cash proceeds from stock option exercises. Our working capital may be impacted by some or all of the aforementioned factors in future periods, the amounts and timing of which are variable. 
+
+ Cash, cash equivalents and marketable securities : Cash and cash equivalents primarily consist of deposits held at major banks, money market funds and other securities with original maturities of 90 days or less. Marketable securities consist of time deposits, marketable equity securities and certain other securities. The decrease in cash, cash equivalents and marketable securities at August 31, 2022 in comparison to May 31, 2022 was primarily due to the net cash outflows of $27.8 billion for our acquisition of Cerner, $1.5 billion of repayment of senior notes assumed from our acquisition of Cerner, repurchases of our common stock, payments of cash dividends to our stockholders and cash used for capital expenditures. These cash outflows during the first quarter of fiscal 2023 were partially offset by certain cash inflows, primarily due to cash inflows generated by borrowings, net of partial repayments pursuant to the Bridge Credit Agreement and the Term Loan Credit Agreement, cash inflows from our operations and from stock option exercises during the first quarter of fiscal 2023. 
+
+ Three Months Ended August 31,
+
+ (Dollars in millions)
+
+ 2022
+
+ Change
+
+ 2021
+
+ Net cash provided by operating activities
+
+ $
+
+ 6,394
+
+ 19%
+
+ $
+
+ 5,391
+
+ Net cash used for investing activities
+
+ $
+
+ (29,436
+
+ )
+
+ *
+
+ $
+
+ (781
+
+ )
+
+ Net cash provided by (used for) financing activities
+
+ $
+
+ 12,310
+
+ *
+
+ $
+
+ (11,468
+
+ )
+
+ * 
+
+ Not meaningful
+
+ Cash flows from operating activities : Our largest source of operating cash flows is cash collections from our customers following the purchase and renewal of their license support agreements. Payments from customers for these license support agreements are generally received near the beginning of the contracts&#8217; terms, which are generally one year in length. Over the course of a fiscal year, we also have historically generated cash from the sales of new licenses, cloud services, hardware offerings and other services. Our primary uses of cash from operating activities are typically for employee related expenditures, material and manufacturing costs related to the production of our hardware products, taxes, interest payments and leased facilities. 
+
+ Net cash provided by operating activities increased during the first quarter of fiscal 2023 compared to the first quarter of fiscal 2022 primarily due to certain cash favorable working capital changes, net in the first quarter of fiscal 2023, relative to the first quarter of fiscal 2022 . 
+
+ Cash flows from investing activities : The changes in cash flows from investing activities primarily relate to our acquisitions, the timing of our purchases, maturities and sales of our investments in marketable securities, and investments in capital and other assets, including certain intangible assets, to support our growth. 
+
+ Net cash used for investing activities increased during the first quarter of fiscal 2023 compared to the first quarter of fiscal 2022 primarily due to the cash used for our acquisition of Cerner in the first quarter of fiscal 2023, an increase in cash used for capital expenditures and decrease in cash proceeds from sales and maturities of marketable securities and other investments, partially offset by a decrease in cash used for the purchases of 
+
+ 41
+
+ Table of Contents 
+
+ marketable securities and other investments, in each case during the first quarter of fiscal 2023 relative to the first quarter of fiscal 2022 . 
+
+ Cash flows from financing activities : The changes in cash flows from financing activities primarily relate to borrowings and repayments related to our debt instruments, stock repurchases, dividend payments and net proceeds related to employee stock programs. 
+
+ Net cash provided by financing activities increased during the first quarter of fiscal 2023 compared to the net cash used for financing activities in the first quarter of fiscal 2022 primarily due to the cash proceeds from borrowings, net of partial repayments pursuant to the Bridge Credit Agreement and the Term Loan Credit Agreement&#59; lower stock repurchases&#59; and higher net cash from our employee stock program, partially offset by $1.5 billion of repayment of senior notes assumed through our acquisition of Cerner, in each case during the first quarter of fiscal 2023 in comparison to the first quarter of fiscal 2022.
+
+ Free cash flow : To supplement our statements of cash flows presented on a GAAP basis, we use non-GAAP measures of cash flows on a trailing 4-quarter basis to analyze cash flows generated from our operations. We believe that free cash flow is also useful as one of the bases for comparing our performance with our competitors. The presentation of non-GAAP free cash flow is not meant to be considered in isolation or as an alternative to net income as an indicator of our performance, or as an alternative to cash flows from operating activities as a measure of liquidity. We calculate free cash flow as follows: 
+
+ Trailing 4-Quarters Ended August 31,
+
+ (Dollars in millions)
+
+ 2022
+
+ Change
+
+ 2021
+
+ Net cash provided by operating activities
+
+ $
+
+ 10,542
+
+ -31%
+
+ $
+
+ 15,325
+
+ Capital expenditures
+
+ (5,168
+
+ )
+
+ 87%
+
+ (2,761
+
+ )
+
+ Free cash flow
+
+ $
+
+ 5,374
+
+ -57%
+
+ $
+
+ 12,564
+
+ Net income
+
+ $
+
+ 5,808
+
+ $
+
+ 13,952
+
+ Free cash flow as percent of net income
+
+ 93%
+
+ 90%
+
+ Recent Financing Activities : 
+
+ Credit Agreements and Related Borrowings : On June 8, 2022, we borrowed $15.7 billion under the Bridge Credit Agreement to partly finance our acquisition of Cerner. The amount is due and payable in full on March 7, 2023 unless settled earlier pursuant to the terms of the Bridge Credit Agreement. 
+
+ On August 16, 2022, we entered into the Term Loan Credit Agreement and borrowed $3.6 billion under the Term Loan 1 Facility and $790 million under the Term Loan 2 Facility. We used the net proceeds of such borrowings to reduce the amount of indebtedness outstanding under the Bridge Credit Agreement. We will begin making quarterly repayments of amounts borrowed under both Term Loan Facilities in September 2024. Any remaining unpaid principal balance under the Term 1 Loan Facility will be fully due and payable on August 16, 2027 and any remaining unpaid principal balance under the Term 2 Loan Facility will be fully due and payable on August 16, 2025, unless the termination date of one or both of the Term Loan Facilities is extended.
+
+ Cerner Senior Notes and Other Borrowings : We assumed $1.6 billion of senior notes and other borrowings through our Cerner acquisition, of which $1.5 billion were paid on June 8, 2022. 
+
+ Commercial Paper Program : During the first quarter of fiscal 2023, our commercial paper program was increased to $6.0 billion. Our commercial paper program allows us to issue and sell unsecured short-term promissory notes pursuant to a private placement exemption from the registration requirements under federal and state securities laws pursuant to dealer agreements with various banks and an Issuing and Paying Agency Agreement with Deutsche Bank Trust Company Americas. As of August 31, 2022 and May 31, 2022, we did not have any outstanding commercial paper notes. 
+
+ Additional details regarding these activities are included in Note 5 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report.
+
+ 42
+
+ Table of Contents 
+
+ Contractual Obligations : During the first quarter of fiscal 2023, there were no significant changes to our estimates of future payments under our fixed contractual obligations and commitments as presented in Part II, Item 7 Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K for our fiscal year ended May 31, 2022, other than the closure of our acquisition of Cerner on June 8, 2022 for which we borrowed $15.7 billion on the same day pursuant to the Bridge Credit Agreement, and borrowing $4.4 billion pursuant to the Term Loan Credit Agreement, the proceeds of which were used for partial repayment of borrowings under the Bridge Credit Agreement. Additional details are included in the discussion above and in Note 5 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report . 
+
+ We believe that our current cash, cash equivalents and marketable securities balances, cash generated from operations, and our $6.0 billion, five-year revolving credit agreement will be sufficient to meet our working capital, capital expenditures and contractual obligations requirements. In addition, we believe that we could fund our future acquisitions, dividend payments and repurchases of common stock or debt with our internally available cash, cash equivalents and marketable securities, cash generated from operations, additional borrowings or from the issuance of additional securities.
+
+ Stock-Based Awards
+
+ Our stock-based compensation program is a key component of the compensation package we provide to attract and retain certain of our talented employees and align their interests with the interests of existing stockholders.
+
+ We recognize that stock-based awards dilute existing stockholders and have sought to control the number of stock-based awards granted while providing competitive compensation packages. Consistent with these dual goals, our cumulative potential dilution since June 1, 2019 has been a weighted-average annualized rate of 1.2% per year. The potential dilution percentage is calculated as the average annualized new stock-based awards granted and assumed, net of stock-based awards forfeited by employees leaving the company, divided by the weighted-average outstanding shares during the calculation period. This maximum potential dilution will only result if all stock-based awards vest and, if applicable, are exercised. Of the outstanding stock options at August 31, 2022, which generally have a ten-year exercise period, all have exercise prices lower than the market price of our common stock on such date. In recent years, our stock repurchase program has more than offset the dilutive effect of our stock-based compensation program. However, we may modify the levels of our stock repurchases in the future depending on a number of factors, including the amount of cash we have available for acquisitions, to pay dividends, to repay or repurchase indebtedness or for other purposes. At August 31, 2022, the maximum potential dilution from all outstanding stock-based awards, regardless of when granted and regardless of whether vested or unvested, was 6.8%.
+
+ Recent Accounting Pronouncements
+
+ For information with respect to recent accounting pronouncements, if any, and the impact of these pronouncements on our consolidated financial statements, if any, see Note 1 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report.
+
+ Item 3. 
+
+ Quantitative and Qualitative Disclosures About Market Risk
+
+ There were no significant changes to our quantitative and qualitative disclosures about market risk during the first quarter of fiscal 2023. Please refer to Part II, Item 7A Quantitative and Qualitative Disclosures about Market Risk included in our Annual Report on Form 10-K for our fiscal year ended May 31, 2022 for a more complete discussion of the market risks we encounter.
+
+ 43
+
+ Table of Contents 
+
+ Item 4. 
+
+ Controls and Procedures
+
+ Evaluation of Disclosure Controls and Procedures: Based on our management&#8217;s evaluation (with the participation of our Principal Executive and Financial Officer), as of the end of the period covered by this Quarterly Report, our Principal Executive and Financial Officer has concluded that our &#8220;disclosure controls and procedures&#8221; (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) were effective to provide reasonable assurance that the information required to be disclosed by us in our reports filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC&#8217;s rules and forms and is accumulated and communicated to our management (including our Principal Executive and Financial Officer) as appropriate to allow timely decisions regarding required disclosure. 
+
+ Changes in Internal Control over Financial Reporting: As a result of our acquisition of Cerner on June 8, 2022, our internal control over financial reporting, subsequent to the date of acquisition, includes certain additional internal controls relating to Cerner. Except as described above, there were no changes in our internal control over financial reporting identified in connection with the evaluation required by paragraph (d) of the Exchange Act Rules 13a-15 or 15d-15 that occurred during our last fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+ Inherent Limitations on Effectiveness of Controls: Our management, including our Principal Executive and Financial Officer, believes that our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of achieving their objectives and are effective at the reasonable assurance level. However, our management does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent all errors and all fraud. A control system, no matter how well-conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments in decision making can be faulty and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the controls. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions&#59; over time, controls may become inadequate because of changes in conditions, or the degree of compliance with policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+
+ 44
+
+ Table of Contents 
+
+ PART II. OTHER INFORMATION
+
+ Item 1. 
+
+ Legal Proceedings
+
+ The material set forth in Note 9 (pertaining to information regarding contingencies related to our income taxes) and Note 12 (pertaining to information regarding legal contingencies) of Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q is incorporated herein by reference.
+
+ Item 1A. 
+
+ Risk Factors
+
+ In addition to the other information set forth in this Quarterly Report, you should carefully consider the factors discussed in Part I, Item 1A Risk Factors in our Annual Report on Form 10-K for our fiscal year ended May 31, 2022. The risks discussed in our Annual Report on Form 10-K could materially affect our business, financial condition and future results. The risks described in our Annual Report on Form 10-K are not the only risks facing us. Additional risks and uncertainties not currently known to us or that we currently deem to be insignificant also may materially and adversely affect our business, financial condition or operating results in the future.
+
+ Item 2. 
+
+ Unregistered Sales of Equity Securities and Use of Proceeds
+
+ Our Board of Directors has approved a program for us to repurchase shares of our common stock. As of August 31, 2022, approximately $8.9 billion remained available for stock repurchases pursuant to our stock repurchase program.
+
+ Our stock repurchase authorization does not have an expiration date and the pace of our repurchase activity will depend on factors such as our working capital needs, our cash requirements for acquisitions and dividend payments, our debt repayment obligations or repurchases of our debt, our stock price, and economic and market conditions. Our stock repurchases may be effected from time to time through open market purchases or pursuant to a Rule 10b5-1 plan. Our stock repurchase program may be accelerated, suspended, delayed or discontinued at any time.
+
+ The following table summarizes the stock repurchase activity for the three months ended August 31, 2022 and the approximate dollar value of shares that may yet be purchased pursuant to our stock repurchase program:
+
+ (in millions, except per share amounts)
+
+ Total Number of
+
+ Shares
+
+ Purchased
+
+ Average Price
+
+ Paid per
+
+ Share
+
+ Total Number of
+
+ Shares Purchased as
+
+ Part of Publicly
+
+ Announced
+
+ Program
+
+ Approximate Dollar
+
+ Value of Shares that
+
+ May Yet Be
+
+ Purchased
+
+ Under the Program
+
+ June 1, 2022—June 30, 2022
+
+ 1.5
+
+ $
+
+ 69.62
+
+ 1.5
+
+ $
+
+ 9,346.9
+
+ July 1, 2022—July 31, 2022
+
+ 2.2
+
+ $
+
+ 73.40
+
+ 2.2
+
+ $
+
+ 9,183.4
+
+ August 1, 2022—August 31, 2022
+
+ 3.8
+
+ $
+
+ 77.07
+
+ 3.8
+
+ $
+
+ 8,889.2
+
+ Total
+
+ 7.5
+
+ $
+
+ 74.53
+
+ 7.5
+
+ 45
+
+ Table of Contents 
+
+ Item 6. 
+
+ Exhibits
+
+ Exhibit
+
+ No.
+
+ Incorporated by Reference
+
+ Exhibit Description
+
+ Form
+
+ File No.
+
+ Exhibit
+
+ Filing Date
+
+ Filed By
+
+ 2.01&#167;
+
+ Agreement and Plan of Merger, dated December 20, 2021, among Oracle Corporation, Cerner Corporation, OC Acquisition LLC and Cedar Acquisition Corporation 
+
+ 8-K
+
+ 001-35992
+
+ 2.1
+
+ 12/21/21
+
+ Oracle Corporation
+
+ 31.01&#8225;
+
+ Rule 13a-14(a)/15d-14(a) Certification of Principal Executive and Financial Officer 
+
+ 32.01&#8224;
+
+ Section 1350 Certification of Principal Executive and Financial Officer 
+
+ 99.1&#8225;
+
+ $4,360,000,000 5-Year Term Loan Credit Agreement dated as of August 16, 2022 among Oracle Corporation and the lenders and agents named therein 
+
+ 101&#8225;
+
+ Interactive Data Files Pursuant to Rule 405 of Regulation S-T, formatted in Inline XBRL: (i) Condensed Consolidated Balance Sheets as of August 31, 2022 and May 31, 2022, (ii) Condensed Consolidated Statements of Operations for the three months ended August 31, 2022 and 2021, (iii) Condensed Consolidated Statements of Comprehensive Income for the three months ended August 31, 2022 and 2021, (iv) Condensed Consolidated Statements of Stockholders&#8217; Deficit for the three months ended August 31, 2022 and 2021, (v) Condensed Consolidated Statements of Cash Flows for the three months ended August 31, 2022 and 2021 and (vi) Notes to Condensed Consolidated Financial Statements
+
+ 104&#8225;
+
+ The cover page from the Company&#8217;s Quarterly Report on Form 10-Q for the quarter ended August 31, 2022, formatted in Inline XBRL
+
+ &#8225; 
+
+ Filed herewith. 
+
+ &#8224; 
+
+ Furnished herewith. 
+
+ &#167; 
+
+ Certain schedules and attachments have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company agrees to provide, on a supplemental basis, a copy of any omitted schedules and attachments to the SEC or its staff upon its request.
+
+ 46
+
+ Table of Contents 
+
+ SIGNAT URES 
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, Oracle Corporation has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+ ORACLE CORPORATION
+
+ Date: September 13, 2022
+
+ By:
+
+ /s/ Safra A. Catz 
+
+ Safra A. Catz
+
+ Chief Executive Officer and Director 
+
+ (Principal Executive and Financial Officer)
+
+ Date: September 13, 2022
+
+ By:
+
+ /s/ William Corey West 
+
+ William Corey West
+
+ Executive Vice President, Chief Accounting Officer
+
+ (Principal Accounting Officer)
+
+ 47

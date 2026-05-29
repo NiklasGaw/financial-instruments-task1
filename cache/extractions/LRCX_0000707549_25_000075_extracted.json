@@ -1,0 +1,37 @@
+{
+  "company": "Lam Research Corp.",
+  "ticker": "LRCX",
+  "report_date": "2025-06-29",
+  "form_type": "10-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [],
+  "income_statement": {
+    "total_revenue": 18.4,
+    "total_revenue_yoy_pct": 23.7,
+    "cost_of_revenue": 9.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 9.0,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 2.1,
+      "selling_general_administrative": 1.0
+    },
+    "total_operating_expenses": 3.1,
+    "operating_income": 5.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.1,
+    "income_before_tax": 6.0,
+    "tax_expense": 0.6,
+    "net_income": 5.4,
+    "net_income_yoy_pct": 40.0
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": true,
+  "_quality_score": 30
+}

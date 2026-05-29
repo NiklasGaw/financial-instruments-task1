@@ -1,0 +1,97 @@
+{
+  "company": "Microsoft Corp",
+  "ticker": "MSFT",
+  "report_date": "2023-12-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Productivity and Business Processes",
+      "revenue": 19.2,
+      "operating_income": 10.3,
+      "yoy_growth_pct": 13.0,
+      "sub_segments": [
+        {
+          "name": "Microsoft 365 Commercial products and cloud services",
+          "revenue": 13.5,
+          "yoy_growth_pct": 15.0
+        },
+        {
+          "name": "LinkedIn",
+          "revenue": 4.2,
+          "yoy_growth_pct": 9.0
+        },
+        {
+          "name": "Other Productivity and Business Processes",
+          "revenue": 1.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Intelligent Cloud",
+      "revenue": 25.9,
+      "operating_income": 12.5,
+      "yoy_growth_pct": 20.0,
+      "sub_segments": [
+        {
+          "name": "Server products and cloud services",
+          "revenue": 24.0,
+          "yoy_growth_pct": 22.0
+        },
+        {
+          "name": "Other Intelligent Cloud",
+          "revenue": 1.9,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "More Personal Computing",
+      "revenue": 16.9,
+      "operating_income": 4.3,
+      "yoy_growth_pct": 19.0,
+      "sub_segments": [
+        {
+          "name": "Gaming",
+          "revenue": 7.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other More Personal Computing",
+          "revenue": 9.8,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 62.0,
+    "total_revenue_yoy_pct": 17.6,
+    "cost_of_revenue": 19.6,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 42.4,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 7.1,
+      "selling_general_administrative": 8.2
+    },
+    "total_operating_expenses": 15.4,
+    "operating_income": 27.0,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.4,
+    "income_before_tax": 26.5,
+    "tax_expense": 4.7,
+    "net_income": 21.9,
+    "net_income_yoy_pct": 33.2
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

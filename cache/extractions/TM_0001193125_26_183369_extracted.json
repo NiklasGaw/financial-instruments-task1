@@ -1,0 +1,59 @@
+{
+  "company": "Toyota Motor Corporation",
+  "ticker": "TM",
+  "report_date": "2026-04-28",
+  "form_type": "6-K",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": 150.0,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Automotive",
+      "revenue": 0.5,
+      "operating_income": 0.0,
+      "yoy_growth_pct": 4.5,
+      "sub_segments": []
+    },
+    {
+      "name": "Financial Services",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": 3.2,
+      "sub_segments": []
+    },
+    {
+      "name": "All Other",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 258.1,
+    "total_revenue_yoy_pct": 10.2,
+    "cost_of_revenue": 193.6,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 64.5,
+    "gross_profit_yoy_pct": 8.5,
+    "operating_expenses": {
+      "research_and_development": 8.0,
+      "selling_general_administrative": 30.0
+    },
+    "total_operating_expenses": 38.0,
+    "operating_income": 26.5,
+    "operating_income_yoy_pct": 12.1,
+    "other_income_expense": -1.3,
+    "income_before_tax": 25.2,
+    "tax_expense": 6.7,
+    "net_income": 18.5,
+    "net_income_yoy_pct": 11.2
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 70
+}

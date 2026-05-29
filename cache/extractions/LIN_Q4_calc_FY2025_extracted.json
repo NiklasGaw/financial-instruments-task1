@@ -1,0 +1,80 @@
+{
+  "company": "Linde plc",
+  "ticker": "LIN",
+  "report_date": "2025-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Industrial Gases",
+      "revenue": 8.8,
+      "operating_income": 2.6,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Americas",
+          "revenue": 3.9,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "EMEA",
+          "revenue": 2.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "APAC",
+          "revenue": 1.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Industrial Gases",
+          "revenue": 0.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Industrial Gases",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Engineering",
+      "revenue": 0.6,
+      "operating_income": 0.1,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 8.8,
+    "cost_of_revenue": 4.5,
+    "gross_profit": 4.3,
+    "total_operating_expenses": 2.4,
+    "operating_income": 1.9,
+    "other_income_expense": 0.1,
+    "income_before_tax": 2.0,
+    "tax_expense": 0.5,
+    "net_income": 1.5,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.1,
+      "selling_general_administrative": 0.8,
+      "other_operating": 1.5
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 100,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

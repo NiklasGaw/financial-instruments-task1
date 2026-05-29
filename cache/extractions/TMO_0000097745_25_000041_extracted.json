@@ -1,0 +1,142 @@
+{
+  "company": "Thermo Fisher Scientific",
+  "ticker": "TMO",
+  "report_date": "2025-03-29",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Life Sciences Solutions",
+      "revenue": 2.3,
+      "operating_income": 0.8,
+      "yoy_growth_pct": 2.0,
+      "sub_segments": [
+        {
+          "name": "Bioproduction",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Chromatography and mass spectrometry",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Chemical analysis",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Electron microscopy",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Consumables",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Instruments",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Services",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Analytical Instruments",
+      "revenue": 1.7,
+      "operating_income": 0.4,
+      "yoy_growth_pct": 2.0,
+      "sub_segments": [
+        {
+          "name": "Chromatography and mass spectrometry",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Chemical analysis",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Electron microscopy",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Specialty Diagnostics",
+      "revenue": 1.1,
+      "operating_income": 0.3,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": [
+        {
+          "name": "Clinical diagnostics",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Healthcare market channel",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Specialty Diagnostics",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Consumables",
+      "revenue": 4.4,
+      "operating_income": null,
+      "yoy_growth_pct": 0.6,
+      "sub_segments": []
+    },
+    {
+      "name": "Instruments",
+      "revenue": 1.6,
+      "operating_income": null,
+      "yoy_growth_pct": 0.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 10.4,
+    "total_revenue_yoy_pct": 0.2,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.3,
+      "selling_general_administrative": 2.1,
+      "other_operating": 6.3
+    },
+    "total_operating_expenses": 8.7,
+    "operating_income": 1.7,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 1.6,
+    "tax_expense": 0.1,
+    "net_income": null,
+    "net_income_yoy_pct": null
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 60
+}

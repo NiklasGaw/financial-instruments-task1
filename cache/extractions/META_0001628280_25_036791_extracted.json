@@ -1,0 +1,63 @@
+{
+  "company": "Meta Platforms Inc.",
+  "ticker": "META",
+  "report_date": "2025-06-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Family of Apps",
+      "revenue": 47.1,
+      "operating_income": null,
+      "yoy_growth_pct": 22.0,
+      "sub_segments": [
+        {
+          "name": "Advertising",
+          "revenue": 46.6,
+          "yoy_growth_pct": 21.0
+        },
+        {
+          "name": "Other revenue",
+          "revenue": 0.6,
+          "yoy_growth_pct": 50.0
+        }
+      ]
+    },
+    {
+      "name": "Reality Labs",
+      "revenue": 0.4,
+      "operating_income": null,
+      "yoy_growth_pct": 5.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 47.5,
+    "total_revenue_yoy_pct": 21.6,
+    "cost_of_revenue": 8.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 39.0,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 12.9,
+      "selling_general_administrative": 5.6
+    },
+    "total_operating_expenses": 18.6,
+    "operating_income": 20.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.1,
+    "income_before_tax": 20.5,
+    "tax_expense": 2.2,
+    "net_income": 18.3,
+    "net_income_yoy_pct": 36.2
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

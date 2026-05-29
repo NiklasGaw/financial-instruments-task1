@@ -1,0 +1,18 @@
+{
+  "ticker": "TJX",
+  "source": "cache: 10-K 2024-02-03",
+  "segments": [
+    {
+      "name": "Marmaxx",
+      "sub_segments": []
+    },
+    {
+      "name": "HomeGoods",
+      "sub_segments": []
+    },
+    {
+      "name": "TJX International",
+      "sub_segments": []
+    }
+  ]
+}

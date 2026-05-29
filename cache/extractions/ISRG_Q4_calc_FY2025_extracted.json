@@ -1,0 +1,60 @@
+{
+  "company": "Intuitive Surgical Inc.",
+  "ticker": "ISRG",
+  "report_date": "2025-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Instruments and accessories",
+      "revenue": 1.6,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Systems",
+      "revenue": 0.8,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Service",
+      "revenue": 0.4,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 2.9,
+    "cost_of_revenue": 1.0,
+    "gross_profit": 1.8,
+    "total_operating_expenses": 1.0,
+    "operating_income": 0.8,
+    "other_income_expense": 0.1,
+    "income_before_tax": 0.9,
+    "tax_expense": 0.1,
+    "net_income": 0.8,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "selling_general_administrative": 0.6,
+      "research_and_development": 0.4
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 90,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

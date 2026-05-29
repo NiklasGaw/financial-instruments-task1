@@ -1,0 +1,70 @@
+{
+  "company": "Intel Corporation",
+  "ticker": "INTC",
+  "report_date": "2025-09-27",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Intel Products - Client Computing Group (CCG)",
+      "revenue": 8.5,
+      "operating_income": 2.7,
+      "yoy_growth_pct": 4.6,
+      "sub_segments": []
+    },
+    {
+      "name": "Intel Products - Data Center and AI (DCAI)",
+      "revenue": 4.1,
+      "operating_income": 1.0,
+      "yoy_growth_pct": -0.6,
+      "sub_segments": []
+    },
+    {
+      "name": "All Other",
+      "revenue": 1.0,
+      "operating_income": 0.1,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": [
+        {
+          "name": "Mobileye",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other All Other",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 13.7,
+    "total_revenue_yoy_pct": 2.8,
+    "cost_of_revenue": 8.4,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 5.2,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 3.2,
+      "selling_general_administrative": 1.1
+    },
+    "total_operating_expenses": 4.4,
+    "operating_income": 0.7,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 3.7,
+    "income_before_tax": 4.6,
+    "tax_expense": 0.3,
+    "net_income": 4.1,
+    "net_income_yoy_pct": -124.4
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

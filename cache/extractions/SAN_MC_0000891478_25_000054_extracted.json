@@ -1,0 +1,185 @@
+{
+  "company": "Banco Santander",
+  "ticker": "SAN.MC",
+  "report_date": "2024-12-31",
+  "form_type": "20-F",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": 0.9,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Retail & Commercial Banking",
+      "revenue": 36.1,
+      "operating_income": 21.8,
+      "yoy_growth_pct": 9.1,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 31.0,
+          "yoy_growth_pct": 9.4
+        },
+        {
+          "name": "Net fee income",
+          "revenue": 5.2,
+          "yoy_growth_pct": 4.1
+        }
+      ]
+    },
+    {
+      "name": "Digital Consumer Bank",
+      "revenue": 14.3,
+      "operating_income": 8.6,
+      "yoy_growth_pct": 5.1,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 12.0,
+          "yoy_growth_pct": 5.4
+        },
+        {
+          "name": "Net fee income",
+          "revenue": 1.7,
+          "yoy_growth_pct": 22.7
+        },
+        {
+          "name": "Other Digital Consumer Bank",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Corporate & Investment Banking",
+      "revenue": 9.2,
+      "operating_income": 5.0,
+      "yoy_growth_pct": 10.8,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 4.4,
+          "yoy_growth_pct": 11.9
+        },
+        {
+          "name": "Net fee income",
+          "revenue": 2.8,
+          "yoy_growth_pct": 19.6
+        },
+        {
+          "name": "Other Corporate & Investment Banking",
+          "revenue": 2.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Wealth Management & Insurance",
+      "revenue": 4.1,
+      "operating_income": 2.6,
+      "yoy_growth_pct": 14.0,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 1.8,
+          "yoy_growth_pct": 7.5
+        },
+        {
+          "name": "Net fee income",
+          "revenue": 1.7,
+          "yoy_growth_pct": 18.0
+        },
+        {
+          "name": "Other Wealth Management & Insurance",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Payments",
+      "revenue": 6.1,
+      "operating_income": 3.3,
+      "yoy_growth_pct": 3.9,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 2.9,
+          "yoy_growth_pct": 7.6
+        },
+        {
+          "name": "Net fee income",
+          "revenue": 3.1,
+          "yoy_growth_pct": -5.4
+        }
+      ]
+    },
+    {
+      "name": "PagoNxt",
+      "revenue": 1.3,
+      "operating_income": 0.1,
+      "yoy_growth_pct": 8.8,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 0.1,
+          "yoy_growth_pct": 41.9
+        },
+        {
+          "name": "Net fee income",
+          "revenue": 1.1,
+          "yoy_growth_pct": 0.5
+        },
+        {
+          "name": "Other PagoNxt",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "revenue": 4.8,
+      "operating_income": 3.2,
+      "yoy_growth_pct": 2.6,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 2.8,
+          "yoy_growth_pct": 6.3
+        },
+        {
+          "name": "Net fee income",
+          "revenue": 2.0,
+          "yoy_growth_pct": -8.2
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 68.8,
+    "total_revenue_yoy_pct": 7.8,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 25.2,
+      "other_operating": 23.1
+    },
+    "total_operating_expenses": 48.3,
+    "operating_income": 21.1,
+    "operating_income_yoy_pct": 15.6,
+    "other_income_expense": -14.0,
+    "income_before_tax": 21.1,
+    "tax_expense": 5.9,
+    "net_income": 14.0,
+    "net_income_yoy_pct": 13.2
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

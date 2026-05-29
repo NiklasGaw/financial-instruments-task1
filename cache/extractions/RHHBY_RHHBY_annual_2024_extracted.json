@@ -1,0 +1,106 @@
+{
+  "company": "Roche Holding AG",
+  "ticker": "RHHBY",
+  "report_date": "2024-12-31",
+  "form_type": "Annual Report",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "CHF",
+  "exchange_rate_to_usd": 0.89,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Diagnostics",
+      "revenue": 18.4,
+      "operating_income": 4.1,
+      "yoy_growth_pct": 1.0,
+      "sub_segments": [
+        {
+          "name": "Centralised and Point of Care Solutions",
+          "revenue": 10.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Molecular Lab",
+          "revenue": 3.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Tissue Diagnostics",
+          "revenue": 2.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Diabetes Care",
+          "revenue": 2.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Pharmaceuticals",
+      "revenue": 47.2,
+      "operating_income": 16.3,
+      "yoy_growth_pct": 1.0,
+      "sub_segments": [
+        {
+          "name": "Oncology",
+          "revenue": 28.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Immunology",
+          "revenue": 6.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Ophthalmology",
+          "revenue": 4.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Neuroscience",
+          "revenue": 3.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Infectious Diseases",
+          "revenue": 2.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Rare Diseases",
+          "revenue": 1.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other",
+          "revenue": 1.5,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 63.3,
+    "total_revenue_yoy_pct": 1.4,
+    "cost_of_revenue": 17.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 46.1,
+    "gross_profit_yoy_pct": 0.8,
+    "operating_expenses": {
+      "research_and_development": 14.2,
+      "selling_general_administrative": 14.4
+    },
+    "total_operating_expenses": 28.6,
+    "operating_income": 17.5,
+    "operating_income_yoy_pct": 1.2,
+    "other_income_expense": -0.5,
+    "income_before_tax": 17.0,
+    "tax_expense": 2.9,
+    "net_income": 14.1,
+    "net_income_yoy_pct": 1.5
+  },
+  "notes": "Two-pass LLM extraction."
+}

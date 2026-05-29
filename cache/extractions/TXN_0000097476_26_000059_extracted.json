@@ -1,0 +1,59 @@
+{
+  "company": "Texas Instruments Inc.",
+  "ticker": "TXN",
+  "report_date": "2025-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Analog",
+      "revenue": 14.0,
+      "operating_income": 5.4,
+      "yoy_growth_pct": 15.1,
+      "sub_segments": []
+    },
+    {
+      "name": "Embedded Processing",
+      "revenue": 2.7,
+      "operating_income": 0.3,
+      "yoy_growth_pct": 6.5,
+      "sub_segments": []
+    },
+    {
+      "name": "Other",
+      "revenue": 1.0,
+      "operating_income": 0.3,
+      "yoy_growth_pct": 3.4,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 17.7,
+    "total_revenue_yoy_pct": 13.0,
+    "cost_of_revenue": 7.6,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 10.1,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 2.1,
+      "selling_general_administrative": 1.9
+    },
+    "total_operating_expenses": 3.9,
+    "operating_income": 6.0,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.3,
+    "income_before_tax": 5.7,
+    "tax_expense": 0.7,
+    "net_income": 5.0,
+    "net_income_yoy_pct": 4.2
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

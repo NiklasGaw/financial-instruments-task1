@@ -1,0 +1,1238 @@
+[
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2025-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Commercial Engines & Services",
+        "revenue": 33.3,
+        "operating_income": 8.9,
+        "yoy_growth_pct": 23.9,
+        "sub_segments": [
+          {
+            "name": "Equipment",
+            "revenue": 8.3,
+            "yoy_growth_pct": 16.9
+          },
+          {
+            "name": "Services",
+            "revenue": 25.0,
+            "yoy_growth_pct": 26.5
+          }
+        ]
+      },
+      {
+        "name": "Defense & Propulsion Technologies",
+        "revenue": 10.6,
+        "operating_income": 1.3,
+        "yoy_growth_pct": 11.3,
+        "sub_segments": [
+          {
+            "name": "Defense & Systems",
+            "revenue": 6.6,
+            "yoy_growth_pct": 7.6
+          },
+          {
+            "name": "Propulsion & Additive Technologies",
+            "revenue": 4.0,
+            "yoy_growth_pct": 18.1
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 45.9,
+      "total_revenue_yoy_pct": 18.5,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.6,
+        "selling_general_administrative": 4.1
+      },
+      "total_operating_expenses": 5.7,
+      "operating_income": 40.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -30.1,
+      "income_before_tax": 10.0,
+      "tax_expense": 1.4,
+      "net_income": 8.7,
+      "net_income_yoy_pct": 32.8
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2024-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Commercial Engines & Services",
+        "revenue": 26.7,
+        "operating_income": 7.1,
+        "yoy_growth_pct": 12.7,
+        "sub_segments": [
+          {
+            "name": "Equipment",
+            "revenue": 7.1,
+            "yoy_growth_pct": 15.2
+          },
+          {
+            "name": "Services",
+            "revenue": 19.8,
+            "yoy_growth_pct": 11.8
+          }
+        ]
+      },
+      {
+        "name": "Defense & Propulsion Technologies",
+        "revenue": 8.0,
+        "operating_income": null,
+        "yoy_growth_pct": 4.1,
+        "sub_segments": []
+      },
+      {
+        "name": "Corporate & Other",
+        "revenue": 4.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 38.7,
+      "total_revenue_yoy_pct": -43.0,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.3,
+        "selling_general_administrative": 4.4
+      },
+      "total_operating_expenses": 5.7,
+      "operating_income": 33.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -25.4,
+      "income_before_tax": 7.6,
+      "tax_expense": 1.0,
+      "net_income": 6.6,
+      "net_income_yoy_pct": -30.9
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2023-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Aerospace",
+        "revenue": 31.8,
+        "operating_income": 6.1,
+        "yoy_growth_pct": 21.9,
+        "sub_segments": [
+          {
+            "name": "Commercial Engines and Services",
+            "revenue": 23.7,
+            "yoy_growth_pct": 26.9
+          },
+          {
+            "name": "Defense",
+            "revenue": 4.7,
+            "yoy_growth_pct": 6.9
+          },
+          {
+            "name": "Systems & Other",
+            "revenue": 3.4,
+            "yoy_growth_pct": 13.4
+          }
+        ]
+      },
+      {
+        "name": "Renewable Energy",
+        "revenue": 15.1,
+        "operating_income": -1.4,
+        "yoy_growth_pct": 16.0,
+        "sub_segments": [
+          {
+            "name": "Onshore Wind",
+            "revenue": 8.4,
+            "yoy_growth_pct": -0.1
+          },
+          {
+            "name": "Grid Solutions equipment and services",
+            "revenue": 3.9,
+            "yoy_growth_pct": 24.8
+          },
+          {
+            "name": "Hydro, Offshore Wind and Hybrid Solutions",
+            "revenue": 2.8,
+            "yoy_growth_pct": 86.4
+          }
+        ]
+      },
+      {
+        "name": "Power",
+        "revenue": 17.7,
+        "operating_income": 1.4,
+        "yoy_growth_pct": 9.0,
+        "sub_segments": [
+          {
+            "name": "Gas Power",
+            "revenue": 13.3,
+            "yoy_growth_pct": 10.1
+          },
+          {
+            "name": "Steam Power",
+            "revenue": 2.5,
+            "yoy_growth_pct": -5.2
+          },
+          {
+            "name": "Power Conversion, Nuclear and other",
+            "revenue": 1.9,
+            "yoy_growth_pct": 25.2
+          }
+        ]
+      },
+      {
+        "name": "Corporate",
+        "revenue": 3.4,
+        "operating_income": 3.8,
+        "yoy_growth_pct": 21.0,
+        "sub_segments": [
+          {
+            "name": "GE Digital revenues",
+            "revenue": 1.0,
+            "yoy_growth_pct": 8.6
+          },
+          {
+            "name": "Insurance revenues",
+            "revenue": 3.4,
+            "yoy_growth_pct": 14.6
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 68.0,
+      "total_revenue_yoy_pct": -11.2,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.9,
+        "selling_general_administrative": 9.2
+      },
+      "total_operating_expenses": 11.1,
+      "operating_income": 56.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -46.2,
+      "income_before_tax": 10.2,
+      "tax_expense": 1.2,
+      "net_income": 9.5,
+      "net_income_yoy_pct": 4113.8
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2026-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Commercial Engines & Services (CES)",
+        "revenue": 8.9,
+        "operating_income": 2.4,
+        "yoy_growth_pct": 34.0,
+        "sub_segments": [
+          {
+            "name": "Equipment",
+            "revenue": 2.1,
+            "yoy_growth_pct": 20.2
+          },
+          {
+            "name": "Services",
+            "revenue": 6.8,
+            "yoy_growth_pct": 38.7
+          }
+        ]
+      },
+      {
+        "name": "Defense & Propulsion Technologies (D&PT)",
+        "revenue": 3.2,
+        "operating_income": null,
+        "yoy_growth_pct": 19.2,
+        "sub_segments": [
+          {
+            "name": "Defense & Systems (D&S)",
+            "revenue": 2.1,
+            "yoy_growth_pct": 14.5
+          },
+          {
+            "name": "Propulsion & Additive Technologies (P&AT)",
+            "revenue": 1.1,
+            "yoy_growth_pct": 29.0
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 12.4,
+      "total_revenue_yoy_pct": 24.7,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 1.1
+      },
+      "total_operating_expenses": 1.5,
+      "operating_income": 10.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -8.7,
+      "income_before_tax": 2.2,
+      "tax_expense": 0.3,
+      "net_income": 1.9,
+      "net_income_yoy_pct": -3.7
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2025-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Commercial Engines & Services",
+        "revenue": 8.9,
+        "operating_income": null,
+        "yoy_growth_pct": 27.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Defense & Propulsion Technologies",
+        "revenue": 2.8,
+        "operating_income": null,
+        "yoy_growth_pct": 26.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Corporate & Other",
+        "revenue": 0.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 12.2,
+      "total_revenue_yoy_pct": 23.8,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 1.2
+      },
+      "total_operating_expenses": 1.6,
+      "operating_income": 10.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -8.1,
+      "income_before_tax": 2.5,
+      "tax_expense": 0.3,
+      "net_income": 2.2,
+      "net_income_yoy_pct": 16.5
+    },
+    "notes": "XBRL IS + manual segment patch (historical reported segments).",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2025-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Commercial Engines & Services",
+        "revenue": 8.0,
+        "operating_income": 2.2,
+        "yoy_growth_pct": 30.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Defense & Propulsion Technologies",
+        "revenue": 2.6,
+        "operating_income": 0.4,
+        "yoy_growth_pct": 7.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Corporate & Other",
+        "revenue": 0.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 11.0,
+      "total_revenue_yoy_pct": 21.2,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 1.0
+      },
+      "total_operating_expenses": 1.4,
+      "operating_income": 9.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -7.2,
+      "income_before_tax": 2.4,
+      "tax_expense": 0.4,
+      "net_income": 2.0,
+      "net_income_yoy_pct": 60.2
+    },
+    "notes": "XBRL IS + manual segment patch (historical reported segments).",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2025-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Commercial Engines & Services",
+        "revenue": 7.0,
+        "operating_income": 1.9,
+        "yoy_growth_pct": 14.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Defense & Propulsion Technologies",
+        "revenue": 2.3,
+        "operating_income": 0.3,
+        "yoy_growth_pct": 1.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Corporate & Other",
+        "revenue": 0.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 9.9,
+      "total_revenue_yoy_pct": -38.1,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 0.9
+      },
+      "total_operating_expenses": 1.2,
+      "operating_income": 8.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -6.4,
+      "income_before_tax": 2.2,
+      "tax_expense": 0.3,
+      "net_income": 2.0,
+      "net_income_yoy_pct": 28.7
+    },
+    "notes": "XBRL IS + manual segment patch (historical reported segments).",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2024-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Commercial Engines & Services",
+        "revenue": 8.9,
+        "operating_income": 1.8,
+        "yoy_growth_pct": 6.0,
+        "sub_segments": [
+          {
+            "name": "Equipment",
+            "revenue": 2.4,
+            "yoy_growth_pct": 6.5
+          },
+          {
+            "name": "Services",
+            "revenue": 6.5,
+            "yoy_growth_pct": 5.4
+          }
+        ]
+      },
+      {
+        "name": "Defense & Propulsion Technologies",
+        "revenue": null,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Defense & Systems",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Propulsion & Additive Technologies",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 9.8,
+      "total_revenue_yoy_pct": -43.3,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.3,
+        "selling_general_administrative": 1.3
+      },
+      "total_operating_expenses": 1.7,
+      "operating_income": 8.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -6.0,
+      "income_before_tax": 1.9,
+      "tax_expense": 0.2,
+      "net_income": 1.9,
+      "net_income_yoy_pct": 432.2
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2024-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Commercial Engines & Services",
+        "revenue": 7.2,
+        "operating_income": null,
+        "yoy_growth_pct": 4.0,
+        "sub_segments": [
+          {
+            "name": "Equipment",
+            "revenue": 1.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Services",
+            "revenue": 6.0,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Defense & Propulsion Technologies",
+        "revenue": 2.4,
+        "operating_income": null,
+        "yoy_growth_pct": 1.1,
+        "sub_segments": [
+          {
+            "name": "Defense & Systems",
+            "revenue": 1.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Propulsion & Additive Technologies",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 9.1,
+      "total_revenue_yoy_pct": -45.5,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.3,
+        "selling_general_administrative": 0.9
+      },
+      "total_operating_expenses": 1.2,
+      "operating_income": 7.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -6.5,
+      "income_before_tax": 1.4,
+      "tax_expense": 0.1,
+      "net_income": 1.3,
+      "net_income_yoy_pct": 3517.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2024-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Aerospace",
+        "revenue": 8.1,
+        "operating_income": 1.5,
+        "yoy_growth_pct": 16.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Renewable Energy",
+        "revenue": 3.0,
+        "operating_income": -0.2,
+        "yoy_growth_pct": 6.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Power",
+        "revenue": 4.1,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 8.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Corporate",
+        "revenue": 0.9,
+        "operating_income": null,
+        "yoy_growth_pct": 0.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.1,
+      "total_revenue_yoy_pct": 10.8,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 2.3
+      },
+      "total_operating_expenses": 2.8,
+      "operating_income": 13.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -11.5,
+      "income_before_tax": 1.9,
+      "tax_expense": 0.3,
+      "net_income": 1.5,
+      "net_income_yoy_pct": -79.5
+    },
+    "notes": "XBRL IS + manual segment patch (historical reported segments).",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2023-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Aerospace",
+        "revenue": 8.4,
+        "operating_income": 1.7,
+        "yoy_growth_pct": 25.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Renewable Energy",
+        "revenue": 4.2,
+        "operating_income": -0.3,
+        "yoy_growth_pct": 15.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Power",
+        "revenue": 4.0,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 13.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Corporate",
+        "revenue": 0.8,
+        "operating_income": null,
+        "yoy_growth_pct": 26.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 17.3,
+      "total_revenue_yoy_pct": -9.1,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 2.2
+      },
+      "total_operating_expenses": 2.6,
+      "operating_income": 14.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -14.3,
+      "income_before_tax": 0.3,
+      "tax_expense": 0.1,
+      "net_income": 0.3,
+      "net_income_yoy_pct": -310.9
+    },
+    "notes": "XBRL IS + manual segment patch (historical reported segments).",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2023-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Aerospace",
+        "revenue": 7.9,
+        "operating_income": 1.5,
+        "yoy_growth_pct": 28.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Renewable Energy",
+        "revenue": 3.8,
+        "operating_income": -0.4,
+        "yoy_growth_pct": 24.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Power",
+        "revenue": 4.2,
+        "operating_income": 0.4,
+        "yoy_growth_pct": -1.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Corporate",
+        "revenue": 0.8,
+        "operating_income": null,
+        "yoy_growth_pct": 20.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.7,
+      "total_revenue_yoy_pct": -10.4,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 2.4
+      },
+      "total_operating_expenses": 2.8,
+      "operating_income": 13.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -13.6,
+      "income_before_tax": 1.4,
+      "tax_expense": 0.3,
+      "net_income": 0.0,
+      "net_income_yoy_pct": -104.4
+    },
+    "notes": "XBRL IS + manual segment patch (historical reported segments).",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 60
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2023-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Aerospace",
+        "revenue": 7.0,
+        "operating_income": 1.3,
+        "yoy_growth_pct": 25.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Renewable Energy",
+        "revenue": 2.8,
+        "operating_income": -0.4,
+        "yoy_growth_pct": -1.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Power",
+        "revenue": 3.8,
+        "operating_income": 0.1,
+        "yoy_growth_pct": 9.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Corporate",
+        "revenue": 0.8,
+        "operating_income": null,
+        "yoy_growth_pct": 21.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.5,
+      "total_revenue_yoy_pct": -15.0,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 2.1
+      },
+      "total_operating_expenses": 2.6,
+      "operating_income": 11.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -4.1,
+      "income_before_tax": 6.5,
+      "tax_expense": 0.3,
+      "net_income": 7.5,
+      "net_income_yoy_pct": -820.3
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2022-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Aerospace",
+        "revenue": 6.7,
+        "operating_income": 1.3,
+        "yoy_growth_pct": 24.0,
+        "sub_segments": []
+      },
+      {
+        "name": "HealthCare",
+        "revenue": 4.6,
+        "operating_income": 0.7,
+        "yoy_growth_pct": 6.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Renewable Energy",
+        "revenue": 3.6,
+        "operating_income": -0.9,
+        "yoy_growth_pct": -15.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Power",
+        "revenue": 3.5,
+        "operating_income": 0.1,
+        "yoy_growth_pct": -12.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Corporate",
+        "revenue": 0.6,
+        "operating_income": null,
+        "yoy_growth_pct": 7.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 19.1,
+      "total_revenue_yoy_pct": 3.6,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.7,
+        "selling_general_administrative": 2.9
+      },
+      "total_operating_expenses": 3.6,
+      "operating_income": 15.5,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -15.7,
+      "income_before_tax": -0.1,
+      "tax_expense": 0.0,
+      "net_income": -0.2,
+      "net_income_yoy_pct": -113.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2022-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Aerospace",
+        "revenue": 6.1,
+        "operating_income": 1.1,
+        "yoy_growth_pct": 27.0,
+        "sub_segments": []
+      },
+      {
+        "name": "HealthCare",
+        "revenue": 4.5,
+        "operating_income": 0.7,
+        "yoy_growth_pct": 1.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Renewable Energy",
+        "revenue": 3.1,
+        "operating_income": -0.4,
+        "yoy_growth_pct": -23.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Power",
+        "revenue": 4.2,
+        "operating_income": 0.3,
+        "yoy_growth_pct": -2.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Corporate",
+        "revenue": 0.7,
+        "operating_income": null,
+        "yoy_growth_pct": 13.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 18.6,
+      "total_revenue_yoy_pct": 2.0,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.7,
+        "selling_general_administrative": 2.7
+      },
+      "total_operating_expenses": 3.4,
+      "operating_income": 15.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -15.7,
+      "income_before_tax": -0.2,
+      "tax_expense": 0.3,
+      "net_income": -0.8,
+      "net_income_yoy_pct": -30.2
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2025-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Commercial Engines & Services",
+        "revenue": 9.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Defense & Propulsion Technologies",
+        "revenue": 2.9,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 12.8,
+      "cost_of_revenue": null,
+      "gross_profit": null,
+      "total_operating_expenses": 1.5,
+      "operating_income": 11.3,
+      "other_income_expense": -8.4,
+      "income_before_tax": 2.9,
+      "tax_expense": 0.4,
+      "net_income": 2.5,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 1.0
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 90,
+    "_synthetic_q4": true,
+    "_is_bank": true,
+    "_needs_retry": false
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2024-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [],
+    "income_statement": {
+      "total_revenue": 3.7,
+      "cost_of_revenue": null,
+      "gross_profit": null,
+      "total_operating_expenses": 0.0,
+      "operating_income": 3.7,
+      "other_income_expense": -1.4,
+      "income_before_tax": 2.4,
+      "tax_expense": 0.4,
+      "net_income": 1.9,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.2,
+        "selling_general_administrative": -0.1
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 30,
+    "_synthetic_q4": true,
+    "_is_bank": true,
+    "_needs_retry": true
+  },
+  {
+    "company": "GE Aerospace",
+    "ticker": "GE",
+    "report_date": "2023-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Aerospace",
+        "revenue": 8.5,
+        "operating_income": 1.6,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Renewable Energy",
+        "revenue": 4.3,
+        "operating_income": -0.3,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Power",
+        "revenue": 5.7,
+        "operating_income": 0.7,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Corporate",
+        "revenue": 1.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 19.5,
+      "cost_of_revenue": null,
+      "gross_profit": null,
+      "total_operating_expenses": 3.1,
+      "operating_income": 16.4,
+      "other_income_expense": -14.2,
+      "income_before_tax": 2.0,
+      "tax_expense": 0.5,
+      "net_income": 1.7,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 2.5
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 90,
+    "_synthetic_q4": true,
+    "_is_bank": true,
+    "_needs_retry": false
+  }
+]

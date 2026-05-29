@@ -1,0 +1,239 @@
+6-K
+ 1
+ f6k_042026.htm
+ FORM 6-K
+
+ UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549
+
+ ________________ 
+
+ FORM 6-K 
+
+ ________________ 
+
+ REPORT OF FOREIGN PRIVATE ISSUER 
+
+ Pursuant to Rule 13a-16 or 15d-16
+
+ of the Securities Exchange Act of 1934
+
+ April 20, 2026
+
+ ________________ 
+
+ NOVO NORDISK A/S 
+
+ (Exact name
+of Registrant as specified in its charter) 
+
+ Novo All&eacute; 1 
+
+ DK- 2880, Bagsvaerd 
+
+ Denmark 
+
+ (Address of principal executive offices)
+
+ ________________ 
+
+ Indicate by check mark whether the registrant files or will file annual reports under
+cover of Form 20-F or Form 40-F
+
+ Form 20-F &#9746; 
+ Form 40-F &#9744; 
+
+ Etavopivat is the first in a new class of drugs to successfully meet both co-primary endpoints in the phase 3 HIBISCUS trial, substantially reducing vaso-occlusive crisis events and improving haemoglobin response in sickle cell disease 
+
+ &middot; Etavopivat
+ showed a 27% reduction in vaso-occlusive crisis events and ~4-month delay to first vaso-occlusive
+ crisis event on top of standard of care 1 
+
+ &middot; Haemoglobin
+ response was superior with etavopivat: 48.7% of people on treatment achieved an increase
+ of >1g/dL after 24 weeks versus 7.2% on placebo 1 
+
+ &middot; Novo Nordisk plans to submit for the first regulatory approval of etavopivat in the second half of
+2026 
+
+ Bagsv&aelig;rd, Denmark, 20 April 2026 &ndash; Novo Nordisk
+today announced the topline results from HIBISCUS, a pivotal phase 3 trial of once-daily oral etavopivat in adults and adolescents with
+sickle cell disease (SCD). The results showed that etavopivat successfully met both co-primary endpoints, demonstrating superior reduction
+in vaso-occlusive crises (VOCs) and superior improvement in haemoglobin (Hb) response compared to placebo.
+
+ Etavopivat is an oral, once-daily, pyruvate kinase-R (PKR) activator
+being developed to treat SCD, a seriously debilitating, life-threatening and life-shortening disease that impacts around 8 million people
+worldwide.
+
+ The HIBISCUS trial was a randomised, double-blinded, 52-week efficacy
+and safety trial investigating etavopivat 400 mg versus placebo in 385 people aged 12 years or older with SCD. Participants were allowed
+to receive standard of care treatment throughout the trial. 
+
+ In the trial 1 , people treated
+with etavopivat demonstrated a superior reduction in the annualised rate of VOCs of 27% compared to placebo. The time to first VOC
+was significantly prolonged with etavopivat, with a median time to first VOC of 38.4 weeks versus 20.9
+weeks for placebo. 
+
+ ____________________________________
+
+ 1 Primary analysis of VOC
+based on negative binomial regression model with exposure time as offset variable. Primary analysis of Hb response based on exact Cochran-Mantel-Haenszel
+test with missing data ascribed as non-responders. Time to VOC based on Kaplan-Meier estimates and a stratified log-rank test.
+
+ Page 2 of 4
+
+ In addition, etavopivat demonstrated a superior
+increase in the proportion of people achieving a Hb response greater than 1g/dL at week 24 of 48.7% compared to 7.2% with placebo,
+corresponding to an adjusted rate difference of 41.2% 1 . Further, as an exploratory analysis,
+etavopivat significantly reduced the risk of blood transfusion.
+
+ In the trial, etavopivat appeared to be well tolerated, with a topline safety profile
+in line with previous etavopivat trials.
+
+ "Sickle cell disease
+severely impacts the lives of millions of people. We are very excited that etavopivat has the potential to be a first and best-in-class
+therapy and transform the lives of people with sickle cell disease, who currently have limited therapeutic options," said Martin
+ Holst Lange, executive vice president, chief scientific officer and head of Research and Development
+at Novo Nordisk. "Novo Nordisk remains committed to collaborating with sickle cell disease communities around the world to
+drive innovation, advance health equity and improve access to treatment and care."
+
+ Novo Nordisk plans to submit for the first regulatory approval
+of etavopivat in the second half of 2026. The detailed results from the HIBISCUS phase 3 trial will
+be presented at a scientific conference in 2026.
+
+ About Sickle Cell Disease 
+
+ Sickle cell disease (SCD) is a group of diseases driven
+by polymerisation of mutated sickle haemoglobin (HbS) in red blood cells. The two main hallmarks
+of SCD are haemolytic anaemia and vaso-occlusive crises (VOCs). Around 8 million people worldwide live with SCD, with the majority
+in low and middle-income countries. Approximately 100,000 people living with SCD are in the United States, as well as approximately 110,000
+in Europe. The disease is characterised by several associated acute and chronic symptoms and complications such as acute chest syndrome,
+stroke, altered cerebral blood flow, multi-organ damage, and cognitive impairment. Despite recent advances in treatment, many people with
+SCD experience significant levels of pain and reduced lifespan by approximately 30 years compared to the general population.
+
+ About etavopivat 
+
+ Etavopivat is a once-daily orally available small molecule allosteric activator
+of red blood cell (RBC) pyruvate kinase isozyme (PKR), a key enzyme in glycolysis. In SCD, PKR activation reduces 2,3-diphosphoglycerate
+(2,3-DPG) levels and increases adenosine triphosphate (ATP) production. Reduction of 2,3-DPG improves haemoglobin (Hb)-oxygen affinity,
+averting sickle haemoglobin polymerisation and subsequent sickling. The increase in ATP production helps preserve RBC membrane integrity and deformability, improving RBC survival. These disease-modifying effects have the potential to reduce VOC events and improve Hb levels.
+
+ Page 3 of 4
+
+ The U.S. Food and Drug Administration (FDA) has granted etavopivat Fast Track,
+Rare Pediatric Disease and Orphan Drug designations. Additionally, etavopivat was granted Orphan Drug designation by the European Commission
+based on a positive opinion from the Committee for Orphan Medicinal Products of the European Medicines Agency for the treatment of patients
+with SCD.
+
+ Etavopivat was acquired as part of the 2022 acquisition of Forma Therapeutics. 
+
+ About the HIBISCUS programme 
+
+ The HIBISCUS clinical development programme investigates etavopivat as a disease-modifying
+treatment for people with SCD, with standard of care/placebo. The pivotal programme includes:
+
+ HIBISCUS - a 52-week efficacy and safety seamless, adaptive design
+phase 2/3 trial, comparing once-daily etavopivat versus standard of care/placebo, enrolling 440 people aged
+12 years and over with SCD. Following the completion of the 12-week phase 2 interim read-out, the phase 3 dose was selected, and participants
+were randomised to the phase 3 main phase of the trial, which continued for 52 weeks. 
+
+ HIBISCUS2 - a 52-week efficacy and safety phase 3b trial, comparing
+ once-daily etavopivat versus standard of care/placebo, enrolling 408
+people aged 12 years and over with SCD. 
+
+ FLORAL &ndash; an open-label extension following participation in etavopivat trials.
+The study allows the collection of long-term safety data.
+
+ About Novo Nordisk 
+
+ Novo Nordisk is a leading global healthcare company founded in 1923 and
+headquartered in Denmark. Our purpose is to drive change to defeat serious chronic diseases built upon our heritage in diabetes. We do
+so by pioneering scientific breakthroughs, expanding access to our medicines and working to prevent and ultimately cure disease. Novo
+Nordisk employs about 68,800 people in 80 countries and markets its products in around 170 countries. Novo Nordisk's B shares are listed
+on Nasdaq Copenhagen (Novo-B). Its ADRs are listed on the New York Stock Exchange (NVO). For more information, visit novonordisk.com,
+Facebook, Instagram, X, LinkedIn and YouTube. 
+
+ Publication of inside information pursuant to Market Abuse Regulation, Article 17. 
+
+ Page 4 of 4
+
+ Contacts for further information 
+
+ Novo Nordisk Media: 
+
+ Ambre James-Brown 
+ Liz Skrbkova (US) 
+
+ +45 3079 9289 
+ +1 609 917 0632 
+
+ globalmedia@novonordisk.com 
+ lzsk@novonordisk.com 
+
+ Novo Nordisk Investors: 
+
+ Michael Novod 
+ Jacob Martin Wiborg Rode 
+
+ +45 3075 6050 
+ +45 3075 5956 
+
+ nvno@novonordisk.com 
+ jrde@novonordisk.com 
+
+ Sina Meyer 
+ Max Ung 
+
+ +45 3079 6656 
+ +45 3077 6414 
+
+ azey@novonordisk.com 
+ mxun@novonordisk.com 
+
+ Christoffer Sho Togo Tullin 
+ Alex Bruce 
+
+ +45 3079 1471 
+ +45 3444 2613 
+
+ cftu@novonordisk.com 
+ axeu@novonordisk.com 
+
+ Mads Berner Bruun 
+ Frederik Taylor Pitter 
+
+ +45 3075 2936 
+ +1 609 613 0568 
+
+ mbbz@novonordisk.com 
+ fptr@novonordisk.com 
+
+ Novo Nordisk A/S 
+ Investor Relations 
+ Novo All&eacute; 1 
+ 2880 Bagsv&aelig;rd 
+ Denmark 
+ Telephone: 
+ +45 4444 8888 
+
+ www.novonordisk.com 
+ CVR no: 24 25 67 90 
+
+ Company
+ announcement No 26 / 2026 
+
+ SIGNATURES 
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has
+duly caused this report to be signed on its behalf of the undersigned, thereunto duly authorized.
+
+ Date: April 20, 2026 
+
+ NOVO NORDISK A/S
+
+ Maziar Mike Doustdar 
+
+ Chief Executive Officer

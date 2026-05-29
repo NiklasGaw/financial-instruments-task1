@@ -1,0 +1,3237 @@
+6-K
+ 1
+ tm2613222d1_6k.htm
+ FORM 6-K
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ WASHINGTON,
+D. C. 20549 
+
+ FORM 6-K 
+
+ REPORT
+OF FOREIGN PRIVATE ISSUER 
+
+ Pursuant
+to Rule 13a-16 or 15d-16 of 
+
+ the
+Securities Exchange Act of 1934 
+
+ For
+the month of May 2026 
+
+ Commission
+File Number: 001-06439 
+
+ SONY
+GROUP CORPORATION 
+
+ (Translation
+of registrant's name into English) 
+
+ 1-7-1 KONAN, MINATO-KU, TOKYO, 108-0075, JAPAN 
+
+ (Address
+of principal executive offices) 
+
+ The
+registrant files annual reports under cover of Form 20-F. 
+
+ Indicate
+by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F, 
+
+ Form 20-F
+ &#120; 
+ Form 40-F
+ &#168; 
+
+ SIGNATURE 
+
+ Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. 
+
+ SONY
+ GROUP CORPORATION 
+
+ (Registrant) 
+
+ By: 
+ /s/
+ Lin Tao 
+
+ &emsp;&ensp;(Signature) 
+
+ Lin Tao 
+
+ Chief Financial Officer 
+
+ Date: May
+8, 2026 
+
+ List
+ of Materials 
+
+ Documents attached
+hereto: 
+
+ Consolidated Financial Summary for the Fiscal Year Ended March 31, 2026
+
+ Consolidated Financial Summary for the Fiscal Year Ended March 31, 2026 
+
+ (In accordance with IFRS &reg; Accounting Standards as issued by the International Accounting Standards Board ("IFRS Accounting Standards"))
+
+ May 8, 2026 
+
+ Company name 
+ : Sony Group Corporation 
+
+ Stock exchange listing 
+ : Tokyo Stock Exchange ("TSE") 
+
+ Securities code 
+ : 6758 
+
+ URL 
+ : https://www.sony.com/en/SonyInfo/IR/ 
+
+ Representative 
+ : Hiroki Totoki, Representative Corporate Executive Officer 
+
+ Contact person 
+ : Shunsuke Shinchi, General Manager, Investor Relations Section, Investor Relations Department 
+
+ Telephone 
+ : +81-3-6748-2111 
+
+ Scheduled date of annual general meeting of Shareholders 
+ : June 23, 2026 
+
+ Scheduled date to commence dividend payment 
+ : June 1, 2026 
+
+ Scheduled date to file Annual securities report 
+ : June 18, 2026 
+
+ Preparation of supplementary materials on financial results 
+ : Yes 
+
+ Holding of financial results briefing 
+ : Yes (for investors and analysts) 
+
+ (Amounts are rounded to the nearest million yen, unless otherwise noted.) 
+
+ 1. Consolidated financial results for the fiscal year ended March 31,
+2026 (from April 1, 2025 to March 31, 2026) 
+
+ (1) Consolidated operating results 
+ (Percentages indicate year-on-year changes.) 
+
+ Continuing
+
+ operations *1 
+ Sales 
+ Operating
+ income 
+ Income
+ before income 
+ taxes 
+ Net
+ income 
+ Net
+ income attributable to
+ Sony Group Corporation's
+ stockholders 
+
+ Fiscal
+ Year ended 
+ Yen
+ in millions 
+ % 
+ Yen
+ in millions 
+ % 
+ Yen
+ in millions 
+ % 
+ Yen
+ in millions 
+ % 
+ Yen
+ in millions 
+ % 
+
+ March 31,
+ 2026 
+ 12,479,620 
+ 3.7 
+ 1,447,507 
+ 13.4 
+ 1,422,374 
+ 5.9 
+ 1,055,266 
+ -2.8 
+ 1,030,893 
+ -3.4 
+
+ March 31,
+ 2025 
+ 12,034,917 
+ - 
+ 1,276,635 
+ - 
+ 1,343,198 
+ - 
+ 1,085,718 
+ - 
+ 1,067,431 
+ - 
+
+ Continuing
+
+ operations *1 
+ Total comprehensive
+ income 
+ Basic earnings
+ per share *2 
+ Diluted earnings
+ per share *2 
+ Return on equity 
+ attributable to Sony 
+ Group Corporation's 
+ stockholders *3 
+ Ratio of income before 
+ income taxes to total 
+ assets 
+ Ratio of operating 
+ income to sales 
+
+ Fiscal Year ended 
+ Yen in millions 
+ % 
+ Yen 
+ Yen 
+ % 
+ % 
+ &#65285; 
+
+ March 31, 2026 
+ 1,472,023 
+ 47.1 
+ 172.51 
+ 171.44 
+ 12.6 
+ 5.6 
+ 11.6 
+
+ March 31, 2025 
+ 1,000,403 
+ - 
+ 176.45 
+ 175.71 
+ 13.5 
+ 3.9 
+ 10.6 
+
+ Reference: Share of profit (loss) of investments
+accounted for using the equity method *1 
+
+ For the fiscal year ended March 31,
+2026: &yen;(64,194) million
+
+ For the fiscal year ended March 31,
+2025: &yen;(7,865) million
+
+ *1 Effective October 1, 2025, Sony Group Corporation executed
+a partial spin-off of Sony Financial Group Inc. ("SFGI"), a formerly wholly-owned subsidiary which operates the Financial
+Services business (the "Spin-off"). As a result of the resolution of Sony Group Corporation's Board of Directors on
+May 14, 2025 on a plan for the execution of the Spin-off, the Financial Services business has been classified as a discontinued
+operation and presented separately from continuing operations, comprised of Sony's businesses excluding the Financial Services
+business, from the three months ended June 30, 2025, in accordance with IFRS Accounting Standards. Therefore, the above operating
+results represent the results for continuing operations. The results for the fiscal year ended March 31, 2025, the comparative period,
+have been re-presented to conform to the current presentation. On a consolidated basis including the discontinued operation, net loss,
+net loss attributable to Sony Group Corporation's stockholders and total comprehensive income for the fiscal year ended March 31,
+2026 were 302,492 million yen, 326,865 million yen and 1,523,029 million yen, respectively. On a consolidated basis including the discontinued
+operation, basic loss per share and diluted loss per share for the fiscal year ended March 31, 2026 were 54.70 yen and 54.36 yen,
+respectively. In connection with the execution of the Spin-off, a loss of 1,377,795 million yen has been recorded within net income (loss)
+from discontinued operations as a result of the reclassification of the Financial Services business's accumulated other comprehensive
+income balance at the time of deconsolidation to net income (loss) from discontinued operations. This accounting treatment is a reclassification
+between items within equity in the consolidated statements of financial position and does not affect total equity or cash flows, or profit
+or loss for continuing operations. Additionally, it does not affect Sony Group Corporation's standalone financial statements based
+on Japanese generally accepted accounting principles ("J-GAAP"), nor the amount available for dividends. For details of discontinued
+operations, please refer to "Notes to Consolidated Financial Statements - Accounting Policy and Other Information (Discontinued
+operations)" on page 19 of the Appendix. 
+
+ *2 Sony Group Corporation conducted a five-for-one stock split
+of its common stock effective October 1, 2024, with a record date of September 30, 2024. The above figures for basic earnings
+per share and diluted earnings per share are calculated based on the assumption that the stock split was conducted at the beginning of
+the fiscal year ended March 31, 2025. 
+
+ *3 Return on equity attributable to Sony Group Corporation's
+stockholders is calculated using net income from continuing operations attributable to Sony Group Corporation's stockholders and
+equity attributable to Sony Group Corporation's stockholders. The figure for the fiscal year ended March 31, 2025 has been
+re-presented to conform to this calculation. 
+
+ (2) Consolidated financial position 
+
+ Total assets 
+ Total equity 
+ Equity attributable to
+
+ Sony Group Corporation's
+
+ stockholders 
+ Ratio of equity
+
+ attributable to Sony Group
+
+ Corporation's stockholders
+
+ to total assets 
+ Equity attributable to Sony
+
+ Group Corporation's
+
+ stockholders per share * 
+
+ As of 
+ Yen in millions 
+ Yen in millions 
+ Yen in millions 
+ % 
+ Yen 
+
+ March 31, 2026 
+ 15,683,490 
+ 8,513,589 
+ 8,119,011 
+ 51.8 
+ 1,374.32 
+
+ March 31, 2025 
+ 35,293,173 
+ 8,510,151 
+ 8,179,745 
+ 23.2 
+ 1,357.63 
+
+ * Sony Group Corporation conducted a five-for-one stock split
+of its common stock effective October 1, 2024, with a record date of September 30, 2024. The above figures for equity attributable
+to Sony Group Corporation's stockholders per share are calculated based on the assumption that the stock split was conducted at
+the beginning of the fiscal year ended March 31, 2025. 
+
+ (3) Consolidated cash flows 
+
+ Cash flows from operating
+
+ activities 
+ Cash flows from investing
+
+ activities 
+ Cash flows from financing
+
+ activities 
+ Cash and cash equivalents at
+
+ end of the fiscal year 
+
+ Fiscal year ended 
+ Yen in millions 
+ Yen in millions 
+ Yen in millions 
+ Yen in millions 
+
+ March 31, 2026 
+ 1,945,617 
+ (1,970,542 ) 
+ (842,761 ) 
+ 2,208,879 
+
+ March 31, 2025 
+ 2,321,675 
+ (930,120 ) 
+ (298,243 ) 
+ 2,980,956 
+
+ Note: The table above represents consolidated cash flows including
+cash flows from discontinued operations. For further information, please refer to "Consolidated Statements of Cash Flows"
+on page 9 of the Appendix and "Notes to Consolidated Financial Statements - Accounting Policy and Other Information (Discontinued
+operations)" on page 19 of the Appendix. 
+
+ 2. Dividends 
+
+ Annual
+ dividends per share 
+
+ Ratio
+ of dividends
+
+ to equity
+
+ attributable to Sony
+
+ Group
+
+ Corporation's 
+
+ First
+
+ quarter-end 
+ Second
+
+ quarter-end 
+ Third
+
+ quarter-end 
+ Year-end 
+ Total 
+ Total
+ cash
+
+ dividends (Total) 
+ Payout
+ ratio
+
+ (Consolidated) *2 
+ stockholders
+
+ (Consolidated) 
+
+ Yen 
+ Yen 
+ Yen 
+ Yen 
+ Yen 
+ Yen in millions 
+ % 
+ % 
+
+ Fiscal
+ year ended March 31, 2025 *1 
+ - 
+ 50.00 
+ - 
+ 10.00 
+ - 
+ 120,597 
+ 11.3 
+ 1.5 
+
+ Fiscal year ended March 31, 2026 
+ - 
+ 12.50 
+ - 
+ 12.50 
+ 25.00 
+ 148,560 
+ 14.5 
+ 1.8 
+
+ Fiscal year ending March 31, 2027 (Forecast) 
+ - 
+ 17.50 
+ - 
+ 17.50 
+ 35.00 
+
+ - 
+
+ Note: Upon the execution of the above-mentioned Spin-off, Sony Group
+Corporation distributed dividends in kind to shareholders appearing in its register of shareholders as of the record date, September 30,
+2025, at the rate of one share of common stock of SFGI ("SFGI share (s)") to one share of common stock of Sony Group Corporation
+held by each shareholder. However, the above dividends for the fiscal year ended March 31, 2026 do not include such dividends in
+kind. For details of dividends in kind, please refer to "(Reference) Overview of dividends in kind (non-cash dividends)"
+below. 
+
+ *1 Sony Group Corporation conducted a five-for-one stock split
+of its common stock effective October 1, 2024, with a record date of September 30, 2024. The above year-end dividend per share
+for the fiscal year ended March 31, 2025 is based on a number of shares taking into account the stock split. The total annual dividend
+per share for the fiscal year ended March 31, 2025 is not presented because the total of the interim dividend and the year-end dividend
+cannot be calculated due to the effect of the stock split. For the fiscal year ended March 31, 2025, taking the stock split into
+account, the interim dividend per share at the end of the second quarter would be 10 yen and the total annual dividend per share would
+be 20 yen. 
+
+ *2 Payout
+ratio (Consolidated) is calculated using the total annual dividend per share and the basic earnings per share from continuing operations.
+The ratio for the fiscal year ended March 31, 2025 has been re-presented to conform to this calculation. 
+
+ 3. Forecast for Consolidated Results for the Fiscal Year Ending
+March 31, 2027 (from April 1, 2026 to March 31, 2027) 
+
+ (Percentages indicate year-on-year changes.) 
+
+ Fiscal year ending 
+
+March 31, 2027 
+ Sales 
+ Operating income 
+ Income before income taxes 
+ Net income attributable to Sony
+
+ Group Corporation's stockholders 
+
+ &#8239; 
+ Yen in millions 
+ % 
+ Yen in millions 
+ % 
+ Yen in millions 
+ % 
+ Yen in millions 
+ % 
+
+ Full year 
+ 12,300,000 
+ -1.4 
+ 1,600,000 
+ 10.5 
+ 1,615,000 
+ 13.5 
+ 1,160,000 
+ 12.5 
+
+ *1 The
+year-on-year percentage change of net income attributable to Sony Group Corporation's stockholders is calculated using net income
+from continuing operations attributable to Sony Group Corporation's stockholders for the fiscal year ended March 31, 2026. As net
+income (loss) from discontinued operations is not expected to be incurred in the forecast for the fiscal year ending March 31, 2027,
+there is no difference between the figure for net income attributable to Sony Group Corporation's stockholders for continuing operations
+and the consolidated figure. 
+
+ Notes 
+
+ (1) Significant changes in scope of consolidation
+ during the fiscal year 
+ :Yes 
+
+ Newly included: -
+
+ Newly excluded: 68 companies (Sony Financial Group Inc. and
+67 other companies (including structured entities)) 
+
+ Notes:
+
+ Please refer to "Notes to Consolidated
+Financial Statements - Accounting Policy and Other Information (Significant changes in the scope of consolidation during the period)"
+on page 18 of the Appendix for the details.
+
+ (2) Changes in accounting policies and changes in accounting estimates:
+
+ (i) Changes in accounting policies required by IFRS Accounting Standards 
+ :No 
+
+ (ii) Changes in accounting policies due to other reasons 
+ :No 
+
+ (iii) Changes in accounting estimates 
+ :No 
+
+ (3) Number of issued shares (common stock):
+
+ (i) Total number of issued shares at the end of the
+fiscal year (including treasury stock)
+
+ As of March 31, 2026 
+ 6,149,810,645 
+ shares 
+
+ As of March 31, 2025 
+ 6,149,810,645 
+ shares 
+
+ (ii) Number of shares of treasury stock at the end
+of the fiscal year
+
+ As of March 31, 2026 
+ 242,143,391 
+ shares 
+
+ As of March 31, 2025 
+ 124,806,850 
+ shares 
+
+ (iii) Average number of shares outstanding during
+the fiscal year
+
+ Fiscal Year ended March 31, 2026 
+ 5,975,983,562 
+ shares 
+
+ Fiscal Year ended March 31, 2025 
+ 6,049,652,046 
+ shares 
+
+ Notes: 
+
+ 1 Please refer to "Notes to Consolidated Financial Statements
+- Accounting Policy and Other Information (Net Income (Loss) Attributable to Sony Group Corporation's Stockholders per Share ("EPS")
+and Weighted-average Number of Outstanding Shares Used for the Computation of EPS of Common Stock)" on page 17 of the Appendix
+for number of shares used as basis for calculating consolidated per share data. 
+
+ 2 Sony Group Corporation conducted a five-for-one stock split
+of its common stock effective October 1, 2024, with a record date of September 30, 2024. The above figures for the number of
+issued shares (common stock) are calculated based on the assumption that the stock split was conducted at the beginning of the fiscal
+year ended March 31, 2025. 
+
+ [Reference] Overview of non-consolidated financial results 
+
+ 1. Non-consolidated financial results for the fiscal year ended
+March 31, 2026 (from April 1, 2025 to March 31, 2026) 
+
+ (1) Non-consolidated operating results 
+ (Percentages indicate year-on-year changes.) 
+
+ Net sales 
+ Operating profit 
+ Ordinary profit 
+ Profit 
+
+ Fiscal year ended 
+ Millions of yen 
+ % 
+ Millions of yen 
+ % 
+ Millions of yen 
+ % 
+ Millions of yen 
+ % 
+
+ March 31, 2026 
+ 802,132 
+ 66.8 
+ 626,673 
+ 95.7 
+ 650,743 
+ 101.6 
+ 462,313 
+ 27.8 
+
+ March 31, 2025 
+ 480,922 
+ 1.6 
+ 320,175 
+ 8.7 
+ 322,865 
+ 6.3 
+ 361,678 
+ 14.3 
+
+ Basic earnings per share * 
+ Diluted earnings per share * 
+
+ Fiscal year ended 
+ Yen 
+ Yen 
+
+ March 31, 2026 
+ 77.36 
+ 76.88 
+
+ March 31, 2025 
+ 59.78 
+ 59.53 
+
+ * Sony Group Corporation conducted a five-for-one stock split
+of its common stock effective October 1, 2024, with a record date of September 30, 2024. The above figures for basic earnings
+per share and diluted earnings per share are calculated based on the assumption that the stock split was conducted at the beginning of
+the fiscal year ended March 31, 2025. 
+
+ (2) Non-consolidated financial position 
+
+ Total assets 
+ Net assets 
+ Equity-to-asset ratio 
+ Net assets per share * 
+
+ As of 
+ Millions of yen 
+ Millions of yen 
+ % 
+ Yen 
+
+ March 31, 2026 
+ 5,169,609 
+ 2,755,258 
+ 51.8 
+ 453.15 
+
+ March 31, 2025 
+ 5,281,630 
+ 3,295,554 
+ 61.7 
+ 540.61 
+
+ Reference: Equity
+
+ As of March 31, 2026: &yen;2,677,069
+million
+
+ As of March 31, 2025: &yen;3,257,169
+million
+
+ * Sony Group Corporation conducted a five-for-one stock split
+of its common stock effective October 1, 2024, with a record date of September 30, 2024. The above figures for net assets per
+share are calculated based on the assumption that the stock split was conducted at the beginning of the fiscal year ended March 31,
+2025. 
+
+ Note: The Sony Group Corporation's non-consolidated
+financial results are prepared in accordance with J-GAAP.
+
+ In the fiscal year ended March 31, 2026,
+net sales, operating profit, ordinary profit and profit differed from those of the fiscal year ended March 31, 2025, mainly due to
+an increase in dividends from subsidiaries and associates.
+
+ * The Consolidated Financial Summary is exempt from audit conducted
+by certified public accountants or an audit firm. 
+
+ * Proper use of earnings forecasts, and other special matters: 
+
+ Please refer
+to "Cautionary Statement" on page 22 of the Appendix for assumptions and other matters related to the forecast of financial
+results.
+
+ Supplementary
+materials on financial results including the presentation material for the earnings announcement are available on Sony Group Corporation's
+website along with this document.
+
+ (Reference) Overview of dividends in kind (non-cash
+dividends)
+
+ (1) Record date 
+ Tuesday, September 30, 2025 
+
+ (2) Type of dividend property 
+ SFGI shares 
+
+ (3) Total carrying amount of dividend property and value per share 
+ 463,885,829,967 yen (77.61 yen per share) 
+
+ (4) Total fair value of dividend property and value per share 
+ - * 
+
+ (5) Effective date 
+ Wednesday, October 1, 2025 
+
+ * In Sony Group Corporation's standalone financial statements
+based on J-GAAP, the Spin-off has been accounted for at the appropriate carrying amount of the dividend property as of the effective
+date of the dividends in kind. The same applies to the calculation of Sony Group Corporation's amount available for dividends.
+Accordingly, the fair value of SFGI shares, which are the dividend property, has not been disclosed. 
+
+ (Appendix) 
+
+ Table of Contents for Appendix 
+
+ Consolidated Financial Statements (Unaudited) 
+ 2 
+
+ Consolidated Statements of Financial Position 
+ 2 
+
+ Consolidated Statements of Income (Fiscal Year ended March 31) 
+ 4 
+
+ Consolidated Statements of Comprehensive Income (Fiscal Year ended March 31) 
+ 5 
+
+ Consolidated Statements of Income (Three months ended March 31) 
+ 6 
+
+ Consolidated Statements of Comprehensive Income (Three months ended March 31) 
+ 7 
+
+ Consolidated Statements of Changes in Stockholders' Equity (Fiscal Year ended March 31) 
+ 8 
+
+ Consolidated Statements of Cash Flows (Fiscal Year ended March 31) 
+ 9 
+
+ Notes to Consolidated Financial Statements 
+ 11 
+
+ - 
+ Business Segment Information 
+ 11 
+
+ - 
+ Going Concern Assumption 
+ 17 
+
+ - 
+ Accounting Policy and Other Information 
+ 17 
+
+ - 
+ Subsequent Events 
+ 21 
+
+ Overview of Operating Results 
+ 22 
+
+ Basic Views on Selection of Accounting Standards 
+ 22 
+
+ Cautionary Statement 
+ 22 
+
+ All financial information is presented on the basis of IFRS Accounting
+Standards.
+
+ Sony Group Corporation and its consolidated subsidiaries are together
+referred to as "Sony" or "Sony Group."
+
+ - 1 -
+
+ (Unaudited) 
+
+ Consolidated Financial Statements 
+
+ Consolidated Statements of Financial Position 
+
+ Yen in millions 
+
+ March 31, 2025 
+ March 31, 2026 
+ Change from
+ March 31, 2025 
+
+ ASSETS 
+
+ Current assets: 
+
+ Cash and cash equivalents 
+ 2,980,956 
+ 2,208,879 
+ (772,077 ) 
+
+ Investments and advances in the Financial Services segment 
+ 453,677 
+ - 
+ (453,677 ) 
+
+ Trade and other receivables, and contract assets 
+ 1,943,184 
+ 1,821,916 
+ (121,268 ) 
+
+ Inventories 
+ 1,310,770 
+ 1,227,351 
+ (83,419 ) 
+
+ Other financial assets 
+ 145,192 
+ 28,167 
+ (117,025 ) 
+
+ Other current assets 
+ 621,209 
+ 663,678 
+ 42,469 
+
+ Total current assets 
+ 7,454,988 
+ 5,949,991 
+ (1,504,997 ) 
+
+ Non-current assets: 
+
+ Investments accounted for using the equity method 
+ 347,718 
+ 483,709 
+ 135,991 
+
+ Investments and advances in the Financial Services segment 
+ 18,736,298 
+ - 
+ (18,736,298 ) 
+
+ Property, plant and equipment 
+ 1,513,660 
+ 1,453,805 
+ (59,855 ) 
+
+ Right-of-use assets 
+ 521,685 
+ 524,345 
+ 2,660 
+
+ Goodwill 
+ 1,508,721 
+ 1,673,906 
+ 165,185 
+
+ Content assets 
+ 2,249,048 
+ 2,558,615 
+ 309,567 
+
+ Other intangible assets 
+ 671,212 
+ 659,578 
+ (11,634 ) 
+
+ Deferred tax assets 
+ 559,284 
+ 560,800 
+ 1,516 
+
+ Other financial assets 
+ 1,164,630 
+ 1,173,819 
+ 9,189 
+
+ Other non-current assets 
+ 565,929 
+ 644,922 
+ 78,993 
+
+ Total non-current assets 
+ 27,838,185 
+ 9,733,499 
+ (18,104,686 ) 
+
+ Total assets 
+ 35,293,173 
+ 15,683,490 
+ (19,609,683 ) 
+
+ (Continued on the following page.) 
+
+ - 2 -
+
+ Consolidated Statements of Financial Position (Continued) 
+
+ Yen in millions 
+
+ March 31, 2025 
+ March 31, 2026 
+ Change
+from
+
+March 31, 2025 
+
+ LIABILITIES 
+
+ Current liabilities: 
+
+ Short-term borrowings 
+ 1,843,959 
+ 51,183 
+ (1,792,776 ) 
+
+ Lease liabilities 
+ 90,495 
+ 94,160 
+ 3,665 
+
+ Current portion of long-term debt 
+ 196,950 
+ 166,410 
+ (30,540 ) 
+
+ Trade and other payables 
+ 2,100,144 
+ 2,240,566 
+ 140,422 
+
+ Deposits from customers in the banking business 
+ 3,981,193 
+ - 
+ (3,981,193 ) 
+
+ Income taxes payables 
+ 89,485 
+ 196,000 
+ 106,515 
+
+ Participation and residual liabilities in the Pictures segment 
+ 236,752 
+ 223,233 
+ (13,519 ) 
+
+ Contract liabilities 
+ 590,719 
+ 594,336 
+ 3,617 
+
+ Other financial liabilities 
+ 110,689 
+ 115,785 
+ 5,096 
+
+ Other current liabilities 
+ 1,448,402 
+ 1,350,951 
+ (97,451 ) 
+
+ Total current liabilities 
+ 10,688,788 
+ 5,032,624 
+ (5,656,164 ) 
+
+ Non-current liabilities: 
+
+ Long-term debt 
+ 1,557,867 
+ 824,393 
+ (733,474 ) 
+
+ Lease liabilities 
+ 508,975 
+ 533,523 
+ 24,548 
+
+ Defined benefit liabilities 
+ 236,941 
+ 165,017 
+ (71,924 ) 
+
+ Deferred tax liabilities 
+ 175,228 
+ 211,391 
+ 36,163 
+
+ Insurance contract liabilities 
+ 12,689,306 
+ - 
+ (12,689,306 ) 
+
+ Participation and residual liabilities in the Pictures segment 
+ 188,919 
+ 140,893 
+ (48,026 ) 
+
+ Other financial liabilities 
+ 574,351 
+ 105,827 
+ (468,524 ) 
+
+ Other non-current liabilities 
+ 162,647 
+ 156,233 
+ (6,414 ) 
+
+ Total non-current liabilities 
+ 16,094,234 
+ 2,137,277 
+ (13,956,957 ) 
+
+ Total liabilities 
+ 26,783,022 
+ 7,169,901 
+ (19,613,121 ) 
+
+ EQUITY 
+
+ Sony Group Corporation's stockholders' equity: 
+
+ Common stock 
+ 881,357 
+ 881,357 
+ - 
+
+ Additional paid-in capital 
+ 1,483,527 
+ 1,465,499 
+ (18,028 ) 
+
+ Retained earnings 
+ 6,678,168 
+ 5,294,890 
+ (1,383,278 ) 
+
+ Accumulated other comprehensive income 
+ (566,447 ) 
+ 1,229,371 
+ 1,795,818 
+
+ Treasury stock, at cost 
+ (296,860 ) 
+ (752,106 ) 
+ (455,246 ) 
+
+ Equity attributable to Sony Group Corporation's stockholders 
+ 8,179,745 
+ 8,119,011 
+ (60,734 ) 
+
+ Noncontrolling interests 
+ 330,406 
+ 394,578 
+ 64,172 
+
+ Total equity 
+ 8,510,151 
+ 8,513,589 
+ 3,438 
+
+ Total liabilities and equity 
+ 35,293,173 
+ 15,683,490 
+ (19,609,683 ) 
+
+ - 3 -
+
+ Consolidated Statements of Income 
+
+ Yen in millions 
+
+ Fiscal year ended March 31 
+
+ 2025 
+ 2026 
+ Change 
+
+ Continuing operations 
+
+ Sales 
+ 12,034,917 
+ 12,479,620 
+ 444,703 
+
+ Costs and expenses: 
+
+ Cost of sales 
+ 8,504,810 
+ 8,635,225 
+ 130,415 
+
+ Selling, general and administrative 
+ 2,256,829 
+ 2,298,638 
+ 41,809 
+
+ Other operating (income) expense, net 
+ (11,222 ) 
+ 34,056 
+ 45,278 
+
+ Total costs and expenses 
+ 10,750,417 
+ 10,967,919 
+ 217,502 
+
+ Share of profit (loss) of investments accounted for using the equity method 
+ (7,865 ) 
+ (64,194 ) 
+ (56,329 ) 
+
+ Operating income 
+ 1,276,635 
+ 1,447,507 
+ 170,872 
+
+ Financial income 
+ 139,024 
+ 76,041 
+ (62,983 ) 
+
+ Financial expenses 
+ 72,461 
+ 101,174 
+ 28,713 
+
+ Income before income taxes 
+ 1,343,198 
+ 1,422,374 
+ 79,176 
+
+ Income taxes 
+ 257,480 
+ 367,108 
+ 109,628 
+
+ Net income from continuing operations 
+ 1,085,718 
+ 1,055,266 
+ (30,452 ) 
+
+ Discontinued operations 
+
+ Net income (loss) from discontinued operations 
+ 74,169 
+ (1,357,758 ) 
+ (1,431,927 ) 
+
+ Net income (loss) 
+ 1,159,887 
+ (302,492 ) 
+ (1,462,379 ) 
+
+ Net income (loss) attributable to 
+
+ Sony Group Corporation's stockholders 
+ 1,141,600 
+ (326,865 ) 
+ (1,468,465 ) 
+
+ Net income from continuing operations 
+ 1,067,431 
+ 1,030,893 
+ (36,538 ) 
+
+ Net income (loss) from discontinued operations 
+ 74,169 
+ (1,357,758 ) 
+ (1,431,927 ) 
+
+ Noncontrolling interests 
+ 18,287 
+ 24,373 
+ 6,086 
+
+ Yen 
+
+ Fiscal year ended March 31 
+
+ 2025 
+ 2026 
+ Change 
+
+ Per share data: 
+
+ Net income (loss) attributable to Sony Group Corporation's stockholders 
+
+ - Basic 
+ 188.71 
+ (54.70 ) 
+ (243.41 ) 
+
+ Continuing operations 
+ 176.45 
+ 172.51 
+ (3.94 ) 
+
+ Discontinued operations 
+ 12.26 
+ (227.21 ) 
+ (239.47 ) 
+
+ - Diluted 
+ 187.92 
+ (54.36 ) 
+ (242.28 ) 
+
+ Continuing operations 
+ 175.71 
+ 171.44 
+ (4.27 ) 
+
+ Discontinued operations 
+ 12.21 
+ (225.80 ) 
+ (238.01 ) 
+
+ - 4 -
+
+ Consolidated Statements of Comprehensive Income 
+
+ Yen in millions 
+
+ Fiscal year ended March 31 
+
+ 2025 
+ 2026 
+ Change 
+
+ Net income (loss) 
+ 1,159,887 
+ (302,492 ) 
+ (1,462,379 ) 
+
+ Other comprehensive income, net of tax - 
+
+ Items that will not be reclassified to profit or loss 
+
+ Changes in equity instruments measured at fair value through other comprehensive income 
+ (11,533 ) 
+ (21,401 ) 
+ (9,868 ) 
+
+ Remeasurement of defined benefit pension plans 
+ 11,027 
+ 38,221 
+ 27,194 
+
+ Share of other comprehensive income of investments accounted for using the equity method 
+ (911 ) 
+ 243 
+ 1,154 
+
+ Other comprehensive income from discontinued operations 
+ (1,442 ) 
+ 857 
+ 2,299 
+
+ Items that may be reclassified subsequently to profit or loss 
+
+ Cash flow hedges 
+ (4,295 ) 
+ (3,384 ) 
+ 911 
+
+ Exchange differences on translating foreign operations 
+ (79,266 ) 
+ 424,360 
+ 503,626 
+
+ Share of other comprehensive income of investments accounted for using the equity method 
+ (337 ) 
+ (21,282 ) 
+ (20,945 ) 
+
+ Other comprehensive income from discontinued operations 
+ (113,900 ) 
+ 1,407,907 
+ 1,521,807 
+
+ Total other comprehensive income, net of tax 
+ (200,657 ) 
+ 1,825,521 
+ 2,026,178 
+
+ Comprehensive income 
+ 959,230 
+ 1,523,029 
+ 563,799 
+
+ Total Comprehensive income 
+
+ Comprehensive income from continuing operations 
+ 1,000,403 
+ 1,472,023 
+ 471,620 
+
+ Comprehensive income from discontinued operations 
+ (41,173 ) 
+ 51,006 
+ 92,179 
+
+ Comprehensive income attributable to 
+
+ Sony Group Corporation's stockholders 
+ 941,030 
+ 1,497,997 
+ 556,967 
+
+ Comprehensive income from continuing operations 
+ 982,203 
+ 1,446,991 
+ 464,788 
+
+ Comprehensive income from discontinued operations 
+ (41,173 ) 
+ 51,006 
+ 92,179 
+
+ Noncontrolling interests 
+ 18,200 
+ 25,032 
+ 6,832 
+
+ - 5 -
+
+ Consolidated Statements of Income 
+
+ Yen in millions 
+
+ Three months ended March 31 
+
+ 2025 
+ 2026 
+ Change 
+
+ Continuing operations 
+
+ Sales 
+ 2,804,938 
+ 3,036,417 
+ 231,479 
+
+ Costs and expenses: 
+
+ Cost of sales 
+ 1,980,206 
+ 2,102,148 
+ 121,942 
+
+ Selling, general and administrative 
+ 599,224 
+ 647,221 
+ 47,997 
+
+ Other operating (income) expense, net 
+ 7,594 
+ 57,738 
+ 50,144 
+
+ Total costs and expenses 
+ 2,587,024 
+ 2,807,107 
+ 220,083 
+
+ Share of profit (loss) of investments accounted for using the equity method 
+ (2,710 ) 
+ (65,773 ) 
+ (63,063 ) 
+
+ Operating income 
+ 215,204 
+ 163,537 
+ (51,667 ) 
+
+ Financial income 
+ 37,033 
+ 17,491 
+ (19,542 ) 
+
+ Financial expenses 
+ 28,123 
+ 57,225 
+ 29,102 
+
+ Income before income taxes 
+ 224,114 
+ 123,803 
+ (100,311 ) 
+
+ Income taxes 
+ (11,263 ) 
+ 30,218 
+ 41,481 
+
+ Net income from continuing operations 
+ 235,377 
+ 93,585 
+ (141,792 ) 
+
+ Discontinued operations 
+
+ Net loss from discontinued operations 
+ (26,715 ) 
+ (247 ) 
+ 26,468 
+
+ Net income 
+ 208,662 
+ 93,338 
+ (115,324 ) 
+
+ Net income attributable to 
+
+ Sony Group Corporation's stockholders 
+ 197,727 
+ 82,870 
+ (114,857 ) 
+
+ Net income from continuing operations 
+ 224,442 
+ 83,117 
+ (141,325 ) 
+
+ Net loss from discontinued operations 
+ (26,715 ) 
+ (247 ) 
+ 26,468 
+
+ Noncontrolling interests 
+ 10,935 
+ 10,468 
+ (467 ) 
+
+ Yen 
+
+ Three months ended March 31 
+
+ 2025 
+ 2026 
+ Change 
+
+ Per share data: 
+
+ Net income (loss) attributable to Sony Group Corporation's stockholders 
+
+ - Basic 
+ 32.81 
+ 13.95 
+ (18.86 ) 
+
+ Continuing operations 
+ 37.24 
+ 14.00 
+ (23.24 ) 
+
+ Discontinued operations 
+ (4.43 ) 
+ (0.05 ) 
+ 4.38 
+
+ - Diluted 
+ 32.63 
+ 13.89 
+ (18.74 ) 
+
+ Continuing operations 
+ 37.04 
+ 13.93 
+ (23.11 ) 
+
+ Discontinued operations 
+ (4.41 ) 
+ (0.04 ) 
+ 4.37 
+
+ - 6 -
+
+ Consolidated Statements of Comprehensive Income 
+
+ Yen in millions 
+
+ Three months ended March 31 
+
+ 2025 
+ 2026 
+ Change 
+
+ Net income 
+ 208,662 
+ 93,338 
+ (115,324 ) 
+
+ Other comprehensive income, net of tax - 
+
+ Items that will not be reclassified to profit or loss 
+
+ Changes in equity instruments measured at fair value through other comprehensive income 
+ 4,005 
+ (27,140 ) 
+ (31,145 ) 
+
+ Remeasurement of defined benefit pension plans 
+ 11,812 
+ 38,222 
+ 26,410 
+
+ Share of other comprehensive income of investments accounted for using the equity method 
+ 90 
+ (226 ) 
+ (316 ) 
+
+ Other comprehensive income from discontinued operations 
+ 82 
+ - 
+ (82 ) 
+
+ Items that may be reclassified subsequently to profit or loss 
+
+ Cash flow hedges 
+ (4,478 ) 
+ 609 
+ 5,087 
+
+ Exchange differences on translating foreign operations 
+ (170,834 ) 
+ 79,895 
+ 250,729 
+
+ Share of other comprehensive income of investments accounted for using the equity method 
+ (2,641 ) 
+ (8,386 ) 
+ (5,745 ) 
+
+ Other comprehensive income from discontinued operations 
+ (33,483 ) 
+ - 
+ 33,483 
+
+ Total other comprehensive income, net of tax 
+ (195,447 ) 
+ 82,974 
+ 278,421 
+
+ Comprehensive income 
+ 13,215 
+ 176,312 
+ 163,097 
+
+ Total Comprehensive income 
+
+ Comprehensive income from continuing operations 
+ 73,331 
+ 176,559 
+ 103,228 
+
+ Comprehensive income from discontinued operations 
+ (60,116 ) 
+ (247 ) 
+ 59,869 
+
+ Comprehensive income attributable to 
+
+ Sony Group Corporation's stockholders 
+ 3,961 
+ 165,396 
+ 161,435 
+
+ Comprehensive income from continuing operations 
+ 64,077 
+ 165,643 
+ 101,566 
+
+ Comprehensive income from discontinued operations 
+ (60,116 ) 
+ (247 ) 
+ 59,869 
+
+ Noncontrolling interests 
+ 9,254 
+ 10,916 
+ 1,662 
+
+ - 7 -
+
+ Consolidated Statements of Changes in Stockholders' Equity 
+
+ Yen
+ in millions 
+
+ Common
+
+ stock 
+ Additional
+
+ paid-in
+
+ capital 
+ Retained
+
+ earnings 
+ Accumulated
+
+ other
+
+ comprehensive
+
+ income 
+ Treasury
+
+ stock, at 
+
+ cost 
+ Sony
+ Group
+
+ Corporation's
+
+ stockholders'
+
+ equity 
+ Noncontrolling
+
+ interests 
+ Total
+ equity 
+
+ Balance at April 1, 2024 
+ 881,357 
+ 1,483,410 
+ 6,002,407 
+ (376,063 ) 
+ (403,934 ) 
+ 7,587,177 
+ 168,928 
+ 7,756,105 
+
+ Comprehensive income: 
+
+ Net income 
+
+ 1,141,600 
+
+ 1,141,600 
+ 18,287 
+ 1,159,887 
+
+ Other comprehensive
+ income, net of tax 
+
+ (200,570 ) 
+
+ (200,570 ) 
+ (87 ) 
+ (200,657 ) 
+
+ Total comprehensive
+ income 
+
+ 1,141,600 
+ (200,570 ) 
+
+ 941,030 
+ 18,200 
+ 959,230 
+
+ Transfer to retained earnings 
+
+ (10,186 ) 
+ 10,186 
+
+ - 
+
+ - 
+
+ Transactions with stockholders
+ and other: 
+
+ Stock issued under stock-based
+ compensation transactions 
+
+ 3,008 
+ (1,179 ) 
+
+ 49,608 
+ 51,437 
+
+ 51,437 
+
+ Compensation expenses related
+ to stock-based compensation transactions 
+
+ 8,575 
+
+ 8,575 
+
+ 8,575 
+
+ Dividends declared 
+
+ (115,312 ) 
+
+ (115,312 ) 
+ (7,704 ) 
+ (123,016 ) 
+
+ Purchase of treasury stock 
+
+ (285,548 ) 
+ (285,548 ) 
+
+ (285,548 ) 
+
+ Reissuance of treasury stock 
+
+ 1 
+
+ 4 
+ 5 
+
+ 5 
+
+ Cancellation of treasury stock 
+
+ (3,848 ) 
+ (339,162 ) 
+
+ 343,010 
+ - 
+
+ - 
+
+ Transactions
+ with noncontrolling interests shareholders and other 
+
+ (7,619 ) 
+
+ (7,619 ) 
+ 150,982 
+ 143,363 
+
+ Balance at March 31,
+ 2025 
+ 881,357 
+ 1,483,527 
+ 6,678,168 
+ (566,447 ) 
+ (296,860 ) 
+ 8,179,745 
+ 330,406 
+ 8,510,151 
+
+ Yen in millions 
+
+ Common
+ stock 
+ Additional
+ paid-in
+ capital 
+ Retained
+ earnings 
+ Accumulated
+ other
+ comprehensive
+ income 
+ Accumulated
+ other
+ comprehensive
+ income directly
+ related to
+ disposal groups
+ classified as held
+ for distribution
+ to owners 
+ Treasury
+ stock, at
+ cost 
+ Sony Group
+ Corporation's
+ stockholders'
+ equity 
+ Noncontrolling
+ interests 
+ Total equity 
+
+ Balance at April 1, 2025 
+ 881,357 
+ 1,483,527 
+ 6,678,168 
+ (566,447 ) 
+ - 
+ (296,860 ) 
+ 8,179,745 
+ 330,406 
+ 8,510,151 
+
+ Comprehensive income: 
+
+ Net income (loss) 
+
+ (326,865 ) 
+
+ (326,865 ) 
+ 24,373 
+ (302,492 ) 
+
+ Other comprehensive income, net of tax 
+
+ 381,804 
+ 1,443,058 
+
+ 1,824,862 
+ 659 
+ 1,825,521 
+
+ Total comprehensive income 
+
+ (326,865 ) 
+ 381,804 
+ 1,443,058 
+
+ 1,497,997 
+ 25,032 
+ 1,523,029 
+
+ Transfer to retained earnings 
+
+ 34,251 
+ (38,305 ) 
+ 4,054 
+
+ - 
+
+ - 
+
+ Transactions with stockholders and other: 
+
+ Stock issued under stock-based compensation transactions 
+
+ 8,615 
+
+ 66,843 
+ 75,458 
+
+ 75,458 
+
+ Compensation expenses related to stock-based compensation transactions 
+
+ 3,608 
+
+ 3,608 
+
+ 3,608 
+
+ Dividends declared 
+
+ (134,964 ) 
+
+ (134,964 ) 
+ (22,190 ) 
+ (157,154 ) 
+
+ Dividends in kind 
+
+ (955,700 ) 
+
+ (955,700 ) 
+
+ (955,700 ) 
+
+ Purchase of treasury stock 
+
+ (522,089 ) 
+ (522,089 ) 
+
+ (522,089 ) 
+
+ Reissuance of treasury stock 
+
+ 0 
+
+ 0 
+ 0 
+
+ 0 
+
+ Transfer to held for distribution to owners 
+
+ 1,447,112 
+ (1,447,112 ) 
+
+ - 
+
+ - 
+
+ Transactions with noncontrolling interests shareholders and other 
+
+ (30,251 ) 
+
+ 5,207 
+
+ (25,044 ) 
+ 61,330 
+ 36,286 
+
+ Balance at March 31, 2026 
+ 881,357 
+ 1,465,499 
+ 5,294,890 
+ 1,229,371 
+ - 
+ (752,106 ) 
+ 8,119,011 
+ 394,578 
+ 8,513,589 
+
+ - 8 -
+
+ Consolidated Statements of Cash Flows 
+
+ Yen in millions 
+
+ Fiscal year ended March 31 
+
+ 2025 
+ 2026 
+
+ Cash flows from operating activities: 
+
+ Income before income taxes from continuing operations 
+ 1,343,198 
+ 1,422,374 
+
+ Adjustments to reconcile income before income taxes from continuing operations to net cash provided by (used in) operating activities: 
+
+ Depreciation and amortization, including amortization of contract costs 
+ 1,125,588 
+ 1,180,655 
+
+ Other operating (income) expense, net 
+ (11,222 ) 
+ 34,056 
+
+ Gain on securities, net 
+ (75,742 ) 
+ (862 ) 
+
+ Share of loss of investments accounted for using the equity method, net of dividends 
+ 18,826 
+ 74,467 
+
+ Changes in assets and liabilities: 
+
+ Decrease in trade receivables and contract assets 
+ 227,664 
+ 124,104 
+
+ Decrease in inventories 
+ 199,916 
+ 155,382 
+
+ Increase in content assets 
+ (683,388 ) 
+ (665,894 ) 
+
+ Increase in trade payables 
+ 105,643 
+ 70,541 
+
+ Decrease in taxes payable other than income taxes, net 
+ (14,157 ) 
+ (32,645 ) 
+
+ Increase in other financial assets and other current assets 
+ (16,972 ) 
+ (14,302 ) 
+
+ Increase in other financial liabilities and other current liabilities 
+ 41,563 
+ 79,709 
+
+ Income taxes paid 
+ (308,392 ) 
+ (234,338 ) 
+
+ Other 
+ 18,824 
+ (226,955 ) 
+
+ Total net cash provided by operating activities from continuing operations 
+ 1,971,349 
+ 1,966,292 
+
+ Net cash provided by (used in) operating activities from discontinued operations 
+ 350,326 
+ (20,675 ) 
+
+ Net cash provided by operating activities 
+ 2,321,675 
+ 1,945,617 
+
+ (Continued on the following page.) 
+
+ - 9 -
+
+ Consolidated Statements of Cash Flows (Continued) 
+
+ Yen in millions 
+
+ Fiscal year ended March 31 
+
+ 2025 
+ 2026 
+
+ Cash flows from investing activities: 
+
+ Payments for property, plant and equipment and other intangible assets 
+ (620,985 ) 
+ (457,681 ) 
+
+ Proceeds from sales of property, plant and equipment and other intangible assets 
+ 15,484 
+ 19,720 
+
+ Payments for investments and advances 
+ (98,536 ) 
+ (179,650 ) 
+
+ Proceeds from sales or return of investments and collections of advances 
+ 46,540 
+ 13,028 
+
+ Payments for purchases of businesses and other 
+ (294,417 ) 
+ (185,355 ) 
+
+ Proceeds from sales of businesses 
+ - 
+ 11,198 
+
+ Other 
+ 48,718 
+ (5,453 ) 
+
+ Total net cash used in investing activities from continuing operations 
+ (903,196 ) 
+ (784,193 ) 
+
+ Net cash used in investing activities from discontinued operations 
+ (26,924 ) 
+ (1,186,349 ) 
+
+ Net cash used in investing activities 
+ (930,120 ) 
+ (1,970,542 ) 
+
+ Cash flows from financing activities: 
+
+ Increase (decrease) in short-term borrowings, net 
+ (28,547 ) 
+ 2,950 
+
+ Proceeds from issuance of long-term debt 
+ 139,298 
+ 28,774 
+
+ Payments of long-term debt 
+ (60,629 ) 
+ (135,362 ) 
+
+ Payments of lease liabilities 
+ (98,949 ) 
+ (85,946 ) 
+
+ Dividends paid 
+ (115,253 ) 
+ (135,028 ) 
+
+ Payments for purchases of treasury stock 
+ (285,548 ) 
+ (522,089 ) 
+
+ Capital contribution from non-controlling interests 
+ 150,804 
+ 18,442 
+
+ Other 
+ 21,521 
+ (5,249 ) 
+
+ Total net cash used in financing activities from continuing operations 
+ (277,303 ) 
+ (833,508 ) 
+
+ Net cash used in financing activities from discontinued operations 
+ (20,940 ) 
+ (9,253 ) 
+
+ Net cash used in financing activities 
+ (298,243 ) 
+ (842,761 ) 
+
+ Effect of exchange rate changes on cash and cash equivalents 
+ (19,469 ) 
+ 95,609 
+
+ Net increase (decrease) in cash and cash equivalents 
+ 1,073,843 
+ (772,077 ) 
+
+ Cash and cash equivalents at beginning of the fiscal year 
+ 1,907,113 
+ 2,980,956 
+
+ Cash and cash equivalents at end of the fiscal year 
+ 2,980,956 
+ 2,208,879 
+
+ - 10 -
+
+ Notes to Consolidated Financial Statements 
+
+ Business Segment Information 
+
+ At a meeting of Sony Group Corporation's
+Board of Directors (the "Board") held on May 14, 2025, Sony Group Corporation resolved the plan regarding the execution
+of a partial spin-off (the "Spin-off") of Sony Financial Group Inc. ("SFGI"), a wholly-owned subsidiary which
+operates the Financial Services business. In accordance with the resolution, the Financial Services business was classified as a discontinued
+operation and has been excluded from the reporting segments. Consequently, the figures for comparative periods have been re-presented.
+For further information on discontinued operations, please refer to "Notes to Consolidated Financial Statements - Accounting Policy
+and Other Information (Discontinued operations)."
+
+ (Business Segments)
+
+ Segment sales
+
+ Yen in millions 
+
+ Fiscal year ended March 31 
+
+ 2025 
+ 2026 
+ Change 
+
+ Sales: 
+
+ Game & Network Services - 
+
+ Customers 
+ 4,543,571 
+ 4,570,053 
+ 26,482 
+
+ Intersegment 
+ 126,473 
+ 115,598 
+ (10,875 ) 
+
+ Total 
+ 4,670,044 
+ 4,685,651 
+ 15,607 
+
+ Music - 
+
+ Customers 
+ 1,820,263 
+ 2,090,534 
+ 270,271 
+
+ Intersegment 
+ 22,341 
+ 29,576 
+ 7,235 
+
+ Total 
+ 1,842,604 
+ 2,120,110 
+ 277,506 
+
+ Pictures - 
+
+ Customers 
+ 1,498,534 
+ 1,486,296 
+ (12,238 ) 
+
+ Intersegment 
+ 7,410 
+ 12,994 
+ 5,584 
+
+ Total 
+ 1,505,944 
+ 1,499,290 
+ (6,654 ) 
+
+ Entertainment, Technology & Services - 
+
+ Customers 
+ 2,362,838 
+ 2,184,815 
+ (178,023 ) 
+
+ Intersegment 
+ 46,437 
+ 75,717 
+ 29,280 
+
+ Total 
+ 2,409,275 
+ 2,260,532 
+ (148,743 ) 
+
+ Imaging & Sensing Solutions - 
+
+ Customers 
+ 1,712,534 
+ 2,059,020 
+ 346,486 
+
+ Intersegment 
+ 86,471 
+ 92,513 
+ 6,042 
+
+ Total 
+ 1,799,005 
+ 2,151,533 
+ 352,528 
+
+ All Other - 
+
+ Customers 
+ 82,477 
+ 74,564 
+ (7,913 ) 
+
+ Intersegment 
+ 13,856 
+ 14,508 
+ 652 
+
+ Total 
+ 96,333 
+ 89,072 
+ (7,261 ) 
+
+ Corporate and elimination 
+ (288,288 ) 
+ (326,568 ) 
+ (38,280 ) 
+
+ Consolidated total 
+ 12,034,917 
+ 12,479,620 
+ 444,703 
+
+ Note:
+
+ Game & Network Services ("G&NS")
+intersegment amounts primarily consist of transactions with the Entertainment, Technology & Services ("ET&S")
+segment. ET&S intersegment amounts primarily consist of transactions with the G&NS segment. Imaging & Sensing Solutions
+("I&SS") intersegment amounts primarily consist of transactions with the G&NS segment and the ET&S segment. Corporate
+and elimination includes certain brand and patent royalty income.
+
+ Intersegment amounts in each segment, as well
+as Corporate and elimination, include transaction amounts with discontinued operations.
+
+ - 11 -
+
+ Segment profit (loss)
+
+ Yen in millions 
+
+ Fiscal year ended March 31 
+
+ 2025 
+ 2026 
+ Change 
+
+ Operating income (loss): 
+
+ Game & Network Services 
+ 414,819 
+ 463,258 
+ 48,439 
+
+ Music 
+ 357,255 
+ 446,986 
+ 89,731 
+
+ Pictures 
+ 117,284 
+ 104,872 
+ (12,412 ) 
+
+ Entertainment, Technology & Services 
+ 190,926 
+ 158,584 
+ (32,342 ) 
+
+ Imaging & Sensing Solutions 
+ 261,147 
+ 357,318 
+ 96,171 
+
+ All Other 
+ (17,996 ) 
+ (74,646 ) 
+ (56,650 ) 
+
+ Total 
+ 1,323,435 
+ 1,456,372 
+ 132,937 
+
+ Corporate and elimination 
+ (46,800 ) 
+ (8,865 ) 
+ 37,935 
+
+ Consolidated operating income 
+ 1,276,635 
+ 1,447,507 
+ 170,872 
+
+ Operating income (loss) is sales less costs and
+expenses, and includes the share of profit (loss) of investments accounted for using the equity method.
+
+ Operating income (loss) in each segment, as well
+as Corporate and elimination, include transaction amounts with discontinued operations.
+
+ - 12 -
+
+ Segment sales
+
+ Yen in millions 
+
+ Three months ended March 31 
+
+ 2025 
+ 2026 
+ Change 
+
+ Sales: 
+
+ Game & Network Services - 
+
+ Customers 
+ 1,045,209 
+ 1,011,155 
+ (34,054 ) 
+
+ Intersegment 
+ 6,064 
+ 11,205 
+ 5,141 
+
+ Total 
+ 1,051,273 
+ 1,022,360 
+ (28,913 ) 
+
+ Music - 
+
+ Customers 
+ 463,569 
+ 560,510 
+ 96,941 
+
+ Intersegment 
+ 7,122 
+ 9,452 
+ 2,330 
+
+ Total 
+ 470,691 
+ 569,962 
+ 99,271 
+
+ Pictures - 
+
+ Customers 
+ 411,402 
+ 465,121 
+ 53,719 
+
+ Intersegment 
+ 3,176 
+ 7,764 
+ 4,588 
+
+ Total 
+ 414,578 
+ 472,885 
+ 58,307 
+
+ Entertainment, Technology & Services - 
+
+ Customers 
+ 469,577 
+ 478,195 
+ 8,618 
+
+ Intersegment 
+ 14,505 
+ 14,246 
+ (259 ) 
+
+ Total 
+ 484,082 
+ 492,441 
+ 8,359 
+
+ Imaging & Sensing Solutions - 
+
+ Customers 
+ 388,242 
+ 503,643 
+ 115,401 
+
+ Intersegment 
+ 20,798 
+ 20,739 
+ (59 ) 
+
+ Total 
+ 409,040 
+ 524,382 
+ 115,342 
+
+ All Other - 
+
+ Customers 
+ 22,188 
+ 17,861 
+ (4,327 ) 
+
+ Intersegment 
+ 3,391 
+ 2,810 
+ (581 ) 
+
+ Total 
+ 25,579 
+ 20,671 
+ (4,908 ) 
+
+ Corporate and elimination 
+ (50,305 ) 
+ (66,284 ) 
+ (15,979 ) 
+
+ Consolidated total 
+ 2,804,938 
+ 3,036,417 
+ 231,479 
+
+ Note:
+
+ G&NS intersegment amounts primarily consist
+of transactions with the ET&S segment. ET&S intersegment amounts primarily consist of transactions with the G&NS segment.
+I&SS intersegment amounts primarily consist of transactions with the G&NS segment and the ET&S segment. Corporate and elimination
+includes certain brand and patent royalty income.
+
+ Intersegment amounts in each segment, as well
+as Corporate and elimination, include transaction amounts with discontinued operations.
+
+ - 13 -
+
+ Segment profit (loss)
+
+ Yen in millions 
+
+ Three months ended March 31 
+
+ 2025 
+ 2026 
+ Change 
+
+ Operating income (loss): 
+
+ Game & Network Services 
+ 92,698 
+ 54,104 
+ (38,594 ) 
+
+ Music 
+ 83,578 
+ 132,391 
+ 48,813 
+
+ Pictures 
+ 53,476 
+ 41,498 
+ (11,978 ) 
+
+ Entertainment, Technology & Services 
+ (20,417 ) 
+ (4,941 ) 
+ 15,476 
+
+ Imaging & Sensing Solutions 
+ 34,543 
+ 32,831 
+ (1,712 ) 
+
+ All Other 
+ (9,759 ) 
+ (67,587 ) 
+ (57,828 ) 
+
+ Total 
+ 234,119 
+ 188,296 
+ (45,823 ) 
+
+ Corporate and elimination 
+ (18,915 ) 
+ (24,759 ) 
+ (5,844 ) 
+
+ Consolidated operating income 
+ 215,204 
+ 163,537 
+ (51,667 ) 
+
+ Operating income (loss) is sales less costs and
+expenses, and includes the share of profit (loss) of investments accounted for using the equity method.
+
+ Operating income (loss) in each segment, as well
+as Corporate and elimination, include transaction amounts with discontinued operations.
+
+ - 14 -
+
+ (Sales to Customers by Product Category)
+
+ The following table is a
+breakdown of sales to external customers by product category for each segment. Sony management views each segment as a single operating
+segment.
+
+ Yen in millions 
+
+ Fiscal year ended March 31 
+
+ Sales 
+ 2025 
+ 2026 
+ Change 
+
+ Game & Network Services 
+
+ Digital Software and Add-on Content 
+ 2,290,498 
+ 2,415,305 
+ 124,807 
+
+ Network Services 
+ 669,873 
+ 763,126 
+ 93,253 
+
+ Hardware and Others 
+ 1,583,200 
+ 1,391,622 
+ (191,578 ) 
+
+ Total 
+ 4,543,571 
+ 4,570,053 
+ 26,482 
+
+ Music 
+
+ Recorded Music - Streaming 
+ 788,772 
+ 852,672 
+ 63,900 
+
+ Recorded Music - Others 
+ 407,260 
+ 492,656 
+ 85,396 
+
+ Music Publishing 
+ 379,812 
+ 419,864 
+ 40,052 
+
+ Visual Media and Platform 
+ 244,419 
+ 325,342 
+ 80,923 
+
+ Total 
+ 1,820,263 
+ 2,090,534 
+ 270,271 
+
+ Pictures 
+
+ Motion Pictures 
+ 610,313 
+ 495,655 
+ (114,658 ) 
+
+ Television Productions 
+ 459,281 
+ 512,372 
+ 53,091 
+
+ Media Networks 
+ 428,940 
+ 478,269 
+ 49,329 
+
+ Total 
+ 1,498,534 
+ 1,486,296 
+ (12,238 ) 
+
+ Entertainment, Technology & Services 
+
+ Imaging 
+ 737,639 
+ 722,465 
+ (15,174 ) 
+
+ Sound 
+ 290,538 
+ 278,846 
+ (11,692 ) 
+
+ Network Services 
+ 179,704 
+ 188,308 
+ 8,604 
+
+ Displays 
+ 597,777 
+ 476,305 
+ (121,472 ) 
+
+ Other 
+ 557,180 
+ 518,891 
+ (38,289 ) 
+
+ Total 
+ 2,362,838 
+ 2,184,815 
+ (178,023 ) 
+
+ Imaging & Sensing Solutions 
+ 1,712,534 
+ 2,059,020 
+ 346,486 
+
+ All Other 
+ 82,477 
+ 74,564 
+ (7,913 ) 
+
+ Corporate 
+ 14,700 
+ 14,338 
+ (362 ) 
+
+ Consolidated total 
+ 12,034,917 
+ 12,479,620 
+ 444,703 
+
+ Note:
+
+ Sony has realigned its product categories in the
+ET&S segment due to changes in business categories from the first quarter of the fiscal year ended March 31, 2026. In accordance
+with this realignment, results for the fiscal year ended March 31, 2025 in the table above have been reclassified to conform to the
+current presentation.
+
+ - 15 -
+
+ Yen in millions 
+
+ Three months ended March 31 
+
+ Sales 
+ 2025 
+ 2026 
+ Change 
+
+ Game & Network Services 
+
+ Digital Software and Add-on Content 
+ 580,501 
+ 593,503 
+ 13,002 
+
+ Network Services 
+ 172,833 
+ 208,521 
+ 35,688 
+
+ Hardware and Others 
+ 291,875 
+ 209,131 
+ (82,744 ) 
+
+ Total 
+ 1,045,209 
+ 1,011,155 
+ (34,054 ) 
+
+ Music 
+
+ Recorded Music - Streaming 
+ 193,040 
+ 225,277 
+ 32,237 
+
+ Recorded Music - Others 
+ 98,138 
+ 142,992 
+ 44,854 
+
+ Music Publishing 
+ 96,280 
+ 107,219 
+ 10,939 
+
+ Visual Media and Platform 
+ 76,111 
+ 85,022 
+ 8,911 
+
+ Total 
+ 463,569 
+ 560,510 
+ 96,941 
+
+ Pictures 
+
+ Motion Pictures 
+ 157,983 
+ 161,307 
+ 3,324 
+
+ Television Productions 
+ 143,183 
+ 177,008 
+ 33,825 
+
+ Media Networks 
+ 110,236 
+ 126,806 
+ 16,570 
+
+ Total 
+ 411,402 
+ 465,121 
+ 53,719 
+
+ Entertainment, Technology & Services 
+
+ Imaging 
+ 148,140 
+ 163,537 
+ 15,397 
+
+ Sound 
+ 48,301 
+ 54,147 
+ 5,846 
+
+ Network Services 
+ 46,136 
+ 48,428 
+ 2,292 
+
+ Displays 
+ 98,187 
+ 87,424 
+ (10,763 ) 
+
+ Other 
+ 128,813 
+ 124,659 
+ (4,154 ) 
+
+ Total 
+ 469,577 
+ 478,195 
+ 8,618 
+
+ Imaging & Sensing Solutions 
+ 388,242 
+ 503,643 
+ 115,401 
+
+ All Other 
+ 22,188 
+ 17,861 
+ (4,327 ) 
+
+ Corporate 
+ 4,751 
+ (68 ) 
+ (4,819 ) 
+
+ Consolidated total 
+ 2,804,938 
+ 3,036,417 
+ 231,479 
+
+ Note:
+
+ Sony has realigned its product categories in the
+ET&S segment due to changes in business categories from the first quarter of the fiscal year ended March 31, 2026. In accordance
+with this realignment, results for the three months ended March 31, 2025 in the table above have been reclassified to conform to
+the current presentation.
+
+ In the G&NS segment, Digital Software and
+Add-on Content includes distribution of software titles and add-on content through the network; Network Services includes network services
+relating to game, video and music content; Hardware and Others includes home gaming consoles, packaged software, game software sold bundled
+with home gaming consoles, peripheral devices and first-party software for third-party platforms. In the Music segment, Recorded Music
+- Streaming includes the distribution of digital recorded music by streaming; Recorded Music - Others includes the distribution of recorded
+music by physical media and digital download as well as revenue derived from artists' live performances and merchandising; Music
+Publishing includes the management and licensing of the words and music of songs; Visual Media and Platform includes the production and
+distribution of animation titles and game applications, and various service offerings for music and visual products. In the Pictures segment,
+Motion Pictures includes the worldwide production, acquisition and distribution of live-action and animated motion pictures; Television
+Productions includes the production, acquisition and distribution of television programming; Media Networks includes the operation of
+television networks and direct-to-consumer streaming services worldwide. In the ET&S segment, Imaging includes image and video
+content creation products and solutions, including interchangeable lens cameras and interchangeable lenses; Sound includes headphones
+and wireless speakers; Network Services includes internet-related services; Displays includes display products such as LCD and OLED televisions,
+as well as projectors; Other includes smartphones, home audio products and medical equipment, as well as sports officiating support and
+content production support services.
+
+ - 16 -
+
+ Going Concern Assumption 
+
+ Not Applicable
+
+ Accounting Policy and Other Information 
+
+ (Net Income (Loss) Attributable to Sony Group
+Corporation's Stockholders per Share ("EPS") and Weighted-average Number of Outstanding Shares Used for the Computation
+of EPS of Common Stock) 
+
+ Yen in millions 
+
+ Fiscal year ended March 31 
+
+ 2025 
+ 2026 
+
+ Net income (loss) attributable to Sony Group Corporation's stockholders for basic and diluted EPS computation 
+ 1,141,600 
+ (326,865 ) 
+
+ Continuing operations 
+ 1,067,431 
+ 1,030,893 
+
+ Discontinued operations 
+ 74,169 
+ (1,357,758 ) 
+
+ Thousands of shares 
+
+ Fiscal year ended March 31 
+
+ 2025 
+ 2026 
+
+ Weighted-average shares outstanding for basic EPS computation 
+ 6,049,652 
+ 5,975,984 
+
+ Effect of dilutive securities: 
+
+ Stock options 
+ 18,862 
+ 25,890 
+
+ Restricted stock units 
+ 6,550 
+ 11,316 
+
+ Weighted-average shares for diluted EPS computation 
+ 6,075,064 
+ 6,013,190 
+
+ Yen in millions 
+
+ Three months ended March 31 
+
+ 2025 
+ 2026 
+
+ Net income (loss) attributable to Sony Group Corporation's stockholders for basic and diluted EPS computation 
+ 197,727 
+ 82,870 
+
+ Continuing operations 
+ 224,442 
+ 83,117 
+
+ Discontinued operations 
+ (26,715 ) 
+ (247 ) 
+
+ Thousands of shares 
+
+ Three months ended March 31 
+
+ 2025 
+ 2026 
+
+ Weighted-average shares outstanding for basic EPS computation 
+ 6,026,889 
+ 5,938,819 
+
+ Effect of dilutive securities: 
+
+ Stock options 
+ 24,664 
+ 18,841 
+
+ Restricted stock units 
+ 7,488 
+ 7,655 
+
+ Weighted-average shares for diluted EPS computation 
+ 6,059,041 
+ 5,965,315 
+
+ Note:
+
+ Sony Group Corporation conducted a five-for-one
+stock split of its common stock effective October 1, 2024, with a record date of September 30, 2024. Basic and diluted EPS are
+calculated based on the assumption that the stock split was conducted at the beginning of the fiscal year ended March 31, 2025.
+
+ - 17 -
+
+ (Segmentation) 
+
+ The G&NS segment
+includes the production and sales of digital software and add-on content, the network services businesses and the manufacture and sales
+of home gaming products. The Music segment includes the Recorded Music, Music Publishing and Visual Media and Platform businesses. The
+Pictures segment includes the Motion Pictures, Television Productions and Media Networks businesses. The ET&S segment includes the
+Imaging business, the Sound business, the Network Services business and the Displays business. The I&SS segment includes the image
+sensors business. All Other consists of various operating activities, including the disc manufacturing and recording media businesses.
+Sony's products and services are generally unique to a single operating segment.
+
+ At a meeting of
+the Board held on May 14, 2025, Sony Group Corporation resolved the plan regarding the execution of the Spin-off. In accordance with
+the resolution, the Financial Services business was classified as a discontinued operation and has been excluded from the reporting segments.
+Consequently, the figures for comparative periods have been re-presented. For further information on discontinued operations, please refer
+to "Notes to Consolidated Financial Statements -Accounting Policy and Other Information (Discontinued operations)."
+
+ (Change in presentation) 
+
+ At a meeting of
+the Board held on May 14, 2025, Sony Group Corporation resolved the plan regarding the execution of the Spin-off. In connection with
+the resolution, the Financial Services business was classified as a discontinued operation. Income and loss related to a business classified
+as a discontinued operation are separately presented, net of income taxes, following net income from continuing operations, in the consolidated
+statements of income. In accordance with the classification of the Financial Services business as a discontinued operation, the consolidated
+statements of income, consolidated statements of comprehensive income, consolidated statements of cash flows, and related notes to the
+consolidated financial statements for comparative periods have been re-presented separately for continuing operations and discontinued
+operations. In the consolidated statements of cash flows, cash flows from operating, investing and financing activities are presented
+separately for continuing operations and discontinued operations. For further information on discontinued operations, please refer to
+ "Notes to Consolidated Financial Statements - Accounting Policy and Other Information (Discontinued operations)."
+
+ Sony Group Corporation
+executed the Spin-off effective October 1, 2025. As a result, "Lease liabilities," which had previously been included
+within "Current portion of long-term debt," and "Long-term debt" have increased in materiality and are presented
+as a separate caption in the consolidated statements of financial position as of March 31, 2026. In addition, due to this change,
+ "Payments of lease liabilities," which had been included within "Payments of long-term debt," are presented separately
+in the consolidated statements of cash flows for the fiscal year ended March 31, 2026. Furthermore, "Contract liabilities,"
+which had previously been included within "Other current liabilities," have also increased in materiality and are presented
+separately in the consolidated statements of financial position as of March 31, 2026. Corresponding reclassifications have been made
+to the consolidated statements of financial position as of the end of the fiscal year ended March 31, 2025 and to the consolidated
+statements of cash flows for the fiscal year ended March 31, 2025 to conform to these changes in presentation.
+
+ (Significant changes in the scope of consolidation
+during the period) 
+
+ Sony Group Corporation
+executed the Spin-off effective October 1, 2025. Consequently, SFGI, which was a wholly-owned subsidiary of Sony Group Corporation,
+and 67 other subsidiaries (including structured entities) were excluded from the scope of consolidation.
+
+ - 18 -
+
+ (Discontinued operations) 
+
+ At a meeting of
+the Board held on May 14, 2025, Sony Group Corporation resolved to submit a resolution for the execution of the Spin-off, effective
+October 1, 2025, to the Board in early September 2025. Afterwards, at a meeting of the Board held on September 3, 2025,
+Sony Group Corporation resolved to execute the Spin-off effective October 1, 2025. Upon execution of the Spin-off, Sony Group Corporation
+distributed dividends in kind to shareholders appearing in Sony Group Corporation's register of shareholders as of the record date,
+September 30, 2025, at the rate of one share of common stock of SFGI ("SFGI share(s)") to one share of common stock of
+Sony Group Corporation held by each shareholder, effective October 1, 2025. As a result, Sony Group Corporation held 16.40% of SFGI
+shares as of October 1, 2025.
+
+ In connection
+with the Board resolution on May 14, 2025 on the plan for the execution of the Spin-off, Sony Group Corporation determined that the
+distribution of SFGI shares was highly probable and the Financial Services business was classified as a discontinued operation, in accordance
+with IFRS 5 "Non-current Assets Held for Sale and Discontinued Operations." As a result, in the consolidated statements of
+income, consolidated statements of comprehensive income, and consolidated statements of cash flows; revenue, expenses, other comprehensive
+income and cash flows of the Financial Services business, among other items, are separated from continuing operations, comprised of Sony's
+businesses excluding the Financial Services business, and presented as net income (loss) from discontinued operations, other comprehensive
+income from discontinued operations, and net cash from discontinued operations, respectively.
+
+ Then, as a result
+of the execution of the Spin-off effective October 1, 2025, SFGI, which was a wholly-owned subsidiary of Sony Group Corporation,
+was deconsolidated as of October 1, 2025 and became an affiliate accounted for using the equity method.
+
+ Further, as a
+result of the execution of the Spin-off, 1,377,795 million yen of accumulated other comprehensive income directly related to the disposal
+group classified as held for distribution to owners at the time of the execution was transferred to net income (loss) from discontinued
+operations as a loss in the consolidated statements of income. In the consolidated statements of cash flows, the decrease resulting from
+deconsolidation in cash and cash equivalents previously recorded in the Financial Services business as of the execution of the Spin-off,
+amounting to 1,170,068 million yen, is included in net cash used in investing activities from discontinued operations.
+
+ In addition, upon
+applying the equity method to SFGI on October 1, 2025, the fair value of SFGI shares on that date was recorded as its initial investment
+cost. At the time of the execution of the Spin-off, since Sony's equity interest in the net fair value of SFGI's identifiable
+assets and liabilities exceeded the cost of the initial recognition of the investment, 188,888 million yen of the excess was recognized
+as the share of profit of investments accounted for using the equity method in connection with the initial investment cost. On the other
+hand, since the fair value of SFGI shares as of October 1, 2025 was lower than the equity method carrying amount, which is the initial
+investment cost plus the share of profit of investments accounted for using the equity method, 188,888 million yen of an impairment loss
+of the same amount as the aforementioned excess amount has been recorded, as the share of loss of investments accounted for using the
+equity method.
+
+ - 19 -
+
+ Results of discontinued operations
+
+ Yen in millions 
+
+ Fiscal year ended March 31 
+
+ 2025 
+ 2026 
+
+ Financial services revenue 
+ 922,147 
+ 678,023 
+
+ Financial services expenses 
+ 789,702 
+ 640,811 
+
+ Reclassification of accumulated other comprehensive income related to the disposal group to net income (loss) 
+ - 
+ (1,377,795 ) 
+
+ Other income (expenses), net 
+ (1,917 ) 
+ (6,450 ) 
+
+ Income (loss) before income taxes from discontinued operations 
+ 130,528 
+ (1,347,033 ) 
+
+ Income taxes 
+ 56,359 
+ 10,725 
+
+ Net income (loss) from discontinued operations 
+ 74,169 
+ (1,357,758 ) 
+
+ Other comprehensive income, net of tax, from discontinued operations 
+ (115,342 ) 
+ 1,408,764 
+
+ Items that will not be reclassified to profit or loss 
+
+ Changes in equity instruments measured at fair value through other comprehensive income 
+ (998 ) 
+ 963 
+
+ Remeasurement of defined benefit pension plans 
+ (444 ) 
+ (106 ) 
+
+ Items that may be reclassified subsequently to profit or loss 
+
+ Changes in debt instruments measured at fair value through other comprehensive income 
+ (681,515 ) 
+ 1,346,457 
+
+ Insurance finance income (expenses) 
+ 568,291 
+ 60,684 
+
+ Others 
+ (676 ) 
+ 766 
+
+ Comprehensive income from discontinued operations 
+ (41,173 ) 
+ 51,006 
+
+ - 20 -
+
+ Subsequent Events 
+
+ (Establishment of a facility for the repurchase of shares of its
+own common stock) 
+
+ Sony Group Corporation
+approved the establishment of the following facility for the repurchase of its own common stock pursuant to the Companies Act of Japan
+and Sony Group Corporation's Articles of Incorporation at the meeting of the Board held on May 8, 2026.
+
+ 1. Total number
+of shares for repurchase: 230 million shares (maximum)
+
+ 2. Total purchase
+price for repurchase of shares: 500 billion yen (maximum)
+
+ 3. Period of repurchase:
+May 11, 2026 to May 10, 2027
+
+ (Cancellation of shares of its own common stock) 
+
+ Based on a decision
+by Sony Group Corporation's Representative Corporate Executive Officer delegated by the Board, and pursuant to the Companies
+Act of Japan, Sony Group Corporation has decided to cancel shares of its own common stock held as treasury stock as follows.
+
+ 1. Total number
+of shares to be cancelled: 184,494,319 shares
+
+ 2. Planned cancellation
+date: May 29, 2026
+
+ - 21 -
+
+ Overview of Operating Results 
+
+ For the overview of operating results for the fiscal year ended March
+31, 2026 and the results forecast for the fiscal year ending March 31, 2027, as well as the progress on the Fifth Mid-Range Plan, please
+refer to "FY2025 Consolidated Financial Results" (the presentation material for the earnings announcement) disclosed on the
+same date as this document on the Timely Disclosure Network (TDnet) of the TSE, the Electronic Data Gathering, Analysis, and Retrieval
+(EDGAR) system of the U.S. Securities and Exchange Commission and the website of Sony Group Corporation.
+
+ Basic Views on Selection of Accounting Standards 
+
+ Sony has voluntarily adopted IFRS Accounting Standards
+from the first quarter of the fiscal year ended March 31, 2022, with the goal of further streamlining and maintaining the quality
+of Sony's financial and management reporting systems over the mid- to long-term, and with the aim of improving the international
+comparability of financial information in the capital markets.
+
+ Cautionary Statement 
+
+ Statements made in this material with respect
+to Sony's current plans, estimates, strategies and beliefs and other statements that are not historical facts are forward-looking
+statements about the future performance of Sony. Forward-looking statements include, but are not limited to, those statements using words
+such as "believe," "expect," "plans," "strategy," "prospects," "forecast,"
+ "estimate," "project," "anticipate," "aim," "intend," "seek,"
+ "may," "might," "could" or "should," and words of similar meaning in connection with a
+discussion of future operations, financial performance, events or conditions. From time to time, oral or written forward-looking statements
+may also be included in other materials released to the public. These statements are based on management's assumptions, judgments
+and beliefs in light of the information currently available to it. Sony cautions investors that a number of important risks and uncertainties
+could cause actual results to differ materially from those discussed in the forward-looking statements, and therefore investors should
+not place undue reliance on them. Investors also should not rely on any obligation of Sony to update or revise any forward-looking statements,
+whether as a result of new information, future events or otherwise. Sony disclaims any such obligation. Risks and uncertainties that might
+affect Sony include, but are not limited to:
+
+ (i) 
+ Sony's ability to maintain product quality and customer satisfaction with its products and services; 
+
+ (ii) 
+ Sony's ability to continue to design and develop and win acceptance of, as well as achieve sufficient cost reductions for, its products and services, including image sensors, game and network platforms, smartphones and televisions, which are offered in highly competitive markets characterized by severe price competition and continual new product and service introductions, rapid development in technology and subjective and changing customer preferences; 
+
+ (iii) 
+ Sony's ability to implement successful hardware, software, and content integration strategies, and to develop and implement successful sales and distribution strategies in light of new technologies and distribution platforms; 
+
+ (iv) 
+ the effectiveness of Sony's strategies and their execution, including but not limited to the success of Sony's acquisitions, joint ventures, investments, capital expenditures, restructurings and other strategic initiatives; 
+
+ (v) 
+ changes in laws, regulations and government policies in the markets in which Sony and its third-party suppliers, service providers and business partners operate, including those related to taxation, as well as growing consumer focus on corporate social responsibility; 
+
+ (vi) 
+ Sony's continued ability to identify the products, services and market trends with significant growth potential, to devote sufficient resources to research and development, to prioritize investments and capital expenditures correctly and to recoup its investments and capital expenditures, including those required for technology development and product capacity; 
+
+ (vii) 
+ Sony's reliance on external business partners, including for the procurement of parts, components, software and network services for its products or services, the manufacturing, marketing and distribution of its products, and its other business operations; 
+
+ (viii) 
+ the global economic and political environment in which Sony operates and the economic and political conditions in Sony's markets, particularly levels of consumer spending; 
+
+ (ix) 
+ Sony's ability to meet operational and liquidity needs as a result of significant volatility and disruption in the global financial markets or a ratings downgrade; 
+
+ (x) 
+ Sony's ability to forecast demands, manage timely procurement and control inventories; 
+
+ (xi) 
+ foreign exchange rates, particularly between the yen and the U.S. dollar, the euro and other currencies in which Sony makes significant sales and incurs production costs, or in which Sony's assets, liabilities and operating results are denominated; 
+
+ (xii) 
+ Sony's ability to recruit, retain and maintain productive relations with highly skilled personnel; 
+
+ (xiii) 
+ Sony's ability to prevent unauthorized use or theft of intellectual property rights, to obtain or renew licenses relating to intellectual property rights and to defend itself against claims that its products or services infringe the intellectual property rights owned by others; 
+
+ (xiv) 
+ risks related to catastrophic disasters, geopolitical conflicts, pandemic disease or similar events; 
+
+ (xv) 
+ the ability of Sony, its third-party service providers or business partners to anticipate and manage cybersecurity risk, including the risk of unauthorized access to Sony's business information and the personally identifiable information of its employees and customers, potential business disruptions or financial losses; and 
+
+ (xvi) 
+ the outcome of pending and/or future legal and/or regulatory proceedings. 
+
+ Risks and uncertainties also include the impact
+of any future events with material adverse impact. The continued impact of developments relating to the situations in Ukraine and Russia
+and in the Middle East, as well as the series of changes in U.S. tariff policy, could heighten many of the risks and uncertainties noted
+above. Important information regarding risks and uncertainties is also set forth in Sony's most recent Form 20-F, which is
+on file with the U.S. Securities and Exchange Commission.
+
+ - 22 -

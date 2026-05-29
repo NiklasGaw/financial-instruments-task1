@@ -1,0 +1,61 @@
+{
+  "company": "Home Depot Inc.",
+  "ticker": "HD",
+  "report_date": "2025-02-02",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Building Materials",
+      "revenue": 12.8,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "D\u00e9cor",
+      "revenue": 13.2,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Hardlines",
+      "revenue": 11.6,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 39.7,
+    "cost_of_revenue": 26.6,
+    "gross_profit": 13.1,
+    "total_operating_expenses": 8.6,
+    "operating_income": 4.5,
+    "other_income_expense": -0.7,
+    "income_before_tax": 3.9,
+    "tax_expense": 0.8,
+    "net_income": 3.0,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 7.7,
+      "other_operating": 0.9
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 90,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

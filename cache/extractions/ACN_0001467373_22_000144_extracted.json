@@ -1,0 +1,73 @@
+{
+  "company": "Accenture plc",
+  "ticker": "ACN",
+  "report_date": "2022-02-28",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2022",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Communications, Media & Technology",
+      "revenue": 3.1,
+      "operating_income": null,
+      "yoy_growth_pct": 20.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Financial Services",
+      "revenue": 3.3,
+      "operating_income": null,
+      "yoy_growth_pct": 17.9,
+      "sub_segments": []
+    },
+    {
+      "name": "Health & Public Service",
+      "revenue": 2.6,
+      "operating_income": null,
+      "yoy_growth_pct": 13.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Products",
+      "revenue": 4.3,
+      "operating_income": null,
+      "yoy_growth_pct": 24.6,
+      "sub_segments": []
+    },
+    {
+      "name": "Resources",
+      "revenue": 1.8,
+      "operating_income": null,
+      "yoy_growth_pct": 12.5,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 15.0,
+    "total_revenue_yoy_pct": 24.5,
+    "cost_of_revenue": 10.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 4.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 2.5
+    },
+    "total_operating_expenses": 2.4,
+    "operating_income": 2.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.1,
+    "income_before_tax": 2.1,
+    "tax_expense": 0.4,
+    "net_income": 1.6,
+    "net_income_yoy_pct": 13.5
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

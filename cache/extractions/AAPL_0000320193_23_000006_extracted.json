@@ -1,0 +1,73 @@
+{
+  "company": "Apple Inc.",
+  "ticker": "AAPL",
+  "report_date": "2022-12-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "iPhone",
+      "revenue": 65.8,
+      "operating_income": null,
+      "yoy_growth_pct": -8.2,
+      "sub_segments": []
+    },
+    {
+      "name": "Mac",
+      "revenue": 7.7,
+      "operating_income": null,
+      "yoy_growth_pct": -28.7,
+      "sub_segments": []
+    },
+    {
+      "name": "iPad",
+      "revenue": 9.4,
+      "operating_income": null,
+      "yoy_growth_pct": 29.6,
+      "sub_segments": []
+    },
+    {
+      "name": "Wearables, Home and Accessories",
+      "revenue": 13.5,
+      "operating_income": null,
+      "yoy_growth_pct": -8.3,
+      "sub_segments": []
+    },
+    {
+      "name": "Services",
+      "revenue": 20.8,
+      "operating_income": null,
+      "yoy_growth_pct": 6.4,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 117.2,
+    "total_revenue_yoy_pct": -5.5,
+    "cost_of_revenue": 66.8,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 50.3,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 7.7,
+      "selling_general_administrative": 6.6
+    },
+    "total_operating_expenses": 14.3,
+    "operating_income": 36.0,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.4,
+    "income_before_tax": 35.6,
+    "tax_expense": 5.6,
+    "net_income": 30.0,
+    "net_income_yoy_pct": -13.4
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

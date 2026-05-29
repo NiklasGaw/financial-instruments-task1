@@ -1,0 +1,117 @@
+{
+  "company": "Walt Disney Company",
+  "ticker": "DIS",
+  "report_date": "2022-07-02",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2022",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Entertainment",
+      "revenue": 14.1,
+      "operating_income": 1.4,
+      "yoy_growth_pct": 11.0,
+      "sub_segments": [
+        {
+          "name": "Linear Networks",
+          "revenue": 7.2,
+          "yoy_growth_pct": 3.0
+        },
+        {
+          "name": "Direct-to-Consumer",
+          "revenue": 5.1,
+          "yoy_growth_pct": 19.0
+        },
+        {
+          "name": "Content Sales/Licensing and Other",
+          "revenue": 2.1,
+          "yoy_growth_pct": 26.0
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "revenue": null,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Affiliate and subscription fees",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Advertising",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Experiences",
+      "revenue": 7.4,
+      "operating_income": 2.2,
+      "yoy_growth_pct": 70.0,
+      "sub_segments": [
+        {
+          "name": "Theme park admissions",
+          "revenue": 2.3,
+          "yoy_growth_pct": 100.7
+        },
+        {
+          "name": "Resorts and vacations",
+          "revenue": 1.8,
+          "yoy_growth_pct": 132.6
+        },
+        {
+          "name": "Parks & Experiences merchandise, food and beverage",
+          "revenue": 1.9,
+          "yoy_growth_pct": 50.2
+        },
+        {
+          "name": "Merchandise licensing and retail",
+          "revenue": 0.9,
+          "yoy_growth_pct": 16.1
+        },
+        {
+          "name": "Parks licensing and other",
+          "revenue": 0.5,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 21.5,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 4.1
+    },
+    "total_operating_expenses": 4.1,
+    "operating_income": 3.6,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.6,
+    "income_before_tax": 2.1,
+    "tax_expense": 0.6,
+    "net_income": 1.4,
+    "net_income_yoy_pct": null
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

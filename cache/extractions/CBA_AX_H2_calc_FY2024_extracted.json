@@ -1,0 +1,68 @@
+{
+  "company": "Commonwealth Bank of Australia",
+  "ticker": "CBA.AX",
+  "report_date": "2024-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "H2",
+  "currency": "USD",
+  "exchange_rate_to_usd": 1.51,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Retail Banking Services",
+      "revenue": 4.5,
+      "operating_income": 1.2,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Business Banking",
+      "revenue": 3.0,
+      "operating_income": 0.8,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Institutional Banking and Markets",
+      "revenue": 0.9,
+      "operating_income": 0.2,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "New Zealand",
+      "revenue": 1.0,
+      "operating_income": 0.2,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 9.6,
+    "cost_of_revenue": null,
+    "gross_profit": null,
+    "total_operating_expenses": 7.4,
+    "operating_income": 2.2,
+    "other_income_expense": -0.5,
+    "income_before_tax": 10.0,
+    "tax_expense": 2.9,
+    "net_income": 7.0,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null,
+      "other_operating": 7.4
+    }
+  },
+  "notes": "Calculated as FY minus H1 (second half-year)",
+  "_quality_score": 90,
+  "_synthetic_q4": true,
+  "_is_bank": true,
+  "_needs_retry": false
+}

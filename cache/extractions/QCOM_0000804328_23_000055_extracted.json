@@ -1,0 +1,75 @@
+{
+  "company": "Qualcomm Incorporated",
+  "ticker": "QCOM",
+  "report_date": "2023-09-24",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "QCT (Qualcomm CDMA Technologies)",
+      "revenue": 30.4,
+      "operating_income": null,
+      "yoy_growth_pct": -19.4,
+      "sub_segments": [
+        {
+          "name": "Handsets",
+          "revenue": 22.6,
+          "yoy_growth_pct": -21.7
+        },
+        {
+          "name": "Automotive",
+          "revenue": 1.9,
+          "yoy_growth_pct": 24.1
+        },
+        {
+          "name": "IoT (internet of things)",
+          "revenue": 5.9,
+          "yoy_growth_pct": -19.2
+        }
+      ]
+    },
+    {
+      "name": "QTL (Qualcomm Technology Licensing)",
+      "revenue": 5.8,
+      "operating_income": null,
+      "yoy_growth_pct": -17.6,
+      "sub_segments": []
+    },
+    {
+      "name": "QSI (Qualcomm Strategic Initiatives)",
+      "revenue": null,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 35.8,
+    "total_revenue_yoy_pct": -19.0,
+    "cost_of_revenue": 15.9,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 19.9,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 8.8,
+      "selling_general_administrative": 2.5
+    },
+    "total_operating_expenses": 11.3,
+    "operating_income": 7.8,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.5,
+    "income_before_tax": 7.4,
+    "tax_expense": 0.1,
+    "net_income": 7.2,
+    "net_income_yoy_pct": -44.1
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

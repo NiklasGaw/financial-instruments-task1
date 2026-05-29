@@ -1,0 +1,46 @@
+{
+  "ticker": "ABT",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Established Pharmaceutical Products",
+      "sub_segments": [
+        "Key Emerging Markets",
+        "Other Emerging Markets",
+        "Other"
+      ]
+    },
+    {
+      "name": "Nutritional Products",
+      "sub_segments": [
+        "Pediatric Nutritionals",
+        "Adult Nutritionals",
+        "International Pediatric Nutritionals",
+        "U.S. Pediatric Nutritionals",
+        "International Adult Nutritionals",
+        "U.S. Adult Nutritionals"
+      ]
+    },
+    {
+      "name": "Diagnostic Products",
+      "sub_segments": [
+        "Core Laboratory",
+        "Molecular",
+        "Point of Care",
+        "Rapid Diagnostics"
+      ]
+    },
+    {
+      "name": "Medical Devices",
+      "sub_segments": [
+        "Rhythm Management",
+        "Electrophysiology",
+        "Heart Failure",
+        "Vascular",
+        "Structural Heart",
+        "Neuromodulation",
+        "Diabetes Care"
+      ]
+    }
+  ]
+}

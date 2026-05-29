@@ -1,0 +1,116 @@
+{
+  "company": "Allianz SE",
+  "ticker": "ALV.DE",
+  "report_date": "2024-12-31",
+  "form_type": "Annual Report",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "EUR",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Property-Casualty",
+      "revenue": 75.8,
+      "operating_income": 8.1,
+      "yoy_growth_pct": 5.2,
+      "sub_segments": [
+        {
+          "name": "German Speaking Countries and Central Europe",
+          "revenue": 25.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Western & Southern Europe, Allianz Direct, and Allianz Partners",
+          "revenue": 22.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Asia Pacific",
+          "revenue": 8.9,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Global Insurance Lines & Anglo Markets, Iberia & Latin America, Africa",
+          "revenue": 19.5,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Life/Health",
+      "revenue": 68.4,
+      "operating_income": 5.3,
+      "yoy_growth_pct": 3.7,
+      "sub_segments": [
+        {
+          "name": "German Speaking Countries and Central Europe",
+          "revenue": 20.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Western & Southern Europe",
+          "revenue": 18.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Asia Pacific",
+          "revenue": 9.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Iberia & Latin America, Africa",
+          "revenue": 19.9,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Asset Management",
+      "revenue": 8.2,
+      "operating_income": 2.1,
+      "yoy_growth_pct": 8.2,
+      "sub_segments": [
+        {
+          "name": "PIMCO",
+          "revenue": 5.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Allianz Global Investors (AllianzGI)",
+          "revenue": 3.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Corporate and Other",
+      "revenue": null,
+      "operating_income": -1.2,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 132.2,
+    "total_revenue_yoy_pct": 7.0,
+    "cost_of_revenue": 82.1,
+    "cost_of_revenue_yoy_pct": 6.4,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 10.2
+    },
+    "total_operating_expenses": 11.9,
+    "operating_income": 14.0,
+    "operating_income_yoy_pct": 21.0,
+    "other_income_expense": -4.6,
+    "income_before_tax": 14.0,
+    "tax_expense": 3.5,
+    "net_income": 10.5,
+    "net_income_yoy_pct": 16.7
+  },
+  "notes": "Two-pass LLM extraction."
+}

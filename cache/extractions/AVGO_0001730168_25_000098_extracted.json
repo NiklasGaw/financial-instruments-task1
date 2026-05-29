@@ -1,0 +1,51 @@
+{
+  "company": "Broadcom Inc.",
+  "ticker": "AVGO",
+  "report_date": "2025-08-03",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Infrastructure software",
+      "revenue": 19.9,
+      "operating_income": null,
+      "yoy_growth_pct": 28.8,
+      "sub_segments": [
+        {
+          "name": "Subscriptions and services",
+          "revenue": 19.9,
+          "yoy_growth_pct": 28.8
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 16.0,
+    "total_revenue_yoy_pct": 22.0,
+    "cost_of_revenue": 5.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 10.7,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 3.0,
+      "selling_general_administrative": 1.1
+    },
+    "total_operating_expenses": 4.1,
+    "operating_income": 5.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 5.3,
+    "tax_expense": 1.1,
+    "net_income": null,
+    "net_income_yoy_pct": null
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 50
+}

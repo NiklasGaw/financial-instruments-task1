@@ -1,0 +1,74 @@
+{
+  "company": "Procter & Gamble Co.",
+  "ticker": "PG",
+  "report_date": "2023-06-30",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Beauty",
+      "revenue": 3.8,
+      "operating_income": 0.8,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Grooming",
+      "revenue": 1.7,
+      "operating_income": 0.4,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Health Care",
+      "revenue": 2.5,
+      "operating_income": 0.4,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Fabric & Home Care",
+      "revenue": 7.3,
+      "operating_income": 1.8,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Baby, Feminine & Family Care",
+      "revenue": 5.1,
+      "operating_income": 1.2,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 20.5,
+    "cost_of_revenue": 10.7,
+    "gross_profit": 9.8,
+    "total_operating_expenses": 5.6,
+    "operating_income": 4.2,
+    "other_income_expense": 0.1,
+    "income_before_tax": 4.3,
+    "tax_expense": 0.8,
+    "net_income": 3.5,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 5.8
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 90,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

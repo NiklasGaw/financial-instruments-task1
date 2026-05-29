@@ -1,0 +1,80 @@
+{
+  "company": "Johnson & Johnson",
+  "ticker": "JNJ",
+  "report_date": "2023-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "MedTech",
+      "revenue": -26.6,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Surgery",
+          "revenue": -2.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Orthopaedics",
+          "revenue": -4.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Interventional Solutions",
+          "revenue": -2.9,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Electrophysiology",
+          "revenue": -2.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Abiomed",
+          "revenue": -0.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Interventional Solutions",
+          "revenue": -0.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Vision",
+          "revenue": -3.3,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 13.6,
+    "cost_of_revenue": 3.4,
+    "gross_profit": 10.2,
+    "total_operating_expenses": 3.8,
+    "operating_income": 6.4,
+    "other_income_expense": -2.3,
+    "income_before_tax": 3.8,
+    "tax_expense": -0.1,
+    "net_income": 4.2,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 3.3
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 80,
+  "_synthetic_q4": true
+}

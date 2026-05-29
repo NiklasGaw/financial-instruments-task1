@@ -1,0 +1,25 @@
+{
+  "ticker": "CRM",
+  "source": "cache: 10-K 2024-01-31",
+  "segments": [
+    {
+      "name": "Subscription and support",
+      "sub_segments": [
+        "Agentforce Sales",
+        "Agentforce Service",
+        "Agentforce 360 Platform, Slack and Other",
+        "Agentforce Marketing and Agentforce Commerce",
+        "Agentforce Integration and Agentforce Analytics",
+        "Sales",
+        "Service",
+        "Platform and Other",
+        "Marketing and Commerce",
+        "Integration and Analytics"
+      ]
+    },
+    {
+      "name": "Professional services and other",
+      "sub_segments": []
+    }
+  ]
+}

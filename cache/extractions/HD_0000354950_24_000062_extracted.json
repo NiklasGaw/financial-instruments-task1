@@ -1,0 +1,59 @@
+{
+  "company": "Home Depot Inc.",
+  "ticker": "HD",
+  "report_date": "2024-01-28",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Building Materials",
+      "revenue": 57.0,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Décor",
+      "revenue": 50.3,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Hardlines",
+      "revenue": 45.3,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 152.7,
+    "total_revenue_yoy_pct": -3.0,
+    "cost_of_revenue": 101.7,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 51.0,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 26.6
+    },
+    "total_operating_expenses": 26.6,
+    "operating_income": 21.7,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.8,
+    "income_before_tax": 19.9,
+    "tax_expense": 4.8,
+    "net_income": 15.1,
+    "net_income_yoy_pct": -11.5
+  },
+  "notes": "XBRL IS + manual segment patch (Building Materials / Décor / Hardlines / Other).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

@@ -1,0 +1,85 @@
+{
+  "company": "Alphabet Inc. (Class A)",
+  "ticker": "GOOGL",
+  "report_date": "2025-06-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Google Services",
+      "revenue": 82.5,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Google advertising",
+          "revenue": 71.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Google Search & other",
+          "revenue": 54.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "YouTube ads",
+          "revenue": 9.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Google Network",
+          "revenue": 7.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Google subscriptions, platforms, and devices",
+          "revenue": 11.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Google Cloud",
+      "revenue": 13.6,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Other Bets",
+      "revenue": 0.4,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 96.4,
+    "total_revenue_yoy_pct": 13.8,
+    "cost_of_revenue": 39.0,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 57.4,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 13.8,
+      "selling_general_administrative": 12.3
+    },
+    "total_operating_expenses": 26.1,
+    "operating_income": 31.3,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 2.6,
+    "income_before_tax": 33.9,
+    "tax_expense": 5.7,
+    "net_income": 28.2,
+    "net_income_yoy_pct": 19.4
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

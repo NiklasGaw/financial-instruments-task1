@@ -1,0 +1,63 @@
+{
+  "company": "NVIDIA Corp",
+  "ticker": "NVDA",
+  "report_date": "2025-07-27",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Compute & Networking",
+      "revenue": 41.3,
+      "operating_income": 28.4,
+      "yoy_growth_pct": 56.0,
+      "sub_segments": [
+        {
+          "name": "Data Center Compute",
+          "revenue": 33.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Data Center Networking",
+          "revenue": 7.3,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Graphics",
+      "revenue": 5.4,
+      "operating_income": 2.2,
+      "yoy_growth_pct": 51.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 46.7,
+    "total_revenue_yoy_pct": 55.6,
+    "cost_of_revenue": 12.9,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 33.9,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 4.3,
+      "selling_general_administrative": 1.1
+    },
+    "total_operating_expenses": 5.4,
+    "operating_income": 28.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 2.8,
+    "income_before_tax": 31.2,
+    "tax_expense": 4.8,
+    "net_income": 26.4,
+    "net_income_yoy_pct": 59.2
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

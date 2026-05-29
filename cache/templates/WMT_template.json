@@ -1,0 +1,31 @@
+{
+  "ticker": "WMT",
+  "source": "cache: 10-K 2024-01-31",
+  "segments": [
+    {
+      "name": "Walmart U.S.",
+      "sub_segments": [
+        "Net sales",
+        "Membership and other income"
+      ]
+    },
+    {
+      "name": "Walmart International",
+      "sub_segments": [
+        "Net sales",
+        "Membership and other income"
+      ]
+    },
+    {
+      "name": "Sam's Club U.S.",
+      "sub_segments": [
+        "Net sales",
+        "Membership and other income"
+      ]
+    },
+    {
+      "name": "Sam's Club",
+      "sub_segments": []
+    }
+  ]
+}

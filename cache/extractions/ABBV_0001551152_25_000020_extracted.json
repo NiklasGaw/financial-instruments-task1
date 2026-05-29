@@ -1,0 +1,175 @@
+{
+  "company": "AbbVie Inc.",
+  "ticker": "ABBV",
+  "report_date": "2024-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Immunology",
+      "revenue": 26.7,
+      "operating_income": null,
+      "yoy_growth_pct": -36.9,
+      "sub_segments": [
+        {
+          "name": "Humira",
+          "revenue": 9.0,
+          "yoy_growth_pct": -37.6
+        },
+        {
+          "name": "Skyrizi",
+          "revenue": 11.7,
+          "yoy_growth_pct": 50.9
+        },
+        {
+          "name": "Rinvoq",
+          "revenue": 6.0,
+          "yoy_growth_pct": 50.4
+        }
+      ]
+    },
+    {
+      "name": "Oncology",
+      "revenue": 6.5,
+      "operating_income": null,
+      "yoy_growth_pct": -6.9,
+      "sub_segments": [
+        {
+          "name": "Imbruvica",
+          "revenue": 3.3,
+          "yoy_growth_pct": -6.9
+        },
+        {
+          "name": "Venclexta",
+          "revenue": 2.6,
+          "yoy_growth_pct": 12.9
+        },
+        {
+          "name": "Elahere",
+          "revenue": 0.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Epkinly",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Aesthetics",
+      "revenue": 5.2,
+      "operating_income": null,
+      "yoy_growth_pct": -12.0,
+      "sub_segments": [
+        {
+          "name": "Botox Cosmetic",
+          "revenue": 2.7,
+          "yoy_growth_pct": 1.4
+        },
+        {
+          "name": "Juvederm Collection",
+          "revenue": 1.2,
+          "yoy_growth_pct": -14.6
+        },
+        {
+          "name": "Other Aesthetics",
+          "revenue": 1.3,
+          "yoy_growth_pct": 3.7
+        }
+      ]
+    },
+    {
+      "name": "Neuroscience",
+      "revenue": 5.7,
+      "operating_income": null,
+      "yoy_growth_pct": 10.5,
+      "sub_segments": [
+        {
+          "name": "Botox Therapeutic",
+          "revenue": 3.3,
+          "yoy_growth_pct": 9.8
+        },
+        {
+          "name": "Vraylar",
+          "revenue": 3.3,
+          "yoy_growth_pct": 18.4
+        },
+        {
+          "name": "Duodopa",
+          "revenue": 0.4,
+          "yoy_growth_pct": -4.5
+        },
+        {
+          "name": "Ubrelvy",
+          "revenue": 1.0,
+          "yoy_growth_pct": 23.4
+        },
+        {
+          "name": "Qulipta",
+          "revenue": 0.7,
+          "yoy_growth_pct": 61.3
+        }
+      ]
+    },
+    {
+      "name": "Other Key Products",
+      "revenue": 3.5,
+      "operating_income": null,
+      "yoy_growth_pct": -6.9,
+      "sub_segments": [
+        {
+          "name": "Mavyret",
+          "revenue": 1.3,
+          "yoy_growth_pct": -8.3
+        },
+        {
+          "name": "Creon",
+          "revenue": 1.4,
+          "yoy_growth_pct": 9.1
+        },
+        {
+          "name": "Linzess/Constella",
+          "revenue": 0.9,
+          "yoy_growth_pct": -13.9
+        }
+      ]
+    },
+    {
+      "name": "All other",
+      "revenue": 3.0,
+      "operating_income": null,
+      "yoy_growth_pct": 1.4,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 56.3,
+    "total_revenue_yoy_pct": 3.7,
+    "cost_of_revenue": 16.9,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 39.4,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 14.8
+    },
+    "total_operating_expenses": 14.8,
+    "operating_income": 9.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -5.4,
+    "income_before_tax": 3.7,
+    "tax_expense": -0.6,
+    "net_income": 4.3,
+    "net_income_yoy_pct": -12.0
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

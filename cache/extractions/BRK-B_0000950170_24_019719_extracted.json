@@ -1,0 +1,110 @@
+{
+  "company": "Berkshire Hathaway Inc.",
+  "ticker": "BRK-B",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "GEICO",
+      "revenue": 39.3,
+      "operating_income": 3.6,
+      "yoy_growth_pct": 0.7,
+      "sub_segments": []
+    },
+    {
+      "name": "Berkshire Hathaway Primary Group",
+      "revenue": 17.1,
+      "operating_income": 1.4,
+      "yoy_growth_pct": 24.6,
+      "sub_segments": []
+    },
+    {
+      "name": "Berkshire Hathaway Reinsurance Group",
+      "revenue": 27.0,
+      "operating_income": 1.9,
+      "yoy_growth_pct": 23.6,
+      "sub_segments": []
+    },
+    {
+      "name": "BNSF",
+      "revenue": 23.9,
+      "operating_income": 6.6,
+      "yoy_growth_pct": -7.8,
+      "sub_segments": []
+    },
+    {
+      "name": "Berkshire Hathaway Energy (BHE)",
+      "revenue": 26.0,
+      "operating_income": 0.9,
+      "yoy_growth_pct": -1.5,
+      "sub_segments": [
+        {
+          "name": "Fixed lease revenue",
+          "revenue": 5.9,
+          "yoy_growth_pct": 13.9
+        },
+        {
+          "name": "Variable lease revenue",
+          "revenue": 2.5,
+          "yoy_growth_pct": 7.9
+        },
+        {
+          "name": "Other Berkshire Hathaway Energy (BHE)",
+          "revenue": 17.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Pilot Travel Centers (PTC)",
+      "revenue": 51.7,
+      "operating_income": 1.0,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "McLane Company",
+      "revenue": 52.6,
+      "operating_income": 0.5,
+      "yoy_growth_pct": -1.1,
+      "sub_segments": []
+    },
+    {
+      "name": "Service and retailing",
+      "revenue": 40.0,
+      "operating_income": 4.7,
+      "yoy_growth_pct": 4.4,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 254.9,
+    "total_revenue_yoy_pct": 22.7,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": null,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 120.2,
+    "tax_expense": 23.0,
+    "net_income": 96.2,
+    "net_income_yoy_pct": -521.7
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 85
+}

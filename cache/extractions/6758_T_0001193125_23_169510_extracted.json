@@ -1,0 +1,66 @@
+{
+  "company": "Sony Group Corporation",
+  "ticker": "6758.T",
+  "report_date": "2023-03-31",
+  "form_type": "20-F",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "JPY",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "All Other",
+      "revenue": 0.7,
+      "operating_income": 0.1,
+      "yoy_growth_pct": -11.3,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 11539.8,
+    "total_revenue_yoy_pct": 16.3,
+    "cost_of_revenue": 7174.7,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 735.7,
+      "selling_general_administrative": 1969.2
+    },
+    "total_operating_expenses": 10356.1,
+    "operating_income": 1208.2,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 1180.3,
+    "tax_expense": 236.7,
+    "net_income": 943.6,
+    "net_income_yoy_pct": 6.2
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 40,
+  "total_revenue": 11539.8,
+  "total_revenue_yoy_pct": 16.3,
+  "cost_of_revenue": 7174.7,
+  "cost_of_revenue_yoy_pct": null,
+  "cost_of_revenue_breakdown": null,
+  "gross_profit": null,
+  "gross_profit_yoy_pct": null,
+  "operating_expenses": {
+    "research_and_development": 735.7,
+    "selling_general_administrative": 1969.2
+  },
+  "total_operating_expenses": 10356.1,
+  "operating_income": 1208.2,
+  "operating_income_yoy_pct": null,
+  "other_income_expense": null,
+  "income_before_tax": 1180.3,
+  "tax_expense": 236.7,
+  "net_income": 943.6,
+  "net_income_yoy_pct": 6.2,
+  "accession_number": "0001193125-23-169510",
+  "cik": "0000313838"
+}

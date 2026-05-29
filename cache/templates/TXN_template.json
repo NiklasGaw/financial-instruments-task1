@@ -1,0 +1,18 @@
+{
+  "ticker": "TXN",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Analog",
+      "sub_segments": []
+    },
+    {
+      "name": "Embedded Processing",
+      "sub_segments": []
+    },
+    {
+      "name": "Other",
+      "sub_segments": []
+    }
+  ]
+}

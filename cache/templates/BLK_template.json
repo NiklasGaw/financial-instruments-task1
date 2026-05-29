@@ -1,0 +1,29 @@
+{
+  "ticker": "BLK",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Investment Advisory, Administration Fees and Securities Lending Revenue",
+      "sub_segments": [
+        "Related parties",
+        "Other third parties"
+      ]
+    },
+    {
+      "name": "Technology Services Revenue",
+      "sub_segments": []
+    },
+    {
+      "name": "Distribution Fees",
+      "sub_segments": []
+    },
+    {
+      "name": "Advisory and Other Revenue",
+      "sub_segments": []
+    },
+    {
+      "name": "Investment advisory performance fees",
+      "sub_segments": []
+    }
+  ]
+}

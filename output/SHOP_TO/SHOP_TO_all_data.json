@@ -1,0 +1,448 @@
+[
+  {
+    "company": "Shopify Inc.",
+    "ticker": "SHOP.TO",
+    "report_date": "2025-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Subscription solutions",
+        "revenue": 2.8,
+        "operating_income": null,
+        "yoy_growth_pct": 17.1,
+        "sub_segments": []
+      },
+      {
+        "name": "Merchant solutions",
+        "revenue": 8.8,
+        "operating_income": null,
+        "yoy_growth_pct": 34.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 11.6,
+      "total_revenue_yoy_pct": 30.1,
+      "cost_of_revenue": 6.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 5.6,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.5,
+        "selling_general_administrative": 2.1,
+        "other_operating": 0.5
+      },
+      "total_operating_expenses": 4.1,
+      "operating_income": 1.5,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.5,
+      "tax_expense": 0.3,
+      "net_income": 1.2,
+      "net_income_yoy_pct": -39.0
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Shopify Inc.",
+    "ticker": "SHOP.TO",
+    "report_date": "2024-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Subscription solutions",
+        "revenue": 2.4,
+        "operating_income": null,
+        "yoy_growth_pct": 28.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Merchant solutions",
+        "revenue": 6.5,
+        "operating_income": null,
+        "yoy_growth_pct": 25.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 8.9,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue": 4.4,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 4.5,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.4,
+        "selling_general_administrative": 1.8,
+        "other_operating": 0.2
+      },
+      "total_operating_expenses": 3.4,
+      "operating_income": 1.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 1.1,
+      "income_before_tax": 2.2,
+      "tax_expense": 0.2,
+      "net_income": 2.0,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Shopify Inc.",
+    "ticker": "SHOP.TO",
+    "report_date": "2023-12-31",
+    "form_type": "40-F",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Merchant Solutions",
+        "revenue": 7.1,
+        "operating_income": 0.8,
+        "yoy_growth_pct": 20.0,
+        "sub_segments": [
+          {
+            "name": "Payment processing",
+            "revenue": 3.8,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Shopify Capital",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Shopify Shipping",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Shopify Fulfillment Network",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Shopify Markets",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Merchant Solutions",
+            "revenue": 1.9,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 7.1,
+      "total_revenue_yoy_pct": 53.1,
+      "cost_of_revenue": 3.5,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 3.5,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.7,
+        "selling_general_administrative": 1.7,
+        "other_operating": 1.5
+      },
+      "total_operating_expenses": 4.9,
+      "operating_income": -1.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 1.6,
+      "income_before_tax": 0.2,
+      "tax_expense": 0.1,
+      "net_income": 0.1,
+      "net_income_yoy_pct": -95.5
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Shopify Inc.",
+    "ticker": "SHOP.TO",
+    "report_date": "2026-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Subscription Solutions",
+        "revenue": 0.8,
+        "operating_income": null,
+        "yoy_growth_pct": 21.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Merchant Solutions",
+        "revenue": 2.4,
+        "operating_income": null,
+        "yoy_growth_pct": 39.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 3.2,
+      "total_revenue_yoy_pct": 34.3,
+      "cost_of_revenue": 1.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 1.5,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 0.6
+      },
+      "total_operating_expenses": 1.1,
+      "operating_income": 0.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -1.1,
+      "income_before_tax": -0.7,
+      "tax_expense": -0.1,
+      "net_income": -0.6,
+      "net_income_yoy_pct": -14.8
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Shopify Inc.",
+    "ticker": "SHOP.TO",
+    "report_date": "2025-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Subscription solutions",
+        "revenue": 0.7,
+        "operating_income": null,
+        "yoy_growth_pct": 14.6,
+        "sub_segments": []
+      },
+      {
+        "name": "Merchant solutions",
+        "revenue": 2.1,
+        "operating_income": null,
+        "yoy_growth_pct": 38.2,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 2.8,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue": 1.5,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 1.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 0.5,
+        "other_operating": 0.2
+      },
+      "total_operating_expenses": 1.1,
+      "operating_income": 0.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 0.3,
+      "tax_expense": 0.0,
+      "net_income": 0.3,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Shopify Inc.",
+    "ticker": "SHOP.TO",
+    "report_date": "2025-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Subscription solutions",
+        "revenue": 0.7,
+        "operating_income": null,
+        "yoy_growth_pct": 16.5,
+        "sub_segments": []
+      },
+      {
+        "name": "Merchant solutions",
+        "revenue": 2.0,
+        "operating_income": null,
+        "yoy_growth_pct": 36.6,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 2.7,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue": 1.4,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 1.3,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 0.5
+      },
+      "total_operating_expenses": 1.0,
+      "operating_income": 0.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 0.8,
+      "income_before_tax": 1.1,
+      "tax_expense": 0.2,
+      "net_income": 0.9,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Shopify Inc.",
+    "ticker": "SHOP.TO",
+    "report_date": "2025-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Subscription Solutions",
+        "revenue": 0.6,
+        "operating_income": null,
+        "yoy_growth_pct": 21.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Merchant Solutions",
+        "revenue": 1.7,
+        "operating_income": null,
+        "yoy_growth_pct": 29.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 2.4,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue": 1.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 1.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 0.5
+      },
+      "total_operating_expenses": 1.0,
+      "operating_income": 0.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -1.0,
+      "income_before_tax": -0.8,
+      "tax_expense": -0.1,
+      "net_income": -0.7,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Shopify Inc.",
+    "ticker": "SHOP.TO",
+    "report_date": "2025-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Subscription solutions",
+        "revenue": 0.8,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Merchant solutions",
+        "revenue": 3.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 3.7,
+      "cost_of_revenue": 1.9,
+      "gross_profit": 1.7,
+      "total_operating_expenses": 1.0,
+      "operating_income": 0.7,
+      "other_income_expense": 0.2,
+      "income_before_tax": 0.9,
+      "tax_expense": 0.2,
+      "net_income": 0.7,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "selling_general_administrative": 0.6,
+        "research_and_development": 0.3,
+        "other_operating": null
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 90,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  }
+]

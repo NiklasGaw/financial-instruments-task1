@@ -1,0 +1,69 @@
+{
+  "company": "Applied Materials Inc.",
+  "ticker": "AMAT",
+  "report_date": "2025-10-26",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Semiconductor Systems",
+      "revenue": 4.7,
+      "operating_income": 1.5,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Foundry, logic and other",
+          "revenue": 3.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Dynamic random-access memory (DRAM)",
+          "revenue": 1.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Semiconductor Systems",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Applied Global Services",
+      "revenue": 1.6,
+      "operating_income": 0.6,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 6.8,
+    "cost_of_revenue": 3.6,
+    "gross_profit": 3.2,
+    "total_operating_expenses": 1.5,
+    "operating_income": 1.7,
+    "other_income_expense": 0.6,
+    "income_before_tax": 2.3,
+    "tax_expense": 0.4,
+    "net_income": 1.9,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.9,
+      "selling_general_administrative": 0.5
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 100,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

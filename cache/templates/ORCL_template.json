@@ -1,0 +1,38 @@
+{
+  "ticker": "ORCL",
+  "source": "cache: 10-K 2023-05-31",
+  "segments": [
+    {
+      "name": "Cloud and license",
+      "sub_segments": [
+        "Cloud services",
+        "License support",
+        "Applications cloud services and license support",
+        "Infrastructure cloud services and license support",
+        "Cloud license and on-premise license",
+        "Cloud services and license support"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "sub_segments": []
+    },
+    {
+      "name": "Services",
+      "sub_segments": []
+    },
+    {
+      "name": "Cloud services and license support",
+      "sub_segments": [
+        "Cloud services",
+        "License support",
+        "Applications cloud services and license support",
+        "Infrastructure cloud services and license support"
+      ]
+    },
+    {
+      "name": "Cloud license and on-premise license",
+      "sub_segments": []
+    }
+  ]
+}

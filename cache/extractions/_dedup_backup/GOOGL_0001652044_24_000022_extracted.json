@@ -1,0 +1,80 @@
+{
+  "company": "Alphabet Inc. (Class A)",
+  "ticker": "GOOGL",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Google Services",
+      "revenue": 272.5,
+      "operating_income": 95.9,
+      "yoy_growth_pct": 7.5,
+      "sub_segments": [
+        {
+          "name": "Google Search & other",
+          "revenue": 175.0,
+          "yoy_growth_pct": 7.8
+        },
+        {
+          "name": "YouTube ads",
+          "revenue": 31.5,
+          "yoy_growth_pct": 7.8
+        },
+        {
+          "name": "Google Network",
+          "revenue": 31.3,
+          "yoy_growth_pct": -4.5
+        },
+        {
+          "name": "Google subscriptions, platforms, and devices",
+          "revenue": 34.7,
+          "yoy_growth_pct": 19.4
+        }
+      ]
+    },
+    {
+      "name": "Google Cloud",
+      "revenue": 33.1,
+      "operating_income": 1.7,
+      "yoy_growth_pct": 25.9,
+      "sub_segments": []
+    },
+    {
+      "name": "Other Bets",
+      "revenue": 1.5,
+      "operating_income": -4.1,
+      "yoy_growth_pct": 43.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 307.4,
+    "total_revenue_yoy_pct": 8.7,
+    "cost_of_revenue": 133.3,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 174.1,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 45.4,
+      "selling_general_administrative": 44.3
+    },
+    "total_operating_expenses": 89.8,
+    "operating_income": 84.3,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 1.4,
+    "income_before_tax": 85.7,
+    "tax_expense": 11.9,
+    "net_income": 73.8,
+    "net_income_yoy_pct": 23.0
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

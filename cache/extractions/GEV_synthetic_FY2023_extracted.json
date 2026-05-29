@@ -1,0 +1,59 @@
+{
+  "company": "GE Vernova Inc.",
+  "ticker": "GEV",
+  "report_date": "2023-12-31",
+  "form_type": "10-K (comparative)",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Power",
+      "revenue": 17.4,
+      "operating_income": 1.7,
+      "yoy_growth_pct": 8.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Wind",
+      "revenue": 9.8,
+      "operating_income": -1.0,
+      "yoy_growth_pct": 10.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Electrification",
+      "revenue": 6.4,
+      "operating_income": 0.2,
+      "yoy_growth_pct": 26.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 33.2,
+    "total_revenue_yoy_pct": 12.1,
+    "cost_of_revenue": 28.4,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 4.8,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.9,
+      "selling_general_administrative": 4.8
+    },
+    "total_operating_expenses": 5.7,
+    "operating_income": -0.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.4,
+    "income_before_tax": -0.5,
+    "tax_expense": null,
+    "net_income": -0.5,
+    "net_income_yoy_pct": null
+  },
+  "notes": "Synthetic FY2023 entry built from FY2024 10-K comparative columns (filing 0001996810-25-000011). GEV did not file a standalone FY2023 10-K because the company was spun off from GE in April 2024.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

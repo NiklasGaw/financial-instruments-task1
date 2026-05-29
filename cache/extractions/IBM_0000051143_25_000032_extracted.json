@@ -1,0 +1,114 @@
+{
+  "company": "International Business Machines",
+  "ticker": "IBM",
+  "report_date": "2025-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Software",
+      "revenue": 6.3,
+      "operating_income": 1.8,
+      "yoy_growth_pct": 7.4,
+      "sub_segments": [
+        {
+          "name": "Hybrid Cloud",
+          "revenue": 1.7,
+          "yoy_growth_pct": 11.7
+        },
+        {
+          "name": "Automation",
+          "revenue": 1.6,
+          "yoy_growth_pct": 13.8
+        },
+        {
+          "name": "Data",
+          "revenue": 1.2,
+          "yoy_growth_pct": 5.4
+        },
+        {
+          "name": "Transaction Processing",
+          "revenue": 1.8,
+          "yoy_growth_pct": 0.2
+        }
+      ]
+    },
+    {
+      "name": "Consulting",
+      "revenue": 5.1,
+      "operating_income": 0.6,
+      "yoy_growth_pct": -2.3,
+      "sub_segments": [
+        {
+          "name": "Strategy and Technology",
+          "revenue": 2.8,
+          "yoy_growth_pct": -2.8
+        },
+        {
+          "name": "Intelligent Operations",
+          "revenue": 2.3,
+          "yoy_growth_pct": -1.6
+        }
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "revenue": 2.9,
+      "operating_income": 0.2,
+      "yoy_growth_pct": -6.2,
+      "sub_segments": [
+        {
+          "name": "Hybrid Infrastructure",
+          "revenue": 1.6,
+          "yoy_growth_pct": -8.7
+        },
+        {
+          "name": "Infrastructure Support",
+          "revenue": 1.2,
+          "yoy_growth_pct": -2.6
+        },
+        {
+          "name": "Other Infrastructure",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Financing",
+      "revenue": 0.2,
+      "operating_income": 0.1,
+      "yoy_growth_pct": -0.8,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 14.5,
+    "total_revenue_yoy_pct": 0.5,
+    "cost_of_revenue": 6.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 8.0,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.9,
+      "selling_general_administrative": 4.9
+    },
+    "total_operating_expenses": 6.8,
+    "operating_income": 1.2,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 1.2,
+    "tax_expense": 0.1,
+    "net_income": 1.1,
+    "net_income_yoy_pct": -34.3
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

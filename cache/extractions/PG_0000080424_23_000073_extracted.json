@@ -1,0 +1,148 @@
+{
+  "company": "Procter & Gamble Co.",
+  "ticker": "PG",
+  "report_date": "2023-06-30",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Beauty",
+      "revenue": 15.0,
+      "operating_income": 4.0,
+      "yoy_growth_pct": 1.8,
+      "sub_segments": [
+        {
+          "name": "Hair Care",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Skin and Personal Care",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Grooming",
+      "revenue": 6.4,
+      "operating_income": 1.8,
+      "yoy_growth_pct": -2.5,
+      "sub_segments": [
+        {
+          "name": "Appliances",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Female Blades & Razors",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Male Blades & Razors",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Pre- and Post-Shave Products",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Grooming",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Health Care",
+      "revenue": 11.2,
+      "operating_income": 2.8,
+      "yoy_growth_pct": 3.7,
+      "sub_segments": [
+        {
+          "name": "Oral Care",
+          "revenue": 6.6,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Personal Health Care",
+          "revenue": 4.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Fabric & Home Care",
+      "revenue": 28.4,
+      "operating_income": 6.3,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": [
+        {
+          "name": "Fabric Care",
+          "revenue": 18.9,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Home Care",
+          "revenue": 9.5,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Baby, Feminine & Family Care",
+      "revenue": 20.2,
+      "operating_income": 4.6,
+      "yoy_growth_pct": 2.4,
+      "sub_segments": [
+        {
+          "name": "Baby Care",
+          "revenue": 8.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Feminine Care",
+          "revenue": 5.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Family Care",
+          "revenue": 6.5,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 82.0,
+    "total_revenue_yoy_pct": 2.3,
+    "cost_of_revenue": 42.8,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 39.2,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 2.0,
+      "selling_general_administrative": 21.1
+    },
+    "total_operating_expenses": 23.1,
+    "operating_income": 18.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.2,
+    "income_before_tax": 18.3,
+    "tax_expense": 3.6,
+    "net_income": 14.7,
+    "net_income_yoy_pct": -0.6
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

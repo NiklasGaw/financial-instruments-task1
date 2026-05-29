@@ -1,0 +1,1121 @@
+[
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2026-01-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 36.6,
+        "operating_income": 5.5,
+        "yoy_growth_pct": 5.7,
+        "sub_segments": [
+          {
+            "name": "TJ Maxx",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Marshalls",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Sierra",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 10.2,
+        "operating_income": 1.2,
+        "yoy_growth_pct": 8.4,
+        "sub_segments": [
+          {
+            "name": "HomeGoods",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Homesense",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "TJX International",
+        "revenue": 8.0,
+        "operating_income": 0.6,
+        "yoy_growth_pct": 11.2,
+        "sub_segments": [
+          {
+            "name": "TK Maxx (Europe)",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Homesense (Europe)",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "TK Maxx (Australia)",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 60.4,
+      "total_revenue_yoy_pct": 7.1,
+      "cost_of_revenue": 41.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 18.7,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 11.5
+      },
+      "total_operating_expenses": 11.5,
+      "operating_income": 7.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 0.1,
+      "income_before_tax": 7.3,
+      "tax_expense": 1.8,
+      "net_income": 5.5,
+      "net_income_yoy_pct": 13.0
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2025-02-01",
+    "form_type": "10-K",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 34.6,
+        "operating_income": 4.9,
+        "yoy_growth_pct": 3.6,
+        "sub_segments": [
+          {
+            "name": "TJ Maxx",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Marshalls",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "tjmaxx.com",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "marshalls.com",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Sierra",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 9.4,
+        "operating_income": 1.0,
+        "yoy_growth_pct": 4.4,
+        "sub_segments": [
+          {
+            "name": "HomeGoods",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Homesense",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "TJX International",
+        "revenue": 7.2,
+        "operating_income": 0.4,
+        "yoy_growth_pct": 6.1,
+        "sub_segments": [
+          {
+            "name": "TK Maxx",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Homesense",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "tkmaxx.com",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "tkmaxx.de",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "tkmaxx.at",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 56.4,
+      "total_revenue_yoy_pct": 4.0,
+      "cost_of_revenue": 39.1,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 17.3,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 10.9
+      },
+      "total_operating_expenses": 10.9,
+      "operating_income": 6.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 0.1,
+      "income_before_tax": 6.5,
+      "tax_expense": 1.6,
+      "net_income": 4.9,
+      "net_income_yoy_pct": 8.7
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2024-02-03",
+    "form_type": "10-K",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 33.4,
+        "operating_income": 4.6,
+        "yoy_growth_pct": 9.4,
+        "sub_segments": [
+          {
+            "name": "TJ Maxx",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Marshalls",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "tjmaxx.com",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "marshalls.com",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Sierra",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 9.0,
+        "operating_income": 0.9,
+        "yoy_growth_pct": 8.8,
+        "sub_segments": [
+          {
+            "name": "HomeGoods",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Homesense",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "TJX International",
+        "revenue": 6.8,
+        "operating_income": 0.3,
+        "yoy_growth_pct": 8.9,
+        "sub_segments": [
+          {
+            "name": "TK Maxx",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Homesense",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "tkmaxx.com",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "tkmaxx.de",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "tkmaxx.at",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "TK Maxx (Australia)",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 54.2,
+      "total_revenue_yoy_pct": 8.6,
+      "cost_of_revenue": 38.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 16.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 10.5
+      },
+      "total_operating_expenses": 10.5,
+      "operating_income": 5.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 0.3,
+      "income_before_tax": 6.0,
+      "tax_expense": 1.5,
+      "net_income": 4.5,
+      "net_income_yoy_pct": 27.9
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2025-11-01",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 9.0,
+        "operating_income": 1.4,
+        "yoy_growth_pct": 7.1,
+        "sub_segments": []
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 2.5,
+        "operating_income": 0.3,
+        "yoy_growth_pct": 7.8,
+        "sub_segments": []
+      },
+      {
+        "name": "TJX International",
+        "revenue": 2.0,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 8.5,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.1,
+      "total_revenue_yoy_pct": 7.5,
+      "cost_of_revenue": 10.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 4.9,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 3.0
+      },
+      "total_operating_expenses": 3.0,
+      "operating_income": 1.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.9,
+      "tax_expense": 0.5,
+      "net_income": 1.4,
+      "net_income_yoy_pct": 11.2
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2025-08-02",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 8.8,
+        "operating_income": 1.3,
+        "yoy_growth_pct": 4.7,
+        "sub_segments": []
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 2.3,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 8.8,
+        "sub_segments": []
+      },
+      {
+        "name": "TJX International",
+        "revenue": 1.9,
+        "operating_income": 0.1,
+        "yoy_growth_pct": 12.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.4,
+      "total_revenue_yoy_pct": 6.9,
+      "cost_of_revenue": 10.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 4.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.8
+      },
+      "total_operating_expenses": 2.8,
+      "operating_income": 1.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.6,
+      "tax_expense": 0.4,
+      "net_income": 1.2,
+      "net_income_yoy_pct": 13.1
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2025-05-03",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 8.1,
+        "operating_income": 1.1,
+        "yoy_growth_pct": 4.0,
+        "sub_segments": []
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 2.3,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 8.0,
+        "sub_segments": []
+      },
+      {
+        "name": "TJX International",
+        "revenue": 1.7,
+        "operating_income": 0.1,
+        "yoy_growth_pct": 8.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 13.1,
+      "total_revenue_yoy_pct": 5.1,
+      "cost_of_revenue": 9.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 3.9,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.5
+      },
+      "total_operating_expenses": 2.5,
+      "operating_income": 1.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.1,
+      "income_before_tax": 1.3,
+      "tax_expense": 0.3,
+      "net_income": 1.0,
+      "net_income_yoy_pct": -3.2
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2024-11-02",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 8.4,
+        "operating_income": 1.2,
+        "yoy_growth_pct": 4.1,
+        "sub_segments": []
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 2.4,
+        "operating_income": 0.3,
+        "yoy_growth_pct": 6.7,
+        "sub_segments": []
+      },
+      {
+        "name": "TJX International",
+        "revenue": 1.9,
+        "operating_income": 0.1,
+        "yoy_growth_pct": 15.6,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.1,
+      "total_revenue_yoy_pct": 6.0,
+      "cost_of_revenue": 9.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 4.5,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.7
+      },
+      "total_operating_expenses": 2.7,
+      "operating_income": 1.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.1,
+      "income_before_tax": 1.7,
+      "tax_expense": 0.4,
+      "net_income": 1.3,
+      "net_income_yoy_pct": 8.9
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2024-08-03",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 8.4,
+        "operating_income": 1.2,
+        "yoy_growth_pct": 6.9,
+        "sub_segments": []
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 2.1,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 4.5,
+        "sub_segments": []
+      },
+      {
+        "name": "TJX International",
+        "revenue": 1.7,
+        "operating_income": 0.1,
+        "yoy_growth_pct": 3.5,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 13.5,
+      "total_revenue_yoy_pct": 5.6,
+      "cost_of_revenue": 9.4,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 4.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.7
+      },
+      "total_operating_expenses": 2.7,
+      "operating_income": 1.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 0.1,
+      "income_before_tax": 1.5,
+      "tax_expense": 0.4,
+      "net_income": 1.1,
+      "net_income_yoy_pct": 11.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2024-05-04",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 7.8,
+        "operating_income": 1.1,
+        "yoy_growth_pct": 5.2,
+        "sub_segments": []
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 2.1,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 5.7,
+        "sub_segments": []
+      },
+      {
+        "name": "TJX International",
+        "revenue": 1.5,
+        "operating_income": 0.1,
+        "yoy_growth_pct": 8.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 12.5,
+      "total_revenue_yoy_pct": 5.9,
+      "cost_of_revenue": 8.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 3.8,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.4
+      },
+      "total_operating_expenses": 2.4,
+      "operating_income": 1.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.4,
+      "tax_expense": 0.3,
+      "net_income": 1.1,
+      "net_income_yoy_pct": 20.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2023-10-28",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 8.1,
+        "operating_income": 1.1,
+        "yoy_growth_pct": 9.0,
+        "sub_segments": []
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 2.2,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 13.0,
+        "sub_segments": []
+      },
+      {
+        "name": "TJX International",
+        "revenue": 1.6,
+        "operating_income": 0.1,
+        "yoy_growth_pct": 10.4,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 13.3,
+      "total_revenue_yoy_pct": 9.0,
+      "cost_of_revenue": 9.1,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 4.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.6
+      },
+      "total_operating_expenses": 2.6,
+      "operating_income": 1.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.6,
+      "tax_expense": 0.4,
+      "net_income": 1.2,
+      "net_income_yoy_pct": 12.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2023-07-29",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 7.9,
+        "operating_income": 1.1,
+        "yoy_growth_pct": 9.2,
+        "sub_segments": []
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 2.0,
+        "operating_income": 0.2,
+        "yoy_growth_pct": 8.3,
+        "sub_segments": []
+      },
+      {
+        "name": "TJX International",
+        "revenue": 1.6,
+        "operating_income": 0.0,
+        "yoy_growth_pct": 7.9,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 12.8,
+      "total_revenue_yoy_pct": 7.7,
+      "cost_of_revenue": 8.9,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 3.9,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.6
+      },
+      "total_operating_expenses": 2.6,
+      "operating_income": 1.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.3,
+      "tax_expense": 0.3,
+      "net_income": 1.0,
+      "net_income_yoy_pct": 22.2
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2023-04-29",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 7.4,
+        "operating_income": 1.0,
+        "yoy_growth_pct": 7.2,
+        "sub_segments": []
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 2.0,
+        "operating_income": 0.1,
+        "yoy_growth_pct": -3.4,
+        "sub_segments": []
+      },
+      {
+        "name": "TJX International",
+        "revenue": 1.4,
+        "operating_income": 0.0,
+        "yoy_growth_pct": -0.3,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 11.8,
+      "total_revenue_yoy_pct": 3.3,
+      "cost_of_revenue": 8.4,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 3.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.2
+      },
+      "total_operating_expenses": 2.2,
+      "operating_income": 1.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.2,
+      "tax_expense": 0.3,
+      "net_income": 0.9,
+      "net_income_yoy_pct": 51.7
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2022-10-29",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 7.5,
+        "operating_income": 1.0,
+        "yoy_growth_pct": 3.3,
+        "sub_segments": []
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 1.9,
+        "operating_income": 0.2,
+        "yoy_growth_pct": -13.6,
+        "sub_segments": []
+      },
+      {
+        "name": "TJX International",
+        "revenue": 1.5,
+        "operating_income": 0.1,
+        "yoy_growth_pct": -16.1,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 12.2,
+      "total_revenue_yoy_pct": -2.9,
+      "cost_of_revenue": 8.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 3.6,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.2
+      },
+      "total_operating_expenses": 2.2,
+      "operating_income": 1.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.4,
+      "tax_expense": 0.3,
+      "net_income": 1.1,
+      "net_income_yoy_pct": 3.9
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2022-07-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 7.2,
+        "operating_income": 0.9,
+        "yoy_growth_pct": -1.5,
+        "sub_segments": []
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 1.9,
+        "operating_income": 0.0,
+        "yoy_growth_pct": -10.9,
+        "sub_segments": []
+      },
+      {
+        "name": "TJX International",
+        "revenue": 1.5,
+        "operating_income": 0.1,
+        "yoy_growth_pct": -7.4,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 11.8,
+      "total_revenue_yoy_pct": -1.9,
+      "cost_of_revenue": 8.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 3.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.2
+      },
+      "total_operating_expenses": 2.2,
+      "operating_income": 1.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 0.1,
+      "income_before_tax": 1.1,
+      "tax_expense": 0.3,
+      "net_income": 0.8,
+      "net_income_yoy_pct": 3.0
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2022-04-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 6.9,
+        "operating_income": 0.9,
+        "yoy_growth_pct": 3.5,
+        "sub_segments": []
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 2.0,
+        "operating_income": 0.1,
+        "yoy_growth_pct": -5.0,
+        "sub_segments": []
+      },
+      {
+        "name": "TJX International",
+        "revenue": 1.4,
+        "operating_income": 0.0,
+        "yoy_growth_pct": 162.9,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 11.4,
+      "total_revenue_yoy_pct": 13.1,
+      "cost_of_revenue": 8.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 3.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 2.1
+      },
+      "total_operating_expenses": 2.1,
+      "operating_income": 1.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.2,
+      "income_before_tax": 0.9,
+      "tax_expense": 0.3,
+      "net_income": 0.6,
+      "net_income_yoy_pct": 10.0
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "TJX Companies Inc.",
+    "ticker": "TJX",
+    "report_date": "2024-02-03",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Marmaxx",
+        "revenue": 10.0,
+        "operating_income": 1.4,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "HomeGoods",
+        "revenue": 2.8,
+        "operating_income": 0.4,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "TJX International",
+        "revenue": 2.2,
+        "operating_income": 0.2,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.3,
+      "cost_of_revenue": 11.6,
+      "gross_profit": 4.7,
+      "total_operating_expenses": 3.1,
+      "operating_income": 1.6,
+      "other_income_expense": 0.3,
+      "income_before_tax": 1.9,
+      "tax_expense": 0.5,
+      "net_income": 1.4,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "selling_general_administrative": 3.1,
+        "research_and_development": null
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 90,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  }
+]

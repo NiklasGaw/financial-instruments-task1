@@ -1,0 +1,662 @@
+6-K
+ 1
+ d52048d6k.htm
+ FORM 6-K
+
+ Form 6-K 
+
+ UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+ Form 6-K 
+
+ Report of Foreign Private Issuer 
+
+ Pursuant to Rule 13a-16 or 15d-16 under 
+
+ the Securities Exchange Act of 1934 
+
+ For the month of February 2026 
+
+ Commission File No. 000-54189 
+
+ MITSUBISHI UFJ FINANCIAL GROUP, INC. 
+
+ (Translation of registrant&#8217;s name into English) 
+
+ 4-5, Marunouchi 1-chome, Chiyoda-ku 
+
+ Tokyo 100-8330, Japan 
+
+ (Address of principal executive office) 
+
+ Indicate by check mark whether the registrant files or 
+
+ will file annual reports under cover of Form 20-F or Form
+ 40-F. 
+ Form
+ 20-F&#8194; &#8195;X&#8195; &#8195;Form 40-F&#8194; &#8195;&#8195;&#8195;&#8195; 
+
+ Indicate by check mark if the registrant is submitting the Form 6-K 
+
+ in paper as permitted by Regulation S-T Rule 101(b)(1): 
+
+ Indicate by check mark if the registrant is submitting the Form 6-K 
+
+ in paper as permitted by Regulation S-T Rule 101(b)(7): 
+
+ THIS REPORT ON FORM 6-K SHALL BE DEEMED TO BE INCORPORATED BY REFERENCE IN THE REGISTRATION STATEMENT ON FORM F-3 (NO. 333-273681) OF MITSUBISHI UFJ
+FINANCIAL GROUP, INC. AND TO BE A PART THEREOF FROM THE DATE ON WHICH THIS REPORT IS FURNISHED TO THE U.S. SECURITIES AND EXCHANGE COMMISSION TO THE EXTENT NOT SUPERSEDED BY DOCUMENTS OR REPORTS SUBSEQUENTLY FILED WITH OR FURNISHED TO THE U.S.
+SECURITIES AND EXCHANGE COMMISSION. 
+
+ SIGNATURES 
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. 
+ Date: February 13, 2026 
+
+ Mitsubishi UFJ Financial Group, Inc.
+
+ By:
+
+ /s/ Yoshitaka Sekine
+
+ Name:
+
+ Yoshitaka Sekine
+
+ Title:
+
+ Managing Director, Head of Documentation & Corporate Secretary Department, Corporate Administration Division 
+
+ Mitsubishi UFJ Financial Group, Inc.(MUFG) 
+
+ Risk-Adjusted Capital Ratio Based on the Basel 3 Standards for the Third Quarter Ended December 31, 2025 
+
+ Tokyo, February 13, 2026 — MUFG hereby announces the risk-adjusted capital ratio based on the Basel 3 standards for the third quarter ended
+December 31, 2025 as stated below. 
+
+ Mitsubishi UFJ Financial Group, Inc. (Consolidated) 
+
+ (in billions of yen) 
+
+ As of 
+ December 31,
+2025 (A) 
+
+ Increase
+(Decrease)
+(A)&#8201;-&#8201;(B) 
+
+ As of
+March 31,
+2025&#8201;(B) 
+
+ As of
+September 30,
+2025 
+
+ (1) Total capital ratio (4) / (7)
+
+ 18.68 
+ % 
+
+ (0.15 
+ %) 
+
+ 18.83 
+ % 
+
+ 18.99 
+ % 
+
+ (2) Tier 1 capital ratio (5) / (7)
+
+ 16.66 
+ % 
+
+ 0.01 
+ % 
+
+ 16.65 
+ % 
+
+ 16.87 
+ % 
+
+ (3) Common Equity Tier 1 capital ratio (6) / (7)
+
+ 14.00 
+ % 
+
+ (0.18 
+ %) 
+
+ 14.18 
+ % 
+
+ 14.08 
+ % 
+
+ (4) Total capital
+
+ 21,951.5 
+
+ 1,806.4 
+
+ 20,145.0 
+
+ 21,052.8 
+
+ (5) Tier 1 capital
+
+ 19,581.1 
+
+ 1,776.2 
+
+ 17,804.8 
+
+ 18,702.0 
+
+ (6) Common Equity Tier 1 capital
+
+ 16,452.7 
+
+ 1,283.4 
+
+ 15,169.2 
+
+ 15,605.2 
+
+ (7) Risk weighted assets
+
+ 117,496.9 
+
+ 10,566.4 
+
+ 106,930.4 
+
+ 110,808.0 
+
+ (8) Required Capital (7)&times;8%
+
+ 9,399.7 
+
+ 845.3 
+
+ 8,554.4 
+
+ 8,864.6 
+
+ MUFG Bank, Ltd. (Consolidated) 
+
+ (in billions of yen) 
+
+ As of 
+ December 31,
+2025 (A) 
+
+ Increase
+(Decrease)
+(A)&#8201;-&#8201;(B) 
+
+ As of
+March 31,
+2025 (B) 
+
+ As of
+September 30,
+2025 
+
+ (1) Total capital ratio (4) / (7)
+
+ 19.30 
+ % 
+
+ (0.32 
+ %) 
+
+ 19.63 
+ % 
+
+ 19.60 
+ % 
+
+ (2) Tier 1 capital ratio (5) / (7)
+
+ 17.52 
+ % 
+
+ (0.16 
+ %) 
+
+ 17.68 
+ % 
+
+ 17.81 
+ % 
+
+ (3) Common Equity Tier 1 capital ratio (6) / (7)
+
+ 14.66 
+ % 
+
+ (0.44 
+ %) 
+
+ 15.10 
+ % 
+
+ 14.81 
+ % 
+
+ (4) Total capital
+
+ 18,375.8 
+
+ 1,898.2 
+
+ 16,477.6 
+
+ 17,239.0 
+
+ (5) Tier 1 capital
+
+ 16,676.7 
+
+ 1,833.5 
+
+ 14,843.2 
+
+ 15,666.4 
+
+ (6) Common Equity Tier 1 capital
+
+ 13,952.6 
+
+ 1,277.5 
+
+ 12,675.1 
+
+ 13,023.9 
+
+ (7) Risk weighted assets
+
+ &#8199;95,163.1 
+
+ 11,233.7 
+
+ &#8199;83,929.4 
+
+ &#8199;87,923.5 
+
+ (8) Required Capital (7)&times;8%
+
+ 7,613.0 
+
+ 898.7 
+
+ 6,714.3 
+
+ 7,033.8 
+
+ 1 
+
+ Mitsubishi UFJ Trust and Banking Corporation (Consolidated) 
+
+ (in billions of yen) 
+
+ As of 
+ December 31,
+2025 (A) 
+
+ Increase
+(Decrease)
+(A)&#8201;-&#8201;(B) 
+
+ As of
+March 31,
+2025 (B) 
+
+ As of
+September 30,
+2025 
+
+ (1) Total capital ratio (4) / (7)
+
+ 19.22 
+ %&#8196; 
+
+ (0.74 
+ %)&#8201; 
+
+ 19.96 
+ % 
+
+ 20.14 
+ % 
+
+ (2) Tier 1 capital ratio (5) / (7)
+
+ 15.36 
+ % 
+
+ (1.05 
+ %) 
+
+ 16.41 
+ % 
+
+ 15.97 
+ % 
+
+ (3) Common Equity Tier 1 capital ratio (6) / (7)
+
+ 12.61 
+ % 
+
+ (0.94 
+ %) 
+
+ 13.56 
+ % 
+
+ 13.02 
+ % 
+
+ (4) Total capital
+
+ 2,099.2 
+
+ 157.6 
+
+ 1,941.6 
+
+ 2,047.8 
+
+ (5) Tier 1 capital
+
+ 1,677.9 
+
+ 81.5 
+
+ 1,596.3 
+
+ 1,624.0 
+
+ (6) Common Equity Tier 1 capital
+
+ &#8199;&#8199;1,377.9 
+
+ 59.1 
+
+ 1,318.7 
+
+ &#8199;1,324.1 
+
+ (7) Risk weighted assets
+
+ 10,919.5 
+
+ 1,195.1 
+
+ 9,724.4 
+
+ 10,168.0 
+
+ (8) Required Capital (7)&times;8%
+
+ 873.5 
+
+ 95.6 
+
+ 777.9 
+
+ 813.4 
+
+ MUFG Bank, Ltd. (Non-Consolidated) 
+
+ (in billions of yen) 
+
+ As of 
+ December 31,
+2025 (A) 
+
+ Increase
+(Decrease)
+(A)&#8201;-&#8201;(B) 
+
+ As of
+March 31,
+2025 (B) 
+
+ As of
+September 30,
+2025 
+
+ (1) Total capital ratio (4) / (7)
+
+ 16.10 
+ % 
+
+ (0.96 
+ %) 
+
+ 17.07 
+ % 
+
+ 17.23 
+ % 
+
+ (2) Tier 1 capital ratio (5) / (7)
+
+ 14.57 
+ % 
+
+ (0.67 
+ %) 
+
+ 15.24 
+ % 
+
+ 15.60 
+ % 
+
+ (3) Common Equity Tier 1 capital ratio (6) / (7)
+
+ 11.42 
+ % 
+
+ (0.88 
+ %) 
+
+ 12.30 
+ % 
+
+ 12.19 
+ % 
+
+ (4) Total capital
+
+ 13,619.3 
+
+ 1,370.3 
+
+ 12,248.9 
+
+ 13,054.3 
+
+ (5) Tier 1 capital
+
+ 12,325.2 
+
+ 1,385.0 
+
+ 10,940.2 
+
+ 11,819.6 
+
+ (6) Common Equity Tier 1 capital
+
+ &#8199;&#8199;9,659.1 
+
+ 828.1 
+
+ 8,830.9 
+
+ &#8199;9,233.9 
+
+ (7) Risk weighted assets
+
+ 84,556.8 
+
+ 12,809.4 
+
+ 71,747.3 
+
+ 75,738.6 
+
+ (8) Required Capital (7)&times;8%
+
+ 6,764.5 
+
+ 1,024.7 
+
+ 5,739.7 
+
+ 6,059.0 
+
+ Mitsubishi UFJ Trust and Banking Corporation
+ (Non-Consolidated) 
+
+ (in billions of yen) 
+
+ As of 
+ December 31,
+2025 (A) 
+
+ Increase
+(Decrease)
+(A)&#8201;-&#8201;(B) 
+
+ As of
+March 31,
+2025 (B) 
+
+ As of
+September 30,
+2025 
+
+ (1) Total capital ratio (4) / (7)
+
+ 18.31 
+ % 
+
+ (1.75 
+ %) 
+
+ 20.06 
+ % 
+
+ 19.59 
+ % 
+
+ (2) Tier 1 capital ratio (5) / (7)
+
+ 14.97 
+ % 
+
+ (1.91 
+ %) 
+
+ 16.89 
+ % 
+
+ 15.96 
+ % 
+
+ (3) Common Equity Tier 1 capital ratio (6) / (7)
+
+ 12.61 
+ % 
+
+ (1.73 
+ %) 
+
+ 14.35 
+ % 
+
+ 13.39 
+ % 
+
+ (4) Total capital
+
+ 2,306.6 
+
+ 130.6 
+
+ 2,176.0 
+
+ 2,276.3 
+
+ (5) Tier 1 capital
+
+ 1,886.8 
+
+ 54.6 
+
+ 1,832.1 
+
+ 1,853.8 
+
+ (6) Common Equity Tier 1 capital
+
+ &#8199;&#8199;1,589.3 
+
+ 32.6 
+
+ 1,556.6 
+
+ &#8199;1,556.3 
+
+ (7) Risk weighted assets
+
+ 12,595.7 
+
+ 1,751.2 
+
+ 10,844.5 
+
+ 11,614.9 
+
+ (8) Required Capital (7)&times;8%
+
+ 1,007.6 
+
+ 140.0 
+
+ 867.5 
+
+ 929.1 
+
+ 2 
+
+ Notes: 
+
+ Risk-adjusted capital ratio of Mitsubishi UFJ Financial Group, Inc. is computed in accordance with the Notification of the
+Financial Services Agency No.20, 2006. 
+ Risk-adjusted capital ratio of MUFG Bank, Ltd. and Mitsubishi UFJ Trust and
+Banking Corporation are computed in accordance with the Notification of the Financial Services Agency No.19, 2006. 
+ -End- 
+
+ About MUFG 
+ Mitsubishi UFJ Financial Group, Inc. (MUFG)
+is one of the world&#8217;s leading financial groups. Headquartered in Tokyo and with over 360 years of history, MUFG has a global network with approximately 2,000 locations in more than 40 countries. The Group has about 150,000 employees and offers
+services including commercial banking, trust banking, securities, credit cards, consumer finance, asset management, and leasing. The Group aims to &#8220;be the world&#8217;s most trusted financial group&#8221; through close collaboration among our
+operating companies and flexibly respond to all of the financial needs of our customers, serving society, and fostering shared and sustainable growth for a better world. MUFG&#8217;s shares trade on the Tokyo, Nagoya, and New York stock exchanges.
+For more information, visit https://www.mufg.jp/english . 
+
+ 3

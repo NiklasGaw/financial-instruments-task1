@@ -1,0 +1,27 @@
+{
+  "ticker": "TD.TO",
+  "source": "cache: 40-F 2023-10-31",
+  "segments": [
+    {
+      "name": "Canadian Personal and Commercial Banking",
+      "sub_segments": [
+        "Personal Banking",
+        "Business Banking",
+        "Commercial Banking"
+      ]
+    },
+    {
+      "name": "Wealth Management and Insurance",
+      "sub_segments": [
+        "Canadian Wealth Management",
+        "U.S. Wealth Management",
+        "Insurance",
+        "Other Wealth Management and Insurance"
+      ]
+    },
+    {
+      "name": "Wholesale Banking",
+      "sub_segments": []
+    }
+  ]
+}

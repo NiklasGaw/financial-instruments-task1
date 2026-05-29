@@ -1,0 +1,61 @@
+{
+  "company": "UnitedHealth Group Inc.",
+  "ticker": "UNH",
+  "report_date": "2025-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "UnitedHealthcare",
+      "revenue": 87.1,
+      "operating_income": 0.3,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Optum Health",
+      "revenue": 25.6,
+      "operating_income": -2.8,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Optum Insight",
+      "revenue": 5.1,
+      "operating_income": -0.1,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 113.2,
+    "cost_of_revenue": 12.7,
+    "gross_profit": 100.5,
+    "total_operating_expenses": 100.1,
+    "operating_income": 0.4,
+    "other_income_expense": -1.2,
+    "income_before_tax": -0.7,
+    "tax_expense": -0.9,
+    "net_income": 0.1,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 17.0,
+      "other_operating": 83.1
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 90,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

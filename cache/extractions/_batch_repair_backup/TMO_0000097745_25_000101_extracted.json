@@ -1,0 +1,135 @@
+{
+  "company": "Thermo Fisher Scientific",
+  "ticker": "TMO",
+  "report_date": "2025-06-28",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Life Sciences Solutions",
+      "revenue": 2.5,
+      "operating_income": 0.9,
+      "yoy_growth_pct": 6.1,
+      "sub_segments": [
+        {
+          "name": "BioProduction",
+          "revenue": 0.7,
+          "yoy_growth_pct": 17.7
+        },
+        {
+          "name": "Other Life Sciences Solutions",
+          "revenue": 1.8,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Analytical Instruments",
+      "revenue": 1.7,
+      "operating_income": 0.3,
+      "yoy_growth_pct": -3.0,
+      "sub_segments": [
+        {
+          "name": "Chromatography and Mass Spectrometry",
+          "revenue": 0.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Electron Microscopy",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Chemical Analysis",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Analytical Instruments",
+          "revenue": 0.9,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Specialty Diagnostics",
+      "revenue": 1.1,
+      "operating_income": 0.3,
+      "yoy_growth_pct": 1.5,
+      "sub_segments": [
+        {
+          "name": "Clinical Diagnostics",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Healthcare Market Channel",
+          "revenue": 0.4,
+          "yoy_growth_pct": -1.0
+        },
+        {
+          "name": "Other Specialty Diagnostics",
+          "revenue": 0.7,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Laboratory Products and Biopharma Services",
+      "revenue": 6.0,
+      "operating_income": 0.8,
+      "yoy_growth_pct": 4.1,
+      "sub_segments": [
+        {
+          "name": "Laboratory Products",
+          "revenue": 0.6,
+          "yoy_growth_pct": -6.0
+        },
+        {
+          "name": "Pharma Services",
+          "revenue": 1.8,
+          "yoy_growth_pct": 10.3
+        },
+        {
+          "name": "Clinical Research",
+          "revenue": 2.0,
+          "yoy_growth_pct": 0.3
+        },
+        {
+          "name": "Research and Safety Market Channel",
+          "revenue": 1.9,
+          "yoy_growth_pct": 6.1
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 10.9,
+    "total_revenue_yoy_pct": 3.0,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.4,
+      "selling_general_administrative": 2.1
+    },
+    "total_operating_expenses": 2.5,
+    "operating_income": 1.8,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.1,
+    "income_before_tax": 1.7,
+    "tax_expense": 0.1,
+    "net_income": 1.6,
+    "net_income_yoy_pct": null
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

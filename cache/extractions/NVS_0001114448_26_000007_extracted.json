@@ -1,0 +1,104 @@
+{
+  "company": "Novartis AG",
+  "ticker": "NVS",
+  "report_date": "2025-12-31",
+  "form_type": "6-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": 0.85,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Innovative Medicines",
+      "revenue": 49.8,
+      "operating_income": 17.4,
+      "yoy_growth_pct": 5.1,
+      "sub_segments": [
+        {
+          "name": "Entresto",
+          "revenue": 7.2,
+          "yoy_growth_pct": 22.0
+        },
+        {
+          "name": "Cosentyx",
+          "revenue": 6.9,
+          "yoy_growth_pct": 11.3
+        },
+        {
+          "name": "Zolgensma",
+          "revenue": 4.5,
+          "yoy_growth_pct": 24.6
+        },
+        {
+          "name": "Kisqali",
+          "revenue": 2.5,
+          "yoy_growth_pct": 32.3
+        },
+        {
+          "name": "Pluvicto",
+          "revenue": 2.1,
+          "yoy_growth_pct": 45.0
+        },
+        {
+          "name": "Scemblix",
+          "revenue": 1.4,
+          "yoy_growth_pct": 60.0
+        },
+        {
+          "name": "Other Innovative Medicines",
+          "revenue": 25.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Sandoz",
+      "revenue": 11.5,
+      "operating_income": 1.4,
+      "yoy_growth_pct": -3.0,
+      "sub_segments": [
+        {
+          "name": "Biopharmaceuticals",
+          "revenue": 5.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Retail Generics",
+          "revenue": 3.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Anti-Infectives",
+          "revenue": 2.5,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 62.7,
+    "total_revenue_yoy_pct": 4.0,
+    "cost_of_revenue": 14.8,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 47.9,
+    "gross_profit_yoy_pct": 5.0,
+    "operating_expenses": {
+      "research_and_development": 11.1,
+      "selling_general_administrative": 14.2
+    },
+    "total_operating_expenses": 25.3,
+    "operating_income": 22.6,
+    "operating_income_yoy_pct": 7.0,
+    "other_income_expense": -1.1,
+    "income_before_tax": 21.5,
+    "tax_expense": 3.8,
+    "net_income": 17.8,
+    "net_income_yoy_pct": 8.0
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

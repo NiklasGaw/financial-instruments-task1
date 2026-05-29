@@ -1,0 +1,1717 @@
+[
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2025-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 58.1,
+        "operating_income": 45.8,
+        "yoy_growth_pct": 1.3,
+        "sub_segments": [
+          {
+            "name": "Keytruda/Keytruda Qlex",
+            "revenue": 31.7,
+            "yoy_growth_pct": 7.4
+          },
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 5.2,
+            "yoy_growth_pct": -39.1
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 2.5,
+            "yoy_growth_pct": 12.2
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 2.5,
+            "yoy_growth_pct": -1.4
+          },
+          {
+            "name": "Bridion",
+            "revenue": 1.8,
+            "yoy_growth_pct": 4.4
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 1.5,
+            "yoy_growth_pct": 10.6
+          },
+          {
+            "name": "Winrevair",
+            "revenue": 1.4,
+            "yoy_growth_pct": 244.6
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 1.1,
+            "yoy_growth_pct": 4.3
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 10.4,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 6.9,
+        "operating_income": 2.1,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 65.0,
+      "total_revenue_yoy_pct": 1.3,
+      "cost_of_revenue": 16.4,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 48.6,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 15.8,
+        "selling_general_administrative": 10.7
+      },
+      "total_operating_expenses": 26.5,
+      "operating_income": 22.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -1.0,
+      "income_before_tax": 21.1,
+      "tax_expense": 2.8,
+      "net_income": 18.3,
+      "net_income_yoy_pct": 6.6
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2024-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 57.4,
+        "operating_income": 44.5,
+        "yoy_growth_pct": 7.1,
+        "sub_segments": [
+          {
+            "name": "Keytruda",
+            "revenue": 29.5,
+            "yoy_growth_pct": 17.9
+          },
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 8.6,
+            "yoy_growth_pct": -3.4
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 2.5,
+            "yoy_growth_pct": 5.0
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 2.3,
+            "yoy_growth_pct": -32.6
+          },
+          {
+            "name": "Bridion",
+            "revenue": 1.8,
+            "yoy_growth_pct": -4.2
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 1.3,
+            "yoy_growth_pct": 9.3
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 1.0,
+            "yoy_growth_pct": 5.2
+          },
+          {
+            "name": "Lagevrio",
+            "revenue": 1.0,
+            "yoy_growth_pct": -32.5
+          },
+          {
+            "name": "Vaxneuvance",
+            "revenue": 0.8,
+            "yoy_growth_pct": 21.5
+          },
+          {
+            "name": "Prevymis",
+            "revenue": 0.8,
+            "yoy_growth_pct": 29.8
+          },
+          {
+            "name": "RotaTeq",
+            "revenue": 0.7,
+            "yoy_growth_pct": -7.5
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 7.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 5.9,
+        "operating_income": 1.9,
+        "yoy_growth_pct": 4.5,
+        "sub_segments": [
+          {
+            "name": "Livestock",
+            "revenue": 3.5,
+            "yoy_growth_pct": 3.7
+          },
+          {
+            "name": "Companion Animal",
+            "revenue": 2.4,
+            "yoy_growth_pct": 5.6
+          },
+          {
+            "name": "Bravecto line of products",
+            "revenue": 1.1,
+            "yoy_growth_pct": 6.0
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 64.2,
+      "total_revenue_yoy_pct": 6.7,
+      "cost_of_revenue": 15.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 49.0,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 17.9,
+        "selling_general_administrative": 10.8
+      },
+      "total_operating_expenses": 28.8,
+      "operating_income": 20.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.3,
+      "income_before_tax": 19.9,
+      "tax_expense": 2.8,
+      "net_income": 17.1,
+      "net_income_yoy_pct": 4589.6
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2023-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 53.6,
+        "operating_income": 38.9,
+        "yoy_growth_pct": 3.0,
+        "sub_segments": [
+          {
+            "name": "Keytruda",
+            "revenue": 25.0,
+            "yoy_growth_pct": 19.5
+          },
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 8.9,
+            "yoy_growth_pct": 28.8
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 3.4,
+            "yoy_growth_pct": -25.4
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 2.4,
+            "yoy_growth_pct": 5.7
+          },
+          {
+            "name": "Bridion",
+            "revenue": 1.8,
+            "yoy_growth_pct": 9.3
+          },
+          {
+            "name": "Lagevrio",
+            "revenue": 1.4,
+            "yoy_growth_pct": -74.9
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 1.2,
+            "yoy_growth_pct": 7.4
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 1.0,
+            "yoy_growth_pct": 9.6
+          },
+          {
+            "name": "RotaTeq",
+            "revenue": 0.8,
+            "yoy_growth_pct": -1.8
+          },
+          {
+            "name": "Vaxneuvance",
+            "revenue": 0.7,
+            "yoy_growth_pct": 291.2
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 7.0,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 5.6,
+        "operating_income": 1.7,
+        "yoy_growth_pct": 1.4,
+        "sub_segments": [
+          {
+            "name": "Livestock",
+            "revenue": 3.3,
+            "yoy_growth_pct": 1.1
+          },
+          {
+            "name": "Companion Animal",
+            "revenue": 2.3,
+            "yoy_growth_pct": 1.7
+          }
+        ]
+      },
+      {
+        "name": "Other",
+        "revenue": 0.9,
+        "operating_income": -38.7,
+        "yoy_growth_pct": -47.5,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 60.1,
+      "total_revenue_yoy_pct": 1.4,
+      "cost_of_revenue": 16.1,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 44.0,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 30.5,
+        "selling_general_administrative": 10.5
+      },
+      "total_operating_expenses": 41.0,
+      "operating_income": 3.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -1.1,
+      "income_before_tax": 1.9,
+      "tax_expense": 1.5,
+      "net_income": 0.4,
+      "net_income_yoy_pct": -97.5
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2026-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 14.3,
+        "operating_income": null,
+        "yoy_growth_pct": 5.2,
+        "sub_segments": [
+          {
+            "name": "Oncology",
+            "revenue": 3.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Immunology",
+            "revenue": 2.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Infectious Diseases",
+            "revenue": 1.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Cardiovascular",
+            "revenue": 2.0,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Diabetes",
+            "revenue": 0.6,
+            "yoy_growth_pct": -33.2
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 4.5,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 1.8,
+        "operating_income": null,
+        "yoy_growth_pct": 12.8,
+        "sub_segments": [
+          {
+            "name": "Livestock",
+            "revenue": 1.1,
+            "yoy_growth_pct": 15.2
+          },
+          {
+            "name": "Companion Animal",
+            "revenue": 0.7,
+            "yoy_growth_pct": 9.5
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.3,
+      "total_revenue_yoy_pct": 4.9,
+      "cost_of_revenue": 4.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 12.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 12.6,
+        "selling_general_administrative": 2.7
+      },
+      "total_operating_expenses": 15.3,
+      "operating_income": -3.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.3,
+      "income_before_tax": -3.5,
+      "tax_expense": 0.7,
+      "net_income": -4.2,
+      "net_income_yoy_pct": -183.5
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2025-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 15.6,
+        "operating_income": 12.5,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Keytruda/Keytruda Qlex",
+            "revenue": 8.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 1.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Bridion",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Winrevair",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 2.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 1.6,
+        "operating_income": 0.5,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 17.3,
+      "total_revenue_yoy_pct": 3.7,
+      "cost_of_revenue": 3.9,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 13.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 4.2,
+        "selling_general_administrative": 2.6
+      },
+      "total_operating_expenses": 6.9,
+      "operating_income": 6.5,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 0.3,
+      "income_before_tax": 6.7,
+      "tax_expense": 1.0,
+      "net_income": 5.8,
+      "net_income_yoy_pct": 83.2
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2025-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 14.1,
+        "operating_income": 11.0,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Keytruda/Keytruda Qlex",
+            "revenue": 7.9,
+            "yoy_growth_pct": 9.4
+          },
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 1.1,
+            "yoy_growth_pct": -54.3
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 0.6,
+            "yoy_growth_pct": -8.3
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 0.6,
+            "yoy_growth_pct": -1.3
+          },
+          {
+            "name": "Bridion",
+            "revenue": 0.5,
+            "yoy_growth_pct": 1.3
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 0.4,
+            "yoy_growth_pct": 16.7
+          },
+          {
+            "name": "Winrevair",
+            "revenue": 0.3,
+            "yoy_growth_pct": 380.0
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 0.3,
+            "yoy_growth_pct": 6.4
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 2.4,
+            "yoy_growth_pct": -5.5
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 1.6,
+        "operating_income": 0.6,
+        "yoy_growth_pct": 11.1,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.8,
+      "total_revenue_yoy_pct": -1.9,
+      "cost_of_revenue": 3.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 12.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 4.0,
+        "selling_general_administrative": 2.6
+      },
+      "total_operating_expenses": 6.7,
+      "operating_income": 5.5,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.5,
+      "income_before_tax": 5.0,
+      "tax_expense": 0.6,
+      "net_income": 4.4,
+      "net_income_yoy_pct": -18.8
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2025-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [],
+    "income_statement": {
+      "total_revenue": 15.5,
+      "total_revenue_yoy_pct": -1.6,
+      "cost_of_revenue": 3.4,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 12.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 3.6,
+        "selling_general_administrative": 2.6
+      },
+      "total_operating_expenses": 6.2,
+      "operating_income": 5.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 5.9,
+      "tax_expense": 0.8,
+      "net_income": 5.1,
+      "net_income_yoy_pct": 6.7
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": true,
+    "_quality_score": 30
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2024-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 14.9,
+        "operating_income": 11.5,
+        "yoy_growth_pct": 22.4,
+        "sub_segments": [
+          {
+            "name": "Keytruda/Keytruda Qlex",
+            "revenue": 7.4,
+            "yoy_growth_pct": 17.2
+          },
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 2.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 0.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 0.7,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Bridion",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Winrevair",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 2.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 1.5,
+        "operating_income": 0.5,
+        "yoy_growth_pct": 6.2,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.7,
+      "total_revenue_yoy_pct": 4.4,
+      "cost_of_revenue": 4.1,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 12.6,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 5.9,
+        "selling_general_administrative": 2.7
+      },
+      "total_operating_expenses": 8.6,
+      "operating_income": 4.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 0.1,
+      "income_before_tax": 4.1,
+      "tax_expense": 0.9,
+      "net_income": 3.2,
+      "net_income_yoy_pct": -33.5
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2024-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 14.4,
+        "operating_income": 11.2,
+        "yoy_growth_pct": 5.7,
+        "sub_segments": [
+          {
+            "name": "Keytruda/Keytruda Qlex",
+            "revenue": 7.3,
+            "yoy_growth_pct": 15.9
+          },
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 2.5,
+            "yoy_growth_pct": 0.8
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 0.6,
+            "yoy_growth_pct": -20.7
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 0.6,
+            "yoy_growth_pct": 6.0
+          },
+          {
+            "name": "Bridion",
+            "revenue": 0.5,
+            "yoy_growth_pct": -9.3
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 0.3,
+            "yoy_growth_pct": 2.3
+          },
+          {
+            "name": "Winrevair",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 0.2,
+            "yoy_growth_pct": 2.9
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 0.6,
+            "yoy_growth_pct": 2.3
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 1.7,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 1.5,
+        "operating_income": 0.5,
+        "yoy_growth_pct": 1.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.1,
+      "total_revenue_yoy_pct": 7.2,
+      "cost_of_revenue": 3.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 12.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 3.5,
+        "selling_general_administrative": 2.7
+      },
+      "total_operating_expenses": 6.2,
+      "operating_income": 6.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.2,
+      "income_before_tax": 6.0,
+      "tax_expense": 0.5,
+      "net_income": 5.5,
+      "net_income_yoy_pct": -191.3
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2024-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 14.1,
+        "operating_income": null,
+        "yoy_growth_pct": 8.9,
+        "sub_segments": [
+          {
+            "name": "Keytruda/Keytruda Qlex",
+            "revenue": 6.9,
+            "yoy_growth_pct": 19.0
+          },
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 2.3,
+            "yoy_growth_pct": 29.0
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 0.8,
+            "yoy_growth_pct": -11.0
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 0.4,
+            "yoy_growth_pct": 10.0
+          },
+          {
+            "name": "Bridion",
+            "revenue": 0.3,
+            "yoy_growth_pct": 11.0
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 0.3,
+            "yoy_growth_pct": 11.0
+          },
+          {
+            "name": "Winrevair",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 0.2,
+            "yoy_growth_pct": 1.0
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 2.8,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 1.7,
+        "operating_income": null,
+        "yoy_growth_pct": 10.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.8,
+      "total_revenue_yoy_pct": 8.9,
+      "cost_of_revenue": 3.5,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 12.3,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 4.0,
+        "selling_general_administrative": 2.5
+      },
+      "total_operating_expenses": 6.5,
+      "operating_income": 5.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.1,
+      "income_before_tax": 5.7,
+      "tax_expense": 0.9,
+      "net_income": 4.8,
+      "net_income_yoy_pct": 68.8
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2023-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 14.3,
+        "operating_income": 10.4,
+        "yoy_growth_pct": 0.6,
+        "sub_segments": [
+          {
+            "name": "Keytruda/Keytruda Qlex",
+            "revenue": 6.3,
+            "yoy_growth_pct": 16.8
+          },
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 2.6,
+            "yoy_growth_pct": 12.7
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 0.8,
+            "yoy_growth_pct": -18.9
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 0.7,
+            "yoy_growth_pct": 6.7
+          },
+          {
+            "name": "Bridion",
+            "revenue": 0.4,
+            "yoy_growth_pct": 0.2
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 0.3,
+            "yoy_growth_pct": 5.3
+          },
+          {
+            "name": "Winrevair",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 0.3,
+            "yoy_growth_pct": 28.7
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 2.9,
+            "yoy_growth_pct": -8.8
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 1.4,
+        "operating_income": 0.4,
+        "yoy_growth_pct": -10.3,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.0,
+      "total_revenue_yoy_pct": 6.7,
+      "cost_of_revenue": 4.3,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 11.7,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 3.3,
+        "selling_general_administrative": 2.5
+      },
+      "total_operating_expenses": 5.8,
+      "operating_income": 5.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.3,
+      "income_before_tax": 5.6,
+      "tax_expense": 0.9,
+      "net_income": 4.7,
+      "net_income_yoy_pct": 46.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2023-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 13.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Keytruda/Keytruda Qlex",
+            "revenue": 6.3,
+            "yoy_growth_pct": 19.4
+          },
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 2.5,
+            "yoy_growth_pct": 46.8
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 0.9,
+            "yoy_growth_pct": -32.4
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 0.6,
+            "yoy_growth_pct": 0.7
+          },
+          {
+            "name": "Bridion",
+            "revenue": 0.5,
+            "yoy_growth_pct": 17.8
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 0.3,
+            "yoy_growth_pct": 12.7
+          },
+          {
+            "name": "Winrevair",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 0.2,
+            "yoy_growth_pct": 4.8
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 0.5,
+            "yoy_growth_pct": 4.7
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 1.7,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 1.5,
+        "operating_income": null,
+        "yoy_growth_pct": -0.1,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.0,
+      "total_revenue_yoy_pct": 3.0,
+      "cost_of_revenue": 4.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 11.0,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 13.3,
+        "selling_general_administrative": 2.7
+      },
+      "total_operating_expenses": 16.0,
+      "operating_income": -5.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.4,
+      "income_before_tax": -5.3,
+      "tax_expense": 0.6,
+      "net_income": -6.0,
+      "net_income_yoy_pct": -251.5
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2023-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 13.2,
+        "operating_income": null,
+        "yoy_growth_pct": -8.9,
+        "sub_segments": [
+          {
+            "name": "Keytruda/Keytruda Qlex",
+            "revenue": 5.8,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 1.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 0.8,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Bridion",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Winrevair",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 0.2,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 4.0,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 1.3,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.5,
+      "total_revenue_yoy_pct": -8.9,
+      "cost_of_revenue": 3.9,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 10.6,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 4.3,
+        "selling_general_administrative": 2.5
+      },
+      "total_operating_expenses": 6.8,
+      "operating_income": 3.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.2,
+      "income_before_tax": 3.6,
+      "tax_expense": 0.8,
+      "net_income": 2.8,
+      "net_income_yoy_pct": -34.5
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2022-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 13.6,
+        "operating_income": null,
+        "yoy_growth_pct": 13.7,
+        "sub_segments": [
+          {
+            "name": "Keytruda/Keytruda Qlex",
+            "revenue": 5.4,
+            "yoy_growth_pct": 22.0
+          },
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 2.2,
+            "yoy_growth_pct": 32.0
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 0.9,
+            "yoy_growth_pct": -10.0
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 0.5,
+            "yoy_growth_pct": 11.0
+          },
+          {
+            "name": "Bridion",
+            "revenue": 0.4,
+            "yoy_growth_pct": 14.0
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 0.3,
+            "yoy_growth_pct": 20.0
+          },
+          {
+            "name": "Winrevair",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 0.3,
+            "yoy_growth_pct": 15.0
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 3.6,
+            "yoy_growth_pct": 1.0
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 1.4,
+        "operating_income": null,
+        "yoy_growth_pct": 10.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.0,
+      "total_revenue_yoy_pct": 13.7,
+      "cost_of_revenue": 3.9,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 11.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 4.4,
+        "selling_general_administrative": 2.5
+      },
+      "total_operating_expenses": 6.9,
+      "operating_income": 4.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.7,
+      "income_before_tax": 3.6,
+      "tax_expense": 0.3,
+      "net_income": 3.2,
+      "net_income_yoy_pct": -28.9
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2022-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 12.8,
+        "operating_income": null,
+        "yoy_growth_pct": 13.6,
+        "sub_segments": [
+          {
+            "name": "Keytruda/Keytruda Qlex",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 1.2,
+            "yoy_growth_pct": -30.4
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Bridion",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Winrevair",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 0.5,
+            "yoy_growth_pct": -16.3
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 11.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 1.5,
+        "operating_income": null,
+        "yoy_growth_pct": 10.3,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.6,
+      "total_revenue_yoy_pct": 28.0,
+      "cost_of_revenue": 4.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 10.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 2.8,
+        "selling_general_administrative": 2.5
+      },
+      "total_operating_expenses": 5.3,
+      "operating_income": 5.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.7,
+      "income_before_tax": 4.5,
+      "tax_expense": 0.5,
+      "net_income": 3.9,
+      "net_income_yoy_pct": 155.3
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2025-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [],
+    "income_statement": {
+      "total_revenue": 16.4,
+      "cost_of_revenue": 5.5,
+      "gross_profit": 10.9,
+      "total_operating_expenses": 6.7,
+      "operating_income": 4.2,
+      "other_income_expense": -0.8,
+      "income_before_tax": 3.5,
+      "tax_expense": 0.4,
+      "net_income": 3.0,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 4.0,
+        "selling_general_administrative": 2.9
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 30,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": true
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2024-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 14.0,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 1.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 0.8,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Bridion",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 3.1,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 6.9,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 1.2,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.6,
+      "cost_of_revenue": 3.9,
+      "gross_profit": 11.7,
+      "total_operating_expenses": 7.5,
+      "operating_income": 4.2,
+      "other_income_expense": -0.1,
+      "income_before_tax": 4.1,
+      "tax_expense": 0.5,
+      "net_income": 3.6,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 4.5,
+        "selling_general_administrative": 2.9
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 100,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  },
+  {
+    "company": "Merck & Co. Inc.",
+    "ticker": "MRK",
+    "report_date": "2023-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Pharmaceutical",
+        "revenue": 12.6,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": [
+          {
+            "name": "Gardasil/Gardasil 9",
+            "revenue": 2.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Januvia/Janumet",
+            "revenue": 0.9,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "ProQuad/M-M-R II/Varivax",
+            "revenue": 0.8,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Bridion",
+            "revenue": 0.6,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lynparza",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Alliance revenue - Lenvima",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": -0.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Pharmaceutical",
+            "revenue": 7.8,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Animal Health",
+        "revenue": 1.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.6,
+      "cost_of_revenue": 3.9,
+      "gross_profit": 10.7,
+      "total_operating_expenses": 12.4,
+      "operating_income": -1.7,
+      "other_income_expense": -0.2,
+      "income_before_tax": -2.0,
+      "tax_expense": -0.8,
+      "net_income": -1.1,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 9.6,
+        "selling_general_administrative": 2.8
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 100,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  }
+]

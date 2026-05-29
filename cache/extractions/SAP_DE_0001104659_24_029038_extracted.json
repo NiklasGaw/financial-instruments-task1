@@ -1,0 +1,102 @@
+{
+  "company": "SAP SE",
+  "ticker": "SAP.DE",
+  "report_date": "2023-12-31",
+  "form_type": "20-F",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "EUR",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Applications, Technology & Services",
+      "revenue": 33.4,
+      "operating_income": 10.9,
+      "yoy_growth_pct": 5.0,
+      "sub_segments": [
+        {
+          "name": "Cloud Revenue",
+          "revenue": 15.2,
+          "yoy_growth_pct": 20.0
+        },
+        {
+          "name": "Cloud ERP Suite",
+          "revenue": 11.8,
+          "yoy_growth_pct": 29.0
+        },
+        {
+          "name": "Software Licenses",
+          "revenue": 2.0,
+          "yoy_growth_pct": -14.2
+        },
+        {
+          "name": "Software Support",
+          "revenue": 12.8,
+          "yoy_growth_pct": -3.5
+        },
+        {
+          "name": "Services",
+          "revenue": 4.8,
+          "yoy_growth_pct": 4.0
+        },
+        {
+          "name": "Consulting and Premium Support",
+          "revenue": 4.3,
+          "yoy_growth_pct": 4.0
+        },
+        {
+          "name": "Other Services",
+          "revenue": 0.4,
+          "yoy_growth_pct": -2.0
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 31.2,
+    "total_revenue_yoy_pct": 1.1,
+    "cost_of_revenue": 8.7,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 22.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 6.3,
+      "selling_general_administrative": 1.4
+    },
+    "total_operating_expenses": 25.4,
+    "operating_income": 5.8,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 5.3,
+    "tax_expense": 1.7,
+    "net_income": 6.0,
+    "net_income_yoy_pct": 249.2
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100,
+  "total_revenue": 31.2,
+  "total_revenue_yoy_pct": 1.1,
+  "cost_of_revenue": 8.7,
+  "cost_of_revenue_yoy_pct": null,
+  "cost_of_revenue_breakdown": null,
+  "gross_profit": 22.5,
+  "gross_profit_yoy_pct": null,
+  "operating_expenses": {
+    "research_and_development": 6.3,
+    "selling_general_administrative": 1.4
+  },
+  "total_operating_expenses": 25.4,
+  "operating_income": 5.8,
+  "operating_income_yoy_pct": null,
+  "other_income_expense": null,
+  "income_before_tax": 5.3,
+  "tax_expense": 1.7,
+  "net_income": 6.0,
+  "net_income_yoy_pct": 249.2,
+  "accession_number": "0001104659-24-029038",
+  "cik": "0001000184"
+}

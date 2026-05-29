@@ -1,0 +1,147 @@
+{
+  "company": "Home Depot Inc.",
+  "ticker": "HD",
+  "report_date": "2021-10-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2021",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Building Materials",
+      "revenue": 13.8,
+      "operating_income": null,
+      "yoy_growth_pct": 9.7,
+      "sub_segments": [
+        {
+          "name": "Building Materials",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Electrical/Lighting",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Lumber",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Millwork",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Plumbing",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "D\u00e9cor",
+      "revenue": 12.8,
+      "operating_income": null,
+      "yoy_growth_pct": 14.0,
+      "sub_segments": [
+        {
+          "name": "Appliances",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "D\u00e9cor/Storage",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Flooring",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Kitchen and Bath",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Paint",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Hardlines",
+      "revenue": 10.2,
+      "operating_income": null,
+      "yoy_growth_pct": 5.1,
+      "sub_segments": [
+        {
+          "name": "Hardware",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Indoor Garden",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Outdoor Garden",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Tools",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "revenue": null,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Services",
+      "revenue": 1.4,
+      "operating_income": null,
+      "yoy_growth_pct": 17.4,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 36.8,
+    "total_revenue_yoy_pct": 9.8,
+    "cost_of_revenue": 24.3,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 12.6,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 6.2,
+      "other_operating": 0.6
+    },
+    "total_operating_expenses": 6.8,
+    "operating_income": 5.8,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.4,
+    "income_before_tax": 5.5,
+    "tax_expense": 1.3,
+    "net_income": 4.1,
+    "net_income_yoy_pct": 20.3
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

@@ -1,0 +1,51 @@
+{
+  "ticker": "TMO",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Life Sciences Solutions",
+      "sub_segments": [
+        "Bioproduction",
+        "Chromatography and mass spectrometry",
+        "Chemical analysis",
+        "Electron microscopy",
+        "Consumables",
+        "Instruments",
+        "Services"
+      ]
+    },
+    {
+      "name": "Analytical Instruments",
+      "sub_segments": [
+        "Chromatography and mass spectrometry",
+        "Chemical analysis",
+        "Electron microscopy"
+      ]
+    },
+    {
+      "name": "Specialty Diagnostics",
+      "sub_segments": [
+        "Clinical diagnostics",
+        "Healthcare market channel",
+        "Other Specialty Diagnostics"
+      ]
+    },
+    {
+      "name": "Laboratory Products and Biopharma Services",
+      "sub_segments": [
+        "Laboratory products",
+        "Research and safety market channel",
+        "Pharma services",
+        "Clinical research"
+      ]
+    },
+    {
+      "name": "Consumables",
+      "sub_segments": []
+    },
+    {
+      "name": "Instruments",
+      "sub_segments": []
+    }
+  ]
+}

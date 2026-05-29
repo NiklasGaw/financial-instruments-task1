@@ -1,0 +1,34 @@
+{
+  "ticker": "AMZN",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "AWS",
+      "sub_segments": []
+    },
+    {
+      "name": "Online stores",
+      "sub_segments": []
+    },
+    {
+      "name": "Physical stores",
+      "sub_segments": []
+    },
+    {
+      "name": "Third-party seller services",
+      "sub_segments": []
+    },
+    {
+      "name": "Advertising services",
+      "sub_segments": []
+    },
+    {
+      "name": "Subscription services",
+      "sub_segments": []
+    },
+    {
+      "name": "Other",
+      "sub_segments": []
+    }
+  ]
+}

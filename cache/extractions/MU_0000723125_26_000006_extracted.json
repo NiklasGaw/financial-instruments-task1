@@ -1,0 +1,66 @@
+{
+  "company": "Micron Technology",
+  "ticker": "MU",
+  "report_date": "2026-02-26",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Cloud Memory Business Unit (CMBU)",
+      "revenue": 7.7,
+      "operating_income": 5.1,
+      "yoy_growth_pct": 163.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Core Data Center Business Unit (CDBU)",
+      "revenue": 5.7,
+      "operating_income": 3.8,
+      "yoy_growth_pct": 211.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Mobile and Client Business Unit (MCBU)",
+      "revenue": 7.7,
+      "operating_income": 5.8,
+      "yoy_growth_pct": 245.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Automotive and Embedded Business Unit (AEBU)",
+      "revenue": 2.7,
+      "operating_income": 1.7,
+      "yoy_growth_pct": 162.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 23.9,
+    "total_revenue_yoy_pct": 196.3,
+    "cost_of_revenue": 6.1,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 17.8,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.2,
+      "selling_general_administrative": 0.3
+    },
+    "total_operating_expenses": 1.6,
+    "operating_income": 16.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.1,
+    "income_before_tax": 16.2,
+    "tax_expense": 2.4,
+    "net_income": 13.8,
+    "net_income_yoy_pct": 770.8
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

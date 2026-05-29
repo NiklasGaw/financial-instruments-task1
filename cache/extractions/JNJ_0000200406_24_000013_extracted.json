@@ -1,0 +1,279 @@
+{
+  "company": "Johnson & Johnson",
+  "ticker": "JNJ",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Innovative Medicine",
+      "revenue": 54.8,
+      "operating_income": 18.2,
+      "yoy_growth_pct": 4.2,
+      "sub_segments": [
+        {
+          "name": "Immunology",
+          "revenue": 18.1,
+          "yoy_growth_pct": 6.6
+        },
+        {
+          "name": "REMICADE",
+          "revenue": 1.8,
+          "yoy_growth_pct": -21.5
+        },
+        {
+          "name": "SIMPONI/SIMPONI ARIA",
+          "revenue": 2.2,
+          "yoy_growth_pct": 0.6
+        },
+        {
+          "name": "STELARA",
+          "revenue": 10.9,
+          "yoy_growth_pct": 11.7
+        },
+        {
+          "name": "TREMFYA",
+          "revenue": 3.1,
+          "yoy_growth_pct": 17.9
+        },
+        {
+          "name": "Other Immunology",
+          "revenue": 0.0,
+          "yoy_growth_pct": -33.8
+        },
+        {
+          "name": "Infectious Diseases",
+          "revenue": 4.4,
+          "yoy_growth_pct": -18.9
+        },
+        {
+          "name": "COVID-19 VACCINE",
+          "revenue": 1.1,
+          "yoy_growth_pct": -48.8
+        },
+        {
+          "name": "EDURANT/rilpivirine",
+          "revenue": 1.2,
+          "yoy_growth_pct": 14.1
+        },
+        {
+          "name": "PREZISTA/PREZCOBIX/REZOLSTA/SYMTUZA",
+          "revenue": 1.9,
+          "yoy_growth_pct": -4.6
+        },
+        {
+          "name": "Other Infectious Diseases",
+          "revenue": 0.3,
+          "yoy_growth_pct": -6.7
+        },
+        {
+          "name": "Neuroscience",
+          "revenue": 7.1,
+          "yoy_growth_pct": 3.6
+        },
+        {
+          "name": "CONCERTA/methylphenidate",
+          "revenue": 0.8,
+          "yoy_growth_pct": 21.6
+        },
+        {
+          "name": "INVEGA SUSTENNA/XEPLION/INVEGA TRINZA/TREVICTA",
+          "revenue": 4.1,
+          "yoy_growth_pct": -0.6
+        },
+        {
+          "name": "SPRAVATO",
+          "revenue": 0.7,
+          "yoy_growth_pct": 84.1
+        },
+        {
+          "name": "Other Neuroscience",
+          "revenue": 1.6,
+          "yoy_growth_pct": -10.4
+        },
+        {
+          "name": "Oncology",
+          "revenue": 17.7,
+          "yoy_growth_pct": 10.5
+        },
+        {
+          "name": "CARVYKTI",
+          "revenue": 0.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "DARZALEX",
+          "revenue": 9.7,
+          "yoy_growth_pct": 22.2
+        },
+        {
+          "name": "ERLEADA",
+          "revenue": 2.4,
+          "yoy_growth_pct": 26.9
+        },
+        {
+          "name": "IMBRUVICA",
+          "revenue": 3.3,
+          "yoy_growth_pct": -13.7
+        },
+        {
+          "name": "ZYTIGA/abiraterone acetate",
+          "revenue": 0.9,
+          "yoy_growth_pct": -49.9
+        },
+        {
+          "name": "Other Oncology",
+          "revenue": 0.9,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Pulmonary Hypertension",
+          "revenue": 3.8,
+          "yoy_growth_pct": 11.6
+        },
+        {
+          "name": "OPSUMIT",
+          "revenue": 2.0,
+          "yoy_growth_pct": 10.6
+        },
+        {
+          "name": "UPTRAVI",
+          "revenue": 1.6,
+          "yoy_growth_pct": 19.7
+        },
+        {
+          "name": "Other Pulmonary Hypertension",
+          "revenue": 0.3,
+          "yoy_growth_pct": -16.7
+        },
+        {
+          "name": "Cardiovascular / Metabolism / Other",
+          "revenue": 3.7,
+          "yoy_growth_pct": -5.5
+        },
+        {
+          "name": "XARELTO",
+          "revenue": 2.4,
+          "yoy_growth_pct": -4.4
+        },
+        {
+          "name": "Other Cardiovascular / Metabolism / Other",
+          "revenue": 1.3,
+          "yoy_growth_pct": -7.6
+        }
+      ]
+    },
+    {
+      "name": "MedTech",
+      "revenue": 30.4,
+      "operating_income": 4.7,
+      "yoy_growth_pct": 10.8,
+      "sub_segments": [
+        {
+          "name": "Surgery",
+          "revenue": 10.0,
+          "yoy_growth_pct": 3.6
+        },
+        {
+          "name": "Advanced Surgery",
+          "revenue": 4.7,
+          "yoy_growth_pct": 2.2
+        },
+        {
+          "name": "General Surgery",
+          "revenue": 5.4,
+          "yoy_growth_pct": 4.8
+        },
+        {
+          "name": "Orthopaedics",
+          "revenue": 8.9,
+          "yoy_growth_pct": 4.1
+        },
+        {
+          "name": "Hips",
+          "revenue": 1.6,
+          "yoy_growth_pct": 3.0
+        },
+        {
+          "name": "Knees",
+          "revenue": 1.5,
+          "yoy_growth_pct": 7.1
+        },
+        {
+          "name": "Trauma",
+          "revenue": 3.0,
+          "yoy_growth_pct": 3.8
+        },
+        {
+          "name": "Spine, Sports & Other",
+          "revenue": 2.9,
+          "yoy_growth_pct": 3.7
+        },
+        {
+          "name": "Interventional Solutions",
+          "revenue": 6.4,
+          "yoy_growth_pct": 47.7
+        },
+        {
+          "name": "Electrophysiology",
+          "revenue": 4.7,
+          "yoy_growth_pct": 19.1
+        },
+        {
+          "name": "Abiomed",
+          "revenue": 1.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Interventional Solutions",
+          "revenue": 0.4,
+          "yoy_growth_pct": 7.1
+        },
+        {
+          "name": "Vision",
+          "revenue": 5.1,
+          "yoy_growth_pct": 4.6
+        },
+        {
+          "name": "Contact Lenses/Other",
+          "revenue": 3.7,
+          "yoy_growth_pct": 4.5
+        },
+        {
+          "name": "Surgical Vision",
+          "revenue": 1.4,
+          "yoy_growth_pct": 4.9
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 85.2,
+    "total_revenue_yoy_pct": -10.3,
+    "cost_of_revenue": 26.6,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 58.6,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.5,
+      "selling_general_administrative": 21.5
+    },
+    "total_operating_expenses": 22.0,
+    "operating_income": 36.6,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.3,
+    "income_before_tax": 15.1,
+    "tax_expense": 1.7,
+    "net_income": 35.2,
+    "net_income_yoy_pct": 95.9
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

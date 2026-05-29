@@ -1,0 +1,74 @@
+{
+  "company": "Chevron Corporation",
+  "ticker": "CVX",
+  "report_date": "2022-06-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2022",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Upstream",
+      "revenue": 32.7,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Upstream - United States",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Upstream - International",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Downstream",
+      "revenue": 32.7,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Downstream - United States",
+          "revenue": 23.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Downstream - International",
+          "revenue": 9.4,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 65.4,
+    "total_revenue_yoy_pct": 81.0,
+    "cost_of_revenue": 40.0,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 25.4,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 0.9
+    },
+    "total_operating_expenses": 0.9,
+    "operating_income": 24.5,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -8.6,
+    "income_before_tax": 16.0,
+    "tax_expense": 4.3,
+    "net_income": 11.6,
+    "net_income_yoy_pct": 277.1
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

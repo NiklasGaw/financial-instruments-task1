@@ -1,0 +1,14 @@
+{
+  "ticker": "LRCX",
+  "source": "cache: 10-K 2023-06-25",
+  "segments": [
+    {
+      "name": "Semiconductor Equipment",
+      "sub_segments": []
+    },
+    {
+      "name": "Semiconductor Production Equipment",
+      "sub_segments": []
+    }
+  ]
+}

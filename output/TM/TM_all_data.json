@@ -1,0 +1,175 @@
+[
+  {
+    "company": "Toyota Motor Corporation",
+    "ticker": "TM",
+    "report_date": "2025-03-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": 149.42,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Automotive",
+        "revenue": 289.1,
+        "operating_income": 26.4,
+        "yoy_growth_pct": 4.7,
+        "sub_segments": []
+      },
+      {
+        "name": "Financial Services",
+        "revenue": 30.0,
+        "operating_income": 4.6,
+        "yoy_growth_pct": 28.6,
+        "sub_segments": []
+      },
+      {
+        "name": "All Other",
+        "revenue": 9.7,
+        "operating_income": 1.2,
+        "yoy_growth_pct": 5.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 321.5,
+      "total_revenue_yoy_pct": 6.5,
+      "cost_of_revenue": 257.4,
+      "cost_of_revenue_yoy_pct": 3.2,
+      "cost_of_revenue_breakdown": {
+        "product_costs": 35510.2,
+        "service_costs": 2948.5
+      },
+      "gross_profit": 64.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "selling_general_administrative": 32.0
+      },
+      "total_operating_expenses": 32.0,
+      "operating_income": 32.1,
+      "operating_income_yoy_pct": -10.4,
+      "other_income_expense": 10.8,
+      "income_before_tax": 42.9,
+      "tax_expense": 10.9,
+      "net_income": 32.1,
+      "net_income_yoy_pct": -5.5
+    },
+    "notes": "Two-pass LLM extraction (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Toyota Motor Corporation",
+    "ticker": "TM",
+    "report_date": "2024-03-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": 151.19,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Automotive",
+        "revenue": 0.3,
+        "operating_income": 0.0,
+        "yoy_growth_pct": 22.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Financial Services",
+        "revenue": 0.0,
+        "operating_income": 0.0,
+        "yoy_growth_pct": 24.0,
+        "sub_segments": []
+      },
+      {
+        "name": "All Other",
+        "revenue": 0.0,
+        "operating_income": 0.0,
+        "yoy_growth_pct": 11.7,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 0.3,
+      "total_revenue_yoy_pct": 21.4,
+      "cost_of_revenue": 0.2,
+      "cost_of_revenue_yoy_pct": 15.5,
+      "cost_of_revenue_breakdown": {
+        "product_costs": 33.6,
+        "service_costs": 2.1
+      },
+      "gross_profit": 0.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 0.0,
+        "other_operating": 0.2
+      },
+      "total_operating_expenses": 0.1,
+      "operating_income": 0.0,
+      "operating_income_yoy_pct": 96.4,
+      "other_income_expense": 0.0,
+      "income_before_tax": 0.0,
+      "tax_expense": 0.0,
+      "net_income": 0.0,
+      "net_income_yoy_pct": 103.4
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 60
+  },
+  {
+    "company": "Toyota Motor Corporation",
+    "ticker": "TM",
+    "report_date": "2023-03-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": 133.18,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "All Other",
+        "revenue": 9.2,
+        "operating_income": 0.8,
+        "yoy_growth_pct": 8.4,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 0.3,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue": 0.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": {
+        "product_costs": 29.1,
+        "service_costs": 1.7
+      },
+      "gross_profit": 0.0,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 0.0,
+        "other_operating": 0.2
+      },
+      "total_operating_expenses": 0.0,
+      "operating_income": 0.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 0.0,
+      "income_before_tax": 0.0,
+      "tax_expense": 0.0,
+      "net_income": 0.0,
+      "net_income_yoy_pct": null
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 40
+  }
+]

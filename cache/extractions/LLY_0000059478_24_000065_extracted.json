@@ -1,0 +1,189 @@
+{
+  "company": "Eli Lilly and Company",
+  "ticker": "LLY",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Diabetes and obesity",
+      "revenue": 19.7,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Trulicity",
+          "revenue": 7.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Mounjaro",
+          "revenue": 5.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Jardiance",
+          "revenue": 2.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Humalog",
+          "revenue": 1.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Humulin",
+          "revenue": 0.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Basaglar",
+          "revenue": 0.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Baqsimi",
+          "revenue": 0.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Zepbound",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other diabetes and obesity",
+          "revenue": 0.5,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Oncology",
+      "revenue": 6.7,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Verzenio",
+          "revenue": 3.9,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Cyramza",
+          "revenue": 1.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Erbitux",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Tyvyt",
+          "revenue": 0.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Alimta",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other oncology",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Immunology",
+      "revenue": 3.5,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Taltz",
+          "revenue": 2.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Olumiant",
+          "revenue": 0.7,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Neuroscience",
+      "revenue": 2.2,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Emgality",
+          "revenue": 1.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Cymbalta",
+          "revenue": 0.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Zyprexa",
+          "revenue": 0.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other neuroscience",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Other pharmaceuticals",
+      "revenue": 1.6,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Collaboration and other revenue",
+      "revenue": 0.4,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 34.1,
+    "total_revenue_yoy_pct": 19.6,
+    "cost_of_revenue": 7.1,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 27.0,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 7.4
+    },
+    "total_operating_expenses": 7.4,
+    "operating_income": 19.6,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -13.1,
+    "income_before_tax": 6.6,
+    "tax_expense": 1.3,
+    "net_income": 5.2,
+    "net_income_yoy_pct": -16.1
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

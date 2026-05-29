@@ -1,0 +1,60 @@
+{
+  "company": "Amphenol Corp.",
+  "ticker": "APH",
+  "report_date": "2025-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Communications Solutions",
+      "revenue": 3.5,
+      "operating_income": 1.0,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Harsh Environment Solutions",
+      "revenue": 1.7,
+      "operating_income": 0.4,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Interconnect and Sensor Systems",
+      "revenue": 1.4,
+      "operating_income": 0.2,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 6.4,
+    "cost_of_revenue": 4.0,
+    "gross_profit": 2.4,
+    "total_operating_expenses": 0.6,
+    "operating_income": 1.8,
+    "other_income_expense": 0.0,
+    "income_before_tax": 1.7,
+    "tax_expense": 0.5,
+    "net_income": 1.3,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "selling_general_administrative": 0.6,
+      "research_and_development": null
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 90,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

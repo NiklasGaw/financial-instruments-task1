@@ -1,0 +1,172 @@
+{
+  "company": "Sony Group Corporation",
+  "ticker": "6758.T",
+  "report_date": "2026-03-25",
+  "form_type": "6-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": 158.96,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Game & Network Services",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": 5.1,
+      "sub_segments": [
+        {
+          "name": "Hardware, software and others",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Network services",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": 8.3,
+      "sub_segments": [
+        {
+          "name": "Recorded music",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Music publishing",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Visual media and platform",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Pictures",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": 12.5,
+      "sub_segments": [
+        {
+          "name": "Motion pictures",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Television productions",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Media networks",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Electronics Products & Solutions",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": 3.7,
+      "sub_segments": [
+        {
+          "name": "Imaging & sensing solutions",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Televisions",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Audio & video",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Mobile communications",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Others",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Imaging & Sensing Solutions",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": 6.8,
+      "sub_segments": []
+    },
+    {
+      "name": "Financial Services",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": 4.2,
+      "sub_segments": [
+        {
+          "name": "Life insurance and non-life insurance",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Banking",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Nursing care and others",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "All Other",
+      "revenue": 0.0,
+      "operating_income": -0.0,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 72.3,
+    "total_revenue_yoy_pct": 12.3,
+    "cost_of_revenue": 40.9,
+    "cost_of_revenue_yoy_pct": 10.2,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 31.5,
+    "gross_profit_yoy_pct": 15.0,
+    "operating_expenses": {
+      "research_and_development": 5.7,
+      "selling_general_administrative": 11.3
+    },
+    "total_operating_expenses": 17.0,
+    "operating_income": 14.5,
+    "operating_income_yoy_pct": 18.8,
+    "other_income_expense": -0.6,
+    "income_before_tax": 13.8,
+    "tax_expense": 3.1,
+    "net_income": 10.7,
+    "net_income_yoy_pct": 16.4
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 70
+}

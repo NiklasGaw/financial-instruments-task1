@@ -1,0 +1,66 @@
+{
+  "company": "SAP SE",
+  "ticker": "SAP.DE",
+  "report_date": "2024-12-31",
+  "form_type": "20-F",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "EUR",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Software licenses",
+      "revenue": 1.5,
+      "operating_income": null,
+      "yoy_growth_pct": -20.7,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 34.2,
+    "total_revenue_yoy_pct": 9.5,
+    "cost_of_revenue": 9.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 24.9,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 6.5,
+      "selling_general_administrative": 1.4
+    },
+    "total_operating_expenses": 29.5,
+    "operating_income": 4.7,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 4.8,
+    "tax_expense": 1.6,
+    "net_income": 3.1,
+    "net_income_yoy_pct": -47.2
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 70,
+  "total_revenue": 34.2,
+  "total_revenue_yoy_pct": 9.5,
+  "cost_of_revenue": 9.2,
+  "cost_of_revenue_yoy_pct": null,
+  "cost_of_revenue_breakdown": null,
+  "gross_profit": 24.9,
+  "gross_profit_yoy_pct": null,
+  "operating_expenses": {
+    "research_and_development": 6.5,
+    "selling_general_administrative": 1.4
+  },
+  "total_operating_expenses": 29.5,
+  "operating_income": 4.7,
+  "operating_income_yoy_pct": null,
+  "other_income_expense": null,
+  "income_before_tax": 4.8,
+  "tax_expense": 1.6,
+  "net_income": 3.1,
+  "net_income_yoy_pct": -47.2,
+  "accession_number": "0001104659-25-017815",
+  "cik": "0001000184"
+}

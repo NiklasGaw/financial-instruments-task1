@@ -1,0 +1,74 @@
+{
+  "company": "Chevron Corporation",
+  "ticker": "CVX",
+  "report_date": "2023-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Upstream",
+      "revenue": 12.3,
+      "operating_income": 5.2,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Upstream - United States",
+          "revenue": 3.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Upstream - International",
+          "revenue": 8.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Downstream",
+      "revenue": 36.5,
+      "operating_income": 1.8,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Downstream - United States",
+          "revenue": 17.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Downstream - International",
+          "revenue": 18.7,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 48.8,
+    "total_revenue_yoy_pct": -6.6,
+    "cost_of_revenue": 29.4,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 19.4,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 0.9
+    },
+    "total_operating_expenses": 0.9,
+    "operating_income": 18.5,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -9.0,
+    "income_before_tax": 9.5,
+    "tax_expense": 2.9,
+    "net_income": 6.6,
+    "net_income_yoy_pct": 5.0
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

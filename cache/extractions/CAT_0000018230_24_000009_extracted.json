@@ -1,0 +1,87 @@
+{
+  "company": "Caterpillar Inc.",
+  "ticker": "CAT",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Construction Industries",
+      "revenue": 27.3,
+      "operating_income": 6.98,
+      "yoy_growth_pct": 8.6,
+      "sub_segments": []
+    },
+    {
+      "name": "Resource Industries",
+      "revenue": 13.2,
+      "operating_income": 2.83,
+      "yoy_growth_pct": 10.3,
+      "sub_segments": []
+    },
+    {
+      "name": "Energy & Transportation",
+      "revenue": 23.4,
+      "operating_income": 4.94,
+      "yoy_growth_pct": 20.8,
+      "sub_segments": [
+        {
+          "name": "Oil and gas",
+          "revenue": 7.0,
+          "yoy_growth_pct": 31.1
+        },
+        {
+          "name": "Power generation",
+          "revenue": 6.4,
+          "yoy_growth_pct": 28.8
+        },
+        {
+          "name": "Industrial",
+          "revenue": 4.9,
+          "yoy_growth_pct": 10.0
+        },
+        {
+          "name": "Transportation",
+          "revenue": 5.1,
+          "yoy_growth_pct": 10.6
+        }
+      ]
+    },
+    {
+      "name": "Financial Products Segment",
+      "revenue": 3.8,
+      "operating_income": 0.91,
+      "yoy_growth_pct": 16.3,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 67.1,
+    "total_revenue_yoy_pct": 12.8,
+    "cost_of_revenue": 42.8,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 24.3,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 2.1,
+      "selling_general_administrative": 6.4
+    },
+    "total_operating_expenses": 8.5,
+    "operating_income": 13.0,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 13.1,
+    "tax_expense": 2.8,
+    "net_income": null,
+    "net_income_yoy_pct": null
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 70
+}

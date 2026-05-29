@@ -1,0 +1,81 @@
+{
+  "company": "Philip Morris International",
+  "ticker": "PM",
+  "report_date": "2024-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "SSEA, CIS & MEA",
+      "revenue": 11.3,
+      "operating_income": 3.4,
+      "yoy_growth_pct": 5.9,
+      "sub_segments": [
+        {
+          "name": "Combustible tobacco products",
+          "revenue": 9.8,
+          "yoy_growth_pct": 5.7
+        },
+        {
+          "name": "Smoke-free products (excluding Wellness and Healthcare)",
+          "revenue": 1.4,
+          "yoy_growth_pct": 8.0
+        }
+      ]
+    },
+    {
+      "name": "EA, AU & PMI DF",
+      "revenue": 6.4,
+      "operating_income": 2.9,
+      "yoy_growth_pct": 3.1,
+      "sub_segments": [
+        {
+          "name": "Combustible tobacco products",
+          "revenue": 2.5,
+          "yoy_growth_pct": -6.0
+        },
+        {
+          "name": "Smoke-free products (excluding Wellness and Healthcare)",
+          "revenue": 3.9,
+          "yoy_growth_pct": 10.0
+        }
+      ]
+    },
+    {
+      "name": "Wellness & Healthcare",
+      "revenue": 0.3,
+      "operating_income": -0.4,
+      "yoy_growth_pct": 8.8,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 37.9,
+    "total_revenue_yoy_pct": 7.7,
+    "cost_of_revenue": 13.3,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 24.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.8,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": 0.8,
+    "operating_income": 13.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -3.3,
+    "income_before_tax": 12.2,
+    "tax_expense": 3.0,
+    "net_income": 7.1,
+    "net_income_yoy_pct": -9.7
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

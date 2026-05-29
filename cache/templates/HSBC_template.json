@@ -1,0 +1,44 @@
+{
+  "ticker": "HSBC",
+  "source": "cache: 20-F 2023-12-31",
+  "segments": [
+    {
+      "name": "Hong Kong",
+      "sub_segments": []
+    },
+    {
+      "name": "Corporate and Institutional Banking (CIB)",
+      "sub_segments": []
+    },
+    {
+      "name": "Wealth and Personal Banking",
+      "sub_segments": [
+        "Banking operations",
+        "Life insurance",
+        "Global Private Banking",
+        "Asset management"
+      ]
+    },
+    {
+      "name": "Commercial Banking",
+      "sub_segments": []
+    },
+    {
+      "name": "Wealth and Personal Banking (WPB)",
+      "sub_segments": [
+        "Banking operations",
+        "Life insurance",
+        "Global Private Banking",
+        "Asset management"
+      ]
+    },
+    {
+      "name": "Commercial Banking (CMB)",
+      "sub_segments": []
+    },
+    {
+      "name": "Corporate Centre",
+      "sub_segments": []
+    }
+  ]
+}

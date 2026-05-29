@@ -1,0 +1,39 @@
+{
+  "ticker": "IBM",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Software",
+      "sub_segments": [
+        "Hybrid Cloud",
+        "Automation",
+        "Data",
+        "Transaction Processing",
+        "Hybrid Platform & Solutions",
+        "Red Hat",
+        "Other"
+      ]
+    },
+    {
+      "name": "Consulting",
+      "sub_segments": [
+        "Strategy and Technology",
+        "Intelligent Operations",
+        "Business Transformation",
+        "Technology Consulting",
+        "Application Operations"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "sub_segments": [
+        "Hybrid Infrastructure",
+        "Infrastructure Support"
+      ]
+    },
+    {
+      "name": "Financing",
+      "sub_segments": []
+    }
+  ]
+}

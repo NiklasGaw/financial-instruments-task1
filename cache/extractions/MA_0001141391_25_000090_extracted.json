@@ -1,0 +1,52 @@
+{
+  "company": "Mastercard Incorporated",
+  "ticker": "MA",
+  "report_date": "2025-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Payment network",
+      "revenue": 4.4,
+      "operating_income": null,
+      "yoy_growth_pct": 13.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Value-added services and solutions",
+      "revenue": 2.8,
+      "operating_income": null,
+      "yoy_growth_pct": 16.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 7.2,
+    "total_revenue_yoy_pct": 14.2,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 2.5
+    },
+    "total_operating_expenses": 2.5,
+    "operating_income": 4.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 4.0,
+    "tax_expense": 0.8,
+    "net_income": null,
+    "net_income_yoy_pct": null
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 60
+}

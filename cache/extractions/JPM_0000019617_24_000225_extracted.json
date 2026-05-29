@@ -1,0 +1,142 @@
+{
+  "company": "JPMorgan Chase & Co.",
+  "ticker": "JPM",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Consumer & Community Banking",
+      "revenue": 70.1,
+      "operating_income": 21.2,
+      "yoy_growth_pct": 28.0,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 55.0,
+          "yoy_growth_pct": 37.8
+        },
+        {
+          "name": "Noninterest revenue",
+          "revenue": 15.1,
+          "yoy_growth_pct": 1.6
+        }
+      ]
+    },
+    {
+      "name": "Corporate & Investment Bank",
+      "revenue": 48.8,
+      "operating_income": 14.1,
+      "yoy_growth_pct": 1.5,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 8.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Noninterest revenue",
+          "revenue": 40.3,
+          "yoy_growth_pct": 11.4
+        },
+        {
+          "name": "Investment banking fees",
+          "revenue": 6.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Principal transactions",
+          "revenue": 24.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Lending- and deposit-related fees",
+          "revenue": 7.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Commissions and other fees",
+          "revenue": 6.8,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Commercial Banking",
+      "revenue": 15.5,
+      "operating_income": 6.1,
+      "yoy_growth_pct": 34.8,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 12.1,
+          "yoy_growth_pct": 47.0
+        },
+        {
+          "name": "Noninterest revenue",
+          "revenue": 3.5,
+          "yoy_growth_pct": 4.7
+        }
+      ]
+    },
+    {
+      "name": "Asset & Wealth Management",
+      "revenue": 19.8,
+      "operating_income": 5.2,
+      "yoy_growth_pct": 11.7,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 6.3,
+          "yoy_growth_pct": 19.6
+        },
+        {
+          "name": "Noninterest revenue",
+          "revenue": 13.6,
+          "yoy_growth_pct": 8.4
+        },
+        {
+          "name": "Asset management fees",
+          "revenue": 15.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Corporate",
+      "revenue": 8.0,
+      "operating_income": 2.8,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 158.1,
+    "total_revenue_yoy_pct": 22.9,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": null,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 61.6,
+    "tax_expense": 12.1,
+    "net_income": 49.6,
+    "net_income_yoy_pct": 31.5
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 85
+}

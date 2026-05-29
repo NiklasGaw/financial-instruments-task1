@@ -1,0 +1,14 @@
+{
+  "ticker": "NVDA",
+  "source": "cache: 10-K 2024-01-28",
+  "segments": [
+    {
+      "name": "Compute & Networking",
+      "sub_segments": []
+    },
+    {
+      "name": "Graphics",
+      "sub_segments": []
+    }
+  ]
+}

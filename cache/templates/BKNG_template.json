@@ -1,0 +1,18 @@
+{
+  "ticker": "BKNG",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Merchant revenues",
+      "sub_segments": []
+    },
+    {
+      "name": "Agency revenues",
+      "sub_segments": []
+    },
+    {
+      "name": "Advertising and other revenues",
+      "sub_segments": []
+    }
+  ]
+}

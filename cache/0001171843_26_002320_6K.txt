@@ -1,0 +1,629 @@
+6-K
+ 1
+ f6k_040826.htm
+ FORM 6-K
+
+ UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ Form 6-K 
+
+ REPORT OF FOREIGN ISSUER 
+PURSUANT TO RULE 13a-16 OR 15d-16 
+UNDER THE SECURITIES EXCHANGE ACT OF 1934 
+ For the month of April 2026 
+ Commission File Number: 1-32575 
+ Shell plc 
+(Exact name of registrant as specified in its charter) 
+ England and Wales
+ (Jurisdiction of incorporation or organization) 
+ Shell Centre
+London, SE1 7NA
+United Kingdom
+ (Address of principal executive office)
+ ________________________________ 
+
+ Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F.
+ Form 20-F [ X ] Form 40-F [ ]
+ Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1): [ ]
+ Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7): [ ]
+--> 
+
+ Shell first quarter 2026 update note 
+
+ The following is an update to the first quarter 2026 outlook and gives an overview of our
+current expectations for the first quarter. Outlooks presented may vary from the actual first quarter 2026 results and are subject to
+finalisation of those results, which are scheduled to be published on May 7, 2026. Unless otherwise indicated, all outlook statements
+exclude identified items. 
+
+ See appendix for the definition of the non-GAAP measure used and the most comparable GAAP
+measure.
+
+ In light of the ongoing situation in the Middle East, the outlook provided is subject to
+increased uncertainty. For details see the impact of the conflict in the Middle East on Shell&#8217;s activities on shell.com.
+
+ Integrated Gas 
+
+ $ billions 
+ Q4&#8217;25 
+ Q1&#8217;26 Outlook 
+ Comment 
+
+ Production (kboe/d) 
+ 948 
+ 880 - 920 
+ Reflects the impact of the Middle East conflict on Qatari volumes. 
+
+ LNG liquefaction volumes (MT) 
+ 7.8 
+ 7.6 - 8.0 
+ Reflects the ramp-up of LNG Canada, offset by Australia weather constraints and Qatar LNG outages. 
+
+ Underlying opex 
+ 1.2 
+ 1.1 - 1.3 
+
+ Pre-tax depreciation 
+ 1.5 
+ 1.3 - 1.7 
+
+ Taxation charge 
+ 0.8 
+ 0.4 - 0.7 
+
+ Other Considerations: 
+
+ Trading & Optimisation is expected to be in line with Q4&#8217;25. 
+Note: Long&#45;term LNG contracts usually have a pricing lag (e.g. JCC&#45;3). 
+
+ Upstream 
+
+ $ billions 
+ Q4&#8217;25 
+ Q1&#8217;26 Outlook 
+ Comment 
+
+ Production (kboe/d) 
+ 1,892 
+ 1,760 - 1,860 
+ Includes reduced production following the Adura JV incorporation. 
+
+ Underlying opex 
+ 2.4 
+ 2.0 - 2.4 
+
+ Pre-tax depreciation 
+ 2.7 
+ 2.4 - 3.0 
+
+ Taxation charge 
+ 1.7 
+ 1.6 - 2.4 
+ Reflects the Nigeria onshore and UK portfolio changes since Q1&#8217;25. 
+
+ Other Considerations: 
+
+ - 
+
+ Marketing 
+
+ $ billions 
+ Q4&#8217;25 
+ Q1&#8217;26 Outlook 
+ Comment 
+
+ Sales volumes (kb/d) 
+ 2,701 
+ 2,550 - 2,650 
+
+ Underlying opex 
+ 2.6 
+ 2.2 - 2.6 
+
+ Pre-tax depreciation 
+ 0.6 
+ 0.5 - 0.7 
+
+ Taxation charge 
+ 0.4 
+ 0.4 - 0.7 
+
+ Other Considerations: 
+
+ Marketing adjusted earnings are expected to be significantly higher than Q1&#8217;25. 
+
+ Chemicals and Products 
+
+ $ billions 
+ Q4&#8217;25 
+ Q1&#8217;26 Outlook 
+ Comment 
+
+ Indicative refining margin* 
+ $14/bbl 
+ $17/bbl 
+
+ Indicative chemicals margin* 
+ $140/tonne 
+ $139/tonne 
+ The Chemicals sub-segment adjusted earnings are expected to be at a similar level as Q1&#8217;25. 
+
+ Refinery utilisation 
+ 95% 
+ 95% - 99% 
+
+ Chemicals utilisation 
+ 76% 
+ 81% - 85% 
+
+ Underlying opex 
+ 2.2 
+ 1.7 - 2.1 
+
+ Pre-tax depreciation 
+ 0.9 
+ 0.8 - 1.0 
+
+ Taxation charge / (credit) 
+ 0.2 
+ 0.3 - 0.7 
+
+ Other Considerations: 
+
+ Trading & Optimisation is expected to be significantly higher than Q4&#8217;25. 
+
+ *See appendix
+
+ Renewables and Energy Solutions 
+
+ $ billions 
+ Q4&#8217;25 
+ Q1&#8217;26 Outlook 
+ Comment 
+
+ Adjusted Earnings 
+ 0.1 
+ 0.2 - 0.7 
+ Trading & Optimisation is expected to be significantly higher than Q4&#8217;25. 
+
+ Corporate 
+
+ $ billions 
+ Q4&#8217;25 
+ Q1&#8217;26 Outlook 
+ Comment 
+
+ Adjusted Earnings 
+ (0.6) 
+ (1.0) - (0.8) 
+
+ Shell Group 
+
+ $ billions 
+ Q4&#8217;25 
+ Q1&#8217;26 Outlook 
+ Comment 
+
+ CFFO: 
+
+ Tax paid 
+ 2.6 
+ 2.0 - 2.8 
+
+ Financial Derivative Instruments movements 
+ (0.1) 
+ (1) - 4 
+
+ Working capital 
+ 1.3 
+ (15) - (10) 
+ Reflects impact of unprecedented volatility in commodity prices on inventory and receivables. 
+
+ Other Shell Group Considerations: 
+
+ Non-cash net-debt expected to be impacted by $3-4 billion increase in variable components of long-term shipping leases in the current macro environment. 
+
+ Guidance 
+
+ The &#8216;Quarterly Databook&#8217; contains guidance on Indicative Refining
+Margin, Indicative Chemicals Margin and full-year price and margin sensitivities.
+
+ Consensus 
+
+ The company compiled consensus, managed by Vara Research, is expected
+to be published on April 29, 2026. 
+
+ Appendix 
+
+ Indicative Margins 
+
+ Chemicals & Products 
+ Q4&#8217;25 
+ Q1&#8217;26 Updated Outlook 
+
+ Indicative refining margin 
+ $14/bbl 
+ $17/bbl 
+
+ Indicative chemicals margin 
+ $140/tonne 
+ $139/tonne 
+
+ Volume Data 
+
+ Operational Metrics 
+ Q4&#8217;25 
+ Q1&#8217;26 QPR Outlook 
+ Q1&#8217;26 Updated Outlook 
+
+ Integrated Gas 
+
+ Production (kboe/d) 
+ 948 
+ 920 - 980 
+ 880 - 920 
+
+ LNG liquefaction volumes (MT) 
+ 7.8 
+ 7.4 - 8.0 
+ 7.6 - 8.0 
+
+ Upstream 
+
+ Production (kboe/d) 
+ 1,892 
+ 1,700 - 1.900 
+ 1,760 - 1,860 
+
+ Marketing 
+
+ Sales volumes (kb/d) 
+ 2,701 
+ 2,550 - 2,750 
+ 2,550 - 2,650 
+
+ Chemicals & Products 
+
+ Refinery utilisation 
+ 95% 
+ 90% - 98% 
+ 95% - 99% 
+
+ Chemicals utilisation 
+ 76% 
+ 79% - 87% 
+ 81% - 85% 
+
+ Underlying Opex 
+
+ Underlying operating expenses is a measure aimed at facilitating a comparative understanding
+of performance from period to period by removing the effects of identified items, which, either individually or collectively, can cause
+volatility, in some cases driven by external factors. For further details see the 4th Quarter 2025 and full year unaudited results.
+
+ $ billions 
+ Q4&#8217;25 
+ Q4&#8217;25 Adjusted 
+ Q1&#8217;26 Updated Outlook 
+
+ Production and manufacturing expenses 
+ 5.8 
+
+ Selling, distribution and administrative expenses 
+ 3.4 
+
+ Research and development 
+ 0.3 
+
+ Operating Expenses (Opex) 
+ 9.6 
+ 9.6 
+
+ Less: Identified Items 
+
+ 0.1 
+
+ Underlying Opex 
+
+ 9.4 
+
+ of which: 
+
+ Integrated Gas 
+ 1.2 
+ 1.2 
+ 1.1 - 1.3 
+
+ Upstream 
+ 2.5 
+ 2.4 
+ 2.0 - 2.4 
+
+ Marketing 
+ 2.7 
+ 2.6 
+ 2.2 - 2.6 
+
+ Chemicals and Products 
+ 2.2 
+ 2.2 
+ 1.7 - 2.1 
+
+ Renewables and Energy Solutions 
+ 0.6 
+ 0.6 
+
+ Depreciation, depletion and amortisation 
+
+ $ billions 
+ Q4&#8217;25 
+ Q4&#8217;25 Adjusted 
+ Q1&#8217;26 Updated Outlook 
+
+ Depreciation, Depletion & Amortisation 
+ 6.6 
+ 6.6 
+
+ Less: Identified Items 
+
+ 0.8 
+
+ Pre-tax depreciation (as Adjusted) 
+
+ 5.8 
+
+ of which: 
+
+ Integrated Gas 
+ 1.5 
+ 1.5 
+ 1.3 - 1.7 
+
+ Upstream 
+ 2.9 
+ 2.7 
+ 2.4 - 3.0 
+
+ Marketing 
+ 0.9 
+ 0.6 
+ 0.5 - 0.7 
+
+ Chemicals and Products 
+ 1.1 
+ 0.9 
+ 0.8 - 1.0 
+
+ Renewables and Energy Solutions 
+ 0.3 
+ 0.1 
+
+ Taxation Charge 
+
+ $ billions 
+ Q4&#8217;25 
+ Q4&#8217;25 Adjusted 
+ Q1&#8217;26 Updated Outlook 
+
+ Taxation Charge 
+
+ 2.7 
+ 2.7 
+
+ Less: Identified Items and Cost of supplies adjustment 
+
+ (0.2) 
+
+ Taxation Charge (as Adjusted) 
+
+ 2.9 
+
+ of which: 
+
+ Integrated Gas 
+ 0.9 
+ 0.8 
+ 0.4 - 0.7 
+
+ Upstream 
+ 1.7 
+ 1.7 
+ 1.6 - 2.4 
+
+ Marketing 
+ 0.3 
+ 0.4 
+ 0.4 - 0.7 
+
+ Chemicals and Products 
+ — 
+ 0.2 
+ 0.3 - 0.7 
+
+ Renewables and Energy Solutions 
+ 0.1 
+ 0.1 
+
+ Adjusted Earnings 
+
+ The &#8220;Adjusted Earnings&#8221; measure aims to facilitate a comparative understanding
+of Shell&#8217;s financial performance from period to period by removing the effects of oil price changes on inventory carrying amounts
+and removing the effects of identified items. These items are in some cases driven by external factors and may, either individually or
+collectively, hinder the comparative understanding of Shell&#8217;s financial results from period to period. This measure excludes earnings
+attributable to non-controlling interest. For further details see the 4th Quarter 2025 and full year unaudited results.
+
+ $ billions 
+ Q4&#8217;25 
+ Q4&#8217;25 Adjusted 
+ Q1&#8217;26 Updated Outlook 
+
+ Income/(loss) attributable to Shell plc shareholders 
+ 4.1 
+ 4.1 
+
+ Add: Current cost of supplies adjustment attributable to Shell plc shareholders 
+
+ 0.3 
+
+ Less: Identified items attributable to Shell plc shareholders 
+
+ 1.2 
+
+ Adjusted Earnings 
+
+ 3.3 
+
+ of which: 
+
+ Renewables and Energy Solutions 
+ (0.1) 
+ 0.1 
+ 0.2 - 0.7 
+
+ Corporate 
+ (0.6) 
+ (0.6) 
+ (1.0) - (0.8) 
+
+ Working Capital 
+
+ Working capital movements are defined as the sum of the following items in the Consolidated
+Statement of Cash Flows: (i) (increase)/decrease in inventories, (ii) (increase)/decrease in current receivables, and (iii) increase/(decrease)
+in current payables.
+
+ Enquiries 
+
+ Media International: +44 (0) 207 934 5550
+
+ Media U.S. and Canada: Contact form
+
+ Cautionary Note 
+
+ The companies in which Shell plc directly and indirectly owns investments are separate
+legal entities. In this announcement &#8220;Shell&#8221;, &#8220;Shell Group&#8221; and &#8220;Group&#8221; are sometimes used for convenience
+to reference Shell plc and its subsidiaries in general. Likewise, the words &#8220;we&#8221;, &#8220;us&#8221; and &#8220;our&#8221; are
+also used to refer to Shell plc and its subsidiaries in general or to those who work for them. These terms are also used where no useful
+purpose is served by identifying the particular entity or entities. &#8216;&#8216;Subsidiaries&#8217;&#8217;, &#8220;Shell subsidiaries&#8221;
+and &#8220;Shell companies&#8221; as used in this announcement refer to entities over which Shell plc either directly or indirectly has
+control. The terms &#8220;joint venture&#8221;, &#8220;joint operations&#8221;, &#8220;joint arrangements&#8221;, and &#8220;associates&#8221;
+may also be used to refer to a commercial arrangement in which Shell has a direct or indirect ownership interest with one or more parties. 
+The term &#8220;Shell interest&#8221; is used for convenience to indicate the direct and/or indirect ownership interest held by Shell
+in an entity or unincorporated joint arrangement, after exclusion of all third-party interest.
+
+ The numbers presented in this announcement may not sum precisely to
+the totals provided and percentages may not precisely reflect the absolute figures due to rounding.
+
+ Forward-Looking statements 
+
+This announcement contains forward-looking statements (within the meaning of the U.S. Private Securities Litigation Reform Act of 1995)
+concerning the financial condition, results of operations and businesses of Shell. All statements other than statements of historical
+fact are, or may be deemed to be, forward-looking statements. Forward-looking statements are statements of future expectations that are
+based on management&#8217;s current expectations and assumptions and involve known and unknown risks and uncertainties that could cause
+actual results, performance or events to differ materially from those expressed or implied in these statements. Forward-looking statements
+include, among other things, statements concerning the potential exposure of Shell to market risks and statements expressing management&#8217;s
+expectations, beliefs, estimates, forecasts, projections and assumptions. These forward-looking statements are identified by their use
+of terms and phrases such as &#8220;aim&#8221;; &#8220;ambition&#8221;; &#8216;&#8216;anticipate&#8217;&#8217;; &#8220;aspire&#8221;;
+&#8220;aspiration&#8221;; &#8216;&#8216;believe&#8217;&#8217;; &#8220;commit&#8221;; &#8220;commitment&#8221;; &#8216;&#8216;could&#8217;&#8217;;
+&#8220;desire&#8221;; &#8216;&#8216;estimate&#8217;&#8217;; &#8216;&#8216;expect&#8217;&#8217;; &#8216;&#8216;goals&#8217;&#8217;; &#8216;&#8216;intend&#8217;&#8217;;
+&#8216;&#8216;may&#8217;&#8217;; &#8220;milestones&#8221;; &#8216;&#8216;objectives&#8217;&#8217;; &#8216;&#8216;outlook&#8217;&#8217;;
+&#8216;&#8216;plan&#8217;&#8217;; &#8216;&#8216;probably&#8217;&#8217;; &#8216;&#8216;project&#8217;&#8217;; &#8216;&#8216;risks&#8217;&#8217;;
+&#8220;schedule&#8221;; &#8216;&#8216;seek&#8217;&#8217;; &#8216;&#8216;should&#8217;&#8217;; &#8216;&#8216;target&#8217;&#8217;; &#8220;vision&#8221;;
+&#8216;&#8216;will&#8217;&#8217;; &#8220;would&#8221; and similar terms and phrases. There are a number of factors that could affect the
+future operations of Shell and could cause those results to differ materially from those expressed in the forward-looking statements included
+in this announcement, including (without limitation): (a) price fluctuations in crude oil and natural gas; (b) changes in demand for Shell&#8217;s
+products; (c) currency fluctuations; (d) drilling and production results; (e) reserves estimates; (f) loss of market share and industry
+competition; (g) environmental and physical risks, including climate change; (h) risks associated with the identification of suitable
+potential acquisition properties and targets, and successful negotiation and completion of such transactions; (i) the risk of doing business
+in developing countries and countries subject to international sanctions; (j) legislative, judicial, fiscal and regulatory developments
+including tariffs and regulatory measures addressing climate change; (k) economic and financial market conditions in various countries
+and regions; (l) political risks, including the risks of expropriation and renegotiation of the terms of contracts with governmental entities,
+delays or advancements in the approval of projects and delays in the reimbursement for shared costs; (m) risks associated with the impact
+of pandemics, regional conflicts, such as the Russia-Ukraine war and the conflict in the Middle East, and a significant cyber security,
+data privacy or IT incident; (n) the pace of the energy transition; and (o) changes in trading conditions. No assurance is provided that
+future dividend payments will match or exceed previous dividend payments. All forward-looking statements contained in this announcement
+are expressly qualified in their entirety by the cautionary statements contained or referred to in this section. Readers should not place
+undue reliance on forward-looking statements. Additional risk factors that may affect future results are contained in Shell plc&#8217;s
+Form 20-F for the year ended December 31, 2025 (available at www.shell.com/investors/news-and-filings/sec-filings.html and www.sec.gov).
+These risk factors also expressly qualify all forward-looking statements contained in this announcement and should be considered by the
+reader. Each forward-looking statement speaks only as of the date of this announcement, April 8, 2026. Neither Shell plc nor any of its
+subsidiaries undertake any obligation to publicly update or revise any forward-looking statement as a result of new information, future
+events or other information. In light of these risks, results could differ materially from those stated, implied or inferred from the
+forward-looking statements contained in this announcement.
+
+ Shell&#8217;s net carbon intensity 
+
+Also, in this announcement we may refer to Shell&#8217;s &#8220;net carbon intensity&#8221; (NCI), which includes Shell&#8217;s carbon
+emissions from the production of our energy products, our suppliers&#8217; carbon emissions in supplying energy for that production and
+our customers&#8217; carbon emissions associated with their use of the energy products we sell. Shell&#8217;s NCI also includes the emissions
+associated with the production and use of energy products produced by others which Shell purchases for resale. Shell only controls its
+own emissions. The use of the terms Shell&#8217;s &#8220;net carbon intensity&#8221; or NCI is for convenience only and not intended to
+suggest these emissions are those of Shell plc or its subsidiaries.
+
+ Shell&#8217;s net-zero emissions target 
+
+Shell&#8217;s operating plan and outlook are forecasted for a three-year period and ten-year period, respectively, and are updated every
+year. They reflect the current economic environment and what we can reasonably expect to see over the next three and ten years. Accordingly,
+the outlook reflects our combined Scope 1 and 2 target, NCI targets and our oil products ambition over the next ten years. However, Shell&#8217;s
+operating plan and outlook cannot reflect our 2050 net-zero emissions target, as this target is outside our planning period. Such future
+operating plans and outlooks could include changes to our portfolio, efficiency improvements and the use of carbon capture and storage
+and carbon credits. In the future, as society moves towards net-zero emissions, we expect Shell&#8217;s operating plans and outlooks to
+reflect this movement. However, if society is not net zero in 2050, as of today, there would be significant risk that Shell may not meet
+this target.
+
+ Forward-Looking Non-GAAP measures 
+
+ This announcement may contain certain forward-looking non-GAAP measures
+such as Adjusted Earnings, Cash flow from operating activities excluding working capital movements, Cash capital expenditure, Net debt
+and Underlying operating expense.
+
+ Adjusted Earnings are measures used to evaluate Shell&#8217;s performance
+in the period and over time.
+
+The &#8220;Adjusted Earnings&#8221; are measures which aim to facilitate a comparative understanding of Shell&#8217;s financial performance
+from period to period by removing the effects of oil price changes on inventory carrying amounts and removing the effects of identified
+items.
+
+Adjusted Earnings is defined as income/(loss) attributable to shareholders adjusted for the current cost of supplies and excluding identified
+items. All items include the non-controlling interest component.
+
+Cash flow from operating activities excluding working capital movements is a measure used by Shell to analyse its operating cash generation
+over time excluding the timing effects of changes in inventories and operating receivables and payables from period to period. Working
+capital movements are defined as the sum of the following items in the Consolidated Statement of Cash Flows: (i) (increase)/decrease in
+inventories, (ii) (increase)/decrease in current receivables, and (iii) increase/(decrease) in current payables. Cash capital expenditure
+is the sum of the following lines from the Consolidated Statement of Cash flows: Capital expenditure, Investments in joint ventures and
+associates and Investments in equity securities. Net debt is defined as the sum of current and non-current debt, less cash and cash equivalents,
+adjusted for the fair value of derivative financial instruments used to hedge foreign exchange and interest rate risks relating to debt,
+and associated collateral balances. Underlying operating expenses is a measure of Shell&#8217;s cost management performance and aimed
+at facilitating a comparative understanding of performance from period to period by removing the effects of identified items, which, either
+individually or collectively, can cause volatility, in some cases driven by external factors. Underlying operating expenses comprises
+the following items from the Consolidated statement of Income: production and manufacturing expenses; selling, distribution and administrative
+expenses; and research and development expenses and removes the effects of identified items such as redundancy and restructuring charges
+or reversals, provisions or reversals and others.
+
+ We are unable to provide a reconciliation of these forward-looking
+non-GAAP measures to the most comparable GAAP financial measures because certain information needed to reconcile those non-GAAP measures
+to the most comparable GAAP financial measures is dependent on future events some of which are outside the control of Shell, such as oil
+and gas prices, interest rates and exchange rates. Moreover, estimating such GAAP measures with the required precision necessary to provide
+a meaningful reconciliation is extremely difficult and could not be accomplished without unreasonable effort. Non-GAAP measures in respect
+of future periods which cannot be reconciled to the most comparable GAAP financial measure are calculated in a manner which is consistent
+with the accounting policies applied in Shell plc&#8217;s consolidated financial statements.
+
+The contents of websites referred to in this announcement do not form part of this announcement.
+
+ We may have used certain terms, such as resources, in this announcement
+that the United States Securities and Exchange Commission (SEC) strictly prohibits us from including in our filings with the SEC. Investors
+are urged to consider closely the disclosure in our Form 20-F, File No 1-32575, available on the SEC website www.sec.gov.
+
+ This Report on Form 6-K is incorporated by reference into:
+
+ (a) the Registration Statement on Form F-3 of Shell plc, Shell Finance US Inc. and Shell International Finance B.V. (Registration Numbers 333-276068, 333-276068-01 and 333-276068-02); and 
+
+ (b) the Registration Statements on Form S-8 of Shell plc (Registration Numbers 333-262396, 333-272192 and 333-292109). 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ Shell plc 
+ (Registrant) 
+
+ Date: April 8, 2026 /s/ SEAN ASHLEY 
+ Sean Ashley 
+ Company Secretary

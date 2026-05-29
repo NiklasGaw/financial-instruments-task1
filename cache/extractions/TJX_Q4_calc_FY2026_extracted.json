@@ -1,0 +1,65 @@
+{
+  "company": "TJX Companies Inc.",
+  "ticker": "TJX",
+  "report_date": "2026-01-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Marmaxx",
+      "revenue": 10.7,
+      "operating_income": 1.7,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "HomeGoods",
+      "revenue": 3.1,
+      "operating_income": 0.5,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "TJX Canada",
+      "revenue": 1.6,
+      "operating_income": 0.3,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "TJX International",
+      "revenue": 2.4,
+      "operating_income": 0.2,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 17.8,
+    "cost_of_revenue": 12.3,
+    "gross_profit": 5.5,
+    "total_operating_expenses": 3.2,
+    "operating_income": 2.3,
+    "other_income_expense": null,
+    "income_before_tax": 2.5,
+    "tax_expense": 0.6,
+    "net_income": 1.9,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "selling_general_administrative": 3.2,
+      "research_and_development": null
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 80,
+  "_synthetic_q4": true
+}

@@ -1,0 +1,36 @@
+{
+  "ticker": "8306.T",
+  "source": "cache: 20-F 2023-03-31",
+  "segments": [
+    {
+      "name": "Net Interest Income",
+      "sub_segments": [
+        "Domestic Net Interest Income",
+        "Foreign Net Interest Income"
+      ]
+    },
+    {
+      "name": "Non-Interest Income",
+      "sub_segments": []
+    },
+    {
+      "name": "BK and TB",
+      "sub_segments": [
+        "Net interest income",
+        "Net fees"
+      ]
+    },
+    {
+      "name": "Other than BK and TB",
+      "sub_segments": []
+    },
+    {
+      "name": "Group",
+      "sub_segments": []
+    },
+    {
+      "name": "Other",
+      "sub_segments": []
+    }
+  ]
+}

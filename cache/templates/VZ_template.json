@@ -1,0 +1,27 @@
+{
+  "ticker": "VZ",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Consumer",
+      "sub_segments": [
+        "Service",
+        "Wireless equipment",
+        "Other",
+        "Fios revenue"
+      ]
+    },
+    {
+      "name": "Business",
+      "sub_segments": [
+        "Enterprise and Public Sector",
+        "Business Markets and Other",
+        "Wholesale"
+      ]
+    },
+    {
+      "name": "Corporate and other",
+      "sub_segments": []
+    }
+  ]
+}

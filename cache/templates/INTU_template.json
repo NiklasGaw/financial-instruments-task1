@@ -1,0 +1,29 @@
+{
+  "ticker": "INTU",
+  "source": "cache: 10-K 2023-07-31",
+  "segments": [
+    {
+      "name": "Consumer",
+      "sub_segments": []
+    },
+    {
+      "name": "Credit Karma",
+      "sub_segments": []
+    },
+    {
+      "name": "ProTax",
+      "sub_segments": []
+    },
+    {
+      "name": "Small Business & Self-Employed",
+      "sub_segments": [
+        "QuickBooks Online Accounting",
+        "Online Services",
+        "Total Online Ecosystem",
+        "QuickBooks Desktop Accounting",
+        "Desktop Services and Supplies",
+        "Total Desktop Ecosystem"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "company": "Bank of America Corp.",
+  "ticker": "BAC",
+  "report_date": "2024-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Consumer Banking",
+      "revenue": 41.4,
+      "operating_income": 10.8,
+      "yoy_growth_pct": -1.0,
+      "sub_segments": [
+        {
+          "name": "Deposits",
+          "revenue": 24.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Consumer Lending",
+          "revenue": 17.4,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "All Other",
+      "revenue": -7.6,
+      "operating_income": -1.6,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 101.9,
+    "total_revenue_yoy_pct": 3.4,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": null,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 29.3,
+    "tax_expense": 2.1,
+    "net_income": 27.1,
+    "net_income_yoy_pct": 2.3
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 65
+}

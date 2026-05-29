@@ -1,0 +1,122 @@
+{
+  "company": "Morgan Stanley",
+  "ticker": "MS",
+  "report_date": "2025-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Institutional Securities",
+      "revenue": 8.9,
+      "operating_income": 3.28,
+      "yoy_growth_pct": 28.0,
+      "sub_segments": [
+        {
+          "name": "Investment Banking",
+          "revenue": 1.6,
+          "yoy_growth_pct": 8.0
+        },
+        {
+          "name": "Trading",
+          "revenue": 5.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Commissions and Fees",
+          "revenue": 0.9,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Investments",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Institutional Securities",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Wealth Management",
+      "revenue": 7.3,
+      "operating_income": 1.95,
+      "yoy_growth_pct": 6.0,
+      "sub_segments": [
+        {
+          "name": "Asset Management",
+          "revenue": 4.4,
+          "yoy_growth_pct": 15.0
+        },
+        {
+          "name": "Transactional",
+          "revenue": 0.9,
+          "yoy_growth_pct": -15.0
+        },
+        {
+          "name": "Net Interest",
+          "revenue": 1.9,
+          "yoy_growth_pct": 2.0
+        },
+        {
+          "name": "Other",
+          "revenue": 0.2,
+          "yoy_growth_pct": -4.0
+        }
+      ]
+    },
+    {
+      "name": "Investment Management",
+      "revenue": 1.6,
+      "operating_income": 0.32,
+      "yoy_growth_pct": 16.0,
+      "sub_segments": [
+        {
+          "name": "Asset Management",
+          "revenue": 1.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Performance-based Income and Other",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 17.7,
+    "total_revenue_yoy_pct": 17.2,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 12.1
+    },
+    "total_operating_expenses": 12.1,
+    "operating_income": 5.5,
+    "operating_income_yoy_pct": 26.1,
+    "other_income_expense": -0.1,
+    "income_before_tax": 5.5,
+    "tax_expense": 1.2,
+    "net_income": 4.3,
+    "net_income_yoy_pct": 26.2
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

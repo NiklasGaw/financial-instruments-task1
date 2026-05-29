@@ -1,0 +1,144 @@
+{
+  "company": "Wells Fargo & Company",
+  "ticker": "WFC",
+  "report_date": "2024-09-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Consumer Banking and Lending",
+      "revenue": 9.1,
+      "operating_income": 2.6,
+      "yoy_growth_pct": -4.8,
+      "sub_segments": [
+        {
+          "name": "Consumer, Small and Business Banking",
+          "revenue": 6.2,
+          "yoy_growth_pct": -4.9
+        },
+        {
+          "name": "Home Lending",
+          "revenue": 0.8,
+          "yoy_growth_pct": 0.2
+        },
+        {
+          "name": "Credit Card",
+          "revenue": 1.5,
+          "yoy_growth_pct": -1.5
+        },
+        {
+          "name": "Auto",
+          "revenue": 0.3,
+          "yoy_growth_pct": -24.2
+        },
+        {
+          "name": "Personal Lending",
+          "revenue": 0.3,
+          "yoy_growth_pct": -7.3
+        }
+      ]
+    },
+    {
+      "name": "Commercial Banking",
+      "revenue": 3.3,
+      "operating_income": 1.8,
+      "yoy_growth_pct": -2.1,
+      "sub_segments": [
+        {
+          "name": "Lending and leasing",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Treasury management and payments",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Corporate and Investment Banking",
+      "revenue": 4.9,
+      "operating_income": 2.7,
+      "yoy_growth_pct": -0.2,
+      "sub_segments": [
+        {
+          "name": "Banking - Lending",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Banking - Treasury Management and Payments",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Banking - Investment Banking",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Commercial Real Estate",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Markets - Fixed Income, Currencies, and Commodities",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Markets - Equities",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Wealth and Investment Management",
+      "revenue": 3.9,
+      "operating_income": 0.7,
+      "yoy_growth_pct": 4.8,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 20.4,
+    "total_revenue_yoy_pct": -2.4,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 13.1
+    },
+    "total_operating_expenses": 13.1,
+    "operating_income": 6.2,
+    "operating_income_yoy_pct": -4.8,
+    "other_income_expense": -1.1,
+    "income_before_tax": 6.2,
+    "tax_expense": 1.1,
+    "net_income": 5.1,
+    "net_income_yoy_pct": -10.3
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

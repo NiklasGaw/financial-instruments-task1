@@ -1,0 +1,94 @@
+{
+  "company": "Novo Nordisk A/S",
+  "ticker": "NOVO-B.CO",
+  "report_date": "2024-12-31",
+  "form_type": "20-F",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": 6.89,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Diabetes and Obesity care",
+      "revenue": 33.7,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Ozempic",
+          "revenue": 17.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Wegovy",
+          "revenue": 8.4,
+          "yoy_growth_pct": 86.0
+        },
+        {
+          "name": "Saxenda",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Modern insulins",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Human insulins",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Diabetes and Obesity care",
+          "revenue": 7.9,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Rare disease",
+      "revenue": 2.9,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Growth hormone products",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Haemophilia products",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 33.7,
+    "total_revenue_yoy_pct": 31.0,
+    "cost_of_revenue": 6.3,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 27.4,
+    "gross_profit_yoy_pct": 33.0,
+    "operating_expenses": {
+      "research_and_development": 4.4,
+      "selling_general_administrative": 6.6
+    },
+    "total_operating_expenses": 11.0,
+    "operating_income": 16.5,
+    "operating_income_yoy_pct": 36.0,
+    "other_income_expense": -0.2,
+    "income_before_tax": 16.3,
+    "tax_expense": 2.9,
+    "net_income": 13.4,
+    "net_income_yoy_pct": 37.0
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

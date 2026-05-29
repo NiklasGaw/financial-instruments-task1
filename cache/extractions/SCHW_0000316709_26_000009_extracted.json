@@ -1,0 +1,105 @@
+{
+  "company": "Charles Schwab Corp.",
+  "ticker": "SCHW",
+  "report_date": "2025-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Net Interest Revenue",
+      "revenue": 11.8,
+      "operating_income": null,
+      "yoy_growth_pct": 28.4,
+      "sub_segments": []
+    },
+    {
+      "name": "Asset Management and Administration Fees",
+      "revenue": 6.5,
+      "operating_income": null,
+      "yoy_growth_pct": 13.8,
+      "sub_segments": [
+        {
+          "name": "Mutual Funds, ETFs, and CTFs",
+          "revenue": 3.7,
+          "yoy_growth_pct": 13.8
+        },
+        {
+          "name": "Managed Investing Solutions",
+          "revenue": 2.4,
+          "yoy_growth_pct": 14.6
+        },
+        {
+          "name": "Other Asset Management and Administration Fees",
+          "revenue": 0.4,
+          "yoy_growth_pct": 9.6
+        }
+      ]
+    },
+    {
+      "name": "Trading Revenue",
+      "revenue": 3.9,
+      "operating_income": null,
+      "yoy_growth_pct": 20.1,
+      "sub_segments": [
+        {
+          "name": "Commissions",
+          "revenue": 1.8,
+          "yoy_growth_pct": 13.0
+        },
+        {
+          "name": "Order Flow Revenue",
+          "revenue": 1.9,
+          "yoy_growth_pct": 30.7
+        },
+        {
+          "name": "Principal Transactions",
+          "revenue": 0.2,
+          "yoy_growth_pct": -1.0
+        }
+      ]
+    },
+    {
+      "name": "Bank Deposit Account Fees",
+      "revenue": 1.0,
+      "operating_income": null,
+      "yoy_growth_pct": 34.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Other Revenue",
+      "revenue": 0.8,
+      "operating_income": null,
+      "yoy_growth_pct": 1.9,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 23.9,
+    "total_revenue_yoy_pct": 22.0,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": null,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 11.5,
+    "tax_expense": 2.6,
+    "net_income": 8.9,
+    "net_income_yoy_pct": 49.0
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 85
+}

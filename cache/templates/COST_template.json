@@ -1,0 +1,44 @@
+{
+  "ticker": "COST",
+  "source": "cache: 10-K 2023-09-03",
+  "segments": [
+    {
+      "name": "Other International",
+      "sub_segments": []
+    },
+    {
+      "name": "Foods and Sundries",
+      "sub_segments": []
+    },
+    {
+      "name": "Non-Foods",
+      "sub_segments": []
+    },
+    {
+      "name": "Fresh Foods",
+      "sub_segments": []
+    },
+    {
+      "name": "Membership Fees",
+      "sub_segments": []
+    },
+    {
+      "name": "Net Sales by Merchandise Category",
+      "sub_segments": [
+        "Foods and Sundries",
+        "Non-Foods",
+        "Fresh Foods",
+        "Warehouse Ancillary and Other Businesses"
+      ]
+    },
+    {
+      "name": "Net Sales",
+      "sub_segments": [
+        "Foods and Sundries",
+        "Non-Foods",
+        "Fresh Foods",
+        "Warehouse Ancillary and Other Businesses"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "company": "Walmart Inc.",
+  "ticker": "WMT",
+  "report_date": "2025-04-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Walmart U.S.",
+      "revenue": 112.8,
+      "operating_income": 5.7,
+      "yoy_growth_pct": 3.2,
+      "sub_segments": [
+        {
+          "name": "Grocery",
+          "revenue": 67.8,
+          "yoy_growth_pct": 2.1
+        },
+        {
+          "name": "General merchandise",
+          "revenue": 25.3,
+          "yoy_growth_pct": -1.7
+        },
+        {
+          "name": "Health and wellness",
+          "revenue": 16.2,
+          "yoy_growth_pct": 14.1
+        },
+        {
+          "name": "Other categories",
+          "revenue": 2.8,
+          "yoy_growth_pct": 23.4
+        }
+      ]
+    },
+    {
+      "name": "Walmart International",
+      "revenue": 30.1,
+      "operating_income": 1.3,
+      "yoy_growth_pct": -0.3,
+      "sub_segments": []
+    },
+    {
+      "name": "Sam's Club U.S.",
+      "revenue": 22.7,
+      "operating_income": 0.7,
+      "yoy_growth_pct": 3.1,
+      "sub_segments": [
+        {
+          "name": "Grocery",
+          "revenue": 15.4,
+          "yoy_growth_pct": 5.9
+        },
+        {
+          "name": "Fuel and other",
+          "revenue": 2.9,
+          "yoy_growth_pct": -14.5
+        },
+        {
+          "name": "General merchandise",
+          "revenue": 2.5,
+          "yoy_growth_pct": 2.4
+        },
+        {
+          "name": "Health and wellness",
+          "revenue": 1.2,
+          "yoy_growth_pct": 17.5
+        },
+        {
+          "name": "Other Sam's Club U.S.",
+          "revenue": 0.7,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 164.0,
+    "total_revenue_yoy_pct": 2.5,
+    "cost_of_revenue": 124.3,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 39.7,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 34.2
+    },
+    "total_operating_expenses": 34.2,
+    "operating_income": 7.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.2,
+    "income_before_tax": 6.0,
+    "tax_expense": 1.4,
+    "net_income": 4.5,
+    "net_income_yoy_pct": -12.1
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

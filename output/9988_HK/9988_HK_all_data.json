@@ -1,0 +1,172 @@
+[
+  {
+    "company": "Alibaba Group Holding",
+    "ticker": "9988.HK",
+    "report_date": "2026-03-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Alibaba International Digital Commerce Group",
+        "revenue": 144.2,
+        "operating_income": -2.1,
+        "yoy_growth_pct": 9.0,
+        "sub_segments": [
+          {
+            "name": "International commerce retail",
+            "revenue": 117.7,
+            "yoy_growth_pct": 9.0
+          },
+          {
+            "name": "International commerce wholesale",
+            "revenue": 26.4,
+            "yoy_growth_pct": 11.0
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 148.4,
+      "total_revenue_yoy_pct": 8.1,
+      "cost_of_revenue": 89.3,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 59.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 9.6,
+        "selling_general_administrative": 40.3,
+        "other_operating": 1.9
+      },
+      "total_operating_expenses": 51.8,
+      "operating_income": 7.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 12.1,
+      "income_before_tax": 18.8,
+      "tax_expense": 4.4,
+      "net_income": 15.0,
+      "net_income_yoy_pct": -16.2
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "Alibaba Group Holding",
+    "ticker": "9988.HK",
+    "report_date": "2025-03-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Cainiao Smart Logistics Network Limited",
+        "revenue": 101.3,
+        "operating_income": 0.3,
+        "yoy_growth_pct": 2.3,
+        "sub_segments": []
+      },
+      {
+        "name": "Hujing Digital Media and Entertainment Group",
+        "revenue": 22.3,
+        "operating_income": -0.6,
+        "yoy_growth_pct": 5.3,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 137.3,
+      "total_revenue_yoy_pct": 5.3,
+      "cost_of_revenue": 82.4,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 54.9,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 7.9,
+        "selling_general_administrative": 25.9,
+        "other_operating": 1.7
+      },
+      "total_operating_expenses": 35.5,
+      "operating_income": 19.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 3.4,
+      "income_before_tax": 21.4,
+      "tax_expense": 4.9,
+      "net_income": 17.9,
+      "net_income_yoy_pct": 61.8
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Alibaba Group Holding",
+    "ticker": "9988.HK",
+    "report_date": "2024-03-31",
+    "form_type": "20-F",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Local Services Group",
+        "revenue": 61.9,
+        "operating_income": null,
+        "yoy_growth_pct": 14.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Cainiao Smart Logistics Network",
+        "revenue": 65.5,
+        "operating_income": null,
+        "yoy_growth_pct": 24.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Innovation Initiatives and Others",
+        "revenue": 6.8,
+        "operating_income": null,
+        "yoy_growth_pct": 17.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 130.3,
+      "total_revenue_yoy_pct": 3.1,
+      "cost_of_revenue": 81.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 49.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 7.2,
+        "selling_general_administrative": 21.8,
+        "other_operating": 4.4
+      },
+      "total_operating_expenses": 33.4,
+      "operating_income": 15.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -1.5,
+      "income_before_tax": 14.1,
+      "tax_expense": 3.1,
+      "net_income": 11.1,
+      "net_income_yoy_pct": 4.6
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "company": "Novo Nordisk A/S",
+  "ticker": "NOVO-B.CO",
+  "report_date": "2026-03-31",
+  "form_type": "6-K",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": 6.4994,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Obesity and Diabetes care",
+      "revenue": 14.1,
+      "operating_income": 8.9,
+      "yoy_growth_pct": 24.4,
+      "sub_segments": [
+        {
+          "name": "Total Obesity care",
+          "revenue": 3.6,
+          "yoy_growth_pct": 27.0
+        },
+        {
+          "name": "Total GLP-1 diabetes",
+          "revenue": 7.5,
+          "yoy_growth_pct": 23.0
+        },
+        {
+          "name": "Total insulin",
+          "revenue": 2.9,
+          "yoy_growth_pct": 25.0
+        },
+        {
+          "name": "Other Diabetes care",
+          "revenue": 0.1,
+          "yoy_growth_pct": 18.0
+        }
+      ]
+    },
+    {
+      "name": "Rare disease",
+      "revenue": 0.8,
+      "operating_income": 0.2,
+      "yoy_growth_pct": 18.2,
+      "sub_segments": [
+        {
+          "name": "Rare blood disorders",
+          "revenue": 0.4,
+          "yoy_growth_pct": -10.0
+        },
+        {
+          "name": "Rare endocrine disorders",
+          "revenue": 0.4,
+          "yoy_growth_pct": 82.0
+        },
+        {
+          "name": "Other Rare disease",
+          "revenue": 0.1,
+          "yoy_growth_pct": 13.0
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 14.9,
+    "total_revenue_yoy_pct": 24.0,
+    "cost_of_revenue": 2.1,
+    "cost_of_revenue_yoy_pct": 5.0,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 12.8,
+    "gross_profit_yoy_pct": 28.0,
+    "operating_expenses": {
+      "research_and_development": 1.6,
+      "selling_general_administrative": 2.0
+    },
+    "total_operating_expenses": 3.6,
+    "operating_income": 9.2,
+    "operating_income_yoy_pct": 54.0,
+    "other_income_expense": 0.4,
+    "income_before_tax": 9.6,
+    "tax_expense": 2.1,
+    "net_income": 7.5,
+    "net_income_yoy_pct": 67.0
+  },
+  "notes": "Two-pass LLM extraction (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

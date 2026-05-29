@@ -1,0 +1,160 @@
+{
+  "company": "Sony Group Corporation",
+  "ticker": "6758.T",
+  "report_date": "2026-05-19",
+  "form_type": "6-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": 159.11,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Game & Network Services",
+      "revenue": 0.0,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Digital Software and Add-on Content",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Network Services",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Hardware and Others",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "revenue": 0.0,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Recorded Music \u2013 Streaming",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Recorded Music \u2013 Others",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Music Publishing",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Visual Media and Platform",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Pictures",
+      "revenue": 0.0,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Motion Pictures",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Television Productions",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Media Networks",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Entertainment, Technology & Services",
+      "revenue": 0.0,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Imaging",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Sound",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Network Services",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Displays",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Imaging & Sensing Solutions",
+      "revenue": 0.0,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "All Other",
+      "revenue": 0.0,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 0.1,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue": 0.1,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 0.0,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 0.0,
+      "other_operating": 0.1
+    },
+    "total_operating_expenses": 0.1,
+    "operating_income": 0.0,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.0,
+    "income_before_tax": 0.0,
+    "tax_expense": 0.0,
+    "net_income": 0.0,
+    "net_income_yoy_pct": null
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 40
+}

@@ -1,0 +1,152 @@
+{
+  "company": "Siemens AG",
+  "ticker": "SIE.DE",
+  "report_date": "2023-12-31",
+  "form_type": "Quarterly Report",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q1",
+  "currency": "EUR",
+  "exchange_rate_to_usd": 0.92,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Digital Industries",
+      "revenue": 18.7,
+      "operating_income": 3.2,
+      "yoy_growth_pct": 8.1,
+      "sub_segments": [
+        {
+          "name": "Factory Automation",
+          "revenue": 9.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Motion Control",
+          "revenue": 5.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Industrial Software",
+          "revenue": 4.4,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Smart Infrastructure",
+      "revenue": 17.3,
+      "operating_income": 2.1,
+      "yoy_growth_pct": 7.5,
+      "sub_segments": [
+        {
+          "name": "Low Voltage & Electrical Products",
+          "revenue": 6.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Medium Voltage & Systems",
+          "revenue": 5.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Building Products",
+          "revenue": 3.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Smart Infrastructure Services",
+          "revenue": 2.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Mobility",
+      "revenue": 10.2,
+      "operating_income": 0.6,
+      "yoy_growth_pct": 12.1,
+      "sub_segments": [
+        {
+          "name": "Rolling Stock",
+          "revenue": 6.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Rail Infrastructure & Services",
+          "revenue": 3.7,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Siemens Healthineers",
+      "revenue": 18.9,
+      "operating_income": 3.5,
+      "yoy_growth_pct": 5.6,
+      "sub_segments": [
+        {
+          "name": "Imaging",
+          "revenue": 10.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Diagnostics",
+          "revenue": 5.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Advanced Therapies",
+          "revenue": 2.8,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Portfolio Companies",
+      "revenue": 12.4,
+      "operating_income": 1.1,
+      "yoy_growth_pct": -3.1,
+      "sub_segments": [
+        {
+          "name": "Siemens Energy",
+          "revenue": 7.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Siemens Gamesa",
+          "revenue": 5.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Siemens Financial Services",
+      "revenue": 0.8,
+      "operating_income": 0.2,
+      "yoy_growth_pct": 4.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 19.1,
+    "total_revenue_yoy_pct": 5.0,
+    "cost_of_revenue": 11.8,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 7.3,
+    "gross_profit_yoy_pct": 1.0,
+    "operating_expenses": {
+      "research_and_development": 1.2,
+      "selling_general_administrative": 3.1
+    },
+    "total_operating_expenses": 4.3,
+    "operating_income": 3.0,
+    "operating_income_yoy_pct": 12.0,
+    "other_income_expense": -0.1,
+    "income_before_tax": 2.9,
+    "tax_expense": 0.7,
+    "net_income": 2.2,
+    "net_income_yoy_pct": 10.0
+  },
+  "notes": "Two-pass LLM extraction."
+}

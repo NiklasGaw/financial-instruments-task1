@@ -1,0 +1,99 @@
+{
+  "company": "LVMH Mo\u00ebt Hennessy",
+  "ticker": "MC.PA",
+  "report_date": "2023-12-31",
+  "form_type": "Annual Report",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "EUR",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Wines and Spirits",
+      "revenue": 6.6,
+      "operating_income": 2.1,
+      "yoy_growth_pct": -7.0,
+      "sub_segments": [
+        {
+          "name": "Champagne and Wines",
+          "revenue": 3.4,
+          "yoy_growth_pct": 0.0
+        },
+        {
+          "name": "Cognac and Spirits",
+          "revenue": 3.2,
+          "yoy_growth_pct": -13.0
+        }
+      ]
+    },
+    {
+      "name": "Fashion and Leather Goods",
+      "revenue": 42.2,
+      "operating_income": 16.8,
+      "yoy_growth_pct": 9.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Perfumes and Cosmetics",
+      "revenue": 8.3,
+      "operating_income": 0.7,
+      "yoy_growth_pct": 7.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Watches and Jewelry",
+      "revenue": 10.9,
+      "operating_income": 2.2,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Selective Retailing",
+      "revenue": 17.9,
+      "operating_income": 1.4,
+      "yoy_growth_pct": 20.0,
+      "sub_segments": [
+        {
+          "name": "Travel Retail",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Selective Retail",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Other activities and eliminations",
+      "revenue": 0.3,
+      "operating_income": -0.4,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 86.2,
+    "total_revenue_yoy_pct": 8.8,
+    "cost_of_revenue": 26.9,
+    "cost_of_revenue_yoy_pct": 7.5,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 59.3,
+    "gross_profit_yoy_pct": 9.4,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 36.5
+    },
+    "total_operating_expenses": 36.5,
+    "operating_income": 22.6,
+    "operating_income_yoy_pct": 7.4,
+    "other_income_expense": -0.9,
+    "income_before_tax": 15.9,
+    "tax_expense": 5.7,
+    "net_income": 15.2,
+    "net_income_yoy_pct": 7.8
+  },
+  "notes": "Two-pass LLM extraction."
+}

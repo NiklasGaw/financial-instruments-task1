@@ -1,0 +1,2260 @@
+6-K
+ 1
+ financieroq126ingles.htm
+ 6-K
+
+ Document 
+
+ FORM 6-K 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ Report of Foreign Issuer 
+ Pursuant to Rule 13a-16 or 15d-16 
+ of the Securities Exchange Act of 1934 
+ For the month of April, 2026 
+ Commission File Number&#58; 001-12518 
+
+ Banco Santander, S.A. 
+ (Exact name of registrant as specified in its charter) 
+
+ Ciudad Grupo Santander 
+ 28660 Boadilla del Monte (Madrid) Spain 
+ (Address of principal executive office) 
+
+ Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F&#58; 
+ Form 20-F &#9746; Form 40-F &#9744; 
+
+ This current report on Form 6-K is incorporated by reference into Banco Santander, S.A.&#8217;s Registration Statement No. 333-294235 on Form F-4, including the prospectus forming a part of such registration statement, and shall be deemed to be a part thereof from the date on which this current report on Form 6-K is furnished, to the extent not superseded by documents or reports subsequently filed or furnished. 
+
+ BANCO SANTANDER, S.A. 
+ ________________________ 
+
+ TABLE OF CONTENTS 
+
+ Part 1. Interim unaudited consolidated financial statements 
+ 3 
+
+ Interim condensed consolidated financial statements 
+ 5 
+ Condensed consolidated balance sheet 
+
+ 7 
+ Condensed consolidated income statements 
+
+ 8 
+ Condensed consolidated statements of recognised income and expense 
+
+ 9 
+ Condensed consolidated statements of changes in total equity 
+
+ 11 
+ Condensed consolidated statements of cash flows 
+
+ Explanatory notes to the interim condensed consolidated financial statements 
+ 12 
+ Note 1&#58; Introduction, basis of presentation of the interim condensed consolidated financial statements and other information 
+ 15 
+ Note 2&#58; Grupo Santander 
+ 16 
+ Note 3&#58; Shareholder remuneration system and earnings per share 
+ 17 
+ Note 4&#58; Remuneration and other benefits paid to Banco Santander's directors and senior managers 
+
+ 19 
+ Note 5&#58; Financial assets 
+ 22 
+ Note 6&#58; Non-current assets held for sale and liabilities associated with non-current assets held for sale 
+ 25 
+ Note 7&#58; Tangible assets 
+ 25 
+ Note 8&#58; Intangible assets 
+ 26 
+ Note 9&#58; Financial liabilities 
+ 28 
+ Note 10&#58; Provisions 
+ 34 
+ Note 11&#58; Equity 
+ 37 
+ Note 12&#58; Segment information (primary segment) 
+ 39 
+ Note 13&#58; Related parties 
+ 42 
+ Note 14&#58; Off-balance-sheet exposures 
+ 42 
+ Note 15&#58; Average headcount and number of branches 
+ 43 
+ Note 16&#58; Other disclosures 
+ 54 
+ Note 17&#58; Explanation added for translation to English 
+
+ Translation of interim condensed consolidated financial statements originally issued in Spanish and prepared in accordance with the regulatory financial reporting framework applicable to the Group in Spain (see Notes 1 and 17). In the event of a discrepancy, the Spanish-language version prevails. 
+
+ GRUPO SANTANDER 
+ CONDENSED CONSOLIDATED BALANCE SHEETS AS AT 31 MARCH 2026 AND 31 DECEMBER 2025 
+ (EUR million) 
+
+ ASSETS 
+ Note 
+ 31-03-2026 
+ 31-12-2025 (*) 
+
+ CASH, CASH BALANCES AT CENTRAL BANKS AND OTHER DEPOSITS ON DEMAND 137,316 152,281 
+
+ FINANCIAL ASSETS HELD FOR TRADING 5 281,944 252,318 
+ NON-TRADING FINANCIAL ASSETS MANDATORILY AT FAIR VALUE THROUGH PROFIT OR LOSS 5 7,695 7,761 
+ FINANCIAL ASSETS DESIGNATED AT FAIR VALUE THROUGH PROFIT OR LOSS 5 8,010 8,046 
+ FINANCIAL ASSETS AT FAIR VALUE THROUGH OTHER COMPREHENSIVE INCOME 5 74,069 74,612 
+ FINANCIAL ASSETS AT AMORTISED COST 5 1,249,000 1,202,689 
+ HEDGING DERIVATIVES 3,744 3,931 
+
+ CHANGES IN THE FAIR VALUE OF HEDGED ITEMS IN PORTFOLIO HEDGES OF INTEREST RISK (888) 50 
+
+ INVESTMENTS 7,648 7,052 
+ Joint venture entities 2,021 1,956 
+ Associated entities 5,627 5,096 
+
+ ASSETS UNDER REINSURANCE CONTRACTS 236 223 
+
+ TANGIBLE ASSETS 7 26,750 27,438 
+ Property, plant and equipment 25,755 26,416 
+ For own-use 11,748 11,663 
+ Leased out under an operating lease 14,007 14,753 
+ Investment properties 995 1,022 
+ Of which &#58; Leased out under an operating lease 801 860 
+ INTANGIBLE ASSETS 8 17,527 17,308 
+ Goodwill 12,252 11,958 
+ Other intangible assets 5,275 5,350 
+
+ TAX ASSETS 29,374 30,076 
+ Current tax assets 9,721 11,132 
+ Deferred tax assets 19,653 18,944 
+
+ OTHER ASSETS 11,345 8,719 
+ Insurance contracts linked to pensions 65 67 
+ Inventories 7 7 
+ Other 11,273 8,645 
+
+ NON-CURRENT ASSETS HELD FOR SALE 6 2,855 75,011 
+ TOTAL ASSETS 1,856,625 1,867,515 
+
+ (*) Presented for comparison purposes only (see Note 1.e). 
+ The accompanying explanatory Notes 1 to 17 are an integral part of the condensed consolidated balance sheet as at 31 March 2026. 
+
+ January - March 2026 
+ 5 
+
+ Translation of interim condensed consolidated financial statements originally issued in Spanish and prepared in accordance with the regulatory financial reporting framework applicable to the Group in Spain (see Notes 1 and 17). In the event of a discrepancy, the Spanish-language version prevails. 
+
+ GRUPO SANTANDER 
+ CONDENSED CONSOLIDATED BALANCE SHEETS AS AT 31 MARCH 2026 AND 31 DECEMBER 2025 
+ (EUR million) 
+
+ LIABILITIES 
+ Note 
+ 31-03-2026 
+ 31-12-2025 (*) 
+
+ FINANCIAL LIABILITIES HELD FOR TRADING 9 195,949 171,546 
+ FINANCIAL LIABILITIES DESIGNATED AT FAIR VALUE THROUGH PROFIT OR LOSS (**) 9 39,623 42,148 
+ FINANCIAL LIABILITIES AT AMORTISED COST 9 1,453,068 1,421,184 
+ HEDGING DERIVATIVES 4,061 4,248 
+ CHANGES IN THE FAIR VALUE OF HEDGED ITEMS IN PORTFOLIO HEDGES OF INTEREST RATE RISK (76) 49 
+ LIABILITIES UNDER INSURANCE CONTRACTS 18,556 18,737 
+ PROVISIONS 8,769 8,355 
+ Pension and other post-retirement obligations 10 1,656 1,656 
+ Other long term employee benefits 10 928 993 
+ Taxes and other legal contingencies 10 3,183 2,989 
+ Contingent liabilities and commitments 14 764 713 
+ Other provisions 10 2,238 2,004 
+ TAX LIABILITIES 9,695 9,568 
+ Current tax liabilities 3,916 3,664 
+ Deferred tax liabilities 5,779 5,904 
+ OTHER LIABILITIES 14,432 15,937 
+ LIABILITIES ASSOCIATED WITH NON-CURRENT ASSETS HELD FOR SALE 6 — 62,995 
+ TOTAL LIABILITIES 1,744,077 1,754,767 
+ SHAREHOLDERS&#180; EQUITY 141,113 141,144 
+ CAPITAL 11 7,345 7,345 
+ Called up paid capital 7,345 7,345 
+ Unpaid capital which has been called up — — 
+ SHARE PREMIUM 36,792 36,792 
+ EQUITY INSTRUMENTS ISSUED OTHER THAN CAPITAL — — 
+ Equity component of the compound financial instrument — — 
+ Other equity instruments issued — — 
+ OTHER EQUITY 337 273 
+ ACCUMULATED RETAINED EARNINGS 102,483 91,959 
+ REVALUATION RESERVES — — 
+ OTHER RESERVES (8,620) (7,532) 
+ (-) OWN SHARES (2,679) (96) 
+ PROFIT ATTRIBUTABLE TO SHAREHOLDERS OF THE PARENT 3 5,455 14,101 
+ (-) INTERIM DIVIDENDS — (1,698) 
+ OTHER COMPREHENSIVE INCOME (LOSS) 11 (35,088) (37,974) 
+ Items not reclassified to profit or loss (3,226) (4,121) 
+ Items that may be reclassified to profit or loss (31,862) (33,853) 
+ NON-CONTROLLING INTEREST 6 6,523 9,578 
+ Other comprehensive income (2,005) (1,947) 
+ Other items 8,528 11,525 
+ TOTAL EQUITY 112,548 112,748 
+ TOTAL LIABILITIES AND EQUITY 1,856,625 1,867,515 
+ MEMORANDUM ITEMS&#58; OFF BALANCE SHEET AMOUNTS 14 
+ Loan commitments granted 310,549 321,234 
+ Financial guarantees granted 17,277 17,449 
+ Other commitments granted 158,449 148,118 
+
+ (*) Presented for comparison purposes only (see Note 1.e). 
+ The accompanying explanatory Notes 1 to 17 are an integral part of the condensed consolidated balance sheet as at 31 March 2026. 
+
+ 6 
+
+ January - March 2026 
+
+ Translation of interim condensed consolidated financial statements originally issued in Spanish and prepared in accordance with the regulatory financial reporting framework applicable to the Group in Spain (see Notes 1 and 17). In the event of a discrepancy, the Spanish-language version prevails. 
+ GRUPO SANTANDER 
+ CONDENSED CONSOLIDATED INCOME STATEMENTS 
+ FOR THE THREE-MONTH PERIODS ENDED 31 MARCH 2026 AND 2025 
+
+ (EUR million) 
+ (Debit) &#47; Credit 
+
+ Note 
+ 01-01-2026 to 31-03-2026 
+ 01-01-2025 to 31-03-2025 (*) 
+
+ Interest income 25,252 25,908 
+ Financial assets at fair value through other comprehensive income 1,582 1,434 
+ Financial assets at amortised cost 18,976 19,494 
+ Other interest income 4,694 4,980 
+ Interest expense (14,233) (15,287) 
+ Interest income&#47; (charges) 11,019 10,621 
+ Dividend income 90 88 
+ Income from companies accounted for using the equity method 313 161 
+ Commission income 4,543 4,317 
+ Commission expense (1,186) (1,118) 
+ Gain or losses on financial assets and liabilities not measured at fair value through profit or loss, net 61 (4) 
+ Financial assets at amortised cost 25 (5) 
+ Other financial assets and liabilities 36 1 
+ Gain or losses on financial assets and liabilities held for trading, net 81 370 
+ Reclassification of financial assets at fair value through other comprehensive income — — 
+ Reclassification of financial assets at amortised cost — — 
+ Other gains (losses) 81 370 
+ Gains or losses on non-trading financial assets and liabilities mandatorily at fair value through profit or loss 16 495 
+ Reclassification of financial assets at fair value through other comprehensive income — — 
+ Reclassification of financial assets at amortised cost — — 
+ Other gains (losses) 16 495 
+ Gain or losses on financial assets and liabilities measured at fair value through profit or loss, net 496 (33) 
+ Gain or losses from hedge accounting, net 38 (44) 
+ Exchange differences, net (41) (116) 
+ Other operating income (**) 312 451 
+ Other operating expenses (628) (618) 
+ Income from insurance and reinsurance contracts 120 123 
+ Expenses from insurance and reinsurance contracts (94) (114) 
+ Total income 15,140 14,579 
+ Administrative expenses (5,302) (5,451) 
+ Staff costs (3,379) (3,409) 
+ Other general and administrative expenses (1,923) (2,042) 
+ Depreciation and amortisation cost (828) (822) 
+ Provisions or reversal of provisions, net (765) (456) 
+ Impairment or reversal of impairment of financial assets not measured at fair value
+through profit or loss and net gains and losses from modifications (3,198) (3,077) 
+ Financial assets at fair value through other comprehensive income (11) (34) 
+ Financial assets at amortised cost 5 (3,187) (3,043) 
+ Impairment of investments in subsidiaries, joint ventures and associates, net — — 
+ Impairment on non-financial assets, net (22) (102) 
+ Tangible assets (13) (80) 
+ Intangible assets (4) (19) 
+ Others (5) (3) 
+ Gain or losses on non financial assets and investments, net 13 2 
+ Negative goodwill recognised in results — 23 
+ Gains or losses on non-current assets held for sale not classified as discontinued operations 6 (9) (7) 
+ Operating profit&#47;(loss) before tax 5,029 4,689 
+ Tax expense or income from continuing operations (1,250) (1,324) 
+ Profit&#47;(loss) for the period from continuing operations 3,779 3,365 
+ Profit&#47;( loss) after tax from discontinued operations 1,895 376 
+ Profit&#47;(loss) for the period 5,674 3,741 
+ Profit attributable to non-controlling interests 219 339 
+ Profit&#47;(loss) attributable to the parent 5,455 3,402 
+ Earnings&#47;(losses) per share 3 
+ Basic 0.36 0.21 
+ Diluted 0.36 0.21 
+
+ (*) Presented for comparison purposes only (see Note 1.e). 
+ (**) Includes EUR -214 million at 31 March 2026 (EUR -125 million at 31 March 2025) derived from the net monetary loss generated in Argentina as a result of the application of IAS 29 Financial reporting in hyperinflationary economies. 
+ The accompanying explanatory Notes 1 to 17 are an integral part of the condensed consolidated income statement 
+ for the three-month period ended 31 March 2026. 
+
+ January - March 2026 
+ 7 
+
+ Translation of interim condensed consolidated financial statements originally issued in Spanish and prepared in accordance with the regulatory financial reporting framework applicable to the Group in Spain (see Notes 1 and 17). In the event of a discrepancy, the Spanish-language version prevails. 
+
+ GRUPO SANTANDER 
+ CONDENSED CONSOLIDATED STATEMENTS OF RECOGNISED INCOME AND EXPENSE 
+ FOR THE THREE-MONTH PERIODS ENDED 31 MARCH 2026 AND 2025 
+ (EUR million) 
+
+ (Debit) &#47; Credit 
+
+ Note 
+ 01-01-2026 to 31-03-2026 
+ 01-01-2025 to 31-03-2025 (*) 
+
+ CONSOLIDATED PROFIT&#47;(LOSS) FOR THE PERIOD 5,674 3,741 
+ OTHER RECOGNISED INCOME AND EXPENSE 1,979 240 
+ Items that will not be reclassified to profit or loss 11 (53) 233 
+ Actuarial gains and losses on defined benefit pension plans 26 91 
+ Non-current assets held for sale — — 
+ Other recognised income and expense of investments in subsidiaries, joint ventures and associates — 2 
+ Changes in the fair value of equity instruments measured at fair value through other comprehensive income (27) 220 
+ Gains or losses resulting from the accounting for hedges of equity instruments measured at fair value through other comprehensive income, net — — 
+ Changes in the fair value of equity instruments measured at fair value through other comprehensive income (hedged item) 25 (26) 
+ Changes in the fair value of equity instruments measured at fair value through other comprehensive income (hedging instrument) (25) 26 
+ Changes in the fair value of financial liabilities at fair value through profit or loss attributable to changes in credit risk (57) (62) 
+ Income tax relating to items that will not be reclassified 5 (18) 
+ Items that may be reclassified to profit or loss 11 2,032 7 
+ Hedges of net investments in foreign operations (effective portion) 11 (387) (45) 
+ Revaluation gains (losses) (387) (45) 
+ Amounts transferred to income statement — — 
+ Other reclassifications — — 
+ Exchange differences 11 2,388 (305) 
+ Revaluation gains (losses) 2,388 (305) 
+ Amounts transferred to income statement — — 
+ Other reclassifications — — 
+ Cash flow hedges (effective portion) (717) 442 
+ Revaluation gains (losses) (604) (37) 
+ Amounts transferred to income statement (113) 479 
+ Transferred to initial carrying amount of hedged items — — 
+ Other reclassifications — — 
+ Hedging instruments (items not designated) 21 — 
+ Revaluation gains (losses) 23 — 
+ Amounts transferred to income statement (2) — 
+ Other reclassifications — — 
+ Debt instruments at fair value with changes in other comprehensive income (221) 103 
+ Revaluation gains (losses) (211) 68 
+ Amounts transferred to income statement (10) 35 
+ Other reclassifications — — 
+ Non-current assets held for sale 558 — 
+ Revaluation gains (losses) 
+ — — 
+ Amounts transferred to income statement 558 — 
+ Other reclassifications — — 
+ Share of other recognised income and expense of investments 67 (4) 
+ Income tax relating to items that may be reclassified to profit or loss 323 (184) 
+ Total recognised income and expenses for the year 7,653 3,981 
+ Attributable to non-controlling interests 
+ 255 451 
+ Attributable to the parent 7,398 3,530 
+
+ (*) Presented for comparison purposes only (see Note 1.e). 
+ The accompanying explanatory Notes 1 to 17 are an integral part of the condensed consolidated statement of recognised income and expense for the three-month period ended 31 March 2026. 
+
+ 8 
+
+ January - March 2026 
+
+ Translation of interim condensed consolidated financial statements originally issued in Spanish and prepared in accordance with the regulatory financial reporting framework applicable to the Group in Spain (see Notes 1 and 17). In the event of a discrepancy, the Spanish-language version prevails. 
+
+ GRUPO SANTANDER 
+ CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN TOTAL EQUITY 
+ FOR THE THREE-MONTH PERIODS ENDED 31 MARCH 2026 AND 2025 
+ (EUR million) 
+
+ Capital 
+ Share premium 
+ Equity instruments issued (not capital) 
+ Other equity instruments 
+ Accumulated retained earnings 
+ Revaluation reserves 
+ Other reserves 
+ (-) 
+ Own shares 
+ Profit Attributable to shareholders of the parent 
+ (-) 
+ Interim dividends 
+ Other comprehensive income 
+ Non-Controlling interest 
+ Total 
+
+ Other comprehensive income 
+ Other items 
+
+ Balance as at 31-12-2025 (*) 
+ 7,345 36,792 — 273 91,959 — (7,532) (96) 14,101 (1,698) (37,974) (1,947) 11,525 112,748 
+ Adjustments due to errors — — — — — — — — — — — — — — 
+ Adjustments due to changes in
+ accounting policies — — — — — — — — — — — — — — 
+ Opening balance as at 01-01-2026 (*) 
+ 7,345 36,792 — 273 91,959 — (7,532) (96) 14,101 (1,698) (37,974) (1,947) 11,525 112,748 
+ Total recognised income and expense — — — — — — — — 5,455 — 1,943 36 219 7,653 
+ Other changes in equity — — — 64 10,524 — (1,088) (2,583) (14,101) 1,698 943 (94) (3,216) (7,853) 
+ Issuance of ordinary shares — — — — — — — — — — — — — — 
+ Issuance of preferred shares — — — — — — — — — — — — — — 
+ Issuance of other financial instruments — — — — — — — — — — — — — — 
+ Maturity of other financial instruments — — — — — — — — — — — — — — 
+ Conversion of financial liabilities into equity — — — — — — — — — — — — — — 
+ Capital reduction — — — — — — — — — — — — — — 
+ Dividends — — — — (1,821) — — — — — — — (81) (1,902) 
+ Purchase of equity instruments — — — — — — — (3,050) — — — — — (3,050) 
+ Disposal of equity instruments — — — — — — 9 467 — — — — — 476 
+ Transfer from equity to liabilities — — — — — — — — — — — — — — 
+ Transfer from liabilities to equity — — — — — — — — — — — — — — 
+ Transfers between equity items — — — — 12,345 — (885) — (14,101) 1,698 943 (94) 94 — 
+ Increases (decreases) due to
+business combinations — — — — — — — — — — — — (3,274) (3,274) 
+ Share-based payment — — — (76) — — — — — — — — — (76) 
+ Others increases or (-) decreases of the equity — — — 140 — — (212) — — — — — 45 (27) 
+ Balance as at 31-03-2026 
+ 7,345 36,792 — 337 102,483 — (8,620) (2,679) 5,455 — (35,088) (2,005) 8,528 112,548 
+
+ (*) Presented for comparison purposes only (see Note 1.e). 
+ The accompanying explanatory Notes 1 to 17 are an integral part of the condensed consolidated statement of changes in total equity 
+ for the three-month period ended 31 March 2026. 
+
+ January - March 2026 
+ 9 
+
+ Translation of interim condensed consolidated financial statements originally issued in Spanish and prepared in accordance with the regulatory financial reporting framework applicable to the Group in Spain (see Notes 1 and 17). In the event of a discrepancy, the Spanish-language version prevails. 
+
+ GRUPO SANTANDER 
+
+ CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN TOTAL EQUITY 
+ FOR THE THREE-MONTH PERIODS ENDED 31 MARCH 2026 AND 2025 
+ (EUR million) 
+
+ Capital 
+ Share premium 
+ Equity instruments issued (not capital) 
+ Other equity instruments 
+ Accumulated retained earnings 
+ Revaluation reserves 
+ Other reserves 
+ (-) 
+ Own shares 
+ Profit Attributable to shareholders of the parent 
+ (-) 
+ Interim dividends 
+ Other comprehensive income 
+ Non-Controlling interest 
+ Total 
+
+ Other comprehensive income 
+ Other items 
+
+ Balance as at 31-12-2024 (*) 
+ 7,576 40,079 — 217 82,326 — (5,976) (68) 12,574 (1,532) (36,595) (2,020) 10,746 107,327 
+ Adjustments due to errors — — — — — — — — — — — — — — 
+ Adjustments due to changes in
+ accounting policies — — — — — — — — — — — — — — 
+ Opening balance as at 01-01-2025 (*) 
+ 7,576 40,079 — 217 82,326 — (5,976) (68) 12,574 (1,532) (36,595) (2,020) 10,746 107,327 
+ Total recognised income and expense — — — — — — — — 3,402 — 128 112 339 3,981 
+ Other changes in equity — — — (2) 12,545 — (474) (529) (12,574) — 288 20 (68) (794) 
+ Issuance of ordinary shares — — — — — — — — — — — — — — 
+ Issuance of preferred shares — — — — — — — — — — — — — — 
+ Issuance of other financial instruments — — — — — — — — — — — — — — 
+ Maturity of other financial instruments — — — — — — — — — — — — — — 
+ Conversion of financial liabilities into equity — — — — — — — — — — — — — — 
+ Capital reduction — — — — — — — — — — — — — — 
+ Dividends — — — — — — — — — — — — (54) (54) 
+ Purchase of equity instruments — — — — — — — (859) — — — — — (859) 
+ Disposal of equity instruments — — — — — — 6 330 — — — — — 336 
+ Transfer from equity to liabilities — — — — — — — — — — — — — — 
+ Transfer from liabilities to equity — — — — — — — — — — — — — — 
+ Transfers between equity items — — — — 12,545 — (259) — (12,574) — 288 20 (20) — 
+ Increases (decreases) due to
+business combinations — — — — — — — — — — — — 1 1 
+ Share-based payment — — — (5) — — — — — — — — — (5) 
+ Others increases or (-) decreases of the equity — — — 3 — — (221) — — — — — 5 (213) 
+ Balance as at 31-03-2025 (*) 
+ 7,576 40,079 — 215 94,871 — (6,450) (597) 3,402 (1,532) (36,179) (1,888) 11,017 110,514 
+
+ (*) Presented for comparison purposes only (see Note 1.e). 
+ The accompanying explanatory Notes 1 to 17 are an integral part of the condensed consolidated statement of changes in total equity 
+ for the three-month period ended 31 March 2026. 
+
+ 10 
+
+ January - March 2026 
+
+ Translation of interim condensed consolidated financial statements originally issued in Spanish and prepared in accordance with the regulatory financial reporting framework applicable to the Group in Spain (see Notes 1 and 17). In the event of a discrepancy, the Spanish-language version prevails. 
+ GRUPO SANTANDER 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ FOR THE THREE-MONTH PERIODS ENDED 31 MARCH 2026 AND 2025 
+ (EUR million) 
+
+ Note 
+ 31-03-2026 
+ 31-03-2025 (*) 
+
+ A. CASH FLOWS FROM OPERATING ACTIVITIES (18,697) (18,114) 
+ Profit&#47;(loss) for the period 5,674 3,741 
+ Adjustments made to obtain the cash flows from operating activities 5,271 8,125 
+ Depreciation and amortisation cost 828 822 
+ Other adjustments 4,443 7,303 
+ Net increase&#47;(decrease) in operating assets 61,842 41,094 
+ Financial assets held-for-trading 26,277 12,730 
+ Non-trading financial assets mandatorily at fair value through profit or loss (144) (342) 
+ Financial assets at fair value through profit or loss (45) 43 
+ Financial assets at fair value through other comprehensive income (2,463) 4,873 
+ Financial assets at amortised cost 36,756 23,629 
+ Other operating assets 1,461 161 
+ Net increase&#47;(decrease) in operating liabilities 31,776 10,602 
+ Financial liabilities held-for-trading 22,952 12,773 
+ Financial liabilities designated at fair value through profit or loss (2,680) (526) 
+ Financial liabilities at amortised cost 14,684 (449) 
+ Other operating liabilities (3,180) (1,196) 
+ Income tax recovered&#47;(paid) 424 512 
+ B. CASH FLOWS FROM INVESTING ACTIVITIES 4,437 (521) 
+ Payments 4,022 2,550 
+ Tangible assets 7 1,012 1,970 
+ Intangible assets 249 359 
+ Investments 207 34 
+ Subsidiaries and other business units 2 — 187 
+ Non-current assets held for sale and associated liabilities 2,554 — 
+ Other payments related to investing activities — — 
+ Proceeds 8,459 2,029 
+ Tangible assets 7 1,274 1,695 
+ Intangible assets — — 
+ Investments 31 56 
+ Subsidiaries and other business units — 53 
+ Non-current assets held for sale and associated liabilities 6 7,154 225 
+ Other proceeds related to investing activities — — 
+ C. CASH FLOW FROM FINANCING ACTIVITIES (4,135) (3,914) 
+ Payments 4,765 4,628 
+ Dividends 3 — — 
+ Subordinated liabilities 1,480 3,467 
+ Redemption of own equity instruments — — 
+ Acquisition of own equity instruments 3,050 859 
+ Other payments related to financing activities 235 302 
+ Proceeds 630 714 
+ Subordinated liabilities 147 346 
+ Issuance of own equity instruments 11 — — 
+ Disposal of own equity instruments 480 338 
+ Other proceeds related to financing activities 3 30 
+ D. EFFECT OF FOREIGN EXCHANGE RATE DIFFERENCES 915 (2,711) 
+ E. NET INCREASE&#47;(DECREASE) IN CASH AND CASH EQUIVALENTS (17,480) (25,260) 
+ F. CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD 154,796 192,208 
+ G. CASH AND CASH EQUIVALENTS AT END OF PERIOD 137,316 166,948 
+ COMPONENTS OF CASH AND CASH EQUIVALENTS AT END OF PERIOD 
+ Cash 7,230 7,685 
+ Cash equivalents at central banks 119,464 147,820 
+ Other financial assets 10,622 11,443 
+ Less&#58; Bank overdrafts refundable on demand — 
+ TOTAL CASH AND CASH EQUIVALENTS AT END OF PERIOD 137,316 166,948 
+ In which&#58; restricted cash — — 
+
+ (*) Presented for comparison purposes only (see Note 1.e). 
+ The accompanying explanatory Notes 1 to 17 are an integral part of the condensed consolidated statement of recognised income and expense for the three-month period ended 31 March 2026. 
+
+ January - March 2026 
+ 11 
+
+ Banco Santander, S.A. and Companies composing Grupo Santander 
+
+ Explanatory notes to the interim condensed consolidated financial statements for the three-month period ended 31 March 2026. 
+ 1. Introduction, basis of presentation of the interim condensed consolidated financial statements and other information 
+ a) Introduction 
+ Banco Santander, S.A. ('the parent' or 'Banco Santander') is a private-law entity subject to the rules and regulations applicable to banks operating in Spain. The Bylaws and other public information of the Bank can be consulted at its registered office at Paseo de Pereda 9 -12, Santander. 
+ In addition to the operations carried on directly by it, Banco Santander is the head of a group of subsidiaries that engage in various business activities and which compose, together with it, Grupo Santander ('Santander' or 'The Group'). 
+ Grupo Santander's interim condensed consolidated financial statements ('interim financial statements') for the three-month period ended 31 March 2026 were authorised and approved by Grupo Santander's directors at the board of directors meeting held on 28 April 2026. Grupo Santander's consolidated annual accounts for year 2025 were approved by shareholders at Banco Santander annual general meeting on 27 March 2026. 
+ b) Basis of presentation of the interim financial statements 
+ Under Regulation (EC) n.&#186; 1606&#47;2002 of the European Parliament and of the Council of 19 July 2002 all companies governed by the law of an EU Member State and whose securities are admitted to trading on a regulated market of any Member State must prepare their consolidated financial statements for the years beginning on or after 1 January, 2005 in conformity with the International Financial Reporting Standards ('IFRS') previously adopted by the European Union ('EU-IFRS'). In order to adapt the accounting system of Spanish credit institutions with the principles and criteria established by the IFRS adopted by the European Union ('EU-IFRS'), the Bank of Spain published circular 4&#47;2017, dated 27 November 2017, and subsequent changes, on Public and Confidential Financial Reporting Standards and Financial Statement Formats. 
+ The consolidated annual accounts for 2025 were authorised at the board of directors meeting on 24 February 2026 in compliance with International Financial Reporting Standards as adopted by the European Union, taking into account Bank of Spain Circular 4&#47;2017, and subsequent modifications, using the basis of consolidation, accounting policies and measurement bases described in Note 2 to the aforementioned consolidated annual accounts and, accordingly, they presented fairly Grupo Santander&#8217;s consolidated equity and consolidated financial position at 31 December 2025 and the consolidated results of its operations, and the consolidated cash flows in 2025. The aforementioned consolidated annual accounts, which were updated taking into account the changes described later in this section and in Note 12, are included in Grupo Santander&#8217;s Form 6-K filed with the U.S. Securities and Exchange Commission on 1 April 2026, and these interim financial statements are also in compliance with International Financial Reporting Standards as issued by the International Accounting Standards Board ('IFRS-IASB', and together with EU-IFRS, 'IFRS'). 
+ These interim financial statements were prepared and are presented in accordance with International Accounting Standard (IAS) 34, Interim Financial Reporting, for the preparation of interim financial statements and contains disclosures relating to the first three months of 2026. 
+ In accordance with IAS 34, the interim financial statements are intended only to provide an update on the content of the latest consolidated annual accounts authorised for issue, focusing on new activities, events and circumstances occurring during the first three months, and does not duplicate information previously reported in the latest consolidated annual accounts. Consequently, these interim financial statements do not include all the information that would be required for a complete set of consolidated annual accounts prepared in accordance with IFRS and, accordingly, for a proper comprehension of the information included in these interim financial statements, they should be read together with Grupo Santander&#8217;s consolidated annual accounts for the year ended 31 December 2025, which are included in Grupo Santander&#8217;s Form 6-K filed with the U.S. Securities and Exchange Commission on 1 April 2026. 
+ Grupo Santander policies include presenting the interim financial statements for its use in the different markets using the Euro as its presentation currency. The amounts held in other currencies and the balances of entities whose functional currency is not the Euro, have been translated to the presentation currency in accordance with the criteria indicated in Note 2.a to the consolidated annual accounts for 2025. As indicated in that note, for practical reasons, the balance sheet amounts has been converted to the closing exchange rate, the equity to the historical type, and the income and expenses have been converted by applying the average exchange rate of the period&#59; the application of such exchange rate or that corresponding to the date of each transaction does not lead to significant differences in the interim financial statements of Grupo Santander. 
+
+ 12 
+
+ January - March 2026 
+
+ The accounting policies and methods used in preparing these interim financial statements are the same as those applied in the consolidated annual accounts for 2025 including the following accounting standards with an effective application date 1 January 2026, which are detailed below&#58; 
+ • Amendments to IFRS 9 Financial Instruments and IFRS 7 Financial Instruments&#58; Disclosures&#58; (i) amendments to classification and measurement requirements related to the assessment of contractual cash flows of certain financial assets (with ESG characteristics, non-recourse or contractually linked)&#59; (ii) an accounting policy option for the derecognition of financial liabilities settled through an electronic payment system is included&#59; (iii) the disclosure requirements related to equity instruments designated at fair value through other comprehensive income are amended&#59; (iv) disclosure requirements are included for financial instruments with contingent characteristics that may modify their contractual cash flows. 
+ • Amendments to IFRS 9 and IFRS 7 - Nature-dependent electricity contracts for electricity contracts dependent on energy sources and susceptible to variations due to uncontrollable factors, such as weather conditions, this modification&#58; (i) clarifies the application of the 'own use' requirements&#59; (ii) allows hedge accounting if these contracts were used as hedging instruments&#59; and, (iii) adds new filing requirements for greater clarity on the impact of these contracts. 
+ • Amendments to IFRS Improvement Cycle&#58; introduces minor amendments, effective from 1 January 2026, to the following standards&#58; 
+ &#9702; IFRS 1 First-time Adoption of International Financial Reporting Standards, for hedge accounting in first adoption. 
+ &#9702; IFRS 7 Financial Instruments&#58; Disclosures&#58; updated references and alignment with IFRS 13, as well as clarifications in the Implementation Guidance. 
+ &#9702; IFRS 9 Financial Instruments&#58; amendment to apply derecognition criteria to lease liabilities recorded by the lessee and replacement of the term 'transaction price' with 'the amount determined in accordance with IFRS 15'. 
+ &#9702; IFRS10 Consolidated Financial Statements&#58; Determining a 'de facto agent'. 
+ &#9702; IAS 7 Statement of Cashflows&#58; replacing the term 'cost method' with 'cost'. 
+ The aforementioned accounting standards and modifications have not had a significant effect on Grupo Santander&#8217;s financial statements. 
+ All accounting policies and measurement bases with a material effect on the interim financial statements for 31 March 2026 were applied in their preparation. 
+ In addition, the Group has implemented a change in the presentation of certain charges in the consolidated income statement. As from the current period, such charges—mainly levies and other expenses—are reported under &#8220;Other operating expenses&#8221; rather than under &#8220;Other provisions&#8221;. 
+ By the time of the preparation of these interim financial statements, there are no standards pending adoption by the European Union for the current exercise by the IASB with an effective date of 1 January 2026. 
+ c) Use of critical estimates 
+ The consolidated results and the determination of the consolidated equity are sensitive to the accounting principles and policies, valuation criteria and estimates used by the directors of Banco Santander in preparing the interim financial statements. The main accounting principles, policies, and valuation criteria are indicated in Note 2 of the consolidated annual accounts of the year 2025, except for those indicated in these interim financial statements due to the accounting standards and modifications that have come into effect during the first three months of the year 2026. 
+ The interim financial statements contain estimates made by the senior management of Banco Santander and of the consolidated entities in order to quantify certain of the assets, liabilities, income, expenses and obligations reported in the consolidated entities. These estimates, which were made on the basis of the best information available, relate mainly to the following&#58; 
+ • The income tax expense, which is recognised in interim periods based on the best estimate of the weighted average tax rate expected by Grupo Santander for the full financial year&#59; 
+ • The impairment losses on certain assets – financial assets at fair value through other comprehensive income, financial assets at amortised cost, non-current assets held for sale, investments in subsidiaries, joint ventures and associates, tangible assets and intangible assets&#59; 
+ • The assumptions used in the calculation of the post-employment benefit liabilities and commitments and other obligations&#59; 
+ • The useful life of the tangible and intangible assets&#59; 
+ • The measurement of goodwill impairment arising on consolidation&#59; 
+ • The calculation of provisions and the consideration of contingent liabilities&#59; 
+ • The fair value of certain unquoted assets and liabilities&#59; 
+
+ January - March 2026 
+ 13 
+
+ • The recoverability of deferred tax assets&#59; 
+ • The fair value of the identifiable assets acquired and the liabilities assumed in business combinations in accordance with IFRS 3&#59; and 
+ • The measurement of assets under reinsurance contracts and liabilities under insurance contracts. 
+ To update the previous estimates, the Group's management has taken into account the current macroeconomic scenario, characterized by persistent geopolitical tensions and changing financial conditions, as well as the evolution of monetary and fiscal policies in major economies. The analysis also considers developments in interest rates, credit spreads, and currency movements, along with labor market trends in the geographies where the Group operates. 
+ The Group's management has evaluated in particular the uncertainties caused by the current environment in relation to credit risk, maintaining active oversight of clients in geographies and sectors more exposed to international trade tensions, global geopolitical uncertainty and the impact of public debt containment policies or fiscal stimulus measures, liquidity and market risks, taking into account the best available information, to estimate the impact on the credit portfolio's impairment provision, and in the debt instruments' interest rates and valuation. 
+ During the three-month period ended on 31 March 2026, there were no additional significant changes to the estimates made at the end of the 2025 financial year, other than those indicated in these interim financial statements. 
+ d) Contingent assets and liabilities 
+ Note 25 to Grupo Santander's consolidated annual accounts for the year ended 31 December 2025 includes information on the contingent assets and liabilities at that date. There were no significant changes in Grupo Santander's contingent assets and liabilities from 31 December 2025 to the date of formal preparation of these interim financial statements. 
+ e) Comparative information 
+ The information for the year 2025 contained in these interim financial statements is only presented for comparison purposes with the information relating to the three-month period ended 31 March 2026. 
+ The information in the interim income statement for the first three months of 2025 has been restated, as a result of the sale of Santander Bank Polska, S.A. by Grupo Santander, as required by IFRS 5 (see Notes 2 and 6). The profit for the first three months of fiscal year 2025 was recorded in the section 'Profit (loss) after tax from discontinued operations' of the accompanying interim income statement. 
+ The information contained in the interim income statement for the first three months of 2025 has been modified as a result of the retrospective application of the change in the presentation of certain charges in the amount of EUR 117 million, mainly levies and other expenses, of which EUR 100 million have been reclassified from the line item 'Other provisions' to the line item 'Other operating expenses' (see Note 1.b). 
+ Likewise, the information in Note 12 related to segment information for March 2025 has been restated, in accordance with the changes in the segments' composition of Grupo Santander, as required by IFRS 8 (see Note 12). 
+ In order to interpret the changes in the balances with respect to 31 December 2025, it is necessary to take into consideration the exchange rate effect arising from the volume of foreign currency balances held by the Group in view of its geographic diversity (Note 51.b to the consolidated annual accounts for the annual year ended 31 December 2025) and the impact of the appreciation&#47;depreciation of the various currencies against the euro in the first three months of 2026&#58; Mexican peso (1.67%), US dollar (1.96%), Brazilian real (7.44%), Argentinian peso (7.13%), Pound sterling (0.03%) and Chilean peso (-1.25%)&#59; as well as the evolution of the average exchange rates between comparable periods&#58; Mexican peso ( 4.58% ), US dollar (-10.05%), Brazilian real (0.06%), Pound sterling (-3.75%) and Chilean peso (-2.23%). 
+ f) Seasonality of the Grupo Santander&#8217;s transactions 
+ The business activities carried on by Grupo Santander entities, and their transactions are not cyclical or seasonal in nature. Therefore, no specific disclosures are included in these explanatory notes to the interim financial statements for the three-month period ended 31 March 2026. 
+ g) Materiality 
+ In determining the note disclosures to be made on the various items in the interim financial statements or other matters, Grupo Santander, in accordance with IAS 34, took into account their materiality in relation to the interim financial statements for the three-month period ended 31 March 2026. 
+ h) Events after the reporting period 
+ From 1 April to the date of authorization of these interim financial statements for the first three months of 2026, no significant events other than those indicated therein have occurred. 
+
+ 14 
+
+ January - March 2026 
+
+ 2. Grupo Santander 
+ Appendices I, II and III to the consolidated annual accounts for the year ended 31 December 2025 provide relevant information on Grupo Santander companies at that date and on the companies accounted for under the equity method. 
+ Also, Note 3 to the aforementioned consolidated annual accounts includes a description of the most significant acquisitions and disposals of companies performed by Grupo Santander in 2025, 2024 and 2023. 
+ The most significant transactions carried out during the first three months of 2026 or pending execution at 31 March 2026 are described below&#58; 
+ Agreement for the acquisition of Webster Financial Corporation ('Webster') 
+ On 3 February 2026, Banco Santander announced that it had reached an agreement to acquire Webster, the parent company of Webster Bank, N.A., for approximately USD 12,200 million (around EUR 10,300 million). Webster shareholders will receive USD 48.75 in cash and 2.0548 Santander shares for each Webster share, resulting in a total consideration of USD 75 per Webster share. Completion of the transaction is expected to take place in the second half of 2026. 
+ Agreement for the sale of 49% of Santander Bank Polska S.A and accelerated placement of ordinary shares 
+ On 9 January 2026, Banco Santander announced an agreement to sell the 49% of the share capital of Santander Bank Polska S.A. (Santander Bank Polska) to Erste Group Bank AG at a price of 584 zlotys per share, as well as the 50% of Santander Towarzystwo Funduszy Inwestycyjnych S.A. (TFI, the asset management business in Poland) owned directly by Banco Santander, S.A., for a total amount of EUR 7,035 million. 
+ Following these transactions and the accelerated placement of ordinary shares announced on 2 December 2025, representing approximately 3.5% of its share capital, Banco Santander holds 9.7% of Santander Bank Polska's share capital (58.7% as of 31 December 2025). 
+ The remaining share capital has been classified under the heading 'Financial assets at fair value through other comprehensive income - Equity instruments', initially recognised at the loss of control-date fair value, amounting to EUR 1,310 million. 
+ The profit (loss) for the year from discontinued operations as at 31 March 2026 amounts to EUR 1,895 million, entirely attributable to the net gain on disposal after deducing related costs. As the transaction was completed in the first days of the fiscal year, no significant operating results were recognised during the period. 
+ The main additional accounting effects arising from the transaction have been as follows&#58; 
+ • Disposal of assets and liabilities previously classified as held for sale amounted to EUR 9,098 million. 
+ • Disposal of non-controlling interests amounted to EUR 3,274 million. 
+ • Reclassification to accumulated losses through other comprehensive income, mainly due to foreign currency balance translation differences amounted to EUR 697 million. 
+ Additionally, as part of this transaction, on 23 December 2025, Santander Consumer, S.A. acquired 60% of Santander Consumer Bank Polska, which was owned by Santander Bank Polska, for PLN 3,105 million (EUR 726 million). This transaction had no significant impact on the Group&#180;s consolidated financial statements. 
+ Agreement for the acquisition of TSB Banking Group plc 
+
+ On 1 July 2025, Banco Santander announced an agreement with Banco de Sabadell, S.A. (Sabadell) for the acquisition of TSB Banking Group plc (TSB) for approximately GBP 2,650 million (EUR 3,100 million) plus the results generated by this business between 31 March 2025, and the closing of the transaction. 
+ Once the relevant regulatory approvals have been obtained, the transaction is expected to close in the coming days. 
+
+ January - March 2026 
+ 15 
+
+ 3. Shareholder remuneration system and earnings per share 
+ a) Shareholder remuneration system 
+ During the first three months of 2026 and 2025, no cash remuneration has been made by Banco Santander. 
+ At the Board of Directors meeting held on 24 February 2026, it was agreed to pay a complementary dividend in cash against 2025 results of EUR 12.5 cents per share which will become effective on 5 May 2026, which was approved by the general meeting of shareholders on 27 March 2026. 
+ Likewise, on 4 February 2026 a second buyback program on account of the 2025 and expected excess capital was launched for a maximum total amount of EUR 5,030 million, of which EUR 1,830 million corresponds to an amount equivalent to 25% of the Group&#8217;s underlying profit in the second half of 2025, and the remaining EUR 3,200 million corresponds to 50% of the capital released following completion of the sale of the 49% stake in Santander Bank Polska. A capital reduction resolution was approved by the general meeting of shareholders to enable the cancellation of the treasury shares acquired under this second buyback programme. 
+ At the general meeting of shareholders held on 4 April 2025, it was agreed to pay an interim dividend in cash against 2024 results of EUR 11 cents per share agreed by the board of directors on 25 February 2025, which became effective on 2 May 2025. Likewise, on 6 February 2025 a buyback program on account of the 2024 results was started for a maximum amount of EUR 1,587 million, which finalized on June 2025. 
+ b) Earnings per share from continuing and discontinued operations 
+ i. Basic earnings per share 
+ Basic earnings per share for the period are calculated by dividing the net profit attributable to Grupo Santander for the first three months adjusted by the after-tax amount relating to the remuneration of contingently convertible preference shares recognised in equity by the weighted average number of ordinary shares outstanding during the period, excluding the average number of treasury shares held in the period. 
+ Accordingly&#58; 
+
+ 31-03-2026 
+ 31-03-2025 
+
+ Profit attributable to the Parent (EUR million) 5,455 3,402 
+ Remuneration of contingently convertible preferred securities (CCPS) (EUR million) (163) (160) 
+ 5,292 3,242 
+ Of which&#58; 
+ Profit or Loss from discontinued operations (non controlling interest net) (EUR million) 1,895 235 
+ Profit or Loss from continuing operations (CCPS net) (EUR million) 3,397 3,007 
+ Weighted average number of shares outstanding 14,541,812,105 15,091,121,833 
+ Basic earnings per share (euros) 0.36 0.21 
+ Of which&#58; from discontinued operations (euros) 0.13 0.02 
+ from continuing operations (euros) 0.23 0.19 
+
+ ii. Diluted earnings per share 
+ Diluted earnings per share for the period are calculated by dividing the net profit attributable to Grupo Santander for the first three months adjusted by the after-tax amount relating to the remuneration of contingently convertible preference shares recognised in equity and of perpetual liabilities contingently amortisable in their case by the weighted average number of ordinary shares outstanding during the period, excluding the average number of treasury shares and adjusted for all the dilutive effects inherent to potential ordinary shares (share options, warrants and convertible debt instruments). 
+
+ 16 
+
+ January - March 2026 
+
+ Accordingly, diluted earnings per share were determined as follows&#58; 
+
+ 31-03-2026 
+ 31-03-2025 
+
+ Profit attributable to the Parent (EUR million) 5,455 3,402 
+ Remuneration of contingently convertible preferred securities (CCPS) (EUR million) (163) (160) 
+ 5,292 3,242 
+ Of which&#58; 
+ Profit or Loss from discontinued operations (non controlling interest net) (EUR million) 1,895 235 
+ Profit or Loss from continuing operations (CCPS net) (EUR million) 3,397 3,007 
+ Weighted average number of shares outstanding 14,541,812,105 15,091,121,833 
+ Dilutive effect of options&#47;receipt of shares 82,379,760 78,974,109 
+ Adjusted number of shares 14,624,191,865 15,170,095,942 
+ Diluted earnings per share (euros) 0.36 0.21 
+ Of which&#58; from discontinued operations (euros) 0.13 0.02 
+ from continuing operations (euros) 0.23 0.19 
+
+ 4. Remuneration and other benefits paid to Banco Santander&#8217;s directors and senior managers 
+ Note 5 to Grupo Santander&#8217;s consolidated annual accounts for the year ended 31 December 2025 details the remuneration and other benefits to members of Banco Santander&#8217;s Board of Directors and senior management in 2025. 
+ Following is a summary of the most significant data on the remunerations and benefits for the three-month periods ended 31 March 2026 and 2025&#58; 
+ Remuneration of members of the board of directors (1) 
+
+ EUR thousand 
+
+ 31-03-2026 
+ 31-03-2025 
+
+ Members of the board of directors&#58; (2) 
+ Remuneration concept 
+ Fixed salary remuneration of executive directors 1,610 1,534 
+ Variable salary remuneration of executive directors — — 
+ Directors' fees 310 256 
+ Bylaw-stipulated emoluments (annual emolument) 1,059 1,010 
+ Other 1,133 1,591 
+ 4,112 4,391 
+
+ 1. The Notes to the consolidated annual accounts for 2026 will contain detailed and complete information on the remuneration paid to all the directors, including executive directors. 
+ 2. Ms.Homaira Akbari stepped down as member of the board of directors on 27 March 2026. 
+
+ January - March 2026 
+ 17 
+
+ Other benefits of members of the board of directors 
+
+ EUR thousand 
+
+ 31-03-2026 
+ 31-03-2025 
+
+ Members of the board of directors 
+ Other benefits 
+ Advances — — 
+ Loans granted 262 307 
+ Pension funds and plans&#58; Endowments and&#47;or contributions (1) 625 604 
+ Pension funds and plans&#58; Accumulated rights (2) 85,247 81,114 
+ Life insurance premiums 608 928 
+ Guarantees provided for directors — — 
+
+ 1. These correspond to the endowments and&#47;or contributions made during the first three months of 2026 and 2025 in respect of retirement pensions, widowhood, orphanhood and permanent disability. 
+ 2. Corresponds to the rights accrued by the directors in matters of pensions. Additionally, former members of the board had at 31 March 2026 and 31 March 2025 rights accrued for this concept for EUR 42,047 thousand and EUR 45,631 thousand, respectively. 
+
+ Remuneration of senior management (1) (2) 
+ The table below includes the corresponding amounts related to remunerations of senior management at 31 March 2026 and 2025, excluding the executive directors&#58; 
+
+ EUR thousand 
+
+ 31-03-2026 
+ 31-03-2025 
+
+ Senior management (1) 
+ Total remuneration of senior management (2) 7,438 8,099 
+
+ 1. Remunerations received during the first three months by members of the senior management who ceased in their functions by 31 March 2026, amounted to EUR 1,362 thousand (EUR 0 thousand by 31 March 2025). 
+ 2. The number of members of Banco Santander's senior management, excluding executive directors, is 15 as of 31 March 2026 (15 pe rsons as of 31 March 2025) 
+ The variable annual remuneration (or bonuses) received for fiscal year 2025, both for directors and the rest of senior management, were included in the information on remuneration included in the annual report for that year. Similarly, the variable remuneration attributable to the 2026 results, which will be submitted for approval by the Board of Directors at the appropriate time, will be included in the financial statements for the current year. 
+ Funds and pension plans of senior management 
+
+ EUR thousand 
+
+ 31-03-2026 
+ 31-03-2025 
+
+ Senior management (1) 
+ Pension funds&#58; Endowments and &#47; or contributions (2) 1,121 1,324 
+ Pension funds&#58; Accumulated rights (3) 51,247 52,174 
+
+ 1. During the first three months of 2026 and 2025, no contributions were made to pension funds for members who had ceased in their functions during those periods. 
+ 2. Corresponds to the allocations and&#47;or contributions made during the first three months of 2026 and 2025 as retirement pensions. 
+ 3. Corresponds to the rights accrued by members of senior management in the area of pensions. In addition, former members of senior management had at 31 March 2026 and 31 March 2025 rights accumulated for this same concept for EUR 76,834 thousand and EUR 72,828 thousand, respectively. 
+
+ 18 
+
+ January - March 2026 
+
+ 5. Financial assets 
+ a) Breakdown 
+ The detail, by nature and category for measurement purposes, of Grupo Santander's financial assets, other than the balances relating to Cash, cash balances at central banks and other deposits on demand and Hedging derivatives, at 31 March 2026 and 31 December 2025 is as follows, presented by the nature and categories for valuation purposes&#58; 
+
+ EUR million 
+ 31-03-2026 
+
+ Financial 
+assets held 
+for trading Non-trading 
+financial 
+ assets 
+ mandatorily 
+ at fair value 
+ through 
+profit or loss Financial 
+ assets 
+ designated 
+ at fair value 
+ through 
+profit or loss Financial 
+ assets at fair 
+ value through 
+ other 
+ comprehensive 
+income Financial 
+ assets at 
+ amortised 
+cost 
+ Derivatives 65,557 
+ Equity instruments 20,874 5,795 3,591 
+ Debt instruments 111,217 233 2,747 55,489 150,319 
+ Loans and advances 84,296 1,667 5,263 14,989 1,098,681 
+ Central Banks 21,298 — — — 17,473 
+ Credit institutions 26,182 — 439 637 68,058 
+ Customers 36,816 1,667 4,824 14,352 1,013,150 
+ Total 281,944 7,695 8,010 74,069 1,249,000 
+
+ EUR million 
+ 31-12-2025 
+
+ Financial 
+assets held 
+for trading Non-trading 
+financial 
+ assets 
+ mandatorily 
+ at fair value 
+ through 
+profit or loss Financial 
+ assets 
+ designated 
+ at fair value 
+ through 
+profit or loss Financial 
+ assets at fair 
+ value through 
+ other 
+ comprehensive 
+income Financial 
+ assets at 
+ amortised 
+cost 
+ Derivatives 58,355 
+ Equity instruments 22,030 5,815 2,281 
+ Debt instruments 98,568 245 2,894 58,305 140,014 
+ Loans and advances 73,365 1,701 5,152 14,026 1,062,675 
+ Central Banks 14,632 — — — 15,986 
+ Credit institutions 25,967 — 413 1,120 61,513 
+ Customers 32,766 1,701 4,739 12,906 985,176 
+ Total 
+ 252,318 7,761 8,046 74,612 1,202,689 
+
+ January - March 2026 
+ 19 
+
+ Following is the gross exposure of financial assets subject to impairment stages at 31 March 2026 and 31 December 2025&#58; 
+
+ EUR million 
+ 31-03-2026 
+ 31-12-2025 
+
+ Gross amount Gross amount 
+
+ Stage 1 Stage 2 Stage 3 Total Stage 1 Stage 2 Stage 3 Total 
+ Financial assets at fair value through other comprehensive income 69,774 659 124 70,557 71,559 737 122 72,418 
+ Debt instruments 55,493 — — 55,493 58,290 20 — 58,310 
+ Loans and advances 14,281 659 124 15,064 13,269 717 122 14,108 
+ Credit institutions 637 — — 637 1,120 — — 1,120 
+ Customers 13,644 659 124 14,427 12,149 717 122 12,988 
+ Financial assets at amortised cost 1,152,394 84,648 34,333 1,271,375 1,109,395 82,323 32,251 1,223,969 
+ Debt instruments 148,252 1,616 1,057 150,925 138,219 1,460 842 140,521 
+ Loans and advances 1,004,142 83,032 33,276 1,120,450 971,176 80,863 31,409 1,083,448 
+ Central Banks 17,473 — — 17,473 15,986 — — 15,986 
+ Credit institutions 68,064 — — 68,064 61,517 — — 61,517 
+ Customers 918,605 83,032 33,276 1,034,913 893,673 80,863 31,409 1,005,945 
+ Total 1,222,168 85,307 34,457 1,341,932 1,180,954 83,060 32,373 1,296,387 
+
+ On 31 March 2026, Grupo Santander has EUR 386 million (EUR 315 million on 31 December 2025) of exposure in impaired assets purchased with impairment, of which EUR 112 million still show signs of impairment with a provision of EUR 70 million, which mainly correspond to the business combinations carried out by Grupo Santander. 
+ b) Impairment allowances of financial assets at amortised cost portfolio 
+ The following is the movement that has taken place, during the three-month periods ended 31 March 2026 and 2025, in the balance of provisions that cover losses due to impairment of assets which comprise the heading balance of the financial assets at amortised cost&#58; 
+
+ EUR million 
+
+ 31-03-2026 
+ 31-03-2025 
+
+ Balance as at beginning of period 21,596 22,326 
+
+ Impairment losses charged to income for the period 3,610 3,411 
+ Of which&#58; 
+ Impairment losses charged to income 7,501 6,533 
+ Impairment losses reversed with a credit to income (3,891) (3,122) 
+ Write-off of impaired balances against recorded impairment allowance (3,093) (3,275) 
+ Exchange differences and other 647 52 
+
+ Balance as at end of period 22,760 22,514 
+
+ Of which, relating to&#58; 
+ Impaired assets 14,836 14,436 
+ Other assets 7,924 8,078 
+
+ Of which&#58; 
+ Individually calculated 2,741 2,694 
+ Collectively calculated 20,019 19,820 
+
+ 20 
+
+ January - March 2026 
+
+ Previously written-off assets recovered during the first three months of 2026 and 2025 amount to EUR 423 million and to EUR 368 million, respectively. In addition, during the first three months of 2026 and 2025 there was no recognition for losses in the income statement due to renegotiation or contractual modifications. Considering these amounts, the recorded impairment of financial assets at amortised cost is EUR 3,187 million and EUR 3,043 million during the first three months of 2026 and 2025, respectively. 
+ Following is the movement of the loan loss provision broken down by impairment stage of loans and advances to customers recognised under 'Financial assets at amortised cost' as at 31 March 2026 and 31 March 2025&#58; 
+
+ EUR million 
+ 31-03-2026 
+
+ Stage 1 Stage 2 Stage 3 Total 
+ Impairment allowance as at beginning of period 2,975 4,623 13,478 21,076 
+ Transfers between stages (333) 304 2,435 2,406 
+ Net changes of the exposure and modifications in the credit risk 420 (269) 966 1,117 
+ Write-offs — — (3,082) (3,082) 
+ Exchange differences and other (27) 93 487 553 
+ Carrying amount at end of period 3,035 4,751 14,284 22,070 
+
+ EUR million 
+ 31-03-2025 
+
+ Stage 1 Stage 2 Stage 3 Total 
+ Impairment allowance as at beginning of period 3,281 4,735 13,967 21,983 
+ Transfers between stages (271) 227 2,064 2,020 
+ Variation due to credit risk 286 (213) 1,339 1,412 
+ Write-offs — — (3,234) (3,234) 
+ Exchange differences and other (14) (6) (18) (38) 
+ Carrying amount at end of period 3,282 4,743 14,118 22,143 
+
+ c) Impaired assets of financial assets at amortised cost portfolio 
+ The movement during the three-month periods ended 31 March 2026 and 2025, in the balance of financial assets classified at amortised cost and considered impaired by reason for the credit risk is as follows&#58; 
+
+ EUR million 
+
+ 31-03-2026 
+ 31-03-2025 
+
+ Balance as at beginning of period 32,297 34,179 
+ Net additions 4,503 3,252 
+ Written-off assets (3,093) (3,275) 
+ Perimeter Changes — — 
+ Exchange differences and other 737 (67) 
+ Balance at end of period 34,444 34,089 
+
+ This amount, after deducting the related allowances, represents Grupo Santander's best estimate of the discounted value of the flows that are expected to be recovered from the impaired assets. 
+
+ January - March 2026 
+ 21 
+
+ d) Fair value of financial assets not measured at fair value 
+ Following is a comparison of the carrying amounts of Grupo Santander&#8217;s financial assets measured at other than fair value and their respective fair values at 31 March 2026 and 31 December 2025&#58; 
+
+ EUR million 
+
+ 31-03-2026 
+ 31-12-2025 
+
+ Carrying 
+amount Fair 
+value Carrying 
+amount Fair 
+value 
+ Loans and advances 1,098,681 1,096,696 1,062,675 1,062,981 
+ Debt instruments 150,319 148,636 140,014 139,242 
+ ASSETS 1,249,000 1,245,332 1,202,689 1,202,223 
+
+ The main valuation methods and inputs used in the estimation of the fair value of the financial assets of the previous table are detailed in Note 51.c of the consolidated annual accounts for the year 2025. 
+
+ 6. Non-current assets held for sale and liabilities associated with non-current assets held for sale 
+ The detail, by nature, of Grupo Santander&#8217;s non-current assets held for sale and liabilities associated with non-current assets held for sale at 31 March 2026 and 31 December 2025 is as follows presented by nature&#58; 
+
+ EUR million 
+
+ 31-03-2026 
+ 31-12-2025 
+
+ Tangible assets 2,850 2,850 
+ Foreclosed assets 2,499 2,487 
+ Of which Property assets in Spain 1,672 1,705 
+ Other tangible assets held for sale 351 363 
+
+ Entities held for sale — 72,148 
+ Santander Bank Polska (Note 2) — 72,148 
+
+ Other assets 5 13 
+ Total Assets associated with non-current assets held for sale 2,855 75,011 
+
+ EUR million 
+ 31-03-2026 
+ 31-12-2025 
+
+ Entities held for sale 
+ Santander Bank Polska (Note 2) — 62,995 
+ Total Liabilities associated with non-current assets held for sale — 62,995 
+
+ The balance of the provisions for tangible assets at 31 March 2026 is EUR 2,318 million (EUR 2,357 million at 31 December 2025). The charges recorded in the first three months of 2026 and 2025 amounted to EUR 17 million and EUR 17 million, respectively, and the recoveries undergone during those periods amount to EUR 4 million and EUR 3 million, respectively. 
+
+ 22 
+
+ January - March 2026 
+
+ Assets and liabilities from entities held for sale 
+ As mentioned in Note 2, on 9 January 2026 the sale of 49% of the share capital of Santander Bank Polska and 50% of its asset management business in Poland to Erste Group Bank AG was completed. 
+ The changes in the accounting balances of the Polish business for sale between 31 December 2025, and the closing date of the transaction, 9 January 2026, are not material for the purposes of these consolidated condensed interim financial statements. 
+ The consolidated condensed balance sheet as of 31 December 2025 the consolidated condensed income statement, and the consolidated condensed statement of cash flows for the first three months of 2025 for the Polish business for sale are included below&#58; 
+ Condensed balance sheets of companies held for sale - Santander Bank Polska 
+
+ EUR million 
+ Condensed assets 31-12-2025 
+
+ Cash, cash balances at central banks and other deposits on demand 2,515 
+ Financial assets held for trading 1,956 
+ Financial assets designated at fair value through other comprehensive income 8,173 
+ Financial assets at amortised cost 55,642 
+ Intangible assets 1,335 
+ Tax assets 1,224 
+ Other assets 1,303 
+ TOTAL ASSETS 72,148 
+
+ EUR million 
+ Condensed liabilities 31-12-2025 
+
+ Financial liabilities held for trading 842 
+ Financial liabilities at amortised cost 59,704 
+ Provisions 603 
+ Tax liabilities 1,335 
+ Other liabilities 511 
+ TOTAL LIABILITIES 62,995 
+
+ EUR million 
+ Other comprehensive income 31-12-2025 
+
+ Items that will not be reclassified to profit or loss 56 
+ Actuarial gains or losses on defined benefit pension plans — 
+ Changes in the fair value of equity instruments measured at fair value through other comprehensive income 56 
+ Items that may be reclassified to profit or loss (590) 
+ Hedges of net investments in foreign operations (effective portion) (522) 
+ Exchange differences (164) 
+ Cash flow hedges (effective portion) 98 
+ Debt instruments at fair value with changes in other comprehensive income 8 
+ Share in other income and expenses recognised in investments, joint ventures and associates (10) 
+
+ January - March 2026 
+ 23 
+
+ Condensed income statements of companies held for sale - Santander Bank Polska 
+
+ EUR million 
+ Condensed consolidated income statements 01-01-2025 a
+31-03-2025 
+
+ Interest Margin 757 
+ Dividend income — 
+ Investments accounted for using the equity method 7 
+ Net commissions 170 
+ Net trading income 10 
+ Other operating results (86) 
+ Total income 858 
+ Administrative expenses, depreciation and amortisation cost (233) 
+ Impairment of financial assets (*) 
+ (79) 
+ Other results and provisions (48) 
+ Profit before taxes 498 
+ Tax expense (122) 
+ Profit of the year 376 
+
+ (*) Of which EUR 43 million correspond to renegotiations or contractual modifications as of 31 March 2025. 
+
+ Condensed statements of cash flows of companies held for sale - Santander Bank Polska 
+
+ EUR million 
+ Condensed consolidated statements of cash flows 31-03-2025 
+
+ A) Cash flows from operating activities (598) 
+ B) Cash flows from investing activities (13) 
+ C) Cash flows from financing activities (13) 
+ D) Effect of foreign exchange rate differences 42 
+ E) Net increase&#47;(decrease) in cash and cash equivalents (582) 
+
+ Effect on net cash outflows from discontinued operations - Sale of Santander Bank Polska 
+
+ EUR million 
+
+ 31-03-2026 
+
+ Cash and cash equivalents disposed of (2,515) 
+
+ Total cash received from non-current assets and liabilities for sale 4,481 
+ Consideration received satisfied in cash - Santander Bank Polska 7,035 
+ Other collections form non-current assets and liabilities for sale (2,554) 
+
+ 24 
+
+ January - March 2026 
+
+ 7. Tangible assets 
+ a) Changes in the period 
+ In the first three months of 2026 and 2025, tangible assets (rights of use are not included) were acquired for EUR 1,012 million and EUR 1,970 million, respectively. 
+ Likewise, in the first three months of 2026 and 2025 tangible asset items were disposed of with a carrying amount of EUR 1,261 million and EUR 1,693 million, generating a net profit of EUR 13 million and EUR 2 million, respectively. 
+ b) Property, plant and equipment purchase commitments 
+ At 31 March 2026 and 2025, Grupo Santander did not have any significant commitments to purchase property, plant and equipment items. 
+ c) Leasing rights 
+ As of 31 March 2026, Grupo Santander has tangible assets under lease for the amount of EUR 1,797 million (EUR 1,556 million at 31 December 2025). 
+
+ 8. Intangible assets 
+ The detail of Intangible Assets - Goodwill at 31 March 2026 and 31 December 2025, based on the cash-generating units giving rise thereto, is as follows&#58; 
+
+ EUR million 
+
+ 31-03-2026 
+ 31-12-2025 
+
+ Banco Santander (Brazil) 3,256 3,031 
+ SAM Investment Holdings Limited 1,444 1,444 
+ Santander Consumer Germany 1,304 1,304 
+ Santander Portugal 1,040 1,040 
+ Santander Espa&#241;a 998 998 
+ Santander US Auto 962 943 
+ Santander Holding USA (ex. Auto) 780 765 
+ Santander UK 609 609 
+ Grupo Financiero Santander (Mexico) 470 463 
+ Banco Santander - Chile 464 470 
+ Ebury Partners 326 326 
+ Santander Consumer Nordics 219 211 
+ Other entities 380 354 
+ Total Goodwill 12,252 11,958 
+
+ During the first three months of 2026 there has been an increase in goodwill of EUR 294 million, which mainly corresponds to exchange differences (see Note 11), which in accordance with current regulations, have been recorded with a credit to the heading 'Other comprehensive income - Items that can be reclassified in results- Foreign currency translation' of equity through the Statement of recognized income and expenses. 
+ Note 17 of the consolidated annual accounts for the year ended 31 December 2025 includes detailed information on the procedures followed by Grupo Santander to analyse the potential impairment of the goodwill recognised with respect to its recoverable amount and to recognise the related impairment losses, where appropriate. 
+ In accordance with IAS 36, a Cash Generating Unit (CGU) to which goodwill has been assigned should be subjected to an annual impairment test, and when there are signs of impairment. 
+ In accordance with all mentioned before and the analysis made of the information available on the evolution of the different cash-generating units that could reveal the existence of indications of impairment, the directors of the Grupo Santander have concluded that during the first three months of 2026 , there were no triggers that required the recording of impairments. 
+
+ January - March 2026 
+ 25 
+
+ 9. Financial liabilities 
+ a) Breakdown 
+ The following is a breakdown of Grupo Santander's financial liabilities, other than the balances corresponding to the Derivatives - hedge accounting heading, as of 31 March 2026 and 31 December 2025, presented by nature and categories for valuation purposes&#58; 
+
+ EUR million 
+ 31-03-2026 
+ 31-12-2025 
+
+ Financial 
+liabilities 
+held for 
+trading Financial 
+liabilities 
+designated at 
+fair value through 
+profit or loss Financial 
+liabilities at 
+amortised cost Financial 
+liabilities 
+held for 
+trading Financial 
+liabilities 
+designated at 
+fair value through 
+profit or loss Financial 
+liabilities at 
+amortised cost 
+ Derivatives 59,922 51,968 
+ Short Positions 47,718 44,015 
+ Deposits 88,309 26,577 1,090,083 75,563 30,440 1,072,384 
+ Central banks 9,613 1,513 19,881 12,385 3,086 18,542 
+ Credit institutions 30,916 1,198 82,587 27,058 1,424 74,692 
+ Customer 47,780 23,866 987,615 36,120 25,930 979,150 
+ Debt instruments — 13,023 315,596 — 11,686 312,704 
+ Other financial liabilities — 23 47,389 — 22 36,096 
+ Total 
+ 195,949 39,623 1,453,068 171,546 42,148 1,421,184 
+
+ b) Information on issuances, repurchases or redemptions of debt instruments issued 
+ The detail of the balance of debt instruments issued according to their nature is&#58; 
+
+ EUR million 
+ 31-03-2026 
+ 31-12-2025 
+
+ Bonds and debentures outstanding 255,971 253,893 
+ Subordinated 28,487 28,859 
+ Promissory notes and other securities 44,161 41,638 
+ Total debt instruments issued 328,619 324,390 
+
+ The detail, at 31 March 2026 and 2025, of the outstanding balance of the debt instruments, excluding promissory notes, which at these dates had been issued by Banco Santander or any other Group entity is disclosed below. Also included is the detail of the changes in this balance in the first three months of 2026 and 2025&#58; 
+
+ EUR million 
+ 31-03-2026 
+
+ Opening balance as at 01-01-2026 Perimeter Issuances or placements Repurchases or 
+redemptions Exchange 
+rate and other 
+adjustments Closing balance as at 03-31-26 
+ Bonds and debentures outstanding 253,893 — 30,494 (30,407) 1,991 255,971 
+ Subordinated 28,859 — 147 (1,038) 519 28,487 
+ Bonds and debentures outstanding and subordinated liabilities issued 282,752 — 30,641 (31,445) 2,510 284,458 
+
+ 26 
+
+ January - March 2026 
+
+ EUR million 
+ 31-03-2025 
+
+ Opening balance as at 01-01-2025 Perimeter Issuances or placements Repurchases or 
+redemptions Exchange 
+rate and other 
+adjustments Closing balance as at 03-31-25 
+ Bonds and debentures outstanding 252,765 — 26,757 (26,260) (2,687) 250,575 
+ Subordinated 35,461 — 346 (2,902) (284) 32,621 
+ Bonds and debentures outstanding and subordinated liabilities issued 288,226 — 27,103 (29,162) (2,971) 283,196 
+
+ Below is information on the main issuances, placements and redemptions carried out by Banco Santander, S.A. during the first three months of 2026 and 2025&#58; 
+ On 14 January 2026, Banco Santander, S.A. proceeded to prepay all of the contingently convertible Tier 1 preferred shares with ISIN code XS2102912966, for a total nominal amount of EUR 1,033.4 million. 
+
+ On 18 March 2025, Banco Santander, S.A. carried out an issue for an amount of EUR 1,500 million with ISIN code XS1201001572. 
+ On 17 February 2025, Banco Santander, S.A. prepaid EUR 600.8 million out of a total of EUR 1,500 million of the transaction with ISIN XS138406464587 following the tender announcement launched on 6 February 2025. 
+ On 17 February 2025, Banco Santander, S.A. prepaid EUR 563.6 million euros out of a total of EUR 1,000 million of the transaction with ISIN XS1548444816 following the tender announcement launched on 6 February 2025. 
+ c) Other issuances guaranteed by Grupo Santander 
+ At 31 March 2026 and 2025, there were no debt instruments issued by associates or non-Group third parties (unrelated) that had been guaranteed by Banco Santander or any other Group entity. 
+ d) Fair value of financial liabilities not measured at fair value 
+ Following is a comparison between the value by which Grupo Santander&#8217;s financial liabilities are recorded that are measured using criteria other than fair value and their corresponding fair value at 31 March 2026 and 31 December 2025&#58; 
+
+ EUR million 
+ 31-03-2026 
+ 31-12-2025 
+
+ Carrying amount Fair value Carrying amount Fair value 
+ Deposits 1,090,083 1,090,331 1,072,384 1,073,147 
+ Debt instruments 315,596 315,196 312,704 314,173 
+ Liabilities 1,405,679 1,405,527 1,385,088 1,387,320 
+
+ Additionally, other financial liabilities are accounted for EUR 47,389 million and EUR 36,096 million as of 31 March 2026 and 31 December 2025, respectively. 
+ The main valuation methods and inputs used in the estimation of the fair value of the financial liabilities in the previous table are detailed in Note 51.c of the consolidated annual accounts for 2025, other than those mentioned in these interim financial statements. 
+
+ January - March 2026 
+ 27 
+
+ 10. Provisions 
+ a) Provisions for Pensions and other post-retirements obligations and Other long term employee benefits 
+ The variation experienced by the balance of the Pensions and other post-retirements obligations and other long-term employee benefits from 31 December 2025 to 31 March 2026, is mainly due to lower recoveries of provisions against equity for changes in financial assumptions and other experience adjustments, and also to benefit payments, premiums and contributions (see Note 11.d). 
+ b) Provisions for taxes and other legal contingencies and Other provisions 
+ Set forth below is the detail, by type of provision, of the balances at 31 March 2026 and at 31 December 2025 of Provisions for taxes and other legal contingencies and Other provisions. The types of provisions were determined by grouping together items of a similar nature&#58; 
+
+ EUR million 
+
+ 31-03-2026 
+ 31-12-2025 
+
+ Provisions for taxes 778 720 
+ Provisions for employment-related proceedings (Brazil) 689 594 
+ Provisions for other legal proceedings 1,716 1,675 
+ Provision for customer remediation 962 826 
+ Provision for restructuring 326 279 
+ Other 950 899 
+ 5,421 4,993 
+
+ Relevant information is set forth below in relation to each type of provision shown in the preceding table&#58; 
+ The provisions for taxes include provisions for tax-related proceedings. 
+ The provisions for employment-related proceedings (Brazil) relate to claims filed by trade unions, associations, the prosecutor&#8217;s office and ex-employees claiming employment rights to which, in their view, they are entitled, particularly the payment of overtime and other employment rights, including litigation concerning retirement benefits. The number and nature of these proceedings, which are common for banks in Brazil, justify the classification of these provisions in a separate category or as a separate type from the rest. The Group calculates the provisions associated with these claims in accordance with past experience of payments made in relation to claims for similar items. When claims do not fall within these categories, a case-by-case assessment is performed and the amount of the provision is calculated in accordance with the status of each proceeding and the risk assessment carried out by the legal advisers. 
+ The provisions for other legal proceedings include provisions for court, arbitration or administrative proceedings (other than those included in other categories or types of provisions disclosed separately) brought against Grupo Santander companies. 
+ The provisions for customer remediation include mainly the estimated cost of payments to remedy errors relating to the sale of certain products in the UK, as well as the estimated amount related to the floor clauses of Banco Popular Espa&#241;ol, S.A.U. To calculate the provision for customer remediation, the best estimate of the provision made by management is used, which is based on the estimated number of claims to be received and, of these, the number that will be accepted, as well as the estimated average payment per case. 
+ The provisions for restructuring include only the costs arising from restructuring processes carried out by the various Group companies. 
+ Lastly, the Other heading contains very atomized and individually insignificant provisions, such as the provisions to cover the operational risk of the different offices of the Group. 
+ Qualitative information on the main litigation proceedings affecting the Group is provided in Note 10.c. 
+ The Group's general policy is to record provisions for tax and legal proceedings in which the Group assesses the chances of loss to be probable and the Group does not record provisions when the chances of loss are possible or remote. Grupo Santander determines the amounts to be provided for as its best estimate of the expenditure required to settle the corresponding claim based, among other factors, on a case-by-case analysis of the facts and the legal opinion of internal and external counsel or by considering the historical average amount of the loss incurred in claims of the same nature. The definitive date of the outflow of resources embodying economic benefits for the Group depends on each obligation. In certain cases, the obligations do not have a fixed settlement term and, in others, they depend on legal proceedings in progress. 
+ With respect to changes in provisions in the first three months of 2026, for employment and other legal proceedings, in Brazil, provisions of EUR 135 million and EUR 62 million were recorded, making payments of EUR 85 million and EUR 40 million, respectively. 
+
+ 28 
+
+ January - March 2026 
+
+ c) Litigation and other matters 
+ i. Tax-related litigation 
+ At 31 March 2026 the main tax-related proceedings concerning the Group were as follows&#58; 
+ • Legal actions filed by Banco Santander (Brasil) S.A. and other Group entities to avoid the application of Law 9.718&#47;98, which modifies the basis to calculate Programa de Integra&#231;ao Social (PIS) and Contribui&#231;&#227;o para Financiamento da Seguridade Social (COFINS), extending it to all the entities income, and not only to the income from the provision of services. In relation of Banco Santander (Brasil) S.A. process, in 2015 the Federal Supreme Court (FSC) admitted the extraordinary appeal filed by the Federal Union regarding PIS, and dismissed the extraordinary appeal lodged by the Brazilian Public Prosecutor's Office regarding COFINS contribution, confirming the decision of Federal Regional Court favourable to Banco Santander (Brasil) S.A. of August 2007. The Federal Supreme Court also admitted the appeals related to the other Group entities both for PIS and COFINS. On June 13, 2023, the Federal Supreme Court ruled unfavorably two cases through General Repercussion (Theme 372), including Banco Santander (Brasil) S.A. case. The Bank has filed a new appeal, considering the possible loss as a contingent liability. The cases of the other Group entities are no longer susceptible of appeal and a provision has been recognized for the amount of the estimated loss. 
+ • Banco Santander (Brasil) S.A. and other Group companies in Brazil have appealed against the assessments issued by the Brazilian tax authorities questioning the deduction of loan losses in their income tax returns (Imposto sobre a Renda das Pessoas Jur&#237;dicas - IRPJ - and Contribu&#231;ao Social sobre o Lucro Liquido -CSLL-) in relation to different administrative processes of various years on the ground that the requirements under the applicable legislation were not met. The appeals, which involve several cases, are pending decision in different administrative and judicial instances. No provision was recognised in connection with the amount considered to be a contingent liability. 
+ • Banco Santander (Brasil) S.A. and other Group companies in Brazil are involved in administrative and legal proceedings against several municipalities that demand payment of the Service Tax on certain items of income from transactions not classified as provisions of services. There are several cases in different judicial instances. A provision was recognised in connection with the amount of the estimated loss. 
+ • Banco Santander (Brasil) S.A. and other Group companies in Brazil are involved in administrative and legal proceedings against the tax authorities in connection with the taxation for social security purposes of certain items which are not considered to be employee remuneration. There are several cases in different judicial instances. A provision was recognised in connection with the amount of the estimated loss. 
+ • In May 2003 the Brazilian tax authorities issued separate infringement notices against Santander Distribuidora de T&#237;tulos e Valores Mobiliarios, Ltda. (DTVM, actually Santander Brasil Tecnolog&#237;a S.A.) and Banco Santander (Brasil) S.A. in relation to the Provisional Tax on Financial Movements (Contribui&#231;&#227;o Provis&#243;ria sobre Movimenta&#231;&#227;o Financeira) of the years 2000 to 2002. The administrative discussion ended unfavourably for both companies, and on July 3, 2015, filed a lawsuit requesting the cancellation of both tax assessments. The lawsuit was judged unfavourably in first instance. Therefore, both plaintiffs appealed to the court of second instance. On December 2020, the appeal was decided unfavourably. Against the judgment, the bank filed a motion for clarification which has not been accepted. Currently it is appealed to higher courts. There is a provision recognized for the estimated loss. This case is in the scope of the Comprehensive Transaction Programme (Programa de Transa&#231;ao Integral) established by the Ministry of Finance. The formal acts of consolidation and approval of the transaction are pending. The amounts established in the transaction are fully provisioned. 
+ • In December 2010 the Brazilian tax authorities issued an infringement notice against Santander Seguros S.A. (Brasil), (currently Zurich Santander Brasil Seguros e Previd&#234;ncia S.A.), as the successor by merger to ABN AMRO Brasil dois Participa&#231;&#245;es S.A., in relation to income tax (IRPJ and CSLL) for 2005, questioning the tax treatment applied to a sale of shares of Real Seguros, S.A. The administrative discussion ended unfavourably, and the CARF decision has been appealed at the Federal Justice. As the former parent of Santander Seguros S.A. (Brasil) (currently Zurich Santander Brasil Seguros e Previd&#234;ncia S.A.), Banco Santander (Brasil) S.A. is liable in the event of any adverse outcome of this proceeding. No provision was recognised in connection with this proceeding as it is considered to be a contingent liability. 
+ • In November 2014 the Brazilian tax authorities issued an infringement notice against Banco Santander (Brasil) S.A. in relation to corporate income tax (IRPJ and CSLL) for 2009 questioning the tax-deductibility of the amortisation of the goodwill of Banco ABN AMRO Real S.A. performed prior to the absorption of this bank by Banco Santander (Brasil) S.A., but accepting the amortisation performed after the merger. The Bank appealed before the Higher Chamber of CARF, and a final favourable decision was obtained in April 2024. No provision was recognised in connection with this proceeding as it was considered to be a contingent liability. 
+ • Banco Santander (Brasil) S.A. has also appealed against infringement notices issued by the tax authorities questioning the tax deductibility of the amortisation of the goodwill arising on the acquisition of Banco Comercial e de Investimento Sudameris S.A from years 2007 to 2012. In May and October 2024, the appeal related to period 2009 to 2012 was finally rejected by the CARF and the resolution was appealed at the Federal Justice. No provision was recognised in connection with this matter as it was considered to be a contingent liability. 
+ • Banco Santander (Brasil) S.A. and other companies of the Group in Brazil are undergoing administrative and judicial procedures against Brazilian tax authorities for not admitting tax compensation with credits derived from other tax concepts, not having registered a provision for the amount considered to be a contingent liability. 
+
+ January - March 2026 
+ 29 
+
+ • Banco Santander (Brasil) S.A. is involved in appeals in relation to infringement notices initiated by tax authorities regarding the offsetting of tax losses in the CSLL of year 2009 and 2019. The appeals are pending decision at the administrative level. No provision was recognised in connection with this matter as it is considered to be a contingent liability. 
+ • Banco Santander (Brasil) S.A. filed a suspensive judicial measure aiming to avoid the withholding income tax (Imposto sobre a Renda Retido na Fonte - IRRF), on payments derived from technology services provided by Group foreign entities. A favorable decision was handed down and an appeal was filed by the tax authority at the Federal Regional Court. The Regional Court has issued a decision upholding the tax authorities' appeal, which has subsequently been challenged by the Bank. No provision was recognized as it is considered to be a contingent liability. 
+ • Brazilian tax authorities have issued infringement notices against Getnet Adquir&#234;ncia e Servi&#231;os para Meios de Pagamento S.A and Banco Santander (Brasil) S.A. as jointly liable in relation to corporate income tax (IRPJ and CSLL) for 2014 to 2018 questioning the tax-deductibility of the amortization of the goodwill from the acquisition of Getnet Tecnologia Proces S.A., considering that the company would not have complied with the legal requirements for such amortization. The tax assessment notices were appealed to the CARF. In 2024, the CARF issued a favourable partial decision on both infraction notices. In December 2024, the tax authorities issued a new infringement notice for 2019 and 2020. No provision was recognized as it is considered to be a contingent liability. 
+ The total amount for the aforementioned Brazil lawsuits that are fully provisioned is EUR 605 million, and for lawsuits that qualify as contingent liabilities is EUR 5,283 million. 
+ At the date of approval of these interim financial statements, there are other less significant tax disputes. 
+ ii. Non-tax-related proceeding s 
+ At 31 March 2026 the main non-tax-related proceedings concerning the Group were as follows&#58; 
+ • Payment Protection Insurance (PPI)&#58; AXA France IARD and AXA France Vie (former GE Capital Corporation Group entities, known as Financial Insurance Company Ltd (FICL) and Financial Assurance Company Ltd (FACL), acquired by AXA SA in 2015) (together, AXA France) brought a claim against (i) Santander Cards UK Limited (formerly known as GE Capital Bank Limited (GECB), which was acquired by Banco Santander, S.A. in 2008 and subsequently transferred to Santander UK plc)&#59; and (ii) Santander Insurance Services UK Limited (a Banco Santander, S.A. subsidiary) (SISUK and together with GECB the Santander Entities). The claim relates to the allocation of liability for compensation and associated costs in respect of a large number of PPI policies distributed by GECB pre-2005, which were underwritten by FICL and FACL. 
+ On 25 July 2025, the Commercial Court of England and Wales handed down its judgment in relation to the claim brought by AXA France (the Judgment). It found against SISUK in relation to AXA France&#8217;s claim pursuant to an indemnity in an agency agreement entered into between GECB, FICL and FACL in 2000 and novated by GECB to SISUK in 2010. It also found GECB negligent in the sale of PPI policies, but this element of the claim was time barred to PPI policies sold in the period between 2002 and 2005 and overlaps with the indemnity claim. The Judgment required the Santander Entities to pay GBP 515 million plus interest of GBP 162 million. 
+ In October 2025 the Santander Entities obtained permission to appeal the findings in the Judgment relating to the application of the indemnity arising from PPI sales occurring before the indemnity had been agreed in December 2000 (Santander Appeal). In January 2026, AXA France obtained permission to cross-appeal the Commercial Court&#8217;s rejection of AXA France&#8217;s contribution claim made under the Civil Liability (Contribution) Act 1978 (the AXA France&#8217;s cross appeal). A decision on the Santander Appeal and AXA France&#8217;s cross appeal is expected in the second half of 2026. 
+ With respect to the Santander Appeal and AXA France&#8217;s cross-appeal, there are points of legal interpretation to be resolved and, in the case of the cross-appeal, factual points to be determined. The significant uncertainties make it difficult to predict the timing or the final impact of the resolution of the appeals for the Group. 
+ No customers have suffered loss as a consequence of the claim brought by AXA France or the Judgment, nor does it impact upon past redress paid to customers for PPI complaints. 
+
+ 30 
+
+ January - March 2026 
+
+ • Motor Finance Broker Commissions&#58; following the Financial Conduct Authority&#8217;s (FCA) Motor Market review in 2019 which resulted in a change in rules in January 2021, Santander Consumer (UK) plc (SCUK) received several of county court claims and complaints in respect of its historical use of discretionary commission arrangements (DCAs) prior to the 2021 rule changes. In January 2024, the FCA commenced a review of the use of DCAs between lenders and credit brokers (the FCA Review). Pending the conclusion of its review, the FCA paused the handling of motor finance commission related complaints. The pause is in place until 31 May 2026, reflecting the extended timeline of the FCA's Review and subsequent Consultation (see below). A claim was issued against SCUK, Santander UK plc and others in the Competition Appeal Tribunal (CAT), alleging that SCUK&#8217;s historical DCAs in respect of used car financing operated in breach of the Competition Act 1998. These proceedings were previously stayed until the end of March 2026 reflecting the timeline of the FCA&#8217;s Review. The CAT is expected in Q2 2026 to provide an update on next steps which may include a further stay for the parties to consider the impact of the redress scheme published on 30 March 2026 (as is explained below). 
+ The Santander UK group Holdings recognised a provision of GBP 293.0 million (EUR 353.3 million) in its financial results for 2024 following a decision of the Court of Appeal in Hopcraft, Wrench and Johnson (Hopcraft) stating that motor dealers acting as credit brokers owed fiduciary or disinterested duties to their customers. On 1 August 2025, the Supreme Court overturned this decision finding that commission payments by lenders to motor dealers would not be unlawful on that basis. In addition, the Supreme Court held that an unfair relationship under s.140A of the Consumer Credit Act 1974 had arisen in one of the cases on its facts and awarded the amount of the commission paid by the lender plus interest at a commercial rate as the remedy. It also confirmed that the test for unfairness of the relationship with borrower was highly fact sensitive and it outlined a series of non-exhaustive factors to consider in assessing unfair relationships in this context (indicating that no or partial disclosure was not necessarily enough on its own to constitute an unfair relationship). 
+ Following the Supreme Court&#8217;s judgment, on 3 August 2025, the FCA announced that it aimed to publish a consultation on an industry wide redress scheme in early October and that this consultation would be open for six weeks. In early September 2025, the appeal to the Court of Appeal of the High Court&#8217;s judicial review of a final decision by the Financial Ombudsman Service against another lender (which alongside the Supreme Court case was highly relevant to the outcome of the FCA&#8217;s Review) was discontinued. 
+ Santander UK increased its provision to GBP 461 million (EUR 528.1 million) in its financial results for 2025, further to the publication of the FCA&#8217;s consultation paper on 7 October 2025 regarding a proposed industry-wide motor finance consumer redress scheme (the Consultation). This was based on a range of scenarios and assumptions, reflecting an increased likelihood that a higher number of cases than previously predicted could be eligible for redress, that the FCA would seek to impose a remedy that extended beyond reversing any damaging financial consequences caused by any unfair relationships and potential changes to the proposed scheme following responses to the Consultation or publication of the FCA&#8217;s final scheme rules. 
+ On 30 March 2026, the FCA published its Policy Statement PS26&#47;3&#58; Motor finance consumer redress scheme. Following its assessment of the final scheme rules, which include several changes to the proposals in the Consultation. Santander UK group has decided not to challenge the scheme and to focus on its implementation in order to bring greater certainty to its customers. 
+ Santander UK has updated its scenarios and assumptions including operational and legal costs to reflect the final scheme rules. This has resulted in an additional charge of GBP 179 million (EUR 207 million), increasing the total provision to GBP 633 million (EUR 725 million), at the upper end of the previously assessed range. Santander UK group will continue to keep the provision under review. The ultimate financial impact could differ based on any future legal or regulatory developments at the upper end of the previously assessed range. 
+
+ January - March 2026 
+ 31 
+
+ • Banco Popular&#180;s acquisition&#58; after the declaration of the resolution of Banco Popular, some investors filed claims against the EU&#8217;s Single Resolution Board decision, and the FROB's resolution executed in accordance with the aforementioned decision. Likewise, numerous civil lawsuits were filed against Banco Santander, S.A. alleging that the information provided by Banco Popular was erroneous and requesting from Banco Santander, S.A. the restitution of the price paid for the acquisition of the investment instruments or, where appropriate, the corresponding compensation. 
+ In relation to the direct appeals filed before the General Court of the European Union (EGC) and the Court of Justice of the European Union (CJEU), all appeals were either dismissed or discontinued. Currently, there are no ongoing appeals. On 4 February 2026, the National Court issued its first rulings dismissing the actions brought against the FROB&#8217;s decision, in application of the judgments of the EGC and the CJEU. 
+ In the civil proceedings, several Spanish judges referred to the CJEU a number of preliminary questions that have already been resolved. In particular, in the judgments of 5 May 2022 (C-410&#47;20) and 5 September 2024 (C-775&#47;22, C-779&#47;22, C-794&#47;22), the CJEU stated that Directive 2014&#47;59&#47;EU on bank resolution prevents shareholders, subordinated debt holders, and holders of equity instruments converted into shares bringing actions against a financial institution subject to a resolution proceeding or against its successor after the resolution, claiming liability for the information contained in the prospectus, under Directive 2003&#47;71&#47;EC, or actions seeking the nullity of the contract of subscription of capital instruments, which, given its retroactive effects, would result in the refund of the value of such securities, plus the interest accrued as of the date of execution of the contract. In its 11 September 2025 resolutions (C-687&#47;23 and C-447&#47;23), the CJEU declared that the above referred TJUE resolutions do not apply to actions pursued prior to the entity&#8217;s resolution. There are currently no other preliminary questions under consideration. 
+
+ On 4 March 2024, in the context of preliminary proceedings 42&#47;2017, the Central Court of Instruction No. 4 issued a ruling transforming the proceedings into Summary Proceedings and terminating the investigation phase. The ruling considers that the circumstantial evidence resulting from the investigation which could constitute a crime is basically the following&#58; (i) an alleged misrepresentation in the prospectus of the 2016 capital increase of Banco Popular&#59; (ii) an alleged misrepresentation in the annual accounts of Banco Popular for 2015, the interim financial statements for 2016 and the annual accounts for 2016&#59; and (iii) the offer to the market of a distorted amount of regulatory capital, after the capital increase of 2016 (for allegedly having been granted by Banco Popular financing to clients for the subscription of shares in the aforementioned capital increase, without discounting it from the regulatory capital). According to the aforementioned ruling, these facts could constitute the crimes of fraud of investors (art. 282 of the Criminal Code) and accounting falsehood (art. 290 of the Criminal Code). All appeals filed against the ruling have been dismissed. 
+
+ The accusing parties, including the Public Prosecutor's Office, filed their indictment briefs on 28 October 2024, which included requests for compensation for civil liability and the request that not only the defendants but also several entities are held liable for such compensation, including Banco Santander, S.A., the auditing firm and several insurance companies. Following the filing of the indictment briefs, on 22 November 2024, the Court (Investigating Judge) issued an order for the opening of the oral trial against the defendants and civil liability parties, including Banco Santander, S.A. as a possible civil liable party. However, in line with what was determined by the Spanish National Court and confirmed by the Supreme Court concerning the hypothetical succession of Banco Popular by Banco Santander, S.A., the oral trial has not been opened against the Bank as possible direct civil liable party. Regarding civil liability, the Bank considers that it has no subsidiary civil liability, in light of the CJEU&#8217;s judgments of 5 May 2022 (C-410&#47;20), 5 September 2024 (C-775&#47;22, C-779&#47;22, C-794&#47;22) and 11 September 2025 (C-687&#47;23 and C-447&#47;23). Notwithstanding the foregoing, the Spanish National Court has stated that this issue shall be resolved within the ongoing proceedings. 
+ The order to open the oral trial states that the plaintiffs have requested compensation for civil liability for a total amount of EUR 2,277.65 million. Additionally, the order rejects the imposition of the guarantee requested by several of the accusing parties, considering that it is unnecessary to secure the outcome of the trial. The defendants and potential civil liable parties submitted their defense writs on 4 February 2025. On 2 March 2026, the order admitting the evidence was issued, and the oral hearing was scheduled to take place from 19 January to 30 June 2027. 
+ The estimated cost of any compensation to shareholders and bondholders of Banco Popular recognized in the 2017 accounts amounted to EUR 680 million, of which EUR 535 million were applied to the commercial loyalty program. On 15 December 2024, Banco Santander, S.A., proceeded to redeem in advance voluntarily all bonds in circulation regarding such commercial action. The CJEU judgements of 5 May 2022 (C-410&#47;20), 5 September 2024 (C-775&#47;22, C-779&#47;22, C-794&#47;22) and 11 September 2025 (C-687&#47;23 and C-447&#47;23) referred above, represented a very significant reduction in the risk associated with these claims. 
+ • German shares investigation&#58; the Cologne Public Prosecution Office is conducting an investigation against Banco Santander and other group entities based in the UK - Santander UK plc, Santander Financial Services Plc and Cater Allen International Limited -, in relation to a particular type of tax dividend linked transactions known as cum-ex transactions. 
+ The Group is cooperating with the German authorities. According to the state of the investigations, the result, and the effects for the Group, which may potentially include the imposition of material financial consequences (penalties, and&#47;or disgorgement of proceeds) cannot be reliably anticipated. For this reason, the Group has not recognized any provisions in relation to the potential imposition of financial liabilities. 
+ • Banco Santander was sued in a legal proceeding in which the plaintiff alleges that the Banco Santander breached his contract as CEO of the institution&#58; in the lawsuit, the claimant mainly requested a declaratory ruling upholding the existence, validity and effectiveness of such contract and its enforcement together with the payment of certain amounts. For the case that the main request is not granted, the claimant sought a compensation for a total amount of approximately EUR 112 million or, an alternative relief for other minor amounts. Banco Santander answered to the legal action stating that the conditions to which the appointment of that position was subject to were not met&#59; that the executive services contract required by law was not concluded&#59; and that in any case, the parties could terminate the contract without any justified cause. On 17 May 2021, the plaintiff reduced his claims for compensation to EUR 61.9 million. 
+
+ 32 
+
+ January - March 2026 
+
+ On 9 December 2021, the Court upheld the claim and ordered the Bank to compensate the claimant in the amount of EUR 67.8 million. By court order of 13 January 2022, the Court corrected and supplemented its judgment, reducing the total amount to be paid by the Bank to EUR 51.4 million and clarifying that part of this amount (buy out) was to be paid under the terms of the offer letter, i.e., entirely in Banco Santander shares, within the deferral period for this type of remuneration at the plaintiff's former employer and subject to the performance metrics or parameters of the plan in force at the Bank, which was that of 2018. As explained in note 5 of the report of the consolidated annual accounts of the year 2022, the degree of performance of these objectives was 33.3%. 
+ The Bank filed an appeal against the judgment before the Madrid Court of Appeal, which was opposed by the plaintiff. At the same time, the plaintiff filed an application for provisional enforcement of the judgment in the First Instance Court. A court order was issued ordering enforcement of the judgment, and the Bank deposited in the court bank account the full amount provisionally awarded to the claimant, including interest, for an approximate sum of EUR. 35.5 million, within the voluntary compliance period. 
+ On 6 February 2023, Banco Santander was notified with the judgment of 20 January 2023 by which the Madrid Court of Appeal partially upheld the appeal filed by the Bank. The judgment has reduced the amount to be paid by EUR 8 million, which, to the extent that this amount was already paid in the provisional partial enforcement of the judgement of first instance court, must be returned to the Bank together with other amounts for interest, which the appeal judgement also rejects. The plaintiff deposited circa EUR 9.6 million. This amount was received by the Bank on 11 July 2023. 
+ On 11 April 2023, the Bank filed an extraordinary appeal for procedural infringement and an appeal in cassation against the Madrid Court of Appeal&#8217;s judgment before Spanish Supreme Court. The extraordinary and cassation appeals submitted by the Bank were accepted on 26 March 2025 and are pending to be resolved. Existing provisions cover the estimated risk of loss. 
+ • CHF Polish Mortgage Loans (Santander Consumer Bank Poland)&#58; in October 2019, the CJEU rendered its decision in relation to the effects of the potential unfairness of certain contractual clauses in CHF-Indexed loan agreements. The CJEU established that it for the national courts to determine the invalidity of a contract where it cannot be maintained without the clause declared unfair and where no supplementary provisions exist that would allow the contract to be maintained. Subsequently, in June 2023, the CJEU confirmed that the effects of such invalidity must be determined in accordance with national law, interpreted in the light of Directive 93&#47;13&#47;EEC, and that claims by financial institutions exceeding the reimbursement of the loan principal and, where applicable, default interest, are contrary to the objectives of that Directive. 
+ In April 2024, the Civil Chamber of the Polish Supreme Court issued a judgment confirming that clauses relating to the mechanism for determining the exchange rate declared abusive cannot be replaced by alternative provisions and that, in the absence of a binding exchange rate, the contract is not enforceable for the parties. With regard to the effects of invalidity, the Supreme Court confirmed the existence of independent restitution claims for each party and ruled out the possibility of claiming interest or other amounts for the use of the funds. Nevertheless, certain aspects of this judgment have been subject to internal debate within the Supreme Court itself, reflecting the complexity and evolving nature of the jurisprudential framework. 
+ In this context, Santander Consumer Bank S.A. estimates legal risk using a model that considers different possible outcomes and regularly review court rulings on this matter in order to assess changes in case law, including the impact of the aforementioned Supreme Court judgment. Settlements are being reached both with customers who have already initiated legal proceedings and with customers who have not yet filed a claim. The model used to calculate provisions for legal risks considers the evolution and expected development of such settlements. 
+ As of 31 March 2026, Santander Consumer Bank S.A. (Poland), held a portfolio of mortgages denominated in or indexed to CHF amounting to approximately PLN 627.7 million (EUR 146.2 million). As of the same date, the total amount adjusted against the gross carrying amount of loans in accordance with IFRS 9, together with the provisions recognised under IAS 37, amounts to PLN 926.9 million (EUR 215.9 million), of which PLN 505.9 million (EUR 117.85 million) corresponds to adjustments to the gross carrying amount under IFRS 9 and PLN 421.0 million (EUR 98.1 million) to provisions recognised under IAS 37. The adjustment to gross carrying amount in accordance with IFRS9 and under IAS 37 during first quarter of 2026 are not material. Other costs related to the dispute amounted to PLN 37.8 million (EUR 8.9 million). 
+ The Group continues to monitor the evolution of legal proceedings and to periodically review the adequacy of the provisions recognised, which represent the best estimate of the risk existing as of the reporting date. 
+ • Banco Santander Mexico&#58; dispute regarding a testamentary trust constituted in 1994 by Mr. Roberto Garza Sada in Banca Serfin (currently Santander Mexico) in favor of his four sons in which he affected shares of Alfa, S.A.B. de C.V. (respectively, Alfa and the Trust). During 1999, Mr. Roberto Garza Sada instructed Santander M&#233;xico in its capacity as trustee to transfer 36,700,000 shares from the Trust's assets to his sons and daughters and himself. These instructions were ratified in 2004 by Mr. Roberto Garza Sada before a Notary Public. 
+ Mr. Roberto Garza Sada passed away on 14 August 2010 and subsequently, in 2012, his daughters filed a complaint against Santander Mexico alleging it had been negligent in its trustee role. The lawsuit was dismissed at first instance in April 2017 and on appeal in 2018. In May 2018, the plaintiffs filed an appeal (recurso de amparo) before the First Collegiate Court of the Fourth Circuit based in Nuevo Le&#243;n, which ruled in favor of the plaintiffs on 7 May 2021, annulling the 2018 appeal judgment and condemning Santander Mexico to the petitions claimed, consisting of the recovery of the amount of 36,700,000 Alfa shares, together with dividends, interest and damages. 
+
+ January - March 2026 
+ 33 
+
+ Since 2021, Santander Mexico has filed before the Supreme Court of Justice of the Nation a constitutional review challenge ( recurso de revisi&#243;n constitucional ) against the referred decision which was initially rejected by the Supreme Court&#59; and several appeals ( recursos de reclamaci&#243;n ) against such rejection. On 25 June 2025, one of the appeals filed by the Bank was accepted, and this decision was extended to a remaining one, which will now be resolved. In case that these appeals are resolved favorably to the Bank, the Supreme Court will decide on the merits of the constitutional review against the judgment which condemned the Bank. 
+ In parallel to the foregoing, the Bank also filed an amparo against the judgment favorable to the plaintiffs rendered by the First District Court in the State of Nuevo Le&#243;n before the Collegiate Courts of such State. In April 2026, the Supreme Court of Justice of the Nation admitted the request filed by the Bank in 2024 to hear and resolve the amparo appeal. 
+ The challenges and appeals filed by the Bank imply that the judgment rendered in favour of the plaintiffs is not final, and Santander M&#233;xico believes that the actions taken should prevail and reverse the decision against it. The impact of a potential unfavorable resolution for Santander M&#233;xico will be determined in a subsequent proceeding and will also depend on the additional actions that Santander M&#233;xico may take in its defense, so it is not possible to reliably determine it at this time. At the current stage of the proceedings, the provisions recorded are considered sufficient to cover the risks deriving from this claim. 
+ • Mortgage Expenses&#58; In December 2015 the Spanish Supreme Court ruled that mortgage clauses relating to the payment of fees associated to formalizing the mortgage were abusive. On 27 November 2018, the Supreme Court agreed that the taxpayer of the documented legal acts stamp duty tax (IAJD) on the mortgage loans should be the borrower. On 9 November 2018, RDL 17&#47;2018 came into force and modified the Law of the IAJD, establishing that the taxpayer is the Bank. On 23 January 2019, the Supreme Court ruled the distribution of the same must be 50% between the Bank and the borrower in public notary expenses and agency expenses. The Supreme Court also ruled that the Bank must pay 100% of the Registry. On 26 October 2020, the Supreme Court ruled that the Bank is fully responsible for the management expenses&#59; and on 27 January 2021, the Supreme Court ruled that the Bank is also responsible for the valuation expenses. 
+ The CJEU judgment of 25 January 2024 established that, for the purposes of calculating the limitation period, it is necessary that the consumer is aware of their rights and of the possibility that their clause may be null and void. The CJEU also stated that it cannot be presumed that the consumer has knowledge of national case law on consumer rights, even if such case law is well established. The CJEU judgment of 25 April 2024, while declaring that the specific judgment declaring the nullity of the clause constitutes an appropriate moment for the limitation period to commence, added that this is without prejudice to the professional&#8217;s ability to prove that the consumer had, or could reasonably have had, knowledge of the unfair nature of the clause in question prior to that decision being issued. The Spanish Supreme Court, in its judgment of 14 June 2024, confirmed that the commencement of the limitation period requires the professional to prove, in each individual case, that the consumer was aware of the unfair nature of the clause, providing specific evidence regarding their dealings with that consumer. The recorded provision includes the best estimate of Group&#8217;s liability for this matter. 
+ Banco Santander, S.A. and the other Group companies are subject to claims and, therefore, are party to certain legal proceedings incidental to the normal course of their business including those in connection with lending activities, relationships with employees and other commercial or tax matters additional to those referred to here. 
+ With the information available to it, the Group considers that, at 31 March 2026, it had reliably estimated the obligations associated with each proceeding and had recognized, where necessary, sufficient provisions to cover reasonably any liabilities that may arise as a result of these tax and legal risks. Those cases in which provisions have been registered but are not disclosed are justified on the basis that it would be prejudicial to the proper defense of the Group. Subject to the qualifications made, the Group believes that any liability arising from such claims and proceedings will not have, overall, a material adverse effect on the Group&#8217;s business, financial position, or results of operations. 
+
+ 11. Equity 
+ In the three-month periods ended 31 March 2026 and 2025 there were no quantitative or qualitative changes in Grupo Santander's equity other than those indicated in the condensed consolidated statements of changes in total equity. 
+ a) Capital 
+ Banco Santander's share capital at 31 March 2026 and 31 December 2025 consisted of EUR 7,576 million, represented by 15,152,492,322 shares of EUR 0.50 of nominal value each and all of them of a unique class and series. 
+ b) Share premium 
+ Includes the amount paid by the bank's shareholders in capital issuances in excess of par value. 
+
+ 34 
+
+ January - March 2026 
+
+ c) Breakdown of other comprehensive income - Items not reclassified to profit or loss and Items that may be reclassified to profit or loss 
+
+ EUR million 
+
+ 31-03-2026 
+ 31-12-2025 
+
+ Other comprehensive income accumulated 
+ (35,088) 
+ (37,974) 
+
+ Items not reclassified to profit or loss 
+ (3,226) 
+ (4,121) 
+
+ Actuarial gains or losses on defined benefit pension plans (3,836) (3,896) 
+ Non-current assets held for sale — 56 
+ Share in other income and expenses recognised in investments, joint ventures and associates 1 1 
+ Other valuation adjustments — — 
+ Changes in the fair value of equity instruments measured at fair value with changes in other comprehensive income 680 (250) 
+ Inefficacy of fair value hedges of equity instruments measured at fair value with changes
+ in other comprehensive income — — 
+ Changes in the fair value of equity instruments measured at fair value with changes
+ in other comprehensive income (hedged item) 233 208 
+ Changes in the fair value of equity instruments measured at fair value with changes
+ in other comprehensive income (hedging instrument) (233) (208) 
+ Changes in the fair value of financial liabilities measured at fair value through profit or loss
+ attributable to changes in credit risk (71) (32) 
+ Items that may be reclassified to profit or loss 
+ (31,862) 
+ (33,853) 
+
+ Hedge of net investments in foreign operations (effective portion) (7,730) (7,343) 
+ Exchange differences (23,155) (25,475) 
+ Hedging derivatives (effective portion) (140) 333 
+ Changes in the fair value of debt instruments measured at fair value with changes in other comprehensive income (518) (372) 
+ Hedging instruments (items not designated) 9 (11) 
+ Non-current assets held for sale — (590) 
+ Share in other income and expenses recognised in investments, joint ventures and associates (328) (395) 
+
+ d) Other comprehensive income - Items not reclassified to profit or loss - Actuarial gains or losses on defined benefit pension plans 
+ The balance of the heading Other accumulated comprehensive income - Items not reclassified to profit or loss - Actuarial gains or losses on defined benefit pension plans, includes the actuarial gains or losses and the return on the assets assigned to the plan, less administration costs and plan's own taxes, and any change in the effects of the asset limit, excluding amounts included in net interest on net defined benefit liability (asset). Its variation is shown in the consolidated condensed statement of recognized income and expense. 
+ During the first three months of 2026, the amount of actuarial losses (net of actuarial gains) has decreased by EUR 26 million. The main impacts are&#58; 
+ In first place, due to the lower addition against equity amounting to EUR 71 million, with the following breakdown&#58; 
+ • Decrease of EUR 93 million in the accumulates actuarial losses relating to the Group&#180;s entities in the United Kingdom, mainly due to the evolution experienced by the discount rate -increase from 5.58% to 6.10%- partially compensated by the evolution in long term inflation -increase from 2.90% to 3.26%- and by the evolution of the asset portfolio. 
+ • Increase of EUR 27 million in the cumulative actuarial losses relating to the Group's businesses in Portugal, mainly due to the evolution of the assets portfolio. 
+ • Decrease of EUR 5 million in the cumulative actuarial losses relating to the Group's businesses in other geographical areas. 
+ In second place, due to the evolution of exchange rates, a EUR 45 million increase, mainly due to the appreciation of the Brazilian real. 
+
+ January - March 2026 
+ 35 
+
+ e) Other comprehensive income - Items not reclassified to profit or loss – Changes in the fair value of equity instruments measured at fair value with changes in other comprehensive income 
+ Includes the net amount of unrealised fair value changes in equity instruments at fair value with changes in other comprehensive income. 
+ Below is a breakdown of the composition of the balance as of 31 March 2026 and 31 December 2025 under 'Other comprehensive income - Items not reclassified to profit or loss - Changes in the fair value of equity instruments measured at fair value with changes in other comprehensive income' depending on the geographical origin of the issuer&#58; 
+
+ EUR million 
+ 31-03-2026 
+ 31-12-2025 
+
+ Revaluation gains Revaluation losses Net revaluation gains&#47;(losses) Fair value Revaluation gains Revaluation losses Net revaluation gains&#47;(losses) Fair value 
+ Equity instruments 
+ Domestic 
+ Spain 52 (379) (327) 129 47 (1,326) (1,279) 133 
+ International 
+ Rest of Europe 119 (81) 38 1,533 75 (81) (6) 186 
+ United States 21 (1) 20 35 23 (1.00) 22 36 
+ America and rest of the world 949 — 949 1,894 1,013 — 1,013 1,926 
+ 1,141 (461) 680 3,591 1,158 (1,408) (250) 2,281 
+ Of which&#58; 
+ Listed 1,015 (59) 956 3,300 1,033 (49) 984 1,993 
+ Unlisted 126 (402) (276) 291 125 (1,359) (1,234) 288 
+
+ f) Other comprehensive income - Items that may be reclassified to profit or loss – Hedges of net investments in foreign operations (effective portion) and exchange differences 
+ Other comprehensive income - Items that may be reclassified to profit or loss - Hedges of net investments in foreign operations (effective portion) includes the net amount of the changes in value of hedging instruments in hedges of net investments in foreign operations, in respect of the portion of these changes considered to be effective hedges. 
+ Other comprehensive income - Items that may be reclassified to profit or loss - Exchange differences includes the net amount of exchange differences arising on non-monetary items whose fair value is adjusted against equity and the differences arising on the translation to euros of the balances of the consolidated entities whose functional currency is not the euro. 
+ The net variation of both headings recognised during the first three months of 2026 in the interim condensed consolidated statement of recognised income and expenses, reflects the impact of the evolution of the currencies during the year, reflecting mainly the general appreciation of the currencies Brazilian real, Argentine peso, Mexican peso and US dollar (see Note 1.e). 
+ Of this variation, a capital gain of EUR 276 million corresponds to the valuation at the closing exchange rate of goodwill for the first three months of 2026 (see Note 8). 
+
+ 36 
+
+ January - March 2026 
+
+ g) Other comprehensive income – Items that may be reclassified to profit or loss – Changes in the fair value of debt instrument s measured at fair value through other comprehensive income 
+ Includes the net amount of unrealised fair value changes in debt instruments at fair value through other comprehensive income. 
+ Below is a breakdown of the composition of the balance as of 31 March 2026 and 31 December 2025 under Other comprehensive income - Items that may be reclassified to profit or loss - Changes in the fair value of debt instruments measured at fair value through other comprehensive income depending on the type of instrument and the geographical origin of the issuer&#58; 
+
+ EUR million 
+ 31-03-2026 
+ 31-12-2025 
+
+ Revaluation gains 
+ Revaluation losses 
+ Net revaluation gains&#47;(losses) 
+ Fair value 
+ Revaluation gains 
+ Revaluation losses 
+ Net revaluation gains&#47;(losses) 
+ Fair value 
+
+ Debt instruments 
+ Issued by public Public-sector 
+ Spain 126 — 126 11,016 118 — 118 10,142 
+ Rest of Europe 168 (51) 117 7,262 209 (36) 173 8,856 
+ America and rest of the world 111 (599) (488) 29,983 109 (528) (419) 31,685 
+ Issued by Private-sector 
+ Spain 28 (76) (48) 10,389 29 (53) (24) 9,745 
+ Rest of Europe 20 (17) 3 6,238 28 (15) 13 6,445 
+ America and rest of the world 32 (260) (228) 5,590 40 (273) (233) 5,458 
+ 485 (1,003) (518) 70,478 533 (905) (372) 72,331 
+
+ 12. Segment information (Primary segments) 
+ Grupo Santander has aligned the information in this note with the underlying information used internally for management reporting and with that presented in Grupo Santander's other public documents. 
+ Grupo Santander's executive committee has been selected to be its chief operating decision maker. Grupo Santander's operating segments reflect its organizational and managerial structures. Grupo Santander's executive committee reviews internal reporting based on these segments to assess performance and allocate resources. 
+ The segments are split by global business and country in which profits are earned. Santander prepares the information by aggregating the figures for Grupo Santander&#8217;s global businesses and countries, relating it to both the accounting data of the business units integrated in each segment and that provided by management information systems. The same general principles as those used in Grupo Santander are applied. 
+ On 10 February 2026, the Group announced a series of changes to its reporting structure, effective from Q1 2026&#58; 
+ • Reporting of the Cards business within Retail &#38; Commercial Banking&#58; the income statement and balance sheet items relating to the Cards business will be reclassified to Retail (previously recorded in Payments). 
+ • Other changes within the primary segments&#58; 
+ &#9702; The Digital Consumer Bank (Consumer) business will be renamed Openbank. 
+ &#9702; Wealth Management &#38; Insurance will be reorganized into two business lines&#58; Private Banking, which comprises the corporate private banking unit and International Private Banking in the US, Switzerland and the UAE&#59; and Insurance &#38; Asset Management Solutions, which brings together the insurance business and liquid and illiquid asset management activities, and will include the investment platforms and holdings that complement the traditional Wealth business 
+ These changes do not have any impact on the reported figures at the Group or primary segment levels. 
+ The Group's primary level of segmentation, comprises six reportable segments&#58; five global businesses plus the Corporate Centre. The global businesses are&#58; 
+ • Retail &#38; Commercial Banking (Retail)&#58; area that integrates the retail banking and commercial banking businesses (individuals, SMEs and corporates), except private banking clients and business originated in the consumer finance businesses. 
+ • Openbank, previously known as Digital Consumer Bank&#58; comprises all business originated by consumer finance companies, including our digital bank (formerly Openbank), Open Digital Services (ODS) and SBNA Consumer. 
+
+ January - March 2026 
+ 37 
+
+ • Corporate &#38; Investment Banking (CIB)&#58; business which includes Global Transaction Banking, Global Banking (Global Debt Financing and Corporate Finance) and Global Markets business lines. Offers products and services on a global scale to corporate and institutional customers, and collaborates with other global businesses to better serve our broad customer base. 
+ • Wealth Management &#38; Insurance (Wealth)&#58; comprises two business lines&#58; i) Private Banking, which includes the corporate private banking unit and International Private Banking in the US, Switzerland and the UAE&#59; and ii) Insurance &#38; Asset Management Solutions, which will bring together the insurance business and liquid and illiquid asset management activities and includes the investment platforms and holdings that complement the traditional Wealth business. 
+ • Payment Solutions (Payments)&#58; brings together the Group&#8217;s digital payment solutions and provides global technological solutions to Group entities and new customers in the open market. It will comprise Getnet, Getnet Platforms and Ebury. 
+ • Corporate Centre&#58; includes the centralized activities relating to equity stakes in financial companies, financial management of the structural exchange rate position, assumed within the sphere of the Group&#8217;s asset and liability committee, as well as management of liquidity and of shareholders&#8217; equity via issuances. 
+ As the Group&#8217;s holding entity, this area manages all capital and reserves and allocations of capital and liquidity with the other businesses. It also incorporates goodwill impairments but not the costs related to the Group&#8217;s central services (charged to the areas), except for corporate and institutional expenses related to the Group&#8217;s functioning. 
+ In accordance with the information used by the Group's executive committee for decision making, following is a distribution of the gross margin by business segment of the consolidated income statements for the three-month periods ended 31 March 2026 and 2025. 
+ This financial information ('underlying basis') is computed by adjusting reported results for the effects of certain gains and losses (e.g.&#58; capital gains, write-downs, etc.). These gains and losses are items that management and investors ordinarily identify and consider separately to understand better the underlying trends in the business. 
+ Following is the reconciliation between the adjusted profit and the statutory profit corresponding to the three-month periods ended 31 March 2026 and 2025&#58; 
+
+ EUR million 
+ Total Income 
+ Profit before tax 
+ Profit 
+
+ Segment 
+ 31-03-2026 
+ 31-03-2025 
+ 31-03-2026 
+ 31-03-2025 
+ 31-03-2026 
+ 31-03-2025 
+
+ Retail &#38; Commercial Banking 8,284 8,146 2,884 2,667 2,009 1,839 
+ Openbank 3,260 3,234 539 674 290 492 
+ Corporate &#38; Investment Banking 2,384 2,106 1,228 1,165 889 774 
+ Wealth Management &#38; Insurance 1,000 968 624 599 493 450 
+ Payments 383 317 49 13 20 4 
+ Corporate Centre (171) (217) (296) (431) (141) (394) 
+ Underlying Profit 
+ 15,140 
+ 14,553 
+ 5,029 
+ 4,686 
+ 3,560 
+ 3,165 
+
+ Adjustments 
+ — 
+ 26 
+ — 
+ 3 
+ 1,895 
+ 237 
+
+ Statutory Profit 15,140 14,579 5,029 4,689 5,455 3,402 
+
+ Explanation of the adjustments to the statutory profit at 31 March 2026&#58; 
+ • In the statutory income statement, the capital gain resulting from the completion of the Poland disposal in Q1 2026 was recorded in the 'profit&#47;(loss) after tax from discontinued operations' line item. However, in the underlying income statement, said capital gain is excluded from the underlying profit. 
+ Explanation of the adjustments to the statutory profit at 31 March 2025&#58; 
+ • In the statutory income statement, results associated with the business subject to the Poland disposal are reported in the 'profit&#47;(loss) after tax from discontinued operations' line item. However, in the underlying income statement, the results related to the business subject to the Poland disposal are excluded from the underlying profit. 
+
+ 38 
+
+ January - March 2026 
+
+ 1 13. Related parties 
+ The parties related to Grupo Santander are deemed to include, in addition to its subsidiaries, associates and joint ventures, Banco Santander&#8217;s key management personnel (the members of its board of directors and the executive vice presidents, together with their close family members) and the entities over which the key management personnel may exercise significant influence or control. 
+ Following is a detail of the transactions performed by Grupo Santander with its related parties in the first three months of 2026 and 2025, distinguishing between significant shareholders, members of Banco Santander&#8217;s board of directors, Banco Santander&#8217;s executive vice presidents, Grupo Santander entities and other related parties. Related party transactions were made on terms equivalent to those that prevail in arm&#8217;s-length transactions or, when this was not the case, the related compensation in kind was recognised&#58; 
+
+ EUR million 
+ 31-03-2026 
+
+ Expenses and income 
+ Significant 
+shareholders Directors and 
+executives Group companies 
+or entities Other related 
+parties Total 
+
+ Expenses 
+ Finance costs — — 32 1 33 
+ Leases — — — — — 
+ Services received — — 5 — 5 
+ Purchases of stocks — — — — — 
+ Other expenses — — 34 — 34 
+ — — 71 1 72 
+ Income 
+ Finance income — — 104 2 106 
+ Dividends received — — — — — 
+ Services rendered — — 7 — 7 
+ Sale of stocks — — — — — 
+ Other income — — 380 — 380 
+ — — 491 2 493 
+
+ EUR million 
+ 31-03-2026 
+
+ Other transactions 
+ Significant 
+shareholders Directors and 
+executives Group companies 
+or entities Other related 
+parties Total 
+
+ Financing agreements&#58; loans and capital contributions (lender) — 1 348 (73) 276 
+ Financing agreements&#58; loans and capital contributions (borrower) — — 387 (91) 296 
+ Guarantees provided — — — (8) (8) 
+ Guarantees received — — — — — 
+ Commitments acquired — — 28 (3) 25 
+ Dividends and other distributed profit — — — — — 
+ Other transactions — — (78) 9 (69) 
+
+ January - March 2026 
+ 39 
+
+ EUR million 
+
+ 31-03-2026 
+
+ Balance closing period 
+ Significant 
+shareholders Directors and 
+executives Group companies 
+or entities Other related 
+parties Total 
+
+ Debt balances&#58; 
+ Customers and commercial debtors — — — — — 
+ Loans and credits granted — 19 10,660 201 10,880 
+ Other collection rights — — 336 30 366 
+ — 19 10,996 231 11,246 
+ Credit balances&#58; 
+ Suppliers and creditors granted — — — — — 
+ Loans and credits received — 15 3,173 285 3,473 
+ Other payment obligations — — 235 — 235 
+ — 15 3,408 285 3,708 
+
+ EUR million 
+
+ 31-03-2025 
+
+ Expenses and income 
+ Significant 
+shareholders Directors and 
+executives Group companies 
+or entities Other related 
+parties Total 
+
+ Expenses 
+ Finance costs — — 34 1 35 
+ Leases — — — — — 
+ Services received — — — — — 
+ Purchases of stocks — — — — — 
+ Other expenses — — 44 — 44 
+ — — 78 1 79 
+ Income 
+ Finance income — — 114 2 116 
+ Dividends received — — — — — 
+ Services rendered — — 7 — 7 
+ Sale of stocks — — — — — 
+ Other income — — 337 — 337 
+ — — 458 2 460 
+
+ 40 
+
+ January - March 2026 
+
+ EUR million 
+ 31-03-2025 
+
+ Other transactions 
+ Significant 
+shareholders Directors and 
+executives Group companies 
+or entities Other related 
+parties Total 
+
+ Financing agreements&#58; loans and capital contributions (lender) — — 705 (37) 668 
+ Financing agreements&#58; loans and capital contributions (borrower) — (3) 273 (121) 149 
+ Guarantees provided — — — 4 4 
+ Guarantees received — — — — — 
+ Commitments acquired — 2 69 9 80 
+ Dividends and other distributed profit — — — — — 
+ Other transactions — 1 (49) 1 (47) 
+
+ EUR million 
+
+ 31-12-2025 
+
+ Balance closing period 
+ Significant 
+shareholders Directors and 
+executives Group companies 
+or entities Other related 
+parties Total 
+
+ Debt balances&#58; 
+ Customers and commercial debtors — — — — — 
+ Loans and credits granted — 18 10,121 274 10,413 
+ Other collection rights — — 370 21 391 
+ — 18 10,491 295 10,804 
+ Credit balances&#58; 
+ Suppliers and creditors granted — — — — — 
+ Loans and credits received — 15 2,786 376 3,177 
+ Other payment obligations — — 191 — 191 
+ — 15 2,977 376 3,368 
+
+ January - March 2026 
+ 41 
+
+ 14. Off - balance-sheet exposures 
+ The off-balance-sheet exposures relate to balances representing loans commitments, financial guarantees and other commitments granted (recoverables and non recoverables). 
+ Financial guarantees granted include financial guarantees contracts such as financial bank guarantees, credit derivatives, and risks arising from derivatives granted to third parties&#59; non-financial guarantees include other guarantees and irrevocable documentary credits. 
+ Loan and other commitments granted include all off-balance-sheet exposures, which are not classified as guarantees provided, including loans commitment granted. 
+
+ EUR million 
+ 31-03-2026 
+ 31-12-2025 
+
+ Loan commitments granted 310,549 321,234 
+ Of which impaired 384 345 
+ Financial guarantees granted 17,277 17,449 
+ Of which impaired 328 332 
+ Bank sureties 17,172 17,437 
+ Credit derivatives sold 105 12 
+ Other commitments granted 158,449 148,118 
+ Of which impaired 595 668 
+ Other granted guarantees 61,726 62,161 
+ Other 96,723 85,957 
+
+ The breakdown of the off-balance sheet exposure and impairment on 31 March 2026 and 31 December 2025 by impairment stages is EUR 462,944 million and EUR 464,215 million of exposure and EUR 356 million and EUR 338 million of impairment in stage 1, EUR 22,024 million and EUR 21,241 million of exposure and EUR 241 million and EUR 206 million of impairment in stage 2, and EUR 1,307 million and EUR 1,345 million of exposure and EUR 167 million and EUR 169 million of impairment in stage 3, respectively. 
+
+ 15. Average headcount and number of branches 
+ The average number of employees at Banco Santander and Grupo Santander, by gender, in the three-month periods ended 31 March 2026 and 2025 is as follows&#58; 
+
+ Average headcount 
+ Bank Group (*) 
+
+ 31-03-2026 
+ 31-03-2025 
+ 31-03-2026 
+ 31-03-2025 
+
+ Men 11,582 11,972 90,893 94,820 
+ Women 11,201 11,491 95,477 101,264 
+ 22,783 23,463 186,370 196,084 
+
+ (*) As of 31 March 2025, this excludes the Group&#8217;s business sold in Poland. Including Poland, the average headcount amounted to 206,736. 
+ The number of branches, depending on their location, as of 31 March 2026 and 31 December 2025 is as follow&#58; 
+
+ Number of branches 
+ Group 
+ 31-03-2026 
+ 31-12-2025 
+
+ Spain (*) 
+ 1,649 1,674 
+ Group (**) 
+ 4,940 5,091 
+ 6,589 6,765 
+
+ (*) Includes branches in Spain of the Openbank business. 
+ (**) Excludes 359 branches from the business sold in Poland at 31 December 2025. 
+
+ 42 
+
+ January - March 2026 
+
+ 16. Other disclosures 
+ a) Valuation techniques for financial assets and liabilities 
+ The following table shows a summary of the fair values, at 31 March 2026 and 31 December 2025, of the financial assets and liabilities indicated below, classified on the basis of the various measurement methods used by Grupo Santander to determine their fair value&#58; 
+
+ EUR million 
+ 31-03-2026 
+ 31-12-2025 
+
+ Published price quotations in active markets (Level 1) 
+ Internal models (Levels 2 and 3) 
+ Total 
+ Published price quotations in active markets (Level 1) 
+ Internal models (Levels 2 and 3) 
+ Total 
+
+ Financial assets held for trading 114,807 167,137 281,944 106,529 145,789 252,318 
+ Non-trading financial assets mandatorily at fair value through profit or loss 2,438 5,257 7,695 2,407 5,354 7,761 
+ Financial assets at fair value through profit and loss 2,644 5,366 8,010 2,860 5,186 8,046 
+ Financial assets at fair value through other comprehensive income 51,219 22,850 74,069 52,589 22,023 74,612 
+ Hedging derivatives (assets) — 3,744 3,744 — 3,931 3,931 
+ Financial liabilities held for trading 38,613 157,336 195,949 37,192 134,354 171,546 
+ Financial liabilities designated at fair value through profit or loss — 39,623 39,623 — 42,148 42,148 
+ Hedging derivatives (liabilities) — 4,061 4,061 — 4,248 4,248 
+ Liabilities under insurance contracts — 18,556 18,556 — 18,737 18,737 
+
+ The financial instruments at fair value determined on the basis of published price quotations in active markets (level 1) include government debt securities, private-sector debt securities, derivatives traded in organised markets, securitised assets, shares, short positions and fixed-income securities issued. 
+ In cases where price quotations cannot be observed, management makes its best estimate of the price that the market would set, using its own internal models. In most cases, these internal models use data based on observable market parameters as significant inputs (level 2) and, in cases, they use significant inputs not observable in market data (level 3). In order to make these estimates, various techniques are employed, including the extrapolation of observable market data. The best evidence of the fair value of a financial instrument on initial recognition is the transaction price, unless the fair value of the instrument can be obtained from other market transactions performed with the same or similar instruments or can be measured by using a valuation technique in which the variables used include only observable market data, mainly interest rates. 
+ During the first three months of 2026 and 2025, Grupo Santander did not make any material transfers of financial instruments between measurement levels other than the transfers included in level 3. 
+ Grupo Santander has developed a formal process for the systematic valuation and management of financial instruments, which has been implemented worldwide across all the Group&#8217;s units. The governance scheme for this process distributes responsibilities between two independent divisions&#58; Treasury (development, marketing and daily management of financial products and market data) and Risk (on a periodic basis, validation of pricing models and market data, computation of risk metrics, new transaction approval policies, management of market risk and implementation of fair value adjustment policies). 
+ The approval of new products follows a sequence of steps (request, development, validation, integration in corporate systems and quality assurance) before the product is brought into production. This process ensures that pricing systems have been properly reviewed and are stable before they are used. 
+ The most important products and types of derivatives, and the related valuation techniques and inputs, by asset class, are detailed in the consolidated annual accounts as at 31 December 2025. 
+ As the end of 31 March 2026, the CVA (Credit Valuation Adjustment) accounted for was EUR 284 million (an increase of 26,8% compared to 31 December 2025) and adjustments of DVA (Debt Valuation Adjustment) was EUR 347 million (an increase of 21,8% compared to 31 December 2025). These increases mainly reflect credit market movements, with higher spread levels compared to December 2025. Additionally, to a lesser extent, increases are reported due to arrangements of new portfolio transactions. 
+
+ January - March 2026 
+ 43 
+
+ Set forth below are the financial instruments at fair value whose measurement was based on internal models (levels 2 and 3) at 31 March 2026 and 31 December 2025&#58; 
+
+ EUR million EUR million 
+ Fair values calculated using internal models at 31-03-2026 (*) Fair values calculated using internal models at 31-12-2025 (*) 
+ Level 2 Level 3 Level 2 Level 3 Valuation techniques Main inputs 
+ ASSETS 184,029 20,325 163,796 18,487 
+ Financial assets held for trading 159,761 7,376 139,293 6,496 
+ Central banks (**) 20,245 1,053 14,191 441 Present value method Yield curves, FX market prices 
+ Credit institutions (**) 26,088 91 25,815 152 Present value method Yield curves, FX market prices 
+ Customers (**) 31,847 4,806 27,986 4,592 Present value method Yield curves, FX market prices 
+ Debt instruments and equity instruments 17,647 405 14,470 340 Present value method Yield curves, FX market prices 
+ Derivatives 63,934 1,021 56,831 971 
+ Swaps 43,447 611 39,716 551 Present value method, Gaussian Copula Yield curves, FX market prices, HPI, Basis, Liquidity 
+ Exchange rate options 1,775 9 1,332 39 Black-Scholes Model Yield curves, Volatility surfaces, FX market prices, Liquidity 
+ Interest rate options 1,569 49 1,490 39 Black's Model, multifactorial advanced models interest rate Yield curves, Volatility surfaces, FX market prices, Liquidity 
+ Interest rate futures 330 1 177 — Present value method Yield curves, FX market prices 
+ Index and securities options 527 158 439 120 Black&#8217;s Model, multifactorial advanced models interest rate Yield curves, Volatility surfaces, FX &#38; EQ market prices, Dividends, Liquidity 
+ Other 16,286 193 13,677 222 Present value method, Advanced stochastic volatility models and others Yield curves, Volatility surfaces, FX and EQ market prices, Dividends, Liquidity, Dividends, Correlation, HPI, Credit, Others 
+ Hedging derivatives 3,743 1 3,924 7 
+ Swaps 3,622 1 3,690 7 Present value method Yield curves, FX market prices, Basis 
+ Interest rate options 72 — 91 — Black Model Yield curves, FX market prices, Volatility surfaces 
+ Other 49 — 143 — Present value method, Advanced stochastic volatility models and others Yield curves, Volatility surfaces, FX market prices, Credit, Liquidity, Others 
+ Non-trading financial assets mandatorily at fair value through profit or loss 2,427 2,830 2,465 2,889 
+ Equity instruments 924 2,460 899 2,543 Present value method Yield curves, Market price, Dividends and Others 
+ Debt instruments 19 187 54 175 Present value method Yield curves 
+ Loans and receivables 1,484 183 1,512 171 Present value method, swap asset model and CDS Yield curves and Credit curves 
+ Financial assets designated at fair value through profit or loss 5,247 119 5,152 34 
+ Credit institutions 439 — 413 — Present value method Yield curves, FX market prices 
+ Customers 4,793 31 4,725 14 Present value method Yield curves, FX market prices, HPI 
+ Debt instruments 15 88 14 20 Present value method Yield curves, FX market prices 
+ Financial assets at fair value through other comprehensive income 12,851 9,999 12,962 9,061 
+ Equity instruments 16 275 19 272 Present value method Yield curves, Market price, Dividends and Others 
+ Debt instruments 6,618 952 6,819 887 Present value method Yield curves, FX market prices 
+ Loans and receivables (***) 6,217 8,772 6,124 7,902 Present value method Yield curves, FX market prices and Credit curves 
+
+ 44 
+
+ January - March 2026 
+
+ LIABILITIES 218,109 1,467 198,377 1,110 
+ Financial liabilities held for trading 156,257 1,079 133,490 864 
+ Central banks (**) 9,613 — 12,385 — Present value method FX market prices, Yield curves 
+ Credit institutions (**) 30,914 2 27,058 — Present value method FX market prices, Yield curves 
+ Customers (**) 47,777 — 36,120 — Present value method FX market prices, Yield curves 
+ Derivatives 57,698 1,077 50,248 864 
+ Swaps 36,696 591 33,597 418 Present value method, Gaussian Copula Yield curves, FX market prices, Basis, Liquidity, HPI 
+ Exchange rate options 1,073 15 903 34 Black Model, multifactorial advanced models interest rate Yield curves, Volatility surfaces, FX market prices, Liquidity 
+ Interest rate options 2,051 101 1,951 95 Black-Scholes Model Yield curves, Volatility surfaces, FX market prices 
+ Index and securities options 2,334 163 1,094 151 Black-Scholes Model Yield curves, FX market prices, Liquidity 
+ Interest rate and equity futures 212 3 121 — Present value method Yield curves, Volatility surfaces, FX &#38; EQ market prices, Dividends, Correlation, Liquidity, HPI 
+ Other 15,332 204 12,582 166 Present value method, Advanced stochastic volatility models and others Yield curves, Volatility surfaces, FX &#38; EQ market prices, Dividends, Correlation, HPI, Credit, Others 
+ Short positions 10,255 — 7,679 — Present value method Yield curves ,FX market prices, Equity 
+ Hedging derivatives 4,058 3 4,229 19 
+ Swaps 3,958 3 4,191 19 Present value method Yield curves ,FX market prices, Basis 
+ Interest rate options 2 — — — Black's Model Yield curves, Volatility surfaces, FX market prices and Liquidity 
+ Other 98 — 38 — Present value method, Advanced stochastic volatility models and others Yield curves, Volatility surfaces, FX market prices, Credit, Liquidity and others 
+ Financial liabilities designated at fair value through profit or loss (****) 39,479 144 42,148 — Present value method Yield curves, FX market prices 
+ Liabilities under insurance contracts 18,315 241 18,510 227 Present Value Method with actuarial techniques Mortality tables and yield curves 
+
+ (*) The internal models of level 2 implement figures based on the parameters observed in the market, while level 3 internal models use significant inputs that are not observable in market data. 
+ (**) Includes mainly temporary acquisitions&#47;disposals of assets with corporate clients and, to a lesser extent, with central banks. 
+ (***) Includes mainly syndicated loans under the HTC&#38;S business model. 
+ (****) Includes mainly short-term deposits that are managed based on their fair value. 
+
+ January - March 2026 
+ 45 
+
+ Level 3 financial instruments 
+ Set forth below are the Group&#8217;s main financial instruments measured using unobservable market data as significant inputs of the internal models (level 3)&#58; 
+ • HTC&#38;S (Hold to collect and sale) syndicated loans classified in the fair value category with changes in other comprehensive income, where the cost of liquidity is not directly observable in the market, as well as the prepayment option in favour of the borrower. 
+ • Illiquid equity instruments in non-trading portfolios, classified at fair value through profit or loss and at fair value through equity. 
+ • Long-term temporary acquisitions&#47;disposals of assets with corporate clients based on underlying assets for which no observable credit curve exists. To a lesser extent, repos&#47;reverse repos with central banks on illiquid government-backed underlying assets. 
+ • Callable interest rate derivatives (Bermudan-style options) where the main unobservable input is mean reversion of interest rates. 
+ • Trading derivatives on interest rates, taking as an underlying asset titling and with the amortization rate (CPR, Conditional prepayment rate) as unobservable main entry. 
+ • Derivatives from trading on inflation in Spain, where volatility is not observable in the market. 
+ • Equity volatility derivatives, specifically indices and equities, where volatility is not observable in the long term. 
+ • Derivatives on long-term interest rate and FX in some units (mainly South America) where for certain underlyings it is not possible to demonstrate observability to these terms. 
+ • Debt instruments referenced to certain illiquid interest rates, for which there is no reasonable market observability. 
+ The measurements obtained using the internal models might have been different if other methods or assumptions had been used with respect to interest rate risk, to credit risk, market risk and foreign currency risk spreads, or to their related correlations and volatilities. Nevertheless, the Bank&#8217;s directors consider that the fair value of the financial assets and liabilities recognised in the interim condensed consolidated balance sheet and the gains and losses arising from these financial instruments are reasonable. 
+ The net amount recorded in the results of the first three months of 2026 arising from models whose significant inputs are unobservable market data (level 3) amounted to a loss of EUR 65 million (EUR 170 million of loss in the first three months of 2025). 
+
+ 46 
+
+ January - March 2026 
+
+ The table below shows the effect, at 31 March 2026 and 31 December 2025, on the fair value of the main financial instruments classified as Level 3 of a reasonable change in the assumptions used in the valuation. This effect was determined by applying the probable valuation ranges of the main unobservable inputs detailed in the following table&#58; 
+
+ 31-03-2026 
+
+ Portfolio&#47;Instrument 
+ Valuation technique 
+ Main unobservable inputs 
+ Range 
+ Weighted average 
+ Impacts (EUR million) 
+
+ (Level 3) 
+ Unfavourable scenario 
+ Favourable scenario 
+
+ Financial assets held for trading 
+ Loans and advances to customers and central banks 
+ Repos&#47;Reverse repos Market proxy Price &#47; Credit spread n.a. 
+ n.a. (9.01) 9.01 
+ Repos&#47;Reverse repos Present value method Interest rate curve (26.40)bps - 68.40bps 
+ 0.00bps (8.02) 3.10 
+ Debt securities 
+ Corporate debt Discounted Cash Flows Credit spread 0% - 10.00% 
+ 5.10% (2.42) 2.48 
+ Government debt Discounted Cash Flows Discount curve 0% - 8% 
+ 4.00% (9.40) 9.43 
+ Others Discounted Cash Flows Credit spread 10% - 90% 
+ 35.20% (1.67) 0.77 
+ Derivatives 
+ Cap&#38;Floor Black Scholes model Volatility (6.50)bps - 6.50bps 
+ 1.00bps (0.24) 0.33 
+ CCS Discounted Cash Flows Credit spread 171% - 173% 
+ 171.9% (0.01) 0.01 
+ EQ Options EQ option pricing model Volatility 0% - 70% 
+ 39.50% (0.22) 0.28 
+ EQ Options Local volatility Volatility 10% - 90% 
+ 50.00% (16.99) 16.99 
+ Fx Options Fx option pricing model Volatility 0% - 40% 
+ 19.80% (0.42) 0.41 
+ FX Forward Forward estimation Swap Rate 0% - 15% 
+ 7.60% (0.13) 0.14 
+ Inflation Derivatives Asset Swap model Inflation Swap Rate 2% - 8% 
+ 4.90% (0.21) 0.20 
+ IR Options IR option pricing model Volatility 0% - 30% 
+ 14.80% (0.20) 0.19 
+ IR Options INF option pricing model Volatility 0% - 30% 
+ 14.90% (0.66) 0.66 
+ IRS Others Others 5% - n.a. 
+ n.a. (12.90) 4.56 
+ IRS Discounted Cash Flows Credit spread 16.80bps - 116.70bps 
+ 56.40bps (4.07) 2.68 
+ IRS Discounted Cash Flows Inflation Swap Rate 1.0% - 99.0% 
+ 33.80% (5.82) 2.94 
+ Others Forward estimation Price 60.00bps - 300.00bps 
+ 179.80bps (3.21) 3.19 
+ Others Discounted Cash Flows Commodity curve 10.0% - 90.0% 
+ 10.00% 0.00 0.00 
+ Property derivatives Option pricing model Growth rate (5.0)% - 5.0% 
+ 0.00% (2.29) 2.29 
+ Securitisation Swap Discounted Cash Flows Constant prepayment rates 10.0% - 90.0% 
+ 50.00% (1.67) 1.67 
+
+ January - March 2026 
+ 47 
+
+ 31-03-2026 
+
+ Portfolio&#47;Instrument 
+ Valuation technique 
+ Main unobservable inputs 
+ Range 
+ Weighted average 
+ Impacts (EUR million) 
+
+ (Level 3) 
+ Unfavourable scenario 
+ Favourable scenario 
+
+ Financial assets designated at fair value through profit or loss 
+ Loans and advances to customers 
+ Loans Discounted Cash Flows Credit spreads 0% - 3% 
+ 1.60% (0.10) 0.10 
+ Mortgage portfolio Black Scholes model Growth rate (5)% - 5% 
+ 0.00% (0.11) 0.11 
+ Debt securities 
+ Other debt securities Others Inflation Swap Rate 0% - 8% 
+ 4% (3.49) 3.58 
+ Non-trading financial assets mandatorily at fair value through profit or loss 
+ Debt securities 
+ Property securities Probability weighting Growth rate (5)% - 5% 
+ 0% (0.11) 0.11 
+ Equity instruments 
+ Equities Price Based Price 90% - 110% 
+ 100% (246.03) 246.03 
+ Financial assets at fair value through other comprehensive income 
+ Loans and advances to customers 
+ Loans Discounted Cash Flows Credit spread n.a. - n.a. 
+ n.a. (33.15) 10.92 
+ Loans Discounted Cash Flows Interest rate curve 2.5% - 7.5% 
+ 5.00% (0.69) 0.69 
+ Loans Discounted Cash Flows Margin of a reference portfolio 3.0% - 6.5% 
+ 4.70% (0.36) 0.36 
+ Loans Present value method Credit spread 153.4bps - 242.6bps 
+ 153.40bps (0.29) 0.00 
+ Loans Market price Market price (0.4)% - 0.4% 
+ 0.00% (5.39) 5.39 
+ Debt securities 
+ Mortgage Letters Discounted Cash Flows Mortgage Letters (6.3)% - 3.5% 
+ (1.40)% 0.00 0.00 
+ Equity instruments 
+ Equities Price Based Price 90% - 110% 
+ 100.00% (27.51) 27.51 
+
+ 48 
+
+ January - March 2026 
+
+ 31-03-2026 
+
+ Portfolio&#47;Instrument 
+ Valuation technique 
+ Main unobservable inputs 
+ Range 
+ Weighted average 
+ Impacts (EUR million) 
+
+ (Level 3) 
+ Unfavourable scenario 
+ Favourable scenario 
+
+ Financial liabilities held for trading 
+ Derivatives 
+ Cap&#38;Floor Volatility option model Volatility 10% - 90% 
+ 51.40% (0.09) 0.09 
+ FX Options Volatility option model Volatility 10% - 90% 
+ 37.20% (0.99) 0.51 
+ IRS Discounted Cash Flows Inflation Swap Rate 10% - 90% 
+ 53% (0.02) 0.02 
+ IRS Discounted Cash Flows Credit Spread 26bps - 43bps 
+ 33.10bps (1.80) 1.31 
+
+ January - March 2026 
+ 49 
+
+ 31-12-2025 
+
+ Portfolio&#47;Instrument 
+ Valuation technique 
+ Main unobservable inputs 
+ Range 
+ Weighted average 
+ Impacts (EUR million) 
+
+ (Level 3) 
+ Unfavourable scenario 
+ Favourable scenario 
+
+ Financial assets held for trading 
+ Loans and advances to customers 
+ Repos&#47;Reverse repos Market proxy Price &#47; Credit spread n.a. n.a. (10.50) 10.50 
+ Debt securities 
+ Corporate debt Discounted Cash Flows Credit spread 0% - 10% 
+ 5.10% (2.24) 2.29 
+ Government debt Discounted Cash Flows Discount curve 0% - 8% 
+ 4.00% (9.21) 9.24 
+ Others Discounted Cash Flows Credit spread 10% - 90% 
+ 35.50% (1.32) 0.62 
+ Derivatives 
+ Cap&#38;Floor Black Scholes model Volatility (6.50)bps - 6.50bps 
+ 1,00 bps (0.38) 0.52 
+ CCS Discounted Cash Flows Credit spread 146.3% - 148.3% 
+ 147.30% (0.01) 0.01 
+ EQ Options EQ option pricing model Volatility 0% - 70% 
+ 40.50% (0.17) 0.24 
+ EQ Options Local volatility Volatility 10% - 90% 
+ 50.00% (18.86) 18.86 
+ Fx Options Fx option pricing model Volatility 0% - 40% 
+ 19.80% (0.50) 0.49 
+ FX Forward Forward estimation Swap Rate 0% - 15% 
+ 8.10% (0.01) 0.02 
+ Inflation Derivatives Asset Swap model Inflation Swap Rate 2% - 8% 
+ 4.90% (0.18) 0.17 
+ IR Options IR option pricing model Volatility 0% - 30% 
+ 14.80% (0.19) 0.19 
+ IR Options INF option pricing model Volatility 0% - 30% 
+ 14.90% (0.63) 0.63 
+ IRS Others Others 5% - n.a. 
+ n.a. (11.24) 8.23 
+ IRS Discounted Cash Flows Credit spread 19.6% - 127.5% 
+ 50.50% (2.10) 0.84 
+ IRS Discounted Cash Flows Inflation Swap Rate 1.0% - 99.0% 
+ 99.00% — 1.41 
+ Others Forward estimation Price 60bps - 300bps 
+ 179.8bps (3.48) 3.47 
+ Property derivatives Option pricing model Growth rate (5)% - 5% 
+ —% (2.64) 2.64 
+ Securitisation Swap Discounted Cash Flows Constant prepayment rates 10% - 90% 
+ 50.00% — — 
+ Financial assets designated at fair value through profit or loss 
+ Loans and advances to customers 
+ Loans Discounted Cash Flows Credit spreads 0.1% - 3% 
+ 1.60% (0.12) 0.12 
+ Mortgage portfolio Black Scholes model Growth rate (5)% - 5% 
+ 0.00% (0.23) 0.23 
+
+ 50 
+
+ January - March 2026 
+
+ 31-12-2025 
+
+ Portfolio&#47;Instrument 
+ Valuation technique 
+ Main unobservable inputs 
+ Range 
+ Weighted average 
+ Impacts (EUR million) 
+
+ (Level 3) 
+ Unfavourable scenario 
+ Favourable scenario 
+
+ Debt securities 
+ Other debt securities Others Inflation Swap Rate 0% - 8% 
+ 4.10% — — 
+ Non-trading financial assets mandatorily at fair value through profit or loss 
+ Debt securities 
+ Property securities Probability weighting Growth rate (5)% - 5% 
+ 0.00% (0.11) 0.11 
+ Equity instruments 
+ Equities Price Based Price 90% - 110% 
+ 100.00% (254.29) 254.29 
+ Financial assets at fair value through other comprehensive income 
+ Loans and advances to customers 
+ Loans Discounted Cash Flows Credit spread n.a. n.a. (2.33) 2.33 
+ Loans Discounted Cash Flows Interest rate curve 6.1% - 7.2% 
+ 6.6% — 0.00 
+ Loans Discounted Cash Flows Margin of a reference portfolio 3.3% - 6.5% 
+ 5% (0.25) 0.25 
+ Loans Forward estimation Credit spread 121.9bps - 174.7 bps 
+ 121.9bps (1.60) — 
+ Loans Market price Market price (0.3)% - 0.1% 
+ (0.30)% (2.70) 0.54 
+ Debt securities 
+ Mortgage Letters Discounted Cash Flows Mortgage Letters 3.4% - 5.5% 
+ 4.50% — — 
+ Equity instruments 
+ Equities Price Based Price 90% - 110% 
+ 100.00% (27.16) 27.16 
+ Financial liabilities held for trading 
+ Derivatives 
+ Cap&#38;Floor Volatility option model Volatility 10% - 90% 
+ 43.80% (0.09) 0.07 
+ FX Options Volatility option model Volatility 10% - 90% 
+ 42.30% (0.33) 0.22 
+ IRS Discounted Cash Flows Inflation Swap Rate 1% - 99% 
+ 50.40% (1.38) 1.40 
+ IRS Discounted Cash Flows Credit spread 8.4bps - 19.2bps 
+ 10.70bps (2.42) 0.66 
+
+ 1. For each instrument, the valuation technique is shown, the unobservable inputs described in the &#34;Main unobservable inputs&#34; column under probable scenarios, variation range, average value and impact resulting from valuing the position in the established 
+ maximum and minimum range. 
+ 2. The breakdown of impacts is shown by type of instrument and unobservable inputs. 
+ 3. The estimation of the range of variation of the unobservable inputs has been carried out taking into account plausible movements of said parameters depending on the type of instrument. 
+ 4. Zero impacts from fully hedged or back-to-back transactions have not been included in this exercise. 
+
+ January - March 2026 
+ 51 
+
+ Lastly, the changes in the financial instruments classified as level 3 in the first three months of 2026 and 2025 were as follows&#58; 
+
+ 01-01-2026 
+ Changes 31-03-2026 
+
+ EUR million Fair value calculated using internal models (Level 3) Purchases&#47;Settlements Sales&#47;Amortisation Changes in fair value recognized in profit or loss Changes in fair value recognised in equity Level reclassifications Other Fair value calculated using internal models (Level 3) 
+ Financial assets held for trading 6,496 4,274 (3,267) 195 — (336) 14 7,376 
+ Central Banks 441 600 — 12 — — — 1,053 
+ Credit institutions 152 67 (128) — — — — 91 
+ Customers 4,592 3,538 (3,007) 23 — (339) (1) 4,806 
+ Debt instruments 340 64 (68) (1) — 80 (10) 405 
+ Trading derivatives 971 5 (64) 161 — (77) 25 1,021 
+ Swaps 551 2 (50) 110 — (9) 7 611 
+ Exchange rate options 39 — (5) 4 — (32) 3 9 
+ Interest rate options 39 — (6) 6 — 9 1 49 
+ Index and securities options 120 2 (2) 36 — 1 1 158 
+ Securities and interest rate futures — — — 1 — — — 1 
+ Other 222 1 (1) 4 — (46) 13 193 
+ Hedging derivatives (Assets) 7 — (2) (2) — (7) 5 1 
+ Swaps 7 — (2) (2) — (7) 5 1 
+ Financial assets designated at fair value through profit or loss 34 97 (19) 5 — — 2 119 
+ Loans and advances to customers 14 26 (13) 3 — — 1 31 
+ Debt instruments 20 71 (6) 2 — — 1 88 
+ Non-trading financial assets mandatorily at fair value through profit or loss 2,889 21 (146) (21) — 59 28 2,830 
+ Loans and advances to customers 171 — — (27) — 29 10 183 
+ Debt instruments 175 — (4) (5) — — 21 187 
+ Equity instruments 2,543 21 (142) 11 — 30 (3) 2,460 
+ Financial assets at fair value through other comprehensive income 9,061 3,261 (2,806) — (70) 499 54 9,999 
+ Loans and advances to customers 7,902 3,206 (2,782) — (49) 499 (4) 8,772 
+ Debt instruments 887 52 (24) — (21) — 58 952 
+ Equity instruments 272 3 — — — — — 275 
+ TOTAL ASSETS 18,487 7,653 (6,240) 177 (70) 215 103 20,325 
+ Financial liabilities held for trading 864 4 (22) 244 — (29) 18 1,079 
+ Credit institutions — 2 — — — — — 2 
+ Customers — — — — — — — — 
+ Trading derivatives 864 2 (22) 244 — (29) 18 1,077 
+ Swaps 418 2 (18) 187 — (4) 6 591 
+ Exchange rate options 34 — — — — (20) 1 15 
+ Interest rate options 95 — (2) (4) — 12 — 101 
+ Index and securities options 151 — (2) 8 — 5 1 163 
+ Securities and interest rate futures — — — 3 — — — 3 
+ Others 166 — — 50 — (22) 10 204 
+ Hedging derivatives (Liabilities) 19 — (2) — — (14) — 3 
+ Swaps 19 — (2) — — (14) — 3 
+ Interest rate options 
+ Others 
+ Financial liabilities designated at fair value through profit or loss — 112 — — — 31 1 144 
+ Liabilities under insurance contracts 227 — — (2) — — 16 241 
+ TOTAL LIABILITIES 1,110 116 (24) 242 — (12) 35 1,467 
+
+ 52 
+
+ January - March 2026 
+
+ 01-01-2025 
+ Changes 31-03-2025 
+
+ EUR million Fair value calculated using internal models (Level 3) Purchases&#47;Settlements Sales&#47;Amortisation Changes in fair value recognized in profit or loss Changes in fair value recognised in equity Level reclassifications Other Fair value calculated using internal models (Level 3) 
+ Financial assets held for trading 3,930 1,864 (1,742) 36 — 119 (20) 4,187 
+ Central Bank — 244 — 20 — — — 264 
+ Credit institutions 769 120 (402) 3 — — — 490 
+ Customers 1,801 1,351 (886) 11 — 126 — 2,403 
+ Debt instruments 413 58 (331) (19) — (13) 7 115 
+ Equity instruments — — — — — — — — 
+ Trading derivatives 947 91 (123) 21 — 6 (27) 915 
+ Swaps 556 67 (26) (1) — (15) 53 634 
+ Exchange rate options 2 3 — (9) — 9 37 42 
+ Interest rate options 30 — — — — (3) (17) 10 
+ Index and securities options 241 2 (2) (32) — (29) (93) 87 
+ Interest rate futures — 3 (27) 40 — 44 — 60 
+ Other 118 16 (68) 23 — — (7) 82 
+ Hedging derivatives (Assets) 20 — — (2) — — — 18 
+ Swaps 20 — — (2) — — — 18 
+ Financial assets designated at fair value through profit or loss 106 4 (52) (3) — — 2 57 
+ Loans and advances to customers 20 — — — — — (1) 19 
+ Debt instruments 86 4 (52) (3) — — 3 38 
+ Non-trading financial assets mandatorily at fair value through profit or loss 2,588 116 (17) 88 — (462) (49) 2,264 
+ Loans and advances to customers 505 42 (5) 59 — (464) 18 155 
+ Debt instruments 242 6 (5) (11) — 2 — 234 
+ Equity instruments 1,841 68 (7) 40 — — (67) 1,875 
+ Financial assets at fair value through other comprehensive income 8,675 2,937 (2,855) — (14) (11) 20 8,752 
+ Loans and advances to customers 7,253 2,937 (2,843) — (17) (51) 12 7,291 
+ Debt instruments 1,047 — (12) — 3 40 5 1,083 
+ Equity instruments 375 — — — — — 3 378 
+ TOTAL ASSETS 15,319 4,921 (4,666) 119 (14) (354) (47) 15,278 
+ Financial liabilities held for trading 934 113 (339) 277 — (102) (22) 861 
+ Credit institutions — 60 — — — — — 60 
+ Customers — 4 — — — — — 4 
+ Trading derivatives 934 49 (339) 277 — (102) (22) 797 
+ Swaps 479 14 (122) (1) — (2) — 368 
+ Interest rate options 79 — (2) 24 — 2 27 130 
+ Index and securities options 294 1 (16) (79) — 69 (68) 201 
+ Exchange rate options — 1 (1) (2) — 14 28 40 
+ Securities and interest rate futures — 32 (127) 318 — (184) 4 43 
+ Others 82 1 (71) 17 — (1) (13) 15 
+ Hedging derivatives (Liabilities) 12 — — (1) — — — 11 
+ Swaps 12 — — (1) — — — 11 
+ Interest rate options 
+ Financial liabilities designated at fair value through profit or loss 160 4 (4) — — (50) — 110 
+ Liabilities under insurance contracts 246 — — 13 — — 9 268 
+ TOTAL LIABILITIES 1,352 117 (343) 289 — (152) (13) 1,250 
+
+ January - March 2026 
+ 53 
+
+ 17. Explanation added for translation to English 
+ These interim condensed consolidated financial statements, translation of the interim condensed consolidated financial statements originally issued in Spanish, are presented on the basis of the regulatory financial reporting framework applicable to Grupo Santander in Spain (see Note 1.b). 
+
+ 54 
+
+ January - March 2026 
+
+ SIGNATURE 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+ Banco Santander, S.A. 
+
+ Date&#58; 29 April 2026 By&#58; &#47;s&#47; Jos&#233; Garc&#237;a Cantera 
+ Name&#58; Jos&#233; Garc&#237;a Cantera 
+ Title&#58; Chief Financial Officer

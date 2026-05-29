@@ -1,0 +1,112 @@
+{
+  "company": "Salesforce Inc.",
+  "ticker": "CRM",
+  "report_date": "2026-04-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Subscription and support",
+      "revenue": 10.6,
+      "operating_income": null,
+      "yoy_growth_pct": 14.0,
+      "sub_segments": [
+        {
+          "name": "Agentforce Sales",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Agentforce Service",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Agentforce 360 Platform, Slack and Other",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Agentforce Marketing and Agentforce Commerce",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Agentforce Integration and Agentforce Analytics",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Sales",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Service",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Platform and Other",
+          "revenue": 3.7,
+          "yoy_growth_pct": 25.0
+        },
+        {
+          "name": "Marketing and Commerce",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Integration and Analytics",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Subscription and support",
+          "revenue": 6.9,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Professional services and other",
+      "revenue": 0.5,
+      "operating_income": null,
+      "yoy_growth_pct": 2.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 11.1,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue": 2.6,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": {
+      "product_costs": 2.0,
+      "service_costs": 0.6
+    },
+    "gross_profit": 8.6,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.6,
+      "selling_general_administrative": 4.5,
+      "other_operating": 0.2
+    },
+    "total_operating_expenses": 6.3,
+    "operating_income": 2.3,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.3,
+    "income_before_tax": 2.7,
+    "tax_expense": 0.6,
+    "net_income": 2.1,
+    "net_income_yoy_pct": null
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

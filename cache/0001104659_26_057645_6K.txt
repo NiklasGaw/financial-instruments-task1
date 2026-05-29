@@ -1,0 +1,162 @@
+6-K
+ 1
+ tm2613913d2_6k.htm
+ FORM 6-K
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ WASHINGTON,
+D. C. 20549 
+
+ FORM 6-K 
+
+ REPORT
+OF FOREIGN PRIVATE ISSUER 
+
+ Pursuant
+to Rule 13a-16 or 15d-16 of 
+
+ the
+Securities Exchange Act of 1934 
+
+ For
+the month of May 2026 
+
+ Commission
+File Number: 001-06439 
+
+ SONY
+GROUP CORPORATION 
+
+ (Translation
+of registrant's name into English) 
+
+ 1-7-1 KONAN, MINATO-KU, TOKYO, 108-0075, JAPAN 
+
+ (Address
+of principal executive offices) 
+
+ The
+registrant files annual reports under cover of Form 20-F. 
+
+ Indicate
+by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F, 
+
+ Form 20-F
+ &#120; 
+ Form 40-F
+ &#168; 
+
+ SIGNATURE 
+
+ Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. 
+
+ SONY
+ GROUP CORPORATION 
+
+ (Registrant) 
+
+ By: 
+ /s/
+ Lin Tao 
+
+ &emsp;&ensp;(Signature) 
+
+ Lin Tao 
+
+ Chief Financial Officer 
+
+ Date: May
+8, 2026 
+
+ List
+ of Materials 
+
+ Documents attached
+hereto: 
+
+ Sony Semiconductor Solutions Announces Preliminary Agreement with TSMC
+for Strategic Partnership for Next-Generation Image Sensors
+
+ May 8, 2026
+
+ Sony Group Corporation
+
+ Sony Semiconductor Solutions Announces Preliminary
+Agreement with TSMC for Strategic Partnership for Next-Generation Image Sensors
+
+ Sony Semiconductor Solutions Corporation, a wholly-owned
+subsidiary of Sony Group Corporation, today announced that it has signed a non-binding memorandum of understanding with Taiwan Semiconductor
+Manufacturing Company Limited to form a strategic partnership (the "Partnership") for the development and manufacturing of
+next-generation image sensors. For further details, please refer to the attached press release. 
+
+ The impact of the Partnership on Sony Group Corporation's
+consolidated financial results will depend on the terms of the definitive agreements expected to be executed following discussions between
+both parties, and is currently being evaluated. Sony Group Corporation will disclose any additional material developments in a timely
+manner.
+
+ End of document
+
+ Sony Semiconductor Solutions and TSMC 
+
+ Enter Preliminary Agreement for 
+
+ Next-Generation Image Sensor Strategic Partnership 
+
+ Atsugi, Japan, May 8,
+2026 - Sony Semiconductor Solutions Corporation ("Sony") and Taiwan Semiconductor Manufacturing Company Limited ("TSMC")
+(TWSE: 2330, NYSE: TSM) today announced the signing of a non-binding memorandum of understanding ("MOU") to form a strategic
+partnership for the development and manufacturing of next-generation image sensors.
+
+ Under the proposed partnership,
+Sony and TSMC intend to establish a joint venture ("JV"), with Sony being the majority and controlling shareholder, to set
+up development and production lines in Sony's newly constructed fab in Koshi City, Kumamoto Prefecture. Through the JV, both companies
+expect to leverage Sony's expertise in sensor design alongside TSMC's strengths in process technology and manufacturing excellence
+as part of a broader collaboration aimed at enhancing image sensor performance.
+
+ With the MOU signed, Sony and TSMC are discussing potential investments by the JV. These investments, along with new capital investment by Sony in
+its existing plant in Nagasaki, are being considered on the premise that they would be implemented in phases based on market demand, and
+that they would receive support from the Japanese government.
+
+ This partnership also seeks
+to explore and address emerging opportunities in physical AI applications, such as automotive and robotics, paving the way for future
+innovations and expanded technological advancements. The establishment of the JV remains subject to the execution of a definitive legally
+binding agreement regarding the partnership and the satisfaction of customary closing conditions.
+
+ "Building
+on the trust cultivated through our long-standing collaboration with TSMC, I am delighted that we have reached an agreement to advance
+our partnership to a new stage," said Shinji Sashida, President and CEO of Sony Semiconductor Solutions Corporation. "This
+JV is a significant initiative that brings together the strengths of both companies and aims to drive further advancement in technology
+and business within the next-generation image sensor field. Building on this JV, Sony intends to further strengthen its business operations
+with a focus on creating high added value. Rooted in the Sony Spirit that has guided us since our founding, we intend to continue to take
+on the challenge of creating new markets through unprecedented ideas and distinctive technologies."
+
+ "Sony has
+been our long-time partner in the CMOS image sensor business. We are excited to elevate our collaboration to the next level, which represents
+a key step forward in driving future sensing technology in the AI era," said TSMC Senior Vice President and Deputy Co-COO, Dr. Kevin
+Zhang. "This partnership underscores our shared commitment and mutual vision of leveraging cutting-edge technologies and innovative
+solutions to deliver leading sensing technology and products. We look forward to working closely together to achieve impactful results
+and create lasting value for all stakeholders."
+
+ About Sony Semiconductor Solutions 
+
+ Sony Semiconductor Solutions Corporation is a
+wholly owned subsidiary of Sony Group Corporation and operates a semiconductor device business centered on image sensors. As a leading
+company in image sensors, it develops imaging technologies that provide convenience and enjoyment to individuals, and through advances
+in sensing technologies, expands the visual and recognition capabilities of people and machines, contributing to the creation of new
+value in society and industry. For more information, please visit: https://www.sony-semicon.com/en/ .
+
+ About TSMC 
+
+ TSMC pioneered the pure-play foundry business
+model when it was founded in 1987, and has been the world's leading dedicated semiconductor foundry ever since. The Company supports
+a thriving ecosystem of global customers and partners with the industry's leading process technologies and portfolio of design enablement
+solutions to unleash innovation for the global semiconductor industry. With global operations spanning Asia, Europe, and North America,
+TSMC serves as a committed corporate citizen around the world.
+
+ TSMC deployed 305 distinct process technologies,
+and manufactured 12,682 products for 534 customers in 2025 by providing the broadest range of advanced, specialty and advanced packaging
+technology services. The Company is headquartered in Hsinchu, Taiwan. For more information please visit https://www.tsmc.com .

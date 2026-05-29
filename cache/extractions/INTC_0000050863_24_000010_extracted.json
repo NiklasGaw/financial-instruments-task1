@@ -1,0 +1,89 @@
+{
+  "company": "Intel Corporation",
+  "ticker": "INTC",
+  "report_date": "2023-12-30",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Client Computing",
+      "revenue": 29.3,
+      "operating_income": 6.5,
+      "yoy_growth_pct": -8.0,
+      "sub_segments": [
+        {
+          "name": "Desktop",
+          "revenue": 10.2,
+          "yoy_growth_pct": -4.6
+        },
+        {
+          "name": "Notebook",
+          "revenue": 17.0,
+          "yoy_growth_pct": -9.5
+        },
+        {
+          "name": "Other",
+          "revenue": 2.1,
+          "yoy_growth_pct": -9.8
+        }
+      ]
+    },
+    {
+      "name": "Data Center and AI",
+      "revenue": 15.5,
+      "operating_income": -0.5,
+      "yoy_growth_pct": -20.2,
+      "sub_segments": []
+    },
+    {
+      "name": "Network and Edge",
+      "revenue": 5.8,
+      "operating_income": -0.5,
+      "yoy_growth_pct": -31.3,
+      "sub_segments": []
+    },
+    {
+      "name": "Mobileye",
+      "revenue": 2.1,
+      "operating_income": 0.7,
+      "yoy_growth_pct": 11.2,
+      "sub_segments": []
+    },
+    {
+      "name": "Intel Foundry Services",
+      "revenue": 1.0,
+      "operating_income": -0.5,
+      "yoy_growth_pct": 102.8,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 54.2,
+    "total_revenue_yoy_pct": -14.0,
+    "cost_of_revenue": 32.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 21.7,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 16.0,
+      "selling_general_administrative": 5.6
+    },
+    "total_operating_expenses": 21.7,
+    "operating_income": 0.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.7,
+    "income_before_tax": 0.8,
+    "tax_expense": -0.9,
+    "net_income": 1.7,
+    "net_income_yoy_pct": -78.9
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

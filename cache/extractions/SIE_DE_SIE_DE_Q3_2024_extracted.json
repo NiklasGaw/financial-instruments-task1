@@ -1,0 +1,77 @@
+{
+  "company": "Siemens AG",
+  "ticker": "SIE.DE",
+  "report_date": "2024-12-31",
+  "form_type": "Quarterly Report",
+  "fiscal_year": "",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Digital Industries",
+      "revenue": 4.1,
+      "operating_income": 0.8,
+      "yoy_growth_pct": 5.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Smart Infrastructure",
+      "revenue": 4.5,
+      "operating_income": 0.7,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Mobility",
+      "revenue": 2.8,
+      "operating_income": 0.2,
+      "yoy_growth_pct": 12.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Siemens Healthineers",
+      "revenue": 4.8,
+      "operating_income": 0.9,
+      "yoy_growth_pct": 4.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Siemens Financial Services",
+      "revenue": 0.8,
+      "operating_income": 0.1,
+      "yoy_growth_pct": 2.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Portfolio Companies",
+      "revenue": 1.9,
+      "operating_income": null,
+      "yoy_growth_pct": -1.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": null,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": null,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": null,
+    "tax_expense": null,
+    "net_income": null,
+    "net_income_yoy_pct": null
+  },
+  "notes": "Two-pass LLM extraction."
+}

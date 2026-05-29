@@ -1,0 +1,63 @@
+{
+  "company": "AppLovin Corp.",
+  "ticker": "APP",
+  "report_date": "2021-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2021",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Advertising",
+      "revenue": 0.7,
+      "operating_income": null,
+      "yoy_growth_pct": 225.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Apps",
+      "revenue": 2.1,
+      "operating_income": null,
+      "yoy_growth_pct": 80.0,
+      "sub_segments": [
+        {
+          "name": "In-App Purchases Revenue",
+          "revenue": 1.5,
+          "yoy_growth_pct": 97.0
+        },
+        {
+          "name": "In-App Advertising Revenue",
+          "revenue": 0.7,
+          "yoy_growth_pct": 31.0
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 2.8,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue": 1.0,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 1.8,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.4,
+      "selling_general_administrative": 1.3
+    },
+    "total_operating_expenses": 1.6,
+    "operating_income": 0.2,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.2,
+    "income_before_tax": 0.0,
+    "tax_expense": 0.0,
+    "net_income": 0.0,
+    "net_income_yoy_pct": null
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 60
+}

@@ -1,0 +1,56 @@
+{
+  "company": "Siemens AG",
+  "ticker": "SIE.DE",
+  "report_date": "2024-12-31",
+  "form_type": "Quarterly Report",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q1",
+  "currency": "EUR",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Digital Industries",
+      "revenue": 4.6,
+      "operating_income": 0.9,
+      "yoy_growth_pct": 0.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Smart Infrastructure",
+      "revenue": 4.8,
+      "operating_income": 0.9,
+      "yoy_growth_pct": 9.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Mobility",
+      "revenue": 2.7,
+      "operating_income": 0.3,
+      "yoy_growth_pct": 12.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 18.4,
+    "total_revenue_yoy_pct": 6.0,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": null,
+    "operating_income": 2.7,
+    "operating_income_yoy_pct": 3.0,
+    "other_income_expense": 0.5,
+    "income_before_tax": null,
+    "tax_expense": null,
+    "net_income": 2.5,
+    "net_income_yoy_pct": 56.0
+  },
+  "notes": "Two-pass LLM extraction."
+}

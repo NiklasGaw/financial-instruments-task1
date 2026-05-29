@@ -1,0 +1,38 @@
+{
+  "ticker": "CAT",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Construction Industries",
+      "sub_segments": []
+    },
+    {
+      "name": "Resource Industries",
+      "sub_segments": []
+    },
+    {
+      "name": "Power & Energy",
+      "sub_segments": [
+        "Oil and Gas",
+        "Power Generation",
+        "Industrial",
+        "Transportation",
+        "Other Power & Energy"
+      ]
+    },
+    {
+      "name": "Financial Products Segment",
+      "sub_segments": []
+    },
+    {
+      "name": "Energy & Transportation",
+      "sub_segments": [
+        "Oil and gas",
+        "Power generation",
+        "Industrial",
+        "Transportation",
+        "Other Energy & Transportation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "company": "Meta Platforms Inc.",
+  "ticker": "META",
+  "report_date": "2023-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Family of Apps",
+      "revenue": 39.1,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Advertising",
+          "revenue": 38.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other revenue",
+          "revenue": 0.4,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Reality Labs",
+      "revenue": 1.1,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 40.2,
+    "cost_of_revenue": 7.8,
+    "gross_profit": 32.4,
+    "total_operating_expenses": 15.9,
+    "operating_income": 16.5,
+    "other_income_expense": 0.3,
+    "income_before_tax": 16.8,
+    "tax_expense": 2.8,
+    "net_income": 14.0,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 10.6,
+      "selling_general_administrative": 5.6
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 100,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

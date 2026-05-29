@@ -1,0 +1,47 @@
+{
+  "ticker": "WFC",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Consumer Banking and Lending",
+      "sub_segments": [
+        "Consumer, Small and Business Banking",
+        "Home Lending",
+        "Credit Card",
+        "Auto",
+        "Personal Lending"
+      ]
+    },
+    {
+      "name": "Commercial Banking",
+      "sub_segments": [
+        "Lending and leasing",
+        "Treasury management and payments",
+        "Other",
+        "Middle Market Banking",
+        "Asset-Based Lending and Leasing"
+      ]
+    },
+    {
+      "name": "Corporate and Investment Banking",
+      "sub_segments": [
+        "Banking - Lending",
+        "Banking - Treasury Management and Payments",
+        "Banking - Investment Banking",
+        "Commercial Real Estate",
+        "Markets - Fixed Income, Currencies, and Commodities",
+        "Markets - Equities",
+        "Other",
+        "Banking: Lending",
+        "Banking: Treasury Management and Payments",
+        "Banking: Investment Banking",
+        "Markets: Fixed Income, Currencies, and Commodities (FICC)",
+        "Markets: Equities"
+      ]
+    },
+    {
+      "name": "Wealth and Investment Management",
+      "sub_segments": []
+    }
+  ]
+}

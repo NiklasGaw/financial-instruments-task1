@@ -1,0 +1,59 @@
+{
+  "company": "McDonald's Corporation",
+  "ticker": "MCD",
+  "report_date": "2024-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Franchised restaurants",
+      "revenue": 15.7,
+      "operating_income": 13.2,
+      "yoy_growth_pct": 2.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Company-owned and operated restaurants",
+      "revenue": 9.8,
+      "operating_income": 1.4,
+      "yoy_growth_pct": 0.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Other revenues",
+      "revenue": 0.4,
+      "operating_income": null,
+      "yoy_growth_pct": 34.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 25.9,
+    "total_revenue_yoy_pct": 1.7,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 2.9
+    },
+    "total_operating_expenses": 2.9,
+    "operating_income": 11.7,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.4,
+    "income_before_tax": 10.3,
+    "tax_expense": 2.1,
+    "net_income": 8.2,
+    "net_income_yoy_pct": -2.9
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

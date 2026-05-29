@@ -1,0 +1,47 @@
+{
+  "company": "Amazon.com Inc.",
+  "ticker": "AMZN",
+  "report_date": "2024-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "AWS",
+      "revenue": 28.8,
+      "operating_income": 10.7,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 187.8,
+    "cost_of_revenue": 98.9,
+    "gross_profit": 88.9,
+    "total_operating_expenses": 67.7,
+    "operating_income": 21.2,
+    "other_income_expense": 1.1,
+    "income_before_tax": 22.4,
+    "tax_expense": 2.3,
+    "net_income": 20.0,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 3.0,
+      "other_operating": 64.7
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 70,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

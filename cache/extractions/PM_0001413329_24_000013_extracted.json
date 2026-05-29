@@ -1,0 +1,99 @@
+{
+  "company": "Philip Morris International",
+  "ticker": "PM",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "SSEA, CIS & MEA",
+      "revenue": 10.6,
+      "operating_income": 3.0,
+      "yoy_growth_pct": 1.5,
+      "sub_segments": [
+        {
+          "name": "Combustible tobacco products",
+          "revenue": 9.3,
+          "yoy_growth_pct": 1.6
+        },
+        {
+          "name": "Smoke-free products excluding Wellness and Healthcare",
+          "revenue": 1.3,
+          "yoy_growth_pct": 1.1
+        }
+      ]
+    },
+    {
+      "name": "EA, AU & PMI DF",
+      "revenue": 6.2,
+      "operating_income": 2.5,
+      "yoy_growth_pct": 4.5,
+      "sub_segments": [
+        {
+          "name": "Combustible tobacco products",
+          "revenue": 2.7,
+          "yoy_growth_pct": -5.5
+        },
+        {
+          "name": "Smoke-free products excluding Wellness and Healthcare",
+          "revenue": 3.5,
+          "yoy_growth_pct": 13.5
+        }
+      ]
+    },
+    {
+      "name": "Swedish Match",
+      "revenue": 2.5,
+      "operating_income": 0.8,
+      "yoy_growth_pct": 689.9,
+      "sub_segments": [
+        {
+          "name": "Combustible tobacco products",
+          "revenue": 0.4,
+          "yoy_growth_pct": 515.7
+        },
+        {
+          "name": "Smoke-free products excluding Wellness and Healthcare",
+          "revenue": 2.1,
+          "yoy_growth_pct": 739.4
+        }
+      ]
+    },
+    {
+      "name": "Wellness and Healthcare",
+      "revenue": 0.3,
+      "operating_income": null,
+      "yoy_growth_pct": 12.9,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 35.2,
+    "total_revenue_yoy_pct": 10.7,
+    "cost_of_revenue": 12.9,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 22.3,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.7,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": 0.7,
+    "operating_income": 11.6,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.5,
+    "income_before_tax": 10.4,
+    "tax_expense": 2.3,
+    "net_income": 7.8,
+    "net_income_yoy_pct": -13.6
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

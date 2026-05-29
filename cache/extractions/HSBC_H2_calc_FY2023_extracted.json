@@ -1,0 +1,68 @@
+{
+  "company": "HSBC Holdings plc",
+  "ticker": "HSBC",
+  "report_date": "2023-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "H2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Wealth and Personal Banking",
+      "revenue": 12.3,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Commercial Banking",
+      "revenue": 11.8,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Global Banking and Markets",
+      "revenue": 8.0,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Corporate Centre",
+      "revenue": 1.6,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 33.7,
+    "cost_of_revenue": null,
+    "gross_profit": null,
+    "total_operating_expenses": 24.9,
+    "operating_income": 8.8,
+    "other_income_expense": -2.1,
+    "income_before_tax": 9.9,
+    "tax_expense": null,
+    "net_income": 6.9,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null,
+      "other_operating": 32.4
+    }
+  },
+  "notes": "Calculated as FY minus H1 (second half-year)",
+  "_quality_score": 90,
+  "_synthetic_q4": true,
+  "_is_bank": true,
+  "_needs_retry": false
+}

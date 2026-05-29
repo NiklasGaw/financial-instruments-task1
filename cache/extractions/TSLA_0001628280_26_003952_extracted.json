@@ -1,0 +1,75 @@
+{
+  "company": "Tesla Inc.",
+  "ticker": "TSLA",
+  "report_date": "2025-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Automotive",
+      "revenue": 69.5,
+      "operating_income": null,
+      "yoy_growth_pct": -9.8,
+      "sub_segments": [
+        {
+          "name": "Automotive sales",
+          "revenue": 65.8,
+          "yoy_growth_pct": -9.2
+        },
+        {
+          "name": "Automotive regulatory credits",
+          "revenue": 2.0,
+          "yoy_growth_pct": -27.9
+        },
+        {
+          "name": "Automotive leasing",
+          "revenue": 1.7,
+          "yoy_growth_pct": -6.3
+        }
+      ]
+    },
+    {
+      "name": "Energy Generation and Storage",
+      "revenue": 12.8,
+      "operating_income": null,
+      "yoy_growth_pct": 26.6,
+      "sub_segments": []
+    },
+    {
+      "name": "Services and Other",
+      "revenue": 12.5,
+      "operating_income": null,
+      "yoy_growth_pct": 19.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 94.8,
+    "total_revenue_yoy_pct": -2.9,
+    "cost_of_revenue": 77.7,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 17.1,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 6.4,
+      "selling_general_administrative": 5.8
+    },
+    "total_operating_expenses": 12.2,
+    "operating_income": 4.4,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.8,
+    "income_before_tax": 5.3,
+    "tax_expense": 1.4,
+    "net_income": 3.8,
+    "net_income_yoy_pct": -46.5
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

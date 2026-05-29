@@ -1,0 +1,126 @@
+{
+  "company": "AbbVie Inc.",
+  "ticker": "ABBV",
+  "report_date": "2025-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Immunology",
+      "revenue": 8.6,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Skyrizi",
+          "revenue": 5.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Rinvoq",
+          "revenue": 2.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Humira",
+          "revenue": 1.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Neuroscience",
+      "revenue": 7.9,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Vraylar",
+          "revenue": 1.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Botox Therapeutic",
+          "revenue": 1.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Neuroscience",
+          "revenue": -1.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Neuroscience",
+          "revenue": 2.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Neuroscience",
+          "revenue": 4.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Oncology",
+      "revenue": 1.7,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Imbruvica",
+          "revenue": 0.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Venclexta",
+          "revenue": 0.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Oncology",
+          "revenue": 0.3,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Other Key Products",
+      "revenue": 0.6,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 16.7,
+    "cost_of_revenue": 4.6,
+    "gross_profit": 12.1,
+    "total_operating_expenses": 7.5,
+    "operating_income": 4.6,
+    "other_income_expense": -1.9,
+    "income_before_tax": 2.6,
+    "tax_expense": 0.9,
+    "net_income": 1.8,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 3.8,
+      "other_operating": 3.7
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 80,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

@@ -1,0 +1,945 @@
+6-K
+ 1
+ tm2613222d2_6k.htm
+ FORM 6-K
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ WASHINGTON,
+D. C. 20549 
+
+ FORM 6-K 
+
+ REPORT
+OF FOREIGN PRIVATE ISSUER 
+
+ Pursuant
+to Rule 13a-16 or 15d-16 of 
+
+ the
+Securities Exchange Act of 1934 
+
+ For
+the month of May 2026 
+
+ Commission
+File Number: 001-06439 
+
+ SONY
+GROUP CORPORATION 
+
+ (Translation
+of registrant's name into English) 
+
+ 1-7-1 KONAN, MINATO-KU, TOKYO, 108-0075, JAPAN 
+
+ (Address
+of principal executive offices) 
+
+ The
+registrant files annual reports under cover of Form 20-F. 
+
+ Indicate
+by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F, 
+
+ Form 20-F
+ &#120; 
+ Form 40-F
+ &#168; 
+
+ SIGNATURE 
+
+ Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. 
+
+ SONY
+ GROUP CORPORATION 
+
+ (Registrant) 
+
+ By: 
+ /s/
+ Lin Tao 
+
+ &emsp;&ensp;(Signature) 
+
+ Lin Tao 
+
+ Chief Financial Officer 
+
+ Date: May 8, 2026 
+
+ List
+ of Materials 
+
+ Documents attached
+hereto: 
+
+ FY2025 Consolidated Financial Results (the presentation material for
+the earnings announcement)
+
+ FY2025 Consolidated Financial Results
+(Fiscal year ended March 31, 2026)
+Sony Group Corporation
+May 8, 2026 
+
+ 1
+Changes in Disclosure Classification of Consolidated Results
+*1 From Q1 FY25, the results for FY24, the comparative period, have been re-presented to conform to the classification of continuing operations and the discontinued operation in accordance with IFRS Accounting
+Standards (applies to all following pages).
+*2 The difference in results of Continuing Operations and results of &#x201C;Sony without Financial Services&#x201D; is the amount equivalent to intersegment transactions between the Financial Services segment and other segments,
+and such difference is immaterial. This difference also applies to operating cash flows.
+*3 The difference in results of the Financial Services segment before being classified as a discontinued operation and results of the Financial Services business after being classified as a discontinued operation is the
+amount equivalent to depreciation and amortization expenses of the Financial Services segment.
+ Effective October 1, 2025, Sony Group Corporation executed a partial spin-off (the &#x201C;Spin-off&#x201D;) of Sony Financial Group Inc. (&#x201C;SFGI&#x201D;), a formerly wholly-owned
+subsidiary which operates the Financial Services business. As a result of the resolution of the Board of Directors of Sony Group Corporation on May 14, 2025
+on a plan for the execution of the Spin-off, Sony has classified the Financial Services business as a discontinued operation in accordance with IFRS&#xAE;
+Accounting Standards as issued by the International Accounting Standards Board (&#x201C;IFRS Accounting Standards&#x201D;) from Q1 FY25, and presented it separately
+from continuing operations excluding the Financial Services business.
+ From Q3 FY25, Sony has applied the equity method to the Financial Services business (SFGI shares that Sony Group Corporation continues to hold), and has
+recorded profit or loss from SFGI shares accounted for using the equity method as operating income or loss in continuing operations.
+Previous Disclosure Classification Disclosure Classification Before
+the Execution of the Spin-off (1H FY25)
+Disclosure Classification After
+the Execution of the Spin-off (2H FY25)
+FY24*1 FY25
+G&NS
+Music
+Pictures
+ET&S
+I&SS
+All other /
+Corporate and elimination*2
+Financial Services*3
+Consolidated
+Sony without Financial Services*2
+G&NS
+Music
+Pictures
+ET&S
+I&SS
+All other /
+Corporate and elimination*2
+Consolidated
+Continuing Operations*2
+Discontinued Operation*3
+G&NS
+Music
+Pictures
+ET&S
+I&SS
+Consolidated
+Continuing Operations*2
+All other /
+Corporate and elimination
+Profit or loss from SFGI
+shares accounted for using
+the equity method 
+
+ 2
+FY2025 Results for Continuing Operations*1
+(Bln Yen) FY24 FY25 Change
+Sales 12,034.9 12,479.6 +444.7
+(+4%)
+Operating income 1,276.6 1,447.5 +170.9
+(+13%)
+Operating income margin 10.6% 11.6% +1.0 pts
+Income before income taxes 1,343.2 1,422.4 +79.2
+(+6%)
+Net income attributable to Sony Group
+Corporation&#x2019;s stockholders 1,067.4 1,030.9 -36.5
+(-3%)
+Net income attributable to Sony Group
+Corporation&#x2019;s stockholders per share of
+common stock&#xFF08;diluted&#xFF09;*2
+175.71 yen 171.44 yen -4.27 yen
+Operating Cash Flow 1,971.3 1,966.3 -5.1
+(-0%)
+Average Rate
+1 US dollar 152.5 yen 150.7 yen
+1 Euro 163.6 yen 174.7 yen
+Dividend per Share*3
+Interim Year-end Total Year-on-year
+Change
+12.5 yen 12.5 yen 25 yen +5 yen
+*1 The above results represent the results for continuing operations. For FY25 results on a consolidated basis including the discontinued operation, refer to &#x201C;Consolidated Financial Summary for the Fiscal Year Ended March
+31, 2026&#x201D; (applies to all following pages).
+*2 Sony Group Corporation conducted a five-for-one stock split of its common stock effective October 1, 2024, with a record date of September 30, 2024. The above figures for Net income attributable to Sony Group
+Corporation&#x2019;s stockholders per share of common stock (diluted) are calculated based on the assumption that the stock split was conducted at the beginning of FY24 (applies to all following pages).
+*3 The above year-on-year change amount of dividend per share represents the amount after the stock split. In addition, the amounts of dividend per share do not include the dividends in kind of the shares of SFGI from
+the Spin-off in FY25. 
+
+ 3
+FY2025 Consolidated Results for Continuing Operations: Year-on-year change
+Year-on-year
+Change
+Contributing Factors
+(+) Better&#xFF0F;(-) Worse
+Sales +444.7 bln yen
++4%
+(+) Increases in I&SS and Music segments sales
+On a constant currency basis*, sales increased approximately 3%
+Share of profit (loss) of
+investments accounted
+for using the equity
+method
+-56.3 bln yen
+(&#xFF0D;) Recording of an additional share of loss of investments accounted for
+using the equity method in All Other, resulting from the discontinuation
+of the launch of Sony Honda Mobility&#x2019;s electric vehicle models
+(44.9 bln yen)
+Operating income +170.9 bln yen
++13% (+) Increases in I&SS and Music segments operating income
+Financial income and
+expenses, net -91.7 bln yen (&#xFF0D;) Decrease in unrealized gains mainly on Sony&#x2019;s shares of Spotify
+Technology S.A.
+Income tax expense +109.6 bln yen
+(&#xFF0D;) Absence of decrease in tax expense from the repayment of capital
+from a subsidiary in FY24 (48.4 bln yen)
+(&#xFF0D;) Absence of decrease in tax expense from the dissolution of a
+subsidiary in FY24 (35.3 bln yen)
+Effective tax rate
+19%&#x2192;26%
+* For further details about the impact of foreign exchange rate fluctuations on sales and operating income (loss), refer to page 26 (applies to all following pages). 
+
+ 4
+FY2025 Results by Segment
+(Bln Yen) FY24 FY25 Change FX Impact
+Game & Network Services
+(G&NS)
+Sales 4,670.0 4,685.7 +15.6 +87.3
+Operating income 414.8 463.3 +48.4 +54.3
+Music
+Sales 1,842.6 2,120.1 +277.5 -16.9
+Operating income 357.3 447.0 +89.7
+Pictures
+Sales 1,505.9 1,499.3 -6.7 -9.9
+Operating income 117.3 104.9 -12.4
+Entertainment, Technology &#xFF06;
+Services (ET&S)
+Sales 2,409.3 2,260.5 -148.7 +7.1
+Operating income 190.9 158.6 -32.3 +5.3
+Imaging &#xFF06; Sensing Solutions
+(I&SS)
+Sales 1,799.0 2,151.5 +352.5 -15.0
+Operating income 261.1 357.3 +96.2 -12.5
+All Other
+Sales 96.3 89.1 -7.3
+Operating income -18.0 -74.6 -56.7
+Corporate and elimination
+Sales -288.3 -326.6 -38.3
+Operating income -46.8 -8.9 +37.9
+Continuing Operations
+Sales 12,034.9 12,479.6 +444.7
+Operating income 1,276.6 1,447.5 +170.9
+Sales in each business segment represent sales recorded before intersegment transactions are eliminated (applies to all following pages).
+Operating income in each business segment represents operating income recorded before intersegment transactions are eliminated and excludes unallocated corporate expenses (applies to all following pages). 
+
+ 5 * The additional losses have been recorded in FY2025 and are expected to be recorded in FY2026. These losses are already incorporated in the FY2026 operating income forecast.
+Change in FY2025 Continuing Operations Operating Income (vs. February FCT)
+-88.6 -9.6 -27.1 -21.2
+-44.9
+February
+FCT
+G&NS Music Pictures I&SS All Other Actual
+Even though costs to streamline risk assets
+and strengthen the business foundation increased,
+business performance remained solid.
+Impairment losses
+against Bungie,
+Inc.&#x2019;s intangible
+and other assets
+(Bln Yen)
+1,540
+1,447.5
+Lower remeasurement gain from the acquisition
+of additional equity interest in Peanuts Holdings
+LLC
+Higher remeasurement gain from the acquisition
+of additional equity interest in an affiliate
+previously accounted for using the equity method
+Impairment losses against assets
+associated with Pixomondo, which
+operates VFX and virtual production
+businesses, and related shutdown
+costs
+Impairment losses against a portion
+of the display device business&#x2019;s long-lived assets
+Higher losses associated with the
+sale of an equity interest in Sony
++99.0 Semiconductor Israel Ltd.
+Improvement driven
+mainly by G&NS/I&SS
+segments
+Additional losses as a result
+of the discontinuation of
+Sony Honda Mobility&#x2019;s EV
+model launch and the
+downsizing of the business*
+1,639.0 
+
+ 6
+Q4 FY2025 Results for Continuing Operations
+(Bln Yen) Q4 FY24 Q4 FY25 Change
+Sales 2,804.9 3,036.4 +231.5
+(+8%)
+Operating income 215.2 163.5 -51.7
+(-24%)
+Operating income margin 7.7% 5.4% -2.3 pts
+Income before income taxes 224.1 123.8 -100.3
+(-45%)
+Net income attributable to Sony Group
+Corporation&#x2019;s stockholders 224.4 83.1 -141.3
+(-63%)
+Net income attributable to Sony Group
+Corporation&#x2019;s stockholders per share of
+common stock&#xFF08;diluted&#xFF09;
+37.04 yen 13.93 yen -23.11 yen
+Average Rate
+1 US dollar 152.6 yen 156.7 yen
+1 Euro 160.4 yen 183.6 yen 
+
+ 7
+Q4 FY2025 Results by Segment
+(Bln Yen) Q4 FY24 Q4 FY25 Change FX Impact
+Game & Network Services
+(G&NS)
+Sales 1,051.3 1,022.4 -28.9 +56.1
+Operating income 92.7 54.1 -38.6 +14.7
+Music
+Sales 470.7 570.0 +99.3 +11.6
+Operating income 83.6 132.4 +48.8
+Pictures
+Sales 414.6 472.9 +58.3 +14.4
+Operating income 53.5 41.5 -12.0
+Entertainment, Technology &#xFF06;
+Services (ET&S)
+Sales 484.1 492.4 +8.4 +19.0
+Operating income -20.4 -4.9 +15.5 +6.9
+Imaging &#xFF06; Sensing Solutions
+(I&SS)
+Sales 409.0 524.4 +115.3 +13.1
+Operating income 34.5 32.8 -1.7 +6.5
+All Other
+Sales 25.6 20.7 -4.9
+Operating income -9.8 -67.6 -57.8
+Corporate and elimination
+Sales -50.3 -66.3 -16.0
+Operating income -18.9 -24.8 -5.8 .
+Continuing Operations
+Sales 2,804.9 3,036.4 +231.5
+Operating income 215.2 163.5 -51.7 
+
+ 8
+FY2026 Consolidated Results Forecast
+(Bln Yen) FY25 FY26 FCT Change from FY25
+Sales 12,479.6 12,300 -179.6
+(-1%)
+Operating income 1,447.5 1,600 +152.5
+(+11%)
+Operating income margin 11.6% 13.0% +1.4 pts
+Income before income taxes 1,422.4 1,615 +192.6
+(+14%)
+Net income attributable to Sony Group
+Corporation&#x2019;s stockholders*1 1,030.9 1,160 +129.1
+&#xFF08;+13%&#xFF09;
+Operating Cash Flow*1 1,966.3 1,500 -466.3
+&#xFF08;-24%&#xFF09;
+Foreign exchange rate Actual&#x30FB;Average Assumption
+1 US dollar 150.7 yen Approx. 150 yen
+1 Euro 174.7 yen Approx. 173 yen
+*1 Net income attributable to Sony Group Corporation&#x2019;s stockholders and Operating Cash Flow for FY25 represent the figures for continuing operations. As net income (loss) and operating cash flow from discontinued
+operations are not expected to be incurred in the FY26 forecast, there is no difference between the figures for continuing operations and the consolidated figures (applies to all following pages).
+*2 Year-on-year Change of the above dividend forecast does not include the dividends in kind of the shares of SFGI from the Spin-off in FY25.
+Dividend per Share (Planned)
+Interim Year-end Total Year-on-year
+Change*2
+17.5 yen 17.5 yen 35 yen +10 yen 
+
+ 9
+FY2026 Consolidated Results Forecast: Change from FY2025
+Year-on-year
+Change
+Contributing Factors
+(+) Better&#xFF0F;(-) Worse
+Sales -179.6 bln yen
+-1 % &#xFF08;&#xFF0D;&#xFF09;Decrease in G&NS segment sales
+Operating Income +152.5 bln yen
++11 % &#xFF08;&#xFF0B;&#xFF09;Increase in G&NS segment operating income
+Income before income taxes +192.6 bln yen
++14 %
+&#xFF08;&#xFF0B;&#xFF09;Increase in operating income
+&#xFF08;&#xFF0B;&#xFF09;Improvement in financial income and expenses, as a result of
+foreign exchange gains and losses not being included in the
+forecast
+Net income attributable to
+Sony Group Corporation&#x2019;s
+stockholders
++129.1 bln yen
++13 % &#xFF08;&#xFF0B;&#xFF09;Increase in income before income taxes 
+
+ 10
+FY2026 Results Forecast by Segment
+(Bln Yen)
+FY25 FY26 FCT Change
+Game & Network Services
+(G&NS)
+Sales 4,685.7 4,420 -265.7
+Operating income 463.3 600 +136.7
+Music
+Sales 2,120.1 2,140 +19.9
+Operating income 447.0 400 -47.0
+Pictures
+Sales 1,499.3 1,630 +130.7
+Operating income 104.9 145 +40.1
+Entertainment, Technology &#xFF06;
+Services (ET&S)
+Sales 2,260.5 2,250 -10.5
+Operating income 158.6 150 -8.6
+Imaging &#xFF06; Sensing Solutions
+(I&SS)
+Sales 2,151.5 2,070 -81.5
+Operating income 357.3 400 +42.7
+All Other, Corporate and
+elimination Operating Income -83.5 -95 -11.5
+Consolidated
+Sales 12,479.6 12,300 -179.6
+Operating income 1,447.5 1,600 +152.5 
+
+ 11
+Game & Network Services Segment
+FY2025 (year-on-year)
+ Sales: Essentially flat
+(FX Impact: +87.3 bln yen)
+&#xFF08;&#xFF0B;&#xFF09;Impact of foreign exchange rates
+&#xFF08;&#xFF0B;&#xFF09;Increase in sales from network services
+&#xFF08;&#xFF0B;&#xFF09;Increase in sales of non-first-party game software titles
+&#xFF08;&#xFF0D;&#xFF09;Decrease in sales of hardware due to a decrease in unit
+sales
+ OI: 48.4 bln yen (12%) increase
+(FX Impact: +54.3 bln yen)
+&#xFF08;&#xFF0B;&#xFF09;Impact of increase in sales from network services
+&#xFF08;&#xFF0B;&#xFF09;Positive impact of foreign exchange rates
+&#xFF08;&#xFF0D;&#xFF09;Recording of impairment losses against Bungie, Inc.&#x2019;s
+intangible and other assets (Q2: 31.5 bln yen, Q4: 88.6
+bln yen, FY25 total: 120.1 bln yen)
+Sales, Operating Income and
+Adjusted OIBDA
+ Operating income reached a record high for the segment and increased 45% year-on-year excluding one-time items*1
+.
+ User engagement remained solid, with Monthly Active Users*2 in March increasing 1% year-on-year to 125 million
+accounts, a record high for Q4, and total play time in Q4 FY25 increasing 1% year-on-year.
+4,670.0 4,685.7
+414.8 463.3 537.7
+719.8
+FY24 FY25
+&#xFF08;Bln Yen&#xFF09;
+Sales Operating Income Adjusted OIBDA
+*1 Impairment losses against Bungie, Inc.&#x2019;s intangible and other assets (120.1 bln yen) and expenses resulting from a correction in the amount of certain previously capitalized development costs (18.3 bln yen) recorded in FY25.
+*2 Monthly Active Users is an estimated total number of unique accounts that played games or used services online on PlayStation during the last month of the quarter and is based on company research and may be updated in the
+future.
+Adjusted OIBDA is not a measure in accordance with IFRS Accounting Standards. However, Sony Group Corporation and its consolidated subsidiaries (&#x201C;Sony&#x201D;) believe that this disclosure may be useful information to investors. For the
+formula for Adjusted OIBDA, see page 26. For its reconciliation, see &#x201C;Supplemental Information for the Consolidated Financial Results for the Fourth Quarter Ended March 31, 2026&#x201D; (applies to all following pages). 
+
+ 12
+FY2026 Forecast (year-on-year)
+ Sales: 265.7 bln yen (6%) decrease
+&#xFF08;&#xFF0D;&#xFF09;Decrease in sales of hardware due to a decrease in unit
+sales
+&#xFF08;&#xFF0B;&#xFF09;Increase in sales of first-party game software titles
+ OI: 136.7 bln yen (30%) increase
+&#xFF08;&#xFF0B;&#xFF09;Absence of impairment losses against Bungie, Inc.&#x2019;s
+intangible and other assets recorded in FY25 (120.1 bln
+yen)
+&#xFF08;&#xFF0B;&#xFF09;Impact of increase in sales of first-party game software
+titles
+&#xFF08;&#xFF0D;&#xFF09;Increase in costs
+* Impairment losses against Bungie, Inc.&#x2019;s intangible and other assets (120.1 bln yen) and expenses resulting from a correction in the amount of certain previously capitalized development costs (18.3 bln yen) recorded in FY25.
+Sales, Operating Income and
+Adjusted OIBDA
+ Compared to the FY25 operating income results excluding one-time items*
+, the FY26 operating income forecast is
+essentially flat year-on-year, which is due to the incorporation of an increase in investments for the next-generation
+platform. Excluding these factors, profit generated by our current business is expected to grow steadily at a double-digit rate.
+ We plan to base our PS5 hardware sales in FY26 on the volume of memory we can procure at reasonable prices and we
+expect hardware profitability to be essentially the same as FY25.
+4,685.7 4,420
+463.3
+600 719.8 705
+FY25 FY26 FCT
+&#xFF08;Bln Yen&#xFF09;
+Game & Network Services Segment
+Sales Operating Income Adjusted OIBDA 
+
+ 13
+Music Segment
+FY2025 (year-on-year)
+ Sales: 277.5 bln yen (15%) increase
+(FX Impact: -16.9 bln yen)
+&#xFF08;&#xFF0B;&#xFF09;Higher revenues from streaming services in Recorded Music
+and Music Publishing
+&#xFF08;&#xFF0B;&#xFF09;Higher revenues from live events and merchandising in
+Recorded Music
+&#xFF08;&#xFF0B;&#xFF09;Higher revenues in Visual Media & Platform
+&#xFF08;+&#xFF09;Contributions from Demon Slayer: Kimetsu no Yaiba
+Infinity Castle and Kokuho released in FY25
+&#xFF08;+&#xFF09;Higher revenues from game applications, mainly for
+mobile
+ OI: 89.7 bln yen (25%) increase
+&#xFF08;&#xFF0B;&#xFF09;Impact of increase in sales
+&#xFF08;&#xFF0B;&#xFF09;Recording of remeasurement gain from the acquisition of
+additional equity interest in Peanuts Holdings LLC
+(34.7 bln yen)
+Sales, Operating Income and
+Adjusted OIBDA
+ Even when excluding one-time items*, operating income reached a record high.
+ FY25 full-year streaming revenue growth rates on a U.S. dollar basis were +9% year-on-year for Recorded Music and
++14% for Music Publishing.
+1,842.6
+2,120.1
+357.3
+449.1 447.0 507.8
+FY24 FY25
+&#xFF08;Bln Yen&#xFF09;
+Sales Operating Income Adjusted OIBDA
+* Remeasurement gains from the acquisition of additional equity interest in Peanuts Holdings LLC (34.7 bln yen) and an affiliate previously accounted for using the equity method (7.2 bln) 
+
+ 14
+Music Segment
+FY2026 Forecast (year-on-year)
+ Sales: Essentially flat
+&#xFF08;&#xFF0B;&#xFF09;Higher revenues from streaming services in Recorded
+Music and Music Publishing
+&#xFF08;&#xFF0D;&#xFF09;Lower revenues from live events and merchandising in
+Recorded Music
+&#xFF08;&#xFF0D;&#xFF09;Lower revenues in Visual Media & Platform
+&#xFF08;&#xFF0D;&#xFF09;Lower revenues from game applications, mainly for mobile
+&#xFF08;&#xFF0D;&#xFF09;Decrease in contributions from Demon Slayer: Kimetsu
+no Yaiba Infinity Castle and Kokuho released in FY25
+ OI: 47 bln yen (11%) decrease
+&#xFF08;&#xFF0D;&#xFF09;Absence of the recording of remeasurement gains
+associated with investments made in FY25
+&#xFF08;&#xFF0D;&#xFF09;Impact of lower revenues in Visual Media & Platform
+&#xFF08;&#xFF0B;&#xFF09;Impact of the above-mentioned higher revenues from
+streaming services
+* Remeasurement gains from the acquisition of additional equity interest in Peanuts Holdings LLC (34.7 bln yen) and an affiliate previously accounted for using the equity method (7.2 bln)
+Sales, Operating Income and
+Adjusted OIBDA
+ Excluding one-time items* recorded in FY25, operating income is expected to be at the same level, primarily because
+growth in streaming revenue is expected to be offset mainly by the absence of the prior fiscal year hit Demon Slayer:
+Kimetsu no Yaiba Infinity Castle.
+2,120.1 2,140
+447 400
+507.8 510
+FY25 FY26 FCT
+&#xFF08;Bln Yen&#xFF09;
+Sales Operating Income Adjusted OIBDA 
+
+ 15
+Pictures Segment
+FY2025 (year-on-year)
+The following analysis is on a U.S. dollar basis
+ Sales: Essentially flat
+(U.S. dollar basis: +18 mil USD / +0%)
+&#xFF08;&#xFF0B;&#xFF09;Higher revenues from Crunchyroll mainly due to paid
+subscriber growth and the worldwide theatrical
+distribution of Demon Slayer: Kimetsu no Yaiba Infinity
+Castle*
+&#xFF08;&#xFF0B;&#xFF09;Increase in series deliveries in Television Productions
+&#xFF08;&#xFF0D;&#xFF09;Lower revenues from theatrical releases in the current
+fiscal year in Motion Pictures
+ OI: 12.4 bln yen (11%) decrease
+(U.S. dollar basis: -87 mil USD / -11%)
+&#xFF08;&#xFF0D;&#xFF09;Impairment losses against assets associated with
+Pixomondo, which operates VFX and virtual production
+businesses, and related shutdown costs (27.1 bln yen)
+&#xFF08;&#xFF0D;&#xFF09;Impact of decrease in sales for Motion Pictures
+&#xFF08;&#xFF0B;&#xFF09;Higher contribution from catalog product in Motion
+Pictures
+&#xFF08;&#xFF0B;&#xFF09;Impact of higher revenues from Crunchyroll
+*Crunchyroll and Sony Pictures distributed the film theatrically worldwide, excluding Japan and select Asian territories.
+Sales, Operating Income and
+Adjusted OIBDA
+ FY25 operating income on a yen basis increased approximately 13% year-on-year excluding the impairment losses against
+assets associated with Pixomondo, and related shutdown costs.
+1,505.9 1,499.3
+117.3 104.9
+174.3 185.5
+FY24 FY25
+&#xFF08;Bln Yen&#xFF09;
+Sales Operating Income Adjusted OIBDA 
+
+ 16
+Pictures Segment
+FY2026 Forecast (year-on-year)
+ Sales: 130.7 bln yen&#xFF08;9%&#xFF09;increase
+&#xFF08;&#xFF0B;&#xFF09;Higher revenues from theatrical releases in the current
+fiscal year including several franchise films in Motion
+Pictures
+&#xFF08;&#xFF0B;&#xFF09;Higher revenues for Crunchyroll mainly due to paid
+subscriber growth
+&#xFF08;&#xFF0D;&#xFF09;Lower series deliveries in Television Productions
+&#xFF08;&#xFF0D;&#xFF09;Impact of foreign exchange rates
+&#xFF08;&#xFF0D;&#xFF09;Lower licensing revenues from catalog product in Motion
+Pictures
+ OI: 40.1 bln yen&#xFF08;38%&#xFF09;increase
+&#xFF08;&#xFF0B;&#xFF09;Impact of increase in sales
+&#xFF08;&#xFF0B;&#xFF09;Absence of impairment losses against assets associated
+with Pixomondo, which operates VFX and virtual
+production businesses, and related shutdown
+costs recorded in FY25
+&#xFF08;&#x30FC;&#xFF09;Lower contribution from catalog product in Motion
+Pictures
+Sales, Operating Income and
+Adjusted OIBDA
+1,499.3
+1,630
+104.9 145 185.5 195
+FY25 FY26 FCT
+&#xFF08;Bln Yen&#xFF09;
+Sales Operating Income Adjusted OIBDA
+ We are focusing on creating and strengthening franchises, and we plan to release Spider-Man: Brand New Day and
+Jumanji: Open World in FY26. 
+
+ 17
+Entertainment, Technology & Services Segment
+FY2025 (year-on-year)
+ Sales: 148.7 bln yen (6%) decrease
+(FX Impact: +7.1 bln yen)
+&#xFF08;&#xFF0D;&#xFF09;Decrease in unit sales in Displays
+ OI: 32.3 bln yen (17%) decrease
+(FX Impact: +5.3 bln yen&#xFF09;
+&#xFF08;&#xFF0D;&#xFF09;Impact of decrease in sales in Displays
+&#xFF08;&#xFF0B;&#xFF09;Reductions in operating expenses
+Sales, Operating Income and
+Adjusted OIBDA
+ The market conditions in Q4 FY25 trended essentially in line with our February forecast despite geopolitical risk in various
+regions and concerns about a macroeconomic slowdown. The financial results for the segment and our inventory level
+were also essentially in line with our forecast.
+2,409.3 2,260.5
+190.9 158.6
+290.9 261.7
+FY24 FY25
+&#xFF08;Bln Yen&#xFF09;
+Sales Operating Income Adjusted OIBDA 
+
+ 18
+Entertainment, Technology & Services Segment
+FY2026 Forecast (year-on-year)
+ Sales: Essentially flat
+ OI: 8.6 bln yen (5%) decrease
+&#xFF08;&#xFF0D;&#xFF09;Impact of costs associated with the implementation of the
+strategic partnership with TCL* in the Home
+Entertainment field
+&#xFF08;&#xFF0B;&#xFF09;Impact of increase in sales in Imaging
+*TCL Electronics Holdings Limited and its subsidiaries
+Sales, Operating Income and
+Adjusted OIBDA
+ We expect to contain at approximately 30 billion yen the impact of the increase in memory prices on our FY26 forecast
+through procurement, design and sales actions in various regions.
+ We have incorporated approximately 20 billion yen of expenses in the FY26 operating income forecast, including project
+implementation costs necessary to execute the partnership, system migration costs and personnel-related costs.
+ Excluding these impacts, operating income in FY26 is expected to improve across each business, led by the Imaging business.
+2,260.5 2,250
+158.6 150
+261.7 260
+FY25 FY26 FCT
+&#xFF08;Bln Yen&#xFF09;
+Sales Operating Income Adjusted OIBDA 
+
+ 19
+Imaging & Sensing Solutions Segment
+FY2025 (year-on-year)
+ Sales: 352.5 bln yen (20%) increase
+(FX Impact: -15.0 bln yen&#xFF09;
+&#xFF08;&#xFF0B;&#xFF09;Increase in sales of image sensors for mobile products
+&#xFF08;&#xFF0B;&#xFF09;Improvement in product mix
+&#xFF08;&#xFF0B;&#xFF09;Increase in unit sales
+ OI: 96.2 bln yen (37%) increase
+(FX Impact: -12.5 bln yen&#xFF09;
+&#xFF08;&#xFF0B;&#xFF09;Impact of increase in sales
+&#xFF08;&#xFF0D;&#xFF09;Recording of restructuring costs
+&#xFF08;&#xFF0D;&#xFF09;Loss associated with the sale of equity interest in
+Sony Semiconductor Israel Ltd. (19.9 bln yen)
+&#xFF08;&#xFF0D;&#xFF09;Impairment losses against a portion of the display
+device business&#x2019;s long-lived assets (16.5 bln yen)
+Sales, Operating Income and
+Adjusted OIBDA
+ Operating income reached a record high despite the recording of one-time restructuring costs.
+ In Q4 FY25, the impact of memory market conditions gradually became more apparent in the smartphone market,
+especially in the low-end, but our mobile sensor sales exceeded our forecast, primarily due to strong shipments to our
+major customer.
+1,799.0
+2,151.5
+261.1
+357.3
+534.2
+658.8
+FY24 FY25
+&#xFF08;Bln Yen&#xFF09;
+Sales Operating Income Adjusted OIBDA 
+
+ 20
+Imaging & Sensing Solutions Segment
+FY2026 Forecast (year-on-year)
+ Sales: 81.5 bln yen (4%) decrease
+&#xFF08;&#xFF0D;&#xFF09;Decrease in sales of image sensors for mobile products
+&#xFF08;&#xFF0B;&#xFF09;Increase in sales of image sensors for digital cameras
+ OI: 42.7 bln yen (12%) increase
+&#xFF08;&#xFF0B;&#xFF09;Absence of restructuring costs recorded in FY25
+&#xFF08;&#xFF0B;&#xFF09;Loss associated with the sale of equity interest in
+Sony Semiconductor Israel Ltd. (19.9 bln yen)
+&#xFF08;&#xFF0B;&#xFF09;Impairment losses against a portion of the display
+device business&#x2019;s long-lived assets (16.5 bln yen)
+&#xFF08;&#xFF0B;&#xFF09;Impact of increase in sales for digital cameras
+&#xFF08;&#xFF0B;&#xFF09;Decrease in research and development expenses
+&#xFF08;&#xFF0D;&#xFF09;Impact of decrease in sales of image sensors for mobile
+products
+Sales, Operating Income and
+Adjusted OIBDA
+ Because of our cautious view of the growth of the sensor market, due to our view that the trend toward larger-sized
+sensors for smartphones will moderate and the uncertainty regarding the impact of memory market conditions will remain,
+we have incorporated into our FY26 forecast a slight year-on-year decrease in the overall sales of mobile sensors.
+ Reflecting the benefit of our efforts to address low-profitability businesses in Q4 FY25, our operating income forecast in
+FY26 is essentially flat compared to the previous fiscal year if restructuring costs in FY25 are excluded.
+2,151.5 2,070
+357.3
+400
+658.8
+655
+FY25 FY26 FCT
+&#xFF08;Bln Yen&#xFF09;
+Sales Operating Income Adjusted OIBDA 
+
+ 21
+Please refer to page 2 in &#x201C;Consolidated Financial Summary for the Fiscal Year Ended March 31, 2026" for the Consolidated Statements of Financial Position and page 17 in &#x201C;Consolidated Financial Summary for the Fiscal
+Year Ended March 31, 2025" for the Condensed Statements of Financial Position for Sony without Financial Services.
+Figures for Sony without Financial Services are not measures in accordance with IFRS Accounting Standards. However, Sony believes that these disclosures may be useful information to investors.
+Cash and Debt Balance
+993.3
+1,764.7
+2,208.9
+228.0 258.9 311.8
+1,355.0 1,376.6 1,357.9
+1,583.0 1,635.5 1,669.7
+-589.7
+129.2
+539.2
+&#xFF08;Bln Yen&#xFF09;
+Cash
+Debt
+Net Cash Position
+FY2023 (Sony without Financial Services) FY2024 (Sony without Financial Services) FY2025
+&#xFF08;as of March 31, 2024&#xFF09; &#xFF08;as of March 31, 2025&#xFF09; &#xFF08;as of March 31, 2026&#xFF09;
+Cash and cash equivalents (Cash)
+Short-term borrowings
+Net Cash Position (Cash &#x2013; Debt)
+Long-term debt Debt 
+
+ 22
+Please refer to page 9 in &#x201C;Consolidated Financial Summary for the Fiscal Year Ended March 31, 2026&#x201D; for the Consolidated Statements of Cash Flows.
+* Including depreciation and amortization (including amortization of contract costs), other operating (income) expense, net, (gain) loss on securities, net, and the share of loss of investments accounted for using the equity
+method, net of dividends.
+FY2025 Cash Flow (CF) for Continuing Operations: Year-on-year Change
+(Bln Yen) FY25 Year-on-year
+Change
+Contributing Factors
+(+) Better / (-) Worse
+Operating CF +1,966.3 -5.1
+decrease in
+net cash inflow
+(&#xFF0D;) Smaller decrease in trade receivables and contract assets
+(&#xFF0D;) Smaller decrease in inventories
+(&#xFF0D;) Smaller increase in trade payables
+(+) Increase in income before income taxes after taking into account non-cash
+adjustments*
+Investing CF -784.2 +119.0
+decrease in
+net cash outflow
+(+) Decrease in payments for purchases of property, plant and equipment
+(+) Decrease in payments for purchases of businesses and other
+(&#xFF0D;) Increase in payments for investments and advances
+Financing CF -833.5 -556.2
+increase in
+net cash outflow
+(&#xFF0D;) Increase in payments for purchases of treasury stock
+(&#xFF0D;) Decrease in capital contribution from non-controlling interests
+(&#xFF0D;) Decrease in proceeds from issuance of long-term debt
+Cash and Cash
+Equivalents 2,208.9 +444.2 
+
+ 23
+5th Mid-Range Plan Financial Targets (FY2024~FY2026)
+CAGR of Operating Income
+(Continuing Operations)
+(FY2023&#x2192;FY2026)
+Three-Year Cumulative
+Operating Income Margin
+(Continuing Operations)
+(FY2024~FY2026)
+10&#xFF05; or more 10&#xFF05; or more 
+
+ 24
+Progress of 5th Mid-Range Plan Financial Targets (FY2024~FY2026)
+Forecast for CAGR of
+Operating Income
+(Continuing Operations)
+(FY2023&#x2192;FY2026)
+Forecast for Three-Year
+Cumulative Operating
+Income Margin
+(Continuing Operations)
+(FY2024~FY2026)
+16&#xFF05; 11.7&#xFF05; 
+
+ 25
+*1 This represents an increase in operating cash flow from the forecast at the end of Q3 FY2020 in the 3rd Mid-Range Plan and a delay in cash outflows related to strategic investment projects that have already been
+decided upon.
+*2 Dividends paid in the 4th Mid-Range Plan were approximately 280 billion yen.
+*3 Strategic investments include investments in major music catalogs included in operating cash flow.
+*4 Operating cash flow does not include the impact of investments in major music catalogs, which are included in strategic investments. Operating cash flow is on the basis of Sony without Financial Services in the 4th Mid-Range Plan, and the basis of continuing operations in the 5th Mid-Range Plan. Figures for Sony without Financial Services are not measures in accordance with IFRS Accounting Standards. However, Sony believes that
+these disclosures may be useful information to investors.
+*5 Capital expenditures also include increases in right-of-use assets related to lease agreements.
+Capital Allocation
+5.7
+4.8
+2.5
+1.0
+0.4
+5.7
+4.8
+3.9
+1.9 1.7 1.8
+1.3 1.8 1.8
+0.4
+0.3
+3.9
+4.8
+5.7
+Breakdown of Capital Allocation Source of Capital Allocation
+(Tn Yen)
+Capital
+Expenditure
+Strategic
+Investment
+4th Mid-Range
+(FY2021&#xFF5E;FY2023)
+Results
+5th Mid-Range
+(FY2024&#xFF5E;FY2026)
+Previous Forecast
+(As of May 2025)
+5th Mid-Range
+(FY2024&#xFF5E;FY2026)
+Latest Forecast
+(As of May 2026)
+Asset sales/
+Debt financing
+Operating Cash Flow
+5th Mid-Range
+(FY2024&#xFF5E;FY2026)
+Latest Forecast
+(As of May 2026)
+5th Mid-Range
+(FY2024&#xFF5E;FY2026)
+Previous Forecast
+(As of May 2025)
+4th Mid-Range
+(FY2021&#xFF5E;FY2023)
+Results
+Carry-over
+from the 3rd
+Mid-Range Plan
+and earlier
+(Tn Yen)
+*2
+*3
+*5
+*1
+*4
+Shareholder
+Returns
+Strategic
+Investment
+Capital
+Expenditure*5
+*3
+Dividends
+Share
+Buyback
+Shareholder
+Returns 
+
+ 26
+Notes
+Notes about Adjusted OIBDA
+Adjusted OIBDA (Operating Income Before Depreciation and Amortization) is calculated by the following formula:
+Adjusted OIBDA = Operating income + Depreciation and amortization expense* - the profit and loss amount that Sony deems non-recurring
+* In the above formula, depreciation and amortization expense excludes amortization for film costs and broadcasting rights, as well as for internally developed game content
+and master recordings included in Content assets.
+Adjusted OIBDA is not a measure in accordance with IFRS Accounting Standards. However, Sony believes that this disclosure may be useful information to investors. Adjusted
+OIBDA should be considered in addition to, not as a substitute for, Sony&#x2019;s results in accordance with IFRS Accounting Standards.
+Sales on a Constant Currency Basis and the Impact of Foreign Exchange Rate Fluctuations
+The descriptions of sales on a constant currency basis reflect sales calculated by applying the yen&#x2019;s monthly average exchange rates from the same period of the previous fiscal
+year to local currency-denominated monthly sales in the relevant period of the current fiscal year. For Sony Music Entertainment (&#x201C;SME&#x201D;) and Sony Music Publishing LLC (&#x201C;SMP&#x201D;)
+in the Music segment, and in the Pictures segment, the constant currency amounts are calculated by applying the monthly average U.S. dollar / yen exchange rates after
+aggregation on a U.S. dollar basis.
+Results for the Pictures segment are described on a U.S. dollar basis as the Pictures segment reflects the operations of Sony Pictures Entertainment Inc. (&#x201C;SPE&#x201D;), a U.S.-based
+operation that aggregates the results of its worldwide subsidiaries in U.S. dollars.
+The impact of foreign exchange rate fluctuations on sales is calculated by applying the change in the yen&#x2019;s periodic weighted average exchange rate for the same period of the
+previous fiscal year from the relevant period of the current fiscal year to the major transactional currencies in which the sales are denominated. The impact of foreign exchange
+rate fluctuations on operating income (loss) is calculated by subtracting from the impact on sales the impact on cost of sales and selling, general and administrative expenses
+calculated by applying the same major transactional currencies calculation process to cost of sales and selling, general and administrative expenses as for the impact on sales.
+The I&SS segment enters into its own foreign exchange hedging transactions, and the impact of those transactions is included in the impact of foreign exchange rate
+fluctuations on sales and operating income (loss) for that segment.
+This information is not a substitute for Sony&#x2019;s consolidated financial statements and condensed (semi-annual) consolidated financial statements measured in accordance with
+IFRS Accounting Standards. However, Sony believes that these disclosures provide additional useful analytical information to investors regarding the operating performance of
+Sony.
+Notes about Financial Performance of the Music and Pictures segments
+The Music segment results include the yen-based results of Sony Music Entertainment (Japan) Inc. and the yen-translated results of SME and SMP, which aggregate the results
+of their worldwide subsidiaries on a U.S. dollar basis.
+The Pictures segment results are the yen-translated results of SPE, which aggregates the results of its worldwide subsidiaries on a U.S. dollar basis. Management analyzes the
+results of SPE in U.S. dollars, so discussion of certain portions of its results is specified as being on &#x201C;a U.S. dollar basis.&#x201D; 
+
+ 27
+Cautionary Statement
+Statements made in this material with respect to Sony&#x2019;s current plans, estimates, strategies and beliefs and other statements that are not historical facts are forward-looking statements
+about the future performance of Sony. Forward-looking statements include, but are not limited to, those statements using words such as &#x201C;believe,&#x201D; &#x201C;expect,&#x201D; &#x201C;plans,&#x201D; &#x201C;strategy,&#x201D; &#x201C;prospects,&#x201D;
+&#x201C;forecast,&#x201D; &#x201C;estimate,&#x201D; &#x201C;project,&#x201D; &#x201C;anticipate,&#x201D; &#x201C;aim,&#x201D; &#x201C;intend,&#x201D; &#x201C;seek,&#x201D; &#x201C;may,&#x201D; &#x201C;might,&#x201D; &#x201C;could&#x201D; or &#x201C;should,&#x201D; and words of similar meaning in connection with a discussion of future operations,
+financial performance, events or conditions. From time to time, oral or written forward-looking statements may also be included in other materials released to the public. These statements
+are based on management&#x2019;s assumptions, judgments and beliefs in light of the information currently available to it. Sony cautions investors that a number of important risks and
+uncertainties could cause actual results to differ materially from those discussed in the forward-looking statements, and therefore investors should not place undue reliance on them.
+Investors also should not rely on any obligation of Sony to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. Sony
+disclaims any such obligation. Risks and uncertainties that might affect Sony include, but are not limited to:
+(i) Sony&#x2019;s ability to maintain product quality and customer satisfaction with its products and services;
+(ii) Sony&#x2019;s ability to continue to design and develop and win acceptance of, as well as achieve sufficient cost reductions for, its products and services, including image sensors,
+game and network platforms, smartphones and televisions, which are offered in highly competitive markets characterized by severe price competition and continual new
+product and service introductions, rapid development in technology and subjective and changing customer preferences;
+(iii) Sony&#x2019;s ability to implement successful hardware, software, and content integration strategies, and to develop and implement successful sales and distribution strategies in light
+of new technologies and distribution platforms;
+(iv) the effectiveness of Sony&#x2019;s strategies and their execution, including but not limited to the success of Sony&#x2019;s acquisitions, joint ventures, investments, capital expenditures,
+restructurings and other strategic initiatives;
+(v) changes in laws, regulations and government policies in the markets in which Sony and its third-party suppliers, service providers and business partners operate, including those
+related to taxation, as well as growing consumer focus on corporate social responsibility;
+(vi) Sony&#x2019;s continued ability to identify the products, services and market trends with significant growth potential, to devote sufficient resources to research and development, to
+prioritize investments and capital expenditures correctly and to recoup its investments and capital expenditures, including those required for technology development and
+product capacity;
+(vii) Sony&#x2019;s reliance on external business partners, including for the procurement of parts, components, software and network services for its products or services, the
+manufacturing, marketing and distribution of its products, and its other business operations;
+(viii) the global economic and political environment in which Sony operates and the economic and political conditions in Sony&#x2019;s markets, particularly levels of consumer spending;
+(ix) Sony&#x2019;s ability to meet operational and liquidity needs as a result of significant volatility and disruption in the global financial markets or a ratings downgrade;
+(x) Sony&#x2019;s ability to forecast demands, manage timely procurement and control inventories;
+(xi) foreign exchange rates, particularly between the yen and the U.S. dollar, the euro and other currencies in which Sony makes significant sales and incurs production costs, or in
+which Sony&#x2019;s assets, liabilities and operating results are denominated;
+(xii) Sony&#x2019;s ability to recruit, retain and maintain productive relations with highly skilled personnel;
+(xiii) Sony&#x2019;s ability to prevent unauthorized use or theft of intellectual property rights, to obtain or renew licenses relating to intellectual property rights and to defend itself against claims
+that its products or services infringe the intellectual property rights owned by others;
+(xiv) risks related to catastrophic disasters, geopolitical conflicts, pandemic disease or similar events;
+(xv) the ability of Sony, its third-party service providers or business partners to anticipate and manage cybersecurity risk, including the risk of unauthorized access to Sony&#x2019;s business
+information and the personally identifiable information of its employees and customers, potential business disruptions or financial losses; and
+(xvi) the outcome of pending and/or future legal and/or regulatory proceedings.
+Risks and uncertainties also include the impact of any future events with material adverse impact. The continued impact of developments relating to the situations in Ukraine and Russia and
+in the Middle East, as well as the series of changes in U.S. tariff policy, could heighten many of the risks and uncertainties noted above. Important information regarding risks and
+uncertainties is also set forth in Sony&#x2019;s most recent Form 20-F, which is on file with the U.S. Securities and Exchange Commission.

@@ -1,0 +1,1279 @@
+[
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2025-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 76.0,
+        "operating_income": null,
+        "yoy_growth_pct": 6.3,
+        "sub_segments": [
+          {
+            "name": "Banking & Wealth Management",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Home Lending",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Card Services & Auto",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 78.5,
+        "operating_income": null,
+        "yoy_growth_pct": 11.8,
+        "sub_segments": [
+          {
+            "name": "Banking & Payments",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Markets & Securities Services",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 24.1,
+        "operating_income": null,
+        "yoy_growth_pct": 11.5,
+        "sub_segments": [
+          {
+            "name": "Asset Management",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Global Private Bank",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 182.4,
+      "total_revenue_yoy_pct": 2.8,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": null
+      },
+      "total_operating_expenses": null,
+      "operating_income": null,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 72.6,
+      "tax_expense": 15.5,
+      "net_income": 57.0,
+      "net_income_yoy_pct": -2.4
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 75
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2024-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 71.5,
+        "operating_income": 17.6,
+        "yoy_growth_pct": 1.9,
+        "sub_segments": [
+          {
+            "name": "Card income",
+            "revenue": 5.5,
+            "yoy_growth_pct": 14.9
+          },
+          {
+            "name": "Mortgage fees and related income",
+            "revenue": 1.4,
+            "yoy_growth_pct": 19.1
+          },
+          {
+            "name": "Other Consumer & Community Banking",
+            "revenue": 64.6,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 70.1,
+        "operating_income": 24.8,
+        "yoy_growth_pct": 8.9,
+        "sub_segments": [
+          {
+            "name": "Investment banking fees",
+            "revenue": 8.9,
+            "yoy_growth_pct": 36.7
+          },
+          {
+            "name": "Principal transactions",
+            "revenue": 24.8,
+            "yoy_growth_pct": 1.3
+          },
+          {
+            "name": "Lending- and deposit-related fees",
+            "revenue": 7.6,
+            "yoy_growth_pct": 2.6
+          },
+          {
+            "name": "Commissions and other fees",
+            "revenue": 7.5,
+            "yoy_growth_pct": 10.1
+          },
+          {
+            "name": "Markets",
+            "revenue": 30.0,
+            "yoy_growth_pct": 7.3
+          },
+          {
+            "name": "Fixed Income Markets",
+            "revenue": 20.1,
+            "yoy_growth_pct": 4.6
+          },
+          {
+            "name": "Equity Markets",
+            "revenue": 9.9,
+            "yoy_growth_pct": 13.2
+          }
+        ]
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 21.6,
+        "operating_income": 5.4,
+        "yoy_growth_pct": 8.8,
+        "sub_segments": [
+          {
+            "name": "Asset Management",
+            "revenue": 10.2,
+            "yoy_growth_pct": 11.5
+          },
+          {
+            "name": "Global Private Bank",
+            "revenue": 11.4,
+            "yoy_growth_pct": 6.6
+          },
+          {
+            "name": "Asset management fees",
+            "revenue": 13.7,
+            "yoy_growth_pct": 15.8
+          },
+          {
+            "name": "Commissions and other fees",
+            "revenue": 0.9,
+            "yoy_growth_pct": 25.4
+          }
+        ]
+      },
+      {
+        "name": "Corporate",
+        "revenue": null,
+        "operating_income": -4.4,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 177.6,
+      "total_revenue_yoy_pct": 12.3,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": null
+      },
+      "total_operating_expenses": null,
+      "operating_income": null,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 75.1,
+      "tax_expense": 16.6,
+      "net_income": 58.5,
+      "net_income_yoy_pct": 18.0
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 85
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2023-12-31",
+    "form_type": "10-K",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 70.1,
+        "operating_income": 21.2,
+        "yoy_growth_pct": 28.0,
+        "sub_segments": [
+          {
+            "name": "Net interest income",
+            "revenue": 55.0,
+            "yoy_growth_pct": 37.8
+          },
+          {
+            "name": "Noninterest revenue",
+            "revenue": 15.1,
+            "yoy_growth_pct": 1.6
+          }
+        ]
+      },
+      {
+        "name": "Corporate & Investment Bank",
+        "revenue": 48.8,
+        "operating_income": 14.1,
+        "yoy_growth_pct": 1.5,
+        "sub_segments": [
+          {
+            "name": "Net interest income",
+            "revenue": 8.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Noninterest revenue",
+            "revenue": 40.3,
+            "yoy_growth_pct": 11.4
+          },
+          {
+            "name": "Investment banking fees",
+            "revenue": 6.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Principal transactions",
+            "revenue": 24.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Lending- and deposit-related fees",
+            "revenue": 7.4,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Commissions and other fees",
+            "revenue": 6.8,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Commercial Banking",
+        "revenue": 15.5,
+        "operating_income": 6.1,
+        "yoy_growth_pct": 34.8,
+        "sub_segments": [
+          {
+            "name": "Net interest income",
+            "revenue": 12.1,
+            "yoy_growth_pct": 47.0
+          },
+          {
+            "name": "Noninterest revenue",
+            "revenue": 3.5,
+            "yoy_growth_pct": 4.7
+          }
+        ]
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 19.8,
+        "operating_income": 5.2,
+        "yoy_growth_pct": 11.7,
+        "sub_segments": [
+          {
+            "name": "Net interest income",
+            "revenue": 6.3,
+            "yoy_growth_pct": 19.6
+          },
+          {
+            "name": "Noninterest revenue",
+            "revenue": 13.6,
+            "yoy_growth_pct": 8.4
+          },
+          {
+            "name": "Asset management fees",
+            "revenue": 15.2,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Corporate",
+        "revenue": 8.0,
+        "operating_income": 2.8,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 158.1,
+      "total_revenue_yoy_pct": 22.9,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": null
+      },
+      "total_operating_expenses": null,
+      "operating_income": null,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 61.6,
+      "tax_expense": 12.1,
+      "net_income": 49.6,
+      "net_income_yoy_pct": 31.5
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 85
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2026-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 19.6,
+        "operating_income": 8.6,
+        "yoy_growth_pct": 7.0,
+        "sub_segments": [
+          {
+            "name": "Lending- and deposit-related fees",
+            "revenue": 0.9,
+            "yoy_growth_pct": 13.0
+          },
+          {
+            "name": "Asset management fees",
+            "revenue": 1.3,
+            "yoy_growth_pct": 19.0
+          },
+          {
+            "name": "Mortgage fees and related income",
+            "revenue": 0.3,
+            "yoy_growth_pct": 15.0
+          },
+          {
+            "name": "Card income",
+            "revenue": 0.6,
+            "yoy_growth_pct": -9.0
+          },
+          {
+            "name": "Other Consumer & Community Banking",
+            "revenue": 16.5,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 23.4,
+        "operating_income": 12.2,
+        "yoy_growth_pct": 19.0,
+        "sub_segments": [
+          {
+            "name": "Investment banking fees",
+            "revenue": 2.9,
+            "yoy_growth_pct": 31.0
+          },
+          {
+            "name": "Principal transactions",
+            "revenue": 8.0,
+            "yoy_growth_pct": 5.0
+          },
+          {
+            "name": "Lending- and deposit-related fees",
+            "revenue": 2.4,
+            "yoy_growth_pct": 12.0
+          },
+          {
+            "name": "Other Commercial & Investment Bank",
+            "revenue": 10.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 6.4,
+        "operating_income": 2.2,
+        "yoy_growth_pct": 11.0,
+        "sub_segments": [
+          {
+            "name": "Asset management fees",
+            "revenue": 5.5,
+            "yoy_growth_pct": 17.0
+          },
+          {
+            "name": "Commissions and other fees",
+            "revenue": 2.5,
+            "yoy_growth_pct": 22.0
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 49.8,
+      "total_revenue_yoy_pct": 10.0,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": null,
+        "compensation_expense": 15.3,
+        "occupancy_expense": 1.4,
+        "technology_communications_equipment": 3.0,
+        "professional_and_outside_services": 3.5,
+        "marketing": 1.6,
+        "other_expense": 2.0,
+        "other_operating": 26.8
+      },
+      "total_operating_expenses": 26.8,
+      "operating_income": 23.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -2.5,
+      "income_before_tax": 20.5,
+      "tax_expense": 4.0,
+      "net_income": 16.5,
+      "net_income_yoy_pct": 12.6
+    },
+    "notes": "Two-pass LLM extraction (batch).",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 100
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2025-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 19.5,
+        "operating_income": 9.2,
+        "yoy_growth_pct": 9,
+        "sub_segments": []
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 19.9,
+        "operating_income": 10.2,
+        "yoy_growth_pct": 17,
+        "sub_segments": []
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 6.1,
+        "operating_income": 2.2,
+        "yoy_growth_pct": 12,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 46.4,
+      "total_revenue_yoy_pct": 8.8,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": null,
+        "other_operating": 3.4
+      },
+      "total_operating_expenses": 27.7,
+      "operating_income": 18.7,
+      "operating_income_yoy_pct": 10.4,
+      "other_income_expense": -3.4,
+      "income_before_tax": 18.7,
+      "tax_expense": 4.4,
+      "net_income": 14.4,
+      "net_income_yoy_pct": 11.6
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2025-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 18.8,
+        "operating_income": 6.9,
+        "yoy_growth_pct": 6.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 19.5,
+        "operating_income": 9.9,
+        "yoy_growth_pct": 9.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 5.8,
+        "operating_income": 2.0,
+        "yoy_growth_pct": 10.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 44.9,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 23.8,
+        "other_operating": 2.8
+      },
+      "total_operating_expenses": 26.6,
+      "operating_income": 18.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -2.8,
+      "income_before_tax": 18.3,
+      "tax_expense": 3.3,
+      "net_income": 15.0,
+      "net_income_yoy_pct": null
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2025-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 18.3,
+        "operating_income": 8.5,
+        "yoy_growth_pct": 4.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 19.7,
+        "operating_income": 9.8,
+        "yoy_growth_pct": 12.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 5.7,
+        "operating_income": 2.0,
+        "yoy_growth_pct": 12.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 45.3,
+      "total_revenue_yoy_pct": 8.1,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 23.6,
+        "other_operating": 3.3
+      },
+      "total_operating_expenses": 26.9,
+      "operating_income": 18.4,
+      "operating_income_yoy_pct": 6.5,
+      "other_income_expense": -3.3,
+      "income_before_tax": 18.4,
+      "tax_expense": 3.8,
+      "net_income": 14.6,
+      "net_income_yoy_pct": 9.1
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2024-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 17.8,
+        "operating_income": 5.4,
+        "yoy_growth_pct": -3.1,
+        "sub_segments": []
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 17.0,
+        "operating_income": 7.9,
+        "yoy_growth_pct": 8.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 5.4,
+        "operating_income": 1.8,
+        "yoy_growth_pct": 8.7,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 42.7,
+      "total_revenue_yoy_pct": 7.0,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 22.6,
+        "other_operating": 3.2
+      },
+      "total_operating_expenses": 25.8,
+      "operating_income": 16.9,
+      "operating_income_yoy_pct": 1.5,
+      "other_income_expense": -3.1,
+      "income_before_tax": 16.9,
+      "tax_expense": 4.1,
+      "net_income": 12.9,
+      "net_income_yoy_pct": -1.9
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2024-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 17.7,
+        "operating_income": 5.6,
+        "yoy_growth_pct": 3.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 17.9,
+        "operating_income": 8.4,
+        "yoy_growth_pct": 9.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 5.3,
+        "operating_income": 1.7,
+        "yoy_growth_pct": 6.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 50.2,
+      "total_revenue_yoy_pct": 21.5,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 23.7,
+        "other_operating": 3.1
+      },
+      "total_operating_expenses": 26.8,
+      "operating_income": 23.4,
+      "operating_income_yoy_pct": 33.3,
+      "other_income_expense": -3.1,
+      "income_before_tax": 23.4,
+      "tax_expense": 5.3,
+      "net_income": 18.1,
+      "net_income_yoy_pct": 25.4
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2024-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 17.7,
+        "operating_income": 6.4,
+        "yoy_growth_pct": 7.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 13.6,
+        "operating_income": 6.4,
+        "yoy_growth_pct": 0.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 5.1,
+        "operating_income": 1.7,
+        "yoy_growth_pct": 7.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 41.9,
+      "total_revenue_yoy_pct": 9.3,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 22.8,
+        "other_operating": 1.8
+      },
+      "total_operating_expenses": 24.6,
+      "operating_income": 17.3,
+      "operating_income_yoy_pct": 8.3,
+      "other_income_expense": -1.9,
+      "income_before_tax": 17.3,
+      "tax_expense": 3.9,
+      "net_income": 13.4,
+      "net_income_yoy_pct": 6.3
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2023-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 18.4,
+        "operating_income": 7.8,
+        "yoy_growth_pct": 29.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 11.7,
+        "operating_income": 4.5,
+        "yoy_growth_pct": -2.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 5.0,
+        "operating_income": 1.9,
+        "yoy_growth_pct": 10.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 39.9,
+      "total_revenue_yoy_pct": 21.9,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 21.8,
+        "other_operating": 1.4
+      },
+      "total_operating_expenses": 23.2,
+      "operating_income": 16.7,
+      "operating_income_yoy_pct": 39.4,
+      "other_income_expense": -1.4,
+      "income_before_tax": 16.7,
+      "tax_expense": 3.6,
+      "net_income": 13.2,
+      "net_income_yoy_pct": 35.1
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2023-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 17.2,
+        "operating_income": 7.1,
+        "yoy_growth_pct": 37.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 12.5,
+        "operating_income": 5.6,
+        "yoy_growth_pct": 4.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 4.9,
+        "operating_income": 1.8,
+        "yoy_growth_pct": 15.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 41.3,
+      "total_revenue_yoy_pct": 34.5,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 20.8,
+        "other_operating": 2.9
+      },
+      "total_operating_expenses": 23.7,
+      "operating_income": 17.6,
+      "operating_income_yoy_pct": 61.9,
+      "other_income_expense": -2.9,
+      "income_before_tax": 17.6,
+      "tax_expense": 3.1,
+      "net_income": 14.5,
+      "net_income_yoy_pct": 67.3
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2023-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 16.5,
+        "operating_income": 6.9,
+        "yoy_growth_pct": 35,
+        "sub_segments": []
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 13.6,
+        "operating_income": 6.1,
+        "yoy_growth_pct": 0,
+        "sub_segments": []
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 4.8,
+        "operating_income": 1.7,
+        "yoy_growth_pct": 11,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 38.3,
+      "total_revenue_yoy_pct": 24.8,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 20.1,
+        "other_operating": 2.3
+      },
+      "total_operating_expenses": 22.4,
+      "operating_income": 15.9,
+      "operating_income_yoy_pct": 58.7,
+      "other_income_expense": -2.3,
+      "income_before_tax": 15.9,
+      "tax_expense": 3.3,
+      "net_income": 12.6,
+      "net_income_yoy_pct": 52.4
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2022-09-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 14.3,
+        "operating_income": 4.3,
+        "yoy_growth_pct": 14.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 11.9,
+        "operating_income": 3.5,
+        "yoy_growth_pct": -4.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 4.5,
+        "operating_income": 1.2,
+        "yoy_growth_pct": 6.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 32.7,
+      "total_revenue_yoy_pct": 10.4,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 19.2,
+        "other_operating": 1.5
+      },
+      "total_operating_expenses": 20.7,
+      "operating_income": 12.0,
+      "operating_income_yoy_pct": -15.0,
+      "other_income_expense": -1.5,
+      "income_before_tax": 12.0,
+      "tax_expense": 2.3,
+      "net_income": 9.7,
+      "net_income_yoy_pct": -16.7
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2022-06-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 12.6,
+        "operating_income": 4.1,
+        "yoy_growth_pct": -1.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 11.9,
+        "operating_income": 5.1,
+        "yoy_growth_pct": -10.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 4.3,
+        "operating_income": 1.3,
+        "yoy_growth_pct": 5.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 30.7,
+      "total_revenue_yoy_pct": 0.8,
+      "cost_of_revenue": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": null,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": 18.7,
+        "other_operating": 1.1
+      },
+      "total_operating_expenses": 19.8,
+      "operating_income": 10.9,
+      "operating_income_yoy_pct": -28.0,
+      "other_income_expense": -1.1,
+      "income_before_tax": 10.9,
+      "tax_expense": 2.2,
+      "net_income": 8.6,
+      "net_income_yoy_pct": -27.6
+    },
+    "notes": "Two-pass LLM extraction.",
+    "_is_bank": true,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2025-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 19.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Commercial & Investment Bank",
+        "revenue": 19.4,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 6.5,
+        "operating_income": null,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 45.8,
+      "cost_of_revenue": null,
+      "gross_profit": null,
+      "total_operating_expenses": null,
+      "operating_income": null,
+      "other_income_expense": null,
+      "income_before_tax": 17.2,
+      "tax_expense": 4.0,
+      "net_income": 13.0,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": null,
+        "other_operating": null
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 75,
+    "_synthetic_q4": true,
+    "_is_bank": true,
+    "_needs_retry": false
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "report_date": "2023-12-31",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Consumer & Community Banking",
+        "revenue": 18.0,
+        "operating_income": -0.6,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      },
+      {
+        "name": "Asset & Wealth Management",
+        "revenue": 5.1,
+        "operating_income": -0.2,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 38.6,
+      "cost_of_revenue": null,
+      "gross_profit": null,
+      "total_operating_expenses": null,
+      "operating_income": null,
+      "other_income_expense": null,
+      "income_before_tax": 11.4,
+      "tax_expense": 2.1,
+      "net_income": 9.3,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": null,
+        "selling_general_administrative": null,
+        "other_operating": null
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 55,
+    "_synthetic_q4": true,
+    "_is_bank": true,
+    "_needs_retry": false
+  }
+]

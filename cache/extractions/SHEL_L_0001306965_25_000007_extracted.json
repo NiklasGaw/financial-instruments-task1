@@ -1,0 +1,145 @@
+{
+  "company": "Shell plc",
+  "ticker": "SHEL.L",
+  "report_date": "2024-12-31",
+  "form_type": "20-F",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Integrated Gas",
+      "revenue": 37.3,
+      "operating_income": 9.6,
+      "yoy_growth_pct": -31.6,
+      "sub_segments": [
+        {
+          "name": "LNG",
+          "revenue": 30.9,
+          "yoy_growth_pct": -6.2
+        },
+        {
+          "name": "Natural gas and NGL",
+          "revenue": 19.3,
+          "yoy_growth_pct": -31.1
+        }
+      ]
+    },
+    {
+      "name": "Upstream",
+      "revenue": 6.6,
+      "operating_income": 7.8,
+      "yoy_growth_pct": -1.9,
+      "sub_segments": [
+        {
+          "name": "Crude oil",
+          "revenue": 40.6,
+          "yoy_growth_pct": 2.6
+        }
+      ]
+    },
+    {
+      "name": "Marketing",
+      "revenue": 120.1,
+      "operating_income": 1.9,
+      "yoy_growth_pct": -8.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Chemicals and Products",
+      "revenue": 90.9,
+      "operating_income": 1.8,
+      "yoy_growth_pct": -6.3,
+      "sub_segments": [
+        {
+          "name": "Oil products",
+          "revenue": 129.6,
+          "yoy_growth_pct": -10.6
+        },
+        {
+          "name": "Chemicals products",
+          "revenue": 8.5,
+          "yoy_growth_pct": 2.0
+        },
+        {
+          "name": "Lubricants",
+          "revenue": 11.5,
+          "yoy_growth_pct": -0.3
+        }
+      ]
+    },
+    {
+      "name": "Renewables and Energy Solutions",
+      "revenue": 29.4,
+      "operating_income": -1.2,
+      "yoy_growth_pct": -33.9,
+      "sub_segments": [
+        {
+          "name": "Power",
+          "revenue": 11.6,
+          "yoy_growth_pct": -2.2
+        },
+        {
+          "name": "Other Renewables and Energy Solutions",
+          "revenue": 17.8,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Corporate",
+      "revenue": 0.0,
+      "operating_income": -3.0,
+      "yoy_growth_pct": 4.2,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 284.3,
+    "total_revenue_yoy_pct": -10.2,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.1,
+      "selling_general_administrative": 12.4
+    },
+    "total_operating_expenses": 259.1,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 29.9,
+    "tax_expense": 13.4,
+    "net_income": 16.5,
+    "net_income_yoy_pct": -15.9
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100,
+  "total_revenue": 284.3,
+  "total_revenue_yoy_pct": -10.2,
+  "cost_of_revenue": null,
+  "cost_of_revenue_yoy_pct": null,
+  "cost_of_revenue_breakdown": null,
+  "gross_profit": null,
+  "gross_profit_yoy_pct": null,
+  "operating_expenses": {
+    "research_and_development": 1.1,
+    "selling_general_administrative": 12.4
+  },
+  "total_operating_expenses": 259.1,
+  "operating_income": null,
+  "operating_income_yoy_pct": null,
+  "other_income_expense": null,
+  "income_before_tax": 29.9,
+  "tax_expense": 13.4,
+  "net_income": 16.5,
+  "net_income_yoy_pct": -15.9,
+  "accession_number": "0001306965-25-000007",
+  "cik": "0001306965"
+}

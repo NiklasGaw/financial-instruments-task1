@@ -1,0 +1,37 @@
+{
+  "company": "Netflix Inc.",
+  "ticker": "NFLX",
+  "report_date": "2025-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [],
+  "income_statement": {
+    "total_revenue": 10.5,
+    "total_revenue_yoy_pct": 12.5,
+    "cost_of_revenue": 5.3,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 5.2,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.8,
+      "selling_general_administrative": 1.1
+    },
+    "total_operating_expenses": 1.9,
+    "operating_income": 3.3,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.1,
+    "income_before_tax": 3.2,
+    "tax_expense": 0.3,
+    "net_income": 2.9,
+    "net_income_yoy_pct": 23.9
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": true,
+  "_quality_score": 30
+}

@@ -1,0 +1,36 @@
+{
+  "ticker": "MSFT",
+  "source": "cache: 10-K 2023-06-30",
+  "segments": [
+    {
+      "name": "Productivity and Business Processes",
+      "sub_segments": [
+        "Microsoft 365 Commercial products and cloud services",
+        "LinkedIn",
+        "Other Productivity and Business Processes",
+        "Office Commercial products and cloud services",
+        "Office Consumer products and cloud services",
+        "Dynamics products and cloud services"
+      ]
+    },
+    {
+      "name": "Intelligent Cloud",
+      "sub_segments": [
+        "Server products and cloud services",
+        "Other Intelligent Cloud",
+        "Enterprise and partner services",
+        "Enterprise Services"
+      ]
+    },
+    {
+      "name": "More Personal Computing",
+      "sub_segments": [
+        "Gaming",
+        "Other More Personal Computing",
+        "Windows",
+        "Search and news advertising",
+        "Devices"
+      ]
+    }
+  ]
+}

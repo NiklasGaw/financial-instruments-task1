@@ -1,0 +1,38 @@
+{
+  "ticker": "RTX",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Collins Aerospace",
+      "sub_segments": [
+        "Sales to the U.S. government",
+        "Foreign military sales through the U.S. government",
+        "Foreign government direct commercial sales",
+        "Commercial aerospace and other commercial sales",
+        "Other Collins Aerospace"
+      ]
+    },
+    {
+      "name": "Pratt & Whitney",
+      "sub_segments": [
+        "Sales to the U.S. government",
+        "Foreign military sales through the U.S. government",
+        "Foreign government direct commercial sales",
+        "Commercial aerospace and other commercial sales"
+      ]
+    },
+    {
+      "name": "Services sales",
+      "sub_segments": []
+    },
+    {
+      "name": "Raytheon",
+      "sub_segments": [
+        "Sales to the U.S. government",
+        "Foreign military sales through the U.S. government",
+        "Foreign government direct commercial sales",
+        "Commercial aerospace and other commercial sales"
+      ]
+    }
+  ]
+}

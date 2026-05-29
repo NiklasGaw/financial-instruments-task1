@@ -1,0 +1,61 @@
+{
+  "company": "Uber Technologies Inc.",
+  "ticker": "UBER",
+  "report_date": "2025-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Mobility",
+      "revenue": 8.2,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Delivery",
+      "revenue": 4.8,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Freight",
+      "revenue": 1.2,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 14.3,
+    "cost_of_revenue": 8.7,
+    "gross_profit": 5.6,
+    "total_operating_expenses": 3.7,
+    "operating_income": 1.9,
+    "other_income_expense": -1.6,
+    "income_before_tax": 0.3,
+    "tax_expense": 0.0,
+    "net_income": 0.3,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "selling_general_administrative": 2.0,
+      "research_and_development": 0.9,
+      "other_operating": 0.8
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 90,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

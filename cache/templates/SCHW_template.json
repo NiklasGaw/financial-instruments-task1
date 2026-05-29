@@ -1,0 +1,61 @@
+{
+  "ticker": "SCHW",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Net Interest Revenue",
+      "sub_segments": [
+        "Interest revenue",
+        "Interest expense"
+      ]
+    },
+    {
+      "name": "Asset Management and Administration Fees",
+      "sub_segments": [
+        "Mutual Funds, ETFs, and CTFs",
+        "Managed Investing Solutions",
+        "Other Asset Management and Administration Fees",
+        "Mutual funds, ETFs, and collective trust funds (CTFs)",
+        "Advice solutions",
+        "Other"
+      ]
+    },
+    {
+      "name": "Trading Revenue",
+      "sub_segments": [
+        "Commissions",
+        "Order Flow Revenue",
+        "Principal Transactions"
+      ]
+    },
+    {
+      "name": "Bank Deposit Account Fees",
+      "sub_segments": []
+    },
+    {
+      "name": "Other Revenue",
+      "sub_segments": []
+    },
+    {
+      "name": "Advisor Services",
+      "sub_segments": [
+        "Net interest revenue",
+        "Asset management and administration fees",
+        "Trading revenue",
+        "Bank deposit account fees",
+        "Other"
+      ]
+    },
+    {
+      "name": "Order flow revenue",
+      "sub_segments": [
+        "Options",
+        "Equities"
+      ]
+    },
+    {
+      "name": "Other",
+      "sub_segments": []
+    }
+  ]
+}

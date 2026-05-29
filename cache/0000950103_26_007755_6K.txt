@@ -1,0 +1,458 @@
+6-K
+ 1
+ dp246815_6k-1.htm
+ FORM 6K
+
+ FORM 6-K 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C.
+20549 
+
+ Report of Foreign
+Issuer 
+
+ Pursuant to Rule
+13a-16 or 15d-16 of 
+
+ the Securities
+Exchange Act of 1934 
+
+ For the month of
+May, 2026 
+
+ Commission File
+Number: 001-12518 
+
+ Banco Santander, S.A. 
+
+ (Exact name of registrant as specified in its
+charter) 
+
+ Ciudad Grupo
+Santander 
+
+ 28660 Boadilla
+del Monte (Madrid) Spain 
+
+ (Address of principal
+executive office) 
+
+ Indicate by check mark whether the registrant
+files or will file annual reports under cover of Form 20-F or Form 40-F: 
+
+ Form 20-F 
+ X 
+
+ Form 40-F 
+
+ Banco Santander,
+S.A. 
+
+ TABLE OF CONTENTS 
+
+ Item 
+
+ 1&#9; 
+ Report of Inside Information dated May 27, 2026 
+
+ Item
+1 
+
+ Banco Santander, S.A., in accordance
+with the provisions of the securities market legislation, communicates the following:
+
+ INSIDE INFORMATION
+
+ BANCO SANTANDER, S.A. ANNOUNCES A TENDER OFFER
+FOR ONE SERIES OF ITS U.S. DOLLAR-DENOMINATED ADDITIONAL TIER 1 SECURITIES
+
+ Banco Santander, S.A. (the
+" Offeror " or " Banco Santander ") is today announcing that it is commencing a tender offer (the " Offer ")
+to purchase for cash up to $850,000,000 (the " Maximum Offer Amount ") of one series of its outstanding U.S. dollar-denominated
+Additional Tier 1 Securities.
+
+ The Offer
+
+ The Offer is being made on the terms and subject
+to the conditions set out in the Offer to Purchase dated May 27, 2026 (the " Offer to Purchase "). Capitalized terms
+not otherwise defined in this announcement have the same meaning as in the Offer to Purchase.
+
+ The Offer consists of an offer to purchase for
+cash up to the Maximum Offer Amount of the outstanding 4.750% Non-Step-Up Non-Cumulative Contingent Convertible Perpetual Preferred Tier
+1 Securities of Banco Santander (the " Securities ").
+
+ Rationale of the Offer
+
+ The rationale for the Offer is to efficiently manage
+Banco Santander's Tier 1 capital position and optimize the liquidity and debt maturity profile of Banco Santander. Securities purchased
+by Banco Santander pursuant to the Offer will be cancelled and will not be re-issued or re-sold. Securities which have not been validly
+submitted and accepted for purchase pursuant to the Offer will remain outstanding.
+
+ The table below sets forth certain information
+relating to the Offer:
+
+ Securities
+
+ CUSIP / ISIN
+
+ First
+Optional
+
+Redemption Date
+
+ Principal
+amount Outstanding
+
+ Purchase
+Price(1)
+
+ Tender Consideration (2)
+
+ Maximum Offer Amount(3)
+
+ 4.750% Non-Step-Up Non-Cumulative Contingent Convertible Perpetual Preferred Tier 1 Securities 
+ CUSIP No. 05971K AH2 / ISIN: US05971KAH23 
+ November 12, 2026 
+ $1,000,000,000 
+ 100.1% 
+ $1,001 per $1,000 of nominal amount tendered, provided that Securities may only be tendered in multiples of $200,000 
+ $850,000,000 
+
+ ________________________
+
+ (1) The Purchase Price shall be 100.1% of the nominal amount of the Securities accepted for purchase pursuant to the Offer. Securities may
+only be tendered in multiples of $200,000, being the liquidation preference of the Securities. 
+
+ (2) The Tender Consideration payable on the Settlement Date to a holder whose Securities are validly tendered and accepted for purchase
+by the Offeror pursuant to the Offer will be an amount per $1,000 of nominal amount of such tendered securities in U.S. dollars equal
+to the product of (x) the Purchase Price and (y) the nominal amount of such Securities. In addition to the Tender Consideration, holders
+whose Securities are validly tendered and accepted for purchase will receive the Distribution Payment, if any, in respect of such Securities.
+With respect to any Securities validly tendered and accepted for purchase by the Offeror pursuant to the Offer, the "Distribution
+Payment" is an amount in cash (rounded to the nearest $0.01, with $0.005 being rounded upwards) equal to the Distribution on such
+Securities. "Distributions" consist of distributions accrued and unpaid (if any) on the Securities from (and including) the
+distribution payment date in respect of such Securities immediately preceding the Settlement Date to (but excluding) the Settlement Date,
+calculated in accordance with the terms and conditions of the Securities, unless distributions on the Securities for that period are cancelled. 
+
+ (3) Subject to the right of the Offeror to increase or decrease the Maximum Offer Amount in its sole and absolute discretion. 
+
+ 1 
+
+ Maximum Offer Amount
+
+ Banco Santander proposes to accept Securities for
+purchase up to the Maximum Offer Amount on the terms and subject to the conditions contained in the Offer to Purchase (although Banco
+Santander reserves the right, in its sole and absolute discretion and for any reason, to increase or decrease the Maximum Offer Amount).
+
+ Acceptance of Securities and Pro-Ration
+
+ The acceptance of any Securities validly tendered
+is at the sole and absolute discretion of Banco Santander and Banco Santander reserves the absolute right not to accept any Securities
+validly tendered pursuant to the Offer.
+
+ If Banco Santander decides to accept Securities
+for purchase pursuant to the Offer and in the event that valid Tender Instructions are received in respect of an aggregate nominal amount
+of Securities which is greater than the Maximum Offer Amount, such Tender Instructions will be accepted on a pro rata basis such
+that the aggregate nominal amount of Securities accepted for purchase is no greater than the Maximum Offer Amount.
+
+ The Offeror reserves the right to reject or
+accept any Securities validly tendered pursuant to this Offer to Purchase in its sole and absolute discretion . However, it is the
+Offeror's intention that if it accepts any Securities tendered pursuant to the Offer, it will accept all Securities which have been
+validly tendered up to the Maximum Offer Amount.
+
+ The Offeror reserves the right, in its sole and absolute discretion and for any reason, to increase or decrease the Maximum Offer Amount.
+
+ Tender Consideration
+
+ The Tender Consideration payable on the Settlement
+Date to a holder whose Securities are validly tendered and accepted for purchase by Banco Santander pursuant to the Offer will be an amount
+per $1,000 of nominal amount of such tendered securities in U.S. dollars equal to the product of (x) the Purchase Price and (y) the nominal
+amount of such Securities (provided that Securities may only be tendered in multiples of $200,000).
+
+ Distribution Payment
+
+ In addition to the Tender Consideration, holders
+whose Securities are validly tendered and accepted for purchase will receive the Distribution Payment (as defined in the Offer to Purchase),
+if any, in respect of such Securities, rounded, if necessary, to the nearest $0.01, with $0.005 being rounded upwards.
+
+ Offer Conditions
+
+ The consummation of the Offer is not conditioned
+upon any minimum amount of Securities being tendered and is not subject to a financing condition. However, the Offer is subject to, and
+conditioned upon, the satisfaction or waiver of certain general conditions described in the Offer to Purchase.
+
+ New Securities
+
+ The Offeror will use the proceeds from a concurrent
+offering of new AT1 securities (the " New Securities ") or available cash to pay the Tender Consideration, any Distribution
+Payment and other expenses associated with the Offer. The offering of the New Securities is subject to market conditions. The Offer is not
+conditioned on the issuance of the New Securities. The New Securities will be non-step up non-cumulative contingent convertible perpetual
+preferred Tier 1 securities issued by Banco Santander. Banco Santander intends that the New Securities qualify as Additional Tier 1 Capital
+of Banco Santander and its group pursuant to applicable banking regulations.
+
+ Withdrawal Rights
+
+ Validly tendered Securities may be withdrawn at
+any time prior to the Expiration Deadline.
+
+ 2 
+
+ Offer Period
+
+ The Offer commenced today and will expire at 5:00
+p.m., New York City time, on June 9, 2026, unless extended, re-opened or earlier terminated as provided in the Offer to Purchase. Assuming
+that the conditions to the Offer are satisfied or waived, Banco Santander expects that the Settlement Date will be June 11, 2026.
+
+ The relevant deadline set by DTC or any intermediary
+for the submission of Tender Instructions may be earlier than the deadlines set out herein. 
+
+ Indicative Timetable
+
+ The following table sets out the expected dates
+and times of the key events relating to the Offer. This is an indicative timetable and is subject to change.
+
+ EVENTS
+
+ DATES
+AND TIMES
+
+ Commencement of the Offer 
+
+ Offer announced. Offer to Purchase made available to holders of Securities. 
+ May 27, 2026 
+
+ Withdrawal Deadline 
+
+ The deadline for holders to validly withdraw tenders of Securities. 
+ 5:00 p.m., New York City time, on June 9, 2026 
+
+ Expiration Deadline 
+
+ The deadline for receipt of all Tender Instructions. 
+ 5:00 p.m., New York City time, on June 9, 2026 
+
+ Announcement of Offer Results 
+
+ Announcement of the aggregate principal amounts of the Securities which Banco Santander will be accepting for purchase and of the pro-ration factor (if any). 
+ As soon as reasonably practicable on June 10, 2026 
+
+ Settlement Date 
+
+ Settlement Date of the Offer, including payment of the Tender Consideration and any Distribution Payment in respect of Securities validly tendered and accepted for purchase in the Offer. 
+ Expected on June 11, 2026 
+
+ The times and dates above are subject, where applicable,
+to the right of Banco Santander to extend, re-open, amend, limit, terminate or withdraw the Offer, subject to applicable law. Accordingly,
+the actual timetable may differ significantly from the expected timetable set out above.
+
+ Holders should confirm with any Custodian, bank,
+securities broker or other intermediary through which they hold Securities whether such intermediary needs to receive instructions from
+a holder before the deadlines specified in the Offer to Purchase in order for that holder to be able to participate in, or (in the circumstances
+in which withdrawal is permitted) withdraw their instruction to participate in, the Offer. 
+
+ 3 
+
+ Further Information
+
+ Requests for copies of the Offer to Purchase and
+information in relation to the procedures for tendering should be directed to:
+
+ Tender Agent 
+
+ D.F. King & Co., Inc. 
+ Email: san@dfking.com 
+
+ 28 Liberty Street, 53 rd Floor
+
+New York, New York 10005
+
+United States 
+ Banks and Brokers call: (646) 963-9141
+ All others call toll free: (866) 340-7108 
+
+ Web site: www.dfking.com/santander 
+
+ Dealer Manager 
+
+ Santander US Capital Markets LLC 
+
+ 437 Madison Avenue
+
+ New York, New York 10022
+
+ United States
+
+ Tel (U.S. Toll Free): +1 (855) 404-3636
+
+ Tel (collect): +1 (212) 350-0660
+
+ Attn: Liability Management Team
+
+ Email (Americas): AmericasLM@santander.us 
+
+ Email (Europe): LiabilityManagement@gruposantander.com 
+
+ Boadilla del Monte (Madrid), 27 May 2026
+
+ Disclaimer
+
+ This announcement and the Offer to Purchase (including
+the documents incorporated by reference therein) contain important information which should be read carefully before any decision is made
+with respect to the Offer. If you are in any doubt as to the contents of this announcement or the Offer to Purchase or the action you
+should take, you are recommended to seek your own financial, legal, regulatory and tax advice, including as to any tax consequences, immediately
+from your stockbroker, bank manager, attorney, accountant or other independent financial, tax or legal adviser. Any individual or company
+whose Securities are held on its behalf by a broker, dealer, bank, custodian, trust company or other nominee or intermediary must contact
+such entity if it wishes to participate in the Offer. None of the Offeror, the Dealer Manager or the Tender Agent makes any recommendation
+as to whether holders should tender Securities pursuant to the Offer.
+
+ Additional Information in Respect of the Offer and Where to Find
+It
+
+ Banco Santander will file with the Securities and
+Exchange Commission (the " SEC ") a tender offer statement on Schedule TO, accompanied by the Offer to Purchase and related
+documents relating to the Offer. Holders are advised to read carefully the tender offer statement, the Offer to Purchase and other documents
+which Banco Santander will file with the SEC, when they become available, as they will contain important information about the Offer and
+procedures for participating in the Offer. Copies of these documents will be available for free by visiting EDGAR on the SEC website at
+www.sec.gov. In addition, copies of the Schedule TO and the documents filed with it may be obtained free
+of charge by contacting Investor Relations, Ciudad Grupo Santander, Avenida de Cantabria s/n, 28660 Boadilla del Monte, Madrid, Spain
+(telephone: (011) 34-91-259-6520).
+
+ 4 
+
+ Offer Restrictions
+
+ This announcement or the Offer to Purchase do not
+constitute an offer or an invitation to participate in the Offer in any jurisdiction in or from which, or to any person to whom, it is
+unlawful to make the relevant offer or invitation under applicable laws. The distribution or communication of this announcement or the
+Offer to Purchase in certain jurisdictions may be restricted by law. Persons into whose possession this announcement or the Offer to Purchase
+comes are required by each of the Offeror, the Dealer Manager and the Tender Agent to inform themselves about, and to observe, any such
+restrictions.
+
+ United Kingdom 
+
+ The communication of this announcement, the Offer
+to Purchase and any other documents or materials relating to the Offer is not being made, and such documents and/or materials have not
+been approved, by an authorized person for the purposes of section 21 of the FSMA. Accordingly, such documents and/or materials are not
+being distributed to, and must not be passed on to, the general public in the United Kingdom. The communication of such documents and/or
+materials is exempt from the restriction on financial promotions under section 21 of the FSMA on the basis that it is only directed at
+and may be communicated to (1) those persons who are existing members or creditors of the Group or other persons within Article 43(2)
+of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005, and (2) any other persons to whom these documents and/or
+materials may lawfully be communicated.
+
+ France 
+
+ This announcement, the Offer to Purchase and any
+other documents or offering materials relating to the Offer may not be distributed in the Republic of France except to qualified investors
+( investisseurs qualifies ) as defined in Article 2(e) of the Prospectus Regulation. This announcement and Offer to Purchase have
+not been and will not be submitted for clearance to the Autorite des marches financiers.
+
+ Italy 
+
+ None of the Offer, the Offer to Purchase, this
+announcement or any other documents or materials relating to the Offer have been or will be submitted to the clearance procedure of the
+CONSOB pursuant to Italian laws and regulations.
+
+ The Offer is being carried out in the Republic
+of Italy as an exempted offer pursuant to article 101-bis, paragraph 3-bis of the Legislative Decree No. 58 of 24 February 1998, as amended
+(the " Financial Services Act ") and article 35-bis, paragraph 4 of CONSOB Regulation No. 11971 of 14 May 1999, as amended.
+
+ A holder located in the Republic of Italy can tender
+some or all of its Securities through authorised persons (such as investment firms, banks or financial intermediaries permitted to conduct
+such activities in the Republic of Italy in accordance with the Financial Services Act, CONSOB Regulation No. 20307 of 15 February 2018,
+as amended from time to time, and Legislative Decree No. 385 of 1 September 1993, as amended) and in compliance with applicable laws and
+regulations or with requirements imposed by CONSOB or any other Italian authority.
+
+ Each intermediary must comply with the applicable
+laws and regulations concerning information duties vis-&agrave;-vis its clients in connection with the Securities or the Offer.
+
+ Spain 
+
+ None of the Offer, the Offer to Purchase, this
+announcement or any other documents or materials relating to the Offer constitutes an offer of securities or the solicitation of an offer
+of securities in Spain which require the approval and the publication of a prospectus under the Prospectus Regulation, Spanish Law 6/2023,
+of 17 March, on the Securities Markets and the Investment Services ( Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los
+Servicios de Inversi&oacute;n ), as amended from time to time, and its ancillary and related regulations. Accordingly, this Offer to
+Purchase has not been and will not be submitted for approval nor approved by the Spanish Securities Exchange Commission ( Comisi&oacute;n
+Nacional del Mercado de Valores ).
+
+ 5 
+
+ Canada 
+
+ The Offer and any solicitation in respect thereof,
+are not being made, directly or indirectly, in Canada or to holders of the Securities who are resident and/or located in any province
+or territory of Canada. This announcement and Offer to Purchase have not been filed with any securities commission or similar regulatory
+authority in Canada in connection with the Offer, and the Securities have not been, and will not be, qualified for tender under the securities
+laws of Canada or any province or territory thereof and no securities commission or similar regulatory authority in Canada has reviewed
+or in any way passed upon this announcement or the Offer to Purchase, any other documents or materials relating to the Offer and any representation
+to the contrary is an offence. Accordingly, Canadian holders of the Securities are hereby notified that, to the extent such holders of
+Securities are persons or entities resident and/or located in Canada, the Offer is not available to them and they may not accept the Offer.
+As such, any tenders of Securities received from such persons or entities shall be ineffective and void. Copies of this announcement or
+the Offer to Purchase or of any other document relating to the Offer may not be distributed or made available in Canada. This announcement,
+the Offer to Purchase and any other documents or offering materials relating to the Offer may not be distributed in Canada and this announcement
+or the Offer to Purchase do not constitute an offer or an invitation to participate in the Offer to any person resident in Canada.
+
+ General 
+
+ The Offer does not constitute an offer to buy or
+the solicitation of an offer to sell Securities in any circumstances in which such offer or solicitation is unlawful. In those jurisdictions
+where the securities or other laws require the Offer to be made by a licensed broker or dealer or registered dealer and the Dealer Manager
+or, where the context so requires, any of its affiliates is such a licensed broker or dealer or registered dealer in that jurisdiction,
+the Offer shall be deemed to be made on behalf of the Offeror by such Dealer Manager or affiliate (as the case may be) in such jurisdiction.
+
+ The Offeror and its affiliates expressly reserve
+the right at any time or from time to time following completion or termination of the Offer (subject to Rule 13e-4(f) under the Exchange
+Act which prohibits us and our affiliates from purchasing any Securities other than in the Offer until at least ten business days after
+the Expiration Date), to purchase or exchange or offer to purchase or exchange Securities or to issue an invitation to submit offers to
+sell Securities (including, without limitation, those tendered pursuant to the Offer but not accepted for purchase) through open market
+purchases, privately negotiated transactions, tender offers, exchange offers or otherwise, in each case on terms that may be more or less
+favorable than those contemplated by the Offer.
+
+ Forward-Looking Statements
+
+ This announcement contains certain forward-looking
+statements within the meaning of Section 21E of the US Securities Exchange Act of 1934, as amended, and section 27A of the US Securities
+Act of 1933, as amended, with respect to Banco Santander, S.A. together with its subsidiaries (the " Group ") and its
+current goals and expectations. Statements that are not historical or current facts, including statements about the Group's or its
+directors' and/or management's beliefs and expectations, are forward looking statements. Words such as, without limitation,
+&lsquo;believes', &lsquo;achieves', &lsquo;anticipates', &lsquo;estimates', &lsquo;expects', &lsquo;targets',
+&lsquo;should', &lsquo;intends', &lsquo;aims', &lsquo;projects', &lsquo;plans', &lsquo;potential',
+&lsquo;will', &lsquo;would', &lsquo;could', &lsquo;considered', &lsquo;likely', &lsquo;may', &lsquo;seek',
+&lsquo;estimate', &lsquo;probability', &lsquo;goal', &lsquo;objective', &lsquo;deliver', &lsquo;endeavour',
+&lsquo;prospects', &lsquo;optimistic' and similar expressions or variations on these expressions are intended to identify
+forward looking statements. These statements concern or may affect future matters, including but not limited to matters, influences and
+factors which are beyond the Group's control. Please refer to the latest Annual Report on Form 20-F filed by Banco Santander, S.A.
+with the US Securities and Exchange Commission (the SEC), which is available on the SEC's website at www.sec.gov,
+for a discussion of certain factors and risks. Banco Santander, S.A. may also make or disclose written and/or oral forward-looking statements
+in other written materials and in oral statements made by the directors, officers or employees of Banco Santander, S.A. to third parties,
+including financial analysts.
+
+ Except as required by any applicable law or regulation,
+the forward-looking statements contained in this document are made as of today's date, and the Group expressly disclaims any obligation
+or undertaking to release publicly any updates or revisions to any forward looking statements contained in this document whether as a
+result of new information, future events or otherwise. The information, statements and opinions contained in this document do not constitute
+a public offer under any applicable law or an offer to sell any securities or financial instruments or any advice or recommendation with
+respect to such securities or financial instruments.
+
+ 6 
+
+ SIGNATURE 
+
+ Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+ Banco Santander, S.A. 
+
+ Date: 
+ May 27, 2026 
+
+ By: 
+ /s/ Pedro de Mingo Kaminouchi 
+
+ Name: 
+ Pedro de Mingo Kaminouchi 
+
+ Title: 
+ Head of Corporate Compliance

@@ -1,0 +1,78 @@
+{
+  "company": "Nestl\u00e9 S.A.",
+  "ticker": "NESN.SW",
+  "report_date": "2024-12-31",
+  "form_type": "9-Month Trading Update",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "9M",
+  "currency": "CHF",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Powdered and Liquid Beverages",
+      "revenue": 17.9,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Nutrition and Health Science",
+      "revenue": 11.3,
+      "yoy_growth_pct": 2.1,
+      "sub_segments": []
+    },
+    {
+      "name": "PetCare",
+      "revenue": 14.0,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Prepared dishes and cooking aids",
+      "revenue": 7.8,
+      "yoy_growth_pct": -1.6,
+      "sub_segments": []
+    },
+    {
+      "name": "Milk products and Ice cream",
+      "revenue": 7.6,
+      "yoy_growth_pct": -0.7,
+      "sub_segments": []
+    },
+    {
+      "name": "Confectionery",
+      "revenue": 5.9,
+      "yoy_growth_pct": 5.8,
+      "sub_segments": []
+    },
+    {
+      "name": "Water",
+      "revenue": 2.5,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 67.1,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": null,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": null,
+    "tax_expense": null,
+    "net_income": null,
+    "net_income_yoy_pct": null
+  },
+  "notes": "Revenue-only trading update (no full income statement).",
+  "_revenue_only": true
+}

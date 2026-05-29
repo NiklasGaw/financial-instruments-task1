@@ -1,0 +1,73 @@
+{
+  "company": "Cisco Systems Inc.",
+  "ticker": "CSCO",
+  "report_date": "2025-01-25",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Networking",
+      "revenue": 6.9,
+      "operating_income": null,
+      "yoy_growth_pct": -3.3,
+      "sub_segments": []
+    },
+    {
+      "name": "Security",
+      "revenue": 2.1,
+      "operating_income": null,
+      "yoy_growth_pct": 116.9,
+      "sub_segments": []
+    },
+    {
+      "name": "Collaboration",
+      "revenue": 1.0,
+      "operating_income": null,
+      "yoy_growth_pct": 0.7,
+      "sub_segments": []
+    },
+    {
+      "name": "Observability",
+      "revenue": 0.3,
+      "operating_income": null,
+      "yoy_growth_pct": 47.3,
+      "sub_segments": []
+    },
+    {
+      "name": "Services",
+      "revenue": 3.8,
+      "operating_income": null,
+      "yoy_growth_pct": 5.6,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 14.0,
+    "total_revenue_yoy_pct": 9.4,
+    "cost_of_revenue": 4.9,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 9.1,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 2.3,
+      "selling_general_administrative": 3.4
+    },
+    "total_operating_expenses": 5.7,
+    "operating_income": 3.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.2,
+    "income_before_tax": 2.9,
+    "tax_expense": 0.5,
+    "net_income": 2.4,
+    "net_income_yoy_pct": -7.8
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

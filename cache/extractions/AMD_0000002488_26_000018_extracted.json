@@ -1,0 +1,70 @@
+{
+  "company": "AMD Inc.",
+  "ticker": "AMD",
+  "report_date": "2025-12-27",
+  "form_type": "10-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Data Center",
+      "revenue": 16.6,
+      "operating_income": 3.6,
+      "yoy_growth_pct": 32.3,
+      "sub_segments": []
+    },
+    {
+      "name": "Client and Gaming",
+      "revenue": 14.6,
+      "operating_income": 2.9,
+      "yoy_growth_pct": 50.8,
+      "sub_segments": [
+        {
+          "name": "Client",
+          "revenue": 10.6,
+          "yoy_growth_pct": 50.8
+        },
+        {
+          "name": "Gaming",
+          "revenue": 3.9,
+          "yoy_growth_pct": 50.6
+        }
+      ]
+    },
+    {
+      "name": "Embedded",
+      "revenue": 3.5,
+      "operating_income": 1.2,
+      "yoy_growth_pct": -2.9,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 34.6,
+    "total_revenue_yoy_pct": 34.3,
+    "cost_of_revenue": 17.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 17.2,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 8.1,
+      "selling_general_administrative": 4.1
+    },
+    "total_operating_expenses": 12.2,
+    "operating_income": 3.7,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.5,
+    "income_before_tax": 4.2,
+    "tax_expense": -0.1,
+    "net_income": 4.3,
+    "net_income_yoy_pct": 164.2
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

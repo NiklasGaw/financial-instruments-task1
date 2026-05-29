@@ -1,0 +1,98 @@
+{
+  "company": "Merck & Co. Inc.",
+  "ticker": "MRK",
+  "report_date": "2025-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Pharmaceutical",
+      "revenue": 58.1,
+      "operating_income": 45.8,
+      "yoy_growth_pct": 1.3,
+      "sub_segments": [
+        {
+          "name": "Keytruda/Keytruda Qlex",
+          "revenue": 31.7,
+          "yoy_growth_pct": 7.4
+        },
+        {
+          "name": "Gardasil/Gardasil 9",
+          "revenue": 5.2,
+          "yoy_growth_pct": -39.1
+        },
+        {
+          "name": "Januvia/Janumet",
+          "revenue": 2.5,
+          "yoy_growth_pct": 12.2
+        },
+        {
+          "name": "ProQuad/M-M-R II/Varivax",
+          "revenue": 2.5,
+          "yoy_growth_pct": -1.4
+        },
+        {
+          "name": "Bridion",
+          "revenue": 1.8,
+          "yoy_growth_pct": 4.4
+        },
+        {
+          "name": "Alliance revenue - Lynparza",
+          "revenue": 1.5,
+          "yoy_growth_pct": 10.6
+        },
+        {
+          "name": "Winrevair",
+          "revenue": 1.4,
+          "yoy_growth_pct": 244.6
+        },
+        {
+          "name": "Alliance revenue - Lenvima",
+          "revenue": 1.1,
+          "yoy_growth_pct": 4.3
+        },
+        {
+          "name": "Other Pharmaceutical",
+          "revenue": 10.4,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Animal Health",
+      "revenue": 6.9,
+      "operating_income": 2.1,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 65.0,
+    "total_revenue_yoy_pct": 1.3,
+    "cost_of_revenue": 16.4,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 48.6,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 15.8,
+      "selling_general_administrative": 10.7
+    },
+    "total_operating_expenses": 26.5,
+    "operating_income": 22.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.0,
+    "income_before_tax": 21.1,
+    "tax_expense": 2.8,
+    "net_income": 18.3,
+    "net_income_yoy_pct": 6.6
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

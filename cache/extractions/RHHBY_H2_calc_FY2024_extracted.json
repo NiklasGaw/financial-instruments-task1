@@ -1,0 +1,54 @@
+{
+  "company": "Roche Holding AG",
+  "ticker": "RHHBY",
+  "report_date": "2024-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "H2",
+  "currency": "USD",
+  "exchange_rate_to_usd": 0.89,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Diagnostics",
+      "revenue": 12.8,
+      "operating_income": 3.1,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Pharmaceuticals",
+      "revenue": 28.1,
+      "operating_income": 7.7,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 37.1,
+    "cost_of_revenue": 10.6,
+    "gross_profit": 26.5,
+    "total_operating_expenses": 16.8,
+    "operating_income": 9.7,
+    "other_income_expense": -0.2,
+    "income_before_tax": 10.0,
+    "tax_expense": 1.6,
+    "net_income": 8.4,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 7.8,
+      "selling_general_administrative": 8.6,
+      "other_operating": 0.4
+    }
+  },
+  "notes": "Calculated as FY minus H1 (second half-year)",
+  "_quality_score": 70,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

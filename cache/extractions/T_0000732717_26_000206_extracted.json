@@ -1,0 +1,107 @@
+{
+  "company": "AT&T Inc.",
+  "ticker": "T",
+  "report_date": "2026-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Mobility",
+      "revenue": 23.7,
+      "operating_income": 6.9,
+      "yoy_growth_pct": 2.5,
+      "sub_segments": [
+        {
+          "name": "Service",
+          "revenue": 17.7,
+          "yoy_growth_pct": 1.7
+        },
+        {
+          "name": "Equipment",
+          "revenue": 6.0,
+          "yoy_growth_pct": 9.8
+        }
+      ]
+    },
+    {
+      "name": "Business Wireline",
+      "revenue": 4.0,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Legacy and other transitional services",
+          "revenue": 1.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Fiber and advanced connectivity services",
+          "revenue": 1.9,
+          "yoy_growth_pct": 7.2
+        },
+        {
+          "name": "Equipment",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Business Wireline",
+          "revenue": 1.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Consumer Wireline",
+      "revenue": 3.8,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Broadband",
+          "revenue": 2.8,
+          "yoy_growth_pct": 27.3
+        },
+        {
+          "name": "Legacy voice and data services",
+          "revenue": 1.8,
+          "yoy_growth_pct": -25.3
+        },
+        {
+          "name": "Other service and equipment",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 31.5,
+    "total_revenue_yoy_pct": 2.9,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 7.3
+    },
+    "total_operating_expenses": 24.8,
+    "operating_income": 6.7,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.7,
+    "income_before_tax": 5.4,
+    "tax_expense": 1.2,
+    "net_income": 3.8,
+    "net_income_yoy_pct": -12.0
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

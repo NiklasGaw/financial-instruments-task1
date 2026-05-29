@@ -1,0 +1,52 @@
+{
+  "company": "NVIDIA Corp",
+  "ticker": "NVDA",
+  "report_date": "2025-10-26",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Compute & Networking",
+      "revenue": 50.9,
+      "operating_income": 35.7,
+      "yoy_growth_pct": 64.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Graphics",
+      "revenue": 6.1,
+      "operating_income": 2.5,
+      "yoy_growth_pct": 51.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 57.0,
+    "total_revenue_yoy_pct": 62.5,
+    "cost_of_revenue": 15.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 41.8,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 4.7,
+      "selling_general_administrative": 1.1
+    },
+    "total_operating_expenses": 5.8,
+    "operating_income": 36.0,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 1.9,
+    "income_before_tax": 37.9,
+    "tax_expense": 6.0,
+    "net_income": 31.9,
+    "net_income_yoy_pct": 65.3
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

@@ -1,0 +1,75 @@
+{
+  "company": "UnitedHealth Group Inc.",
+  "ticker": "UNH",
+  "report_date": "2024-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "UnitedHealthcare",
+      "revenue": 298.2,
+      "operating_income": 15.6,
+      "yoy_growth_pct": 6.0,
+      "sub_segments": [
+        {
+          "name": "UnitedHealthcare Employer & Individual - Domestic",
+          "revenue": 74.5,
+          "yoy_growth_pct": 11.0
+        },
+        {
+          "name": "UnitedHealthcare Medicare & Retirement",
+          "revenue": 139.5,
+          "yoy_growth_pct": 7.0
+        },
+        {
+          "name": "UnitedHealthcare Community & State",
+          "revenue": 80.6,
+          "yoy_growth_pct": 7.0
+        }
+      ]
+    },
+    {
+      "name": "Optum Health",
+      "revenue": 105.4,
+      "operating_income": 7.8,
+      "yoy_growth_pct": 11.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Optum Insight",
+      "revenue": 18.8,
+      "operating_income": 3.1,
+      "yoy_growth_pct": -1.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 400.3,
+    "total_revenue_yoy_pct": 7.7,
+    "cost_of_revenue": 46.7,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 353.6,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 53.0
+    },
+    "total_operating_expenses": 53.0,
+    "operating_income": 32.3,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -13.1,
+    "income_before_tax": 20.1,
+    "tax_expense": 4.8,
+    "net_income": 14.4,
+    "net_income_yoy_pct": -35.6
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

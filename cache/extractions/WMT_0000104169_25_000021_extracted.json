@@ -1,0 +1,92 @@
+{
+  "company": "Walmart Inc.",
+  "ticker": "WMT",
+  "report_date": "2025-01-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Walmart U.S.",
+      "revenue": 465.0,
+      "operating_income": 23.9,
+      "yoy_growth_pct": 4.8,
+      "sub_segments": [
+        {
+          "name": "Net sales",
+          "revenue": 462.4,
+          "yoy_growth_pct": 4.7
+        },
+        {
+          "name": "Membership and other income",
+          "revenue": 2.6,
+          "yoy_growth_pct": 30.7
+        }
+      ]
+    },
+    {
+      "name": "Walmart International",
+      "revenue": 123.4,
+      "operating_income": 5.5,
+      "yoy_growth_pct": 6.3,
+      "sub_segments": [
+        {
+          "name": "Net sales",
+          "revenue": 121.9,
+          "yoy_growth_pct": 6.3
+        },
+        {
+          "name": "Membership and other income",
+          "revenue": 1.5,
+          "yoy_growth_pct": 5.0
+        }
+      ]
+    },
+    {
+      "name": "Sam's Club U.S.",
+      "revenue": 92.6,
+      "operating_income": 2.4,
+      "yoy_growth_pct": 4.9,
+      "sub_segments": [
+        {
+          "name": "Net sales",
+          "revenue": 90.2,
+          "yoy_growth_pct": 4.7
+        },
+        {
+          "name": "Membership and other income",
+          "revenue": 2.3,
+          "yoy_growth_pct": 13.3
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 674.5,
+    "total_revenue_yoy_pct": 5.0,
+    "cost_of_revenue": 511.8,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 162.7,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 139.9
+    },
+    "total_operating_expenses": 139.9,
+    "operating_income": 29.3,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -3.7,
+    "income_before_tax": 26.3,
+    "tax_expense": 6.2,
+    "net_income": 19.4,
+    "net_income_yoy_pct": 25.3
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

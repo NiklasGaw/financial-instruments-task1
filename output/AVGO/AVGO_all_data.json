@@ -1,0 +1,923 @@
+[
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2025-11-02",
+    "form_type": "10-K",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor solutions",
+        "revenue": null,
+        "operating_income": 21.2,
+        "yoy_growth_pct": 26.7,
+        "sub_segments": []
+      },
+      {
+        "name": "Infrastructure software",
+        "revenue": null,
+        "operating_income": 20.8,
+        "yoy_growth_pct": 48.6,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 63.9,
+      "total_revenue_yoy_pct": 23.9,
+      "cost_of_revenue": 20.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 43.3,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 11.0,
+        "selling_general_administrative": 4.2,
+        "other_operating": 2.6
+      },
+      "total_operating_expenses": 17.8,
+      "operating_income": 25.5,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 22.7,
+      "tax_expense": -0.4,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 40
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2024-11-03",
+    "form_type": "10-K",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Products",
+        "revenue": 30.4,
+        "operating_income": null,
+        "yoy_growth_pct": 8.9,
+        "sub_segments": []
+      },
+      {
+        "name": "Subscriptions and services",
+        "revenue": 21.2,
+        "operating_income": null,
+        "yoy_growth_pct": 167.6,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 51.6,
+      "total_revenue_yoy_pct": 44.0,
+      "cost_of_revenue": 19.1,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 32.5,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 9.3,
+        "selling_general_administrative": 5.0,
+        "other_operating": 4.7
+      },
+      "total_operating_expenses": 19.0,
+      "operating_income": 13.5,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -3.9,
+      "income_before_tax": 9.9,
+      "tax_expense": 3.7,
+      "net_income": 5.9,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2023-10-29",
+    "form_type": "10-K",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor solutions",
+        "revenue": 27.9,
+        "operating_income": 16.5,
+        "yoy_growth_pct": 9.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Infrastructure software",
+        "revenue": 7.9,
+        "operating_income": 5.6,
+        "yoy_growth_pct": 8.0,
+        "sub_segments": [
+          {
+            "name": "Subscriptions and services",
+            "revenue": 7.9,
+            "yoy_growth_pct": 14.5
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 35.8,
+      "total_revenue_yoy_pct": 7.9,
+      "cost_of_revenue": 11.1,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 24.7,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 5.3,
+        "selling_general_administrative": 1.6,
+        "other_operating": 1.6
+      },
+      "total_operating_expenses": 8.5,
+      "operating_income": 16.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 15.1,
+      "tax_expense": 1.0,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2026-02-01",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor solutions",
+        "revenue": 12.5,
+        "operating_income": 7.5,
+        "yoy_growth_pct": 52.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Infrastructure software",
+        "revenue": 6.8,
+        "operating_income": 5.3,
+        "yoy_growth_pct": 1.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 19.3,
+      "total_revenue_yoy_pct": 29.5,
+      "cost_of_revenue": 6.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 13.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 3.0,
+        "selling_general_administrative": 1.0,
+        "other_operating": 0.6
+      },
+      "total_operating_expenses": 4.6,
+      "operating_income": 8.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 8.2,
+      "tax_expense": 0.8,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 60
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2025-08-03",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Infrastructure software",
+        "revenue": 19.9,
+        "operating_income": null,
+        "yoy_growth_pct": 28.8,
+        "sub_segments": [
+          {
+            "name": "Subscriptions and services",
+            "revenue": 19.9,
+            "yoy_growth_pct": 28.8
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 16.0,
+      "total_revenue_yoy_pct": 22.0,
+      "cost_of_revenue": 5.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 10.7,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 3.0,
+        "selling_general_administrative": 1.1,
+        "other_operating": 0.7
+      },
+      "total_operating_expenses": 4.8,
+      "operating_income": 5.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 5.3,
+      "tax_expense": 1.1,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 50
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2025-05-04",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor solutions",
+        "revenue": 8.4,
+        "operating_income": 4.8,
+        "yoy_growth_pct": 16.8,
+        "sub_segments": []
+      },
+      {
+        "name": "Infrastructure software",
+        "revenue": 6.6,
+        "operating_income": 5.0,
+        "yoy_growth_pct": 24.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 15.0,
+      "total_revenue_yoy_pct": 20.2,
+      "cost_of_revenue": 4.8,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 10.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 2.7,
+        "selling_general_administrative": 1.1,
+        "other_operating": 0.6
+      },
+      "total_operating_expenses": 4.4,
+      "operating_income": 5.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 5.1,
+      "tax_expense": 0.1,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 60
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2025-02-02",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor solutions",
+        "revenue": 8.2,
+        "operating_income": 4.7,
+        "yoy_growth_pct": 11.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Infrastructure software",
+        "revenue": 6.7,
+        "operating_income": 5.1,
+        "yoy_growth_pct": 47.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.9,
+      "total_revenue_yoy_pct": 24.7,
+      "cost_of_revenue": 4.8,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 10.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 2.3,
+        "selling_general_administrative": 0.9,
+        "other_operating": 0.6
+      },
+      "total_operating_expenses": 3.8,
+      "operating_income": 6.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 5.5,
+      "tax_expense": -0.0,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 60
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2024-08-04",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Infrastructure software",
+        "revenue": 15.7,
+        "operating_income": null,
+        "yoy_growth_pct": 176.0,
+        "sub_segments": [
+          {
+            "name": "Subscriptions and services",
+            "revenue": 15.5,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 13.1,
+      "total_revenue_yoy_pct": 47.3,
+      "cost_of_revenue": 4.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 8.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 2.4,
+        "selling_general_administrative": 1.1,
+        "other_operating": 1.1
+      },
+      "total_operating_expenses": 4.6,
+      "operating_income": 3.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 2.8,
+      "tax_expense": 4.2,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 50
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2024-05-05",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor solutions",
+        "revenue": 14.6,
+        "operating_income": 8.1,
+        "yoy_growth_pct": 5.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 12.5,
+      "total_revenue_yoy_pct": 43.0,
+      "cost_of_revenue": 4.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 7.8,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 2.4,
+        "selling_general_administrative": 1.3,
+        "other_operating": 1.1
+      },
+      "total_operating_expenses": 4.8,
+      "operating_income": 3.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 2.0,
+      "tax_expense": -0.1,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 40
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2024-02-04",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor solutions",
+        "revenue": 7.4,
+        "operating_income": 4.1,
+        "yoy_growth_pct": 4.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Infrastructure software",
+        "revenue": 4.6,
+        "operating_income": 2.7,
+        "yoy_growth_pct": 153.0,
+        "sub_segments": [
+          {
+            "name": "Subscriptions and services",
+            "revenue": 4.5,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Other Infrastructure software",
+            "revenue": 0.1,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 12.0,
+      "total_revenue_yoy_pct": 34.2,
+      "cost_of_revenue": 4.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 7.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 2.3,
+        "selling_general_administrative": 1.6,
+        "other_operating": 1.4
+      },
+      "total_operating_expenses": 5.3,
+      "operating_income": 2.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.3,
+      "tax_expense": 0.1,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2023-07-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Infrastructure software",
+        "revenue": 5.7,
+        "operating_income": 4.2,
+        "yoy_growth_pct": 2.2,
+        "sub_segments": [
+          {
+            "name": "Subscriptions and services",
+            "revenue": 5.8,
+            "yoy_growth_pct": 11.7
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 8.9,
+      "total_revenue_yoy_pct": 4.9,
+      "cost_of_revenue": 2.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 6.2,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.4,
+        "selling_general_administrative": 0.4,
+        "other_operating": 0.5
+      },
+      "total_operating_expenses": 2.3,
+      "operating_income": 3.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 3.6,
+      "tax_expense": 0.3,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 50
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2023-04-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Infrastructure software",
+        "revenue": 3.7,
+        "operating_income": 2.7,
+        "yoy_growth_pct": 0.7,
+        "sub_segments": [
+          {
+            "name": "Subscriptions and services",
+            "revenue": 3.8,
+            "yoy_growth_pct": 14.6
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 8.7,
+      "total_revenue_yoy_pct": 7.8,
+      "cost_of_revenue": 2.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 6.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.3,
+        "selling_general_administrative": 0.4,
+        "other_operating": 0.4
+      },
+      "total_operating_expenses": 2.1,
+      "operating_income": 4.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 3.7,
+      "tax_expense": 0.2,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 50
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2023-01-29",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor solutions",
+        "revenue": 7.1,
+        "operating_income": 4.1,
+        "yoy_growth_pct": 21.0,
+        "sub_segments": []
+      },
+      {
+        "name": "Infrastructure software",
+        "revenue": 1.8,
+        "operating_income": 1.3,
+        "yoy_growth_pct": -1.0,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 8.9,
+      "total_revenue_yoy_pct": 15.7,
+      "cost_of_revenue": 2.9,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 6.0,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.2,
+        "selling_general_administrative": 0.3,
+        "other_operating": 0.4
+      },
+      "total_operating_expenses": 1.9,
+      "operating_income": 4.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 3.8,
+      "tax_expense": 0.1,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 60
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2022-07-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Infrastructure software",
+        "revenue": 5.5,
+        "operating_income": 3.9,
+        "yoy_growth_pct": 4.8,
+        "sub_segments": [
+          {
+            "name": "Subscriptions and services",
+            "revenue": 5.2,
+            "yoy_growth_pct": 5.3
+          },
+          {
+            "name": "Other Infrastructure software",
+            "revenue": 0.3,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 8.5,
+      "total_revenue_yoy_pct": 24.9,
+      "cost_of_revenue": 2.8,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 5.7,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.3,
+        "selling_general_administrative": 0.3,
+        "other_operating": 0.4
+      },
+      "total_operating_expenses": 2.0,
+      "operating_income": 3.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 3.3,
+      "tax_expense": 0.3,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 50
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2022-05-01",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2022",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor solutions",
+        "revenue": 12.1,
+        "operating_income": 7.0,
+        "yoy_growth_pct": 37.0,
+        "sub_segments": [
+          {
+            "name": "Products",
+            "revenue": 12.5,
+            "yoy_growth_pct": 23.9
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 8.1,
+      "total_revenue_yoy_pct": 22.6,
+      "cost_of_revenue": 2.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 5.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.3,
+        "selling_general_administrative": 0.4,
+        "other_operating": 0.3
+      },
+      "total_operating_expenses": 2.0,
+      "operating_income": 3.4,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 2.8,
+      "tax_expense": 0.2,
+      "net_income": null,
+      "net_income_yoy_pct": null
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 50
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2025-11-02",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [],
+    "income_statement": {
+      "total_revenue": 18.0,
+      "cost_of_revenue": 5.8,
+      "gross_profit": 12.3,
+      "total_operating_expenses": 4.8,
+      "operating_income": 7.5,
+      "other_income_expense": null,
+      "income_before_tax": 6.8,
+      "tax_expense": -1.6,
+      "net_income": null,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 3.0,
+        "selling_general_administrative": 1.1,
+        "other_operating": 0.7
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 0,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": true
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2024-11-03",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [],
+    "income_statement": {
+      "total_revenue": 14.0,
+      "cost_of_revenue": 5.1,
+      "gross_profit": 8.9,
+      "total_operating_expenses": 4.3,
+      "operating_income": 4.6,
+      "other_income_expense": null,
+      "income_before_tax": 3.8,
+      "tax_expense": -0.5,
+      "net_income": null,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 2.2,
+        "selling_general_administrative": 1.0,
+        "other_operating": 1.1
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 0,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": true
+  },
+  {
+    "company": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "report_date": "2023-10-29",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [],
+    "income_statement": {
+      "total_revenue": 9.3,
+      "cost_of_revenue": 2.9,
+      "gross_profit": 6.4,
+      "total_operating_expenses": 2.2,
+      "operating_income": 4.2,
+      "other_income_expense": null,
+      "income_before_tax": 4.0,
+      "tax_expense": 0.4,
+      "net_income": null,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.4,
+        "selling_general_administrative": 0.5,
+        "other_operating": 0.3
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 0,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": true
+  }
+]

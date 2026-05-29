@@ -1,0 +1,131 @@
+{
+  "company": "Allianz SE",
+  "ticker": "ALV.DE",
+  "report_date": "2023-12-31",
+  "form_type": "Annual Report",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "EUR",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Property-Casualty",
+      "revenue": null,
+      "operating_income": 6.9,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "German Speaking Countries",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Central & Eastern Europe",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Western & Southern Europe, Allianz Direct and Allianz Partners",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Asia Pacific",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Global Insurance Lines & Anglo Markets, Iberia & Latin America, Middle East, and Africa",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "USA",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Life/Health",
+      "revenue": 77.9,
+      "operating_income": 5.2,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "German Speaking Countries and Central & Eastern Europe",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Western & Southern Europe",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Asia Pacific",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Global Insurance Lines & Anglo Markets, Iberia & Latin America, Middle East, and Africa",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Asset Management",
+      "revenue": 8.1,
+      "operating_income": 3.1,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Net fee and commission income excl. performance fees",
+          "revenue": 7.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Performance fees",
+          "revenue": 0.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other operating revenues",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Corporate and Other",
+      "revenue": null,
+      "operating_income": -0.5,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 110.4,
+    "total_revenue_yoy_pct": 4.9,
+    "cost_of_revenue": 77.1,
+    "cost_of_revenue_yoy_pct": 4.4,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 33.3,
+    "gross_profit_yoy_pct": 3.5,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 9.5
+    },
+    "total_operating_expenses": 10.8,
+    "operating_income": 11.6,
+    "operating_income_yoy_pct": 19.8,
+    "other_income_expense": -21.6,
+    "income_before_tax": 11.6,
+    "tax_expense": 2.6,
+    "net_income": 9.0,
+    "net_income_yoy_pct": 31.7
+  },
+  "notes": "Two-pass LLM extraction."
+}

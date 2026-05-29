@@ -1,0 +1,59 @@
+{
+  "company": "American Express",
+  "ticker": "AXP",
+  "report_date": "2024-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "CS (Commercial Services)",
+      "revenue": 15.9,
+      "operating_income": 3.5,
+      "yoy_growth_pct": 7.3,
+      "sub_segments": []
+    },
+    {
+      "name": "ICS (International Card Services)",
+      "revenue": 11.5,
+      "operating_income": 1.0,
+      "yoy_growth_pct": 9.9,
+      "sub_segments": []
+    },
+    {
+      "name": "GMNS (Global Merchant and Network Services)",
+      "revenue": 7.5,
+      "operating_income": 4.4,
+      "yoy_growth_pct": 1.2,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 38.8,
+    "total_revenue_yoy_pct": 4.3,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": null,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 12.9,
+    "tax_expense": 2.8,
+    "net_income": 10.1,
+    "net_income_yoy_pct": 21.0
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 55
+}

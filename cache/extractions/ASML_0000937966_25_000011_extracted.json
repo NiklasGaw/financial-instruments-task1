@@ -1,0 +1,63 @@
+{
+  "company": "ASML Holding NV",
+  "ticker": "ASML",
+  "report_date": "2024-12-31",
+  "form_type": "6-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": 0.92,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Net System Sales",
+      "revenue": 6.7,
+      "operating_income": null,
+      "yoy_growth_pct": 22.5,
+      "sub_segments": [
+        {
+          "name": "New Systems",
+          "revenue": 6.4,
+          "yoy_growth_pct": 25.0
+        },
+        {
+          "name": "Used Systems",
+          "revenue": 0.3,
+          "yoy_growth_pct": -10.0
+        }
+      ]
+    },
+    {
+      "name": "Net Service and Field Option Sales",
+      "revenue": 2.7,
+      "operating_income": null,
+      "yoy_growth_pct": 8.7,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 30.0,
+    "total_revenue_yoy_pct": 30.2,
+    "cost_of_revenue": 8.5,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 21.5,
+    "gross_profit_yoy_pct": 28.6,
+    "operating_expenses": {
+      "research_and_development": 3.5,
+      "selling_general_administrative": 3.0
+    },
+    "total_operating_expenses": 6.5,
+    "operating_income": 15.0,
+    "operating_income_yoy_pct": 32.6,
+    "other_income_expense": -0.5,
+    "income_before_tax": 14.5,
+    "tax_expense": 2.6,
+    "net_income": 11.8,
+    "net_income_yoy_pct": 37.0
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

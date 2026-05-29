@@ -1,0 +1,129 @@
+{
+  "company": "Merck & Co. Inc.",
+  "ticker": "MRK",
+  "report_date": "2024-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Pharmaceutical",
+      "revenue": 57.4,
+      "operating_income": 44.5,
+      "yoy_growth_pct": 7.1,
+      "sub_segments": [
+        {
+          "name": "Keytruda",
+          "revenue": 29.5,
+          "yoy_growth_pct": 17.9
+        },
+        {
+          "name": "Gardasil/Gardasil 9",
+          "revenue": 8.6,
+          "yoy_growth_pct": -3.4
+        },
+        {
+          "name": "ProQuad/M-M-R II/Varivax",
+          "revenue": 2.5,
+          "yoy_growth_pct": 5.0
+        },
+        {
+          "name": "Januvia/Janumet",
+          "revenue": 2.3,
+          "yoy_growth_pct": -32.6
+        },
+        {
+          "name": "Bridion",
+          "revenue": 1.8,
+          "yoy_growth_pct": -4.2
+        },
+        {
+          "name": "Alliance revenue - Lynparza",
+          "revenue": 1.3,
+          "yoy_growth_pct": 9.3
+        },
+        {
+          "name": "Alliance revenue - Lenvima",
+          "revenue": 1.0,
+          "yoy_growth_pct": 5.2
+        },
+        {
+          "name": "Lagevrio",
+          "revenue": 1.0,
+          "yoy_growth_pct": -32.5
+        },
+        {
+          "name": "Vaxneuvance",
+          "revenue": 0.8,
+          "yoy_growth_pct": 21.5
+        },
+        {
+          "name": "Prevymis",
+          "revenue": 0.8,
+          "yoy_growth_pct": 29.8
+        },
+        {
+          "name": "RotaTeq",
+          "revenue": 0.7,
+          "yoy_growth_pct": -7.5
+        },
+        {
+          "name": "Other Pharmaceutical",
+          "revenue": 7.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Animal Health",
+      "revenue": 5.9,
+      "operating_income": 1.9,
+      "yoy_growth_pct": 4.5,
+      "sub_segments": [
+        {
+          "name": "Livestock",
+          "revenue": 3.5,
+          "yoy_growth_pct": 3.7
+        },
+        {
+          "name": "Companion Animal",
+          "revenue": 2.4,
+          "yoy_growth_pct": 5.6
+        },
+        {
+          "name": "Bravecto line of products",
+          "revenue": 1.1,
+          "yoy_growth_pct": 6.0
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 64.2,
+    "total_revenue_yoy_pct": 6.7,
+    "cost_of_revenue": 15.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 49.0,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 17.9,
+      "selling_general_administrative": 10.8
+    },
+    "total_operating_expenses": 28.8,
+    "operating_income": 20.2,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.3,
+    "income_before_tax": 19.9,
+    "tax_expense": 2.8,
+    "net_income": 17.1,
+    "net_income_yoy_pct": 4589.6
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

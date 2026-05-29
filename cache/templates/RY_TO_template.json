@@ -1,0 +1,43 @@
+{
+  "ticker": "RY.TO",
+  "source": "cache: 40-F 2023-10-31",
+  "segments": [
+    {
+      "name": "Personal & Commercial Banking",
+      "sub_segments": [
+        "Canadian Banking",
+        "Caribbean & U.S. Banking",
+        "Personal Banking Canada",
+        "Commercial Banking"
+      ]
+    },
+    {
+      "name": "Wealth Management",
+      "sub_segments": [
+        "Canadian Wealth Management",
+        "U.S. & International Wealth Management",
+        "U.S. Wealth Management (including City National)",
+        "International Wealth Management",
+        "Global Asset Management"
+      ]
+    },
+    {
+      "name": "Insurance",
+      "sub_segments": []
+    },
+    {
+      "name": "Investor & Treasury Services",
+      "sub_segments": [
+        "Investor Services",
+        "Other Investor & Treasury Services"
+      ]
+    },
+    {
+      "name": "Capital Markets",
+      "sub_segments": [
+        "Corporate & Investment Banking",
+        "Global Markets"
+      ]
+    }
+  ]
+}

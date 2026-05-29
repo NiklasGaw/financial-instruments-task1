@@ -1,0 +1,22 @@
+{
+  "ticker": "HD",
+  "source": "cache: 10-K 2024-01-28",
+  "segments": [
+    {
+      "name": "Building Materials",
+      "sub_segments": []
+    },
+    {
+      "name": "D\u00e9cor",
+      "sub_segments": []
+    },
+    {
+      "name": "Hardlines",
+      "sub_segments": []
+    },
+    {
+      "name": "Other",
+      "sub_segments": []
+    }
+  ]
+}

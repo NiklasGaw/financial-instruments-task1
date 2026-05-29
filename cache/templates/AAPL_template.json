@@ -1,0 +1,26 @@
+{
+  "ticker": "AAPL",
+  "source": "cache: 10-K 2023-09-30",
+  "segments": [
+    {
+      "name": "iPhone",
+      "sub_segments": []
+    },
+    {
+      "name": "Mac",
+      "sub_segments": []
+    },
+    {
+      "name": "iPad",
+      "sub_segments": []
+    },
+    {
+      "name": "Wearables, Home and Accessories",
+      "sub_segments": []
+    },
+    {
+      "name": "Services",
+      "sub_segments": []
+    }
+  ]
+}

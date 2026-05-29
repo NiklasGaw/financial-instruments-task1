@@ -1,0 +1,27 @@
+{
+  "ticker": "ASML",
+  "source": "cache: 20-F 2023-12-31",
+  "segments": [
+    {
+      "name": "Net System Sales",
+      "sub_segments": [
+        "New Systems",
+        "Used Systems",
+        "EXE",
+        "NXE",
+        "ArF immersion",
+        "ArF dry",
+        "KrF",
+        "I-line",
+        "Metrology & Inspection",
+        "Logic",
+        "Memory",
+        "ArFi"
+      ]
+    },
+    {
+      "name": "Net Service and Field Option Sales",
+      "sub_segments": []
+    }
+  ]
+}

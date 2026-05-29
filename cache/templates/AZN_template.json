@@ -1,0 +1,30 @@
+{
+  "ticker": "AZN",
+  "source": "cache: 20-F 2023-12-31",
+  "segments": [
+    {
+      "name": "Oncology",
+      "sub_segments": []
+    },
+    {
+      "name": "Cardiovascular, Renal & Metabolism",
+      "sub_segments": []
+    },
+    {
+      "name": "Respiratory & Immunology",
+      "sub_segments": []
+    },
+    {
+      "name": "Rare Disease",
+      "sub_segments": []
+    },
+    {
+      "name": "Vaccines & Immune Therapies",
+      "sub_segments": []
+    },
+    {
+      "name": "Other Medicines",
+      "sub_segments": []
+    }
+  ]
+}

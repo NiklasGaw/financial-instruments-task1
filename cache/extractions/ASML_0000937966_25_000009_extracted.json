@@ -1,0 +1,108 @@
+{
+  "company": "ASML Holding NV",
+  "ticker": "ASML",
+  "report_date": "2024-12-31",
+  "form_type": "20-F",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": 0.9626,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Net system sales",
+      "revenue": 22.6,
+      "operating_income": null,
+      "yoy_growth_pct": -0.8,
+      "sub_segments": [
+        {
+          "name": "EXE",
+          "revenue": 0.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "NXE",
+          "revenue": 8.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "ArF immersion",
+          "revenue": 10.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "ArF dry",
+          "revenue": 0.8,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "KrF",
+          "revenue": 2.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "I-line",
+          "revenue": 0.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Metrology & Inspection",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Logic",
+          "revenue": 13.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Memory",
+          "revenue": 8.9,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "New systems",
+          "revenue": 21.9,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Used systems",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Net service and field option sales",
+      "revenue": 6.8,
+      "operating_income": null,
+      "yoy_growth_pct": 15.6,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 28.7,
+    "total_revenue_yoy_pct": 3.1,
+    "cost_of_revenue": 9.1,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 19.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 3.4,
+      "selling_general_administrative": 3.4
+    },
+    "total_operating_expenses": 6.9,
+    "operating_income": 12.7,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.1,
+    "income_before_tax": 9.3,
+    "tax_expense": 1.8,
+    "net_income": 7.7,
+    "net_income_yoy_pct": 1.0
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

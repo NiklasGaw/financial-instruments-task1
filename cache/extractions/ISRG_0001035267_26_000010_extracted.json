@@ -1,0 +1,59 @@
+{
+  "company": "Intuitive Surgical Inc.",
+  "ticker": "ISRG",
+  "report_date": "2025-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Instruments and accessories",
+      "revenue": 6.0,
+      "operating_income": null,
+      "yoy_growth_pct": 18.5,
+      "sub_segments": []
+    },
+    {
+      "name": "Systems",
+      "revenue": 2.5,
+      "operating_income": null,
+      "yoy_growth_pct": 25.8,
+      "sub_segments": []
+    },
+    {
+      "name": "Service",
+      "revenue": 1.6,
+      "operating_income": null,
+      "yoy_growth_pct": 20.3,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 10.1,
+    "total_revenue_yoy_pct": 20.5,
+    "cost_of_revenue": 3.4,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 6.6,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 1.3,
+      "selling_general_administrative": 2.4
+    },
+    "total_operating_expenses": 3.7,
+    "operating_income": 2.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.4,
+    "income_before_tax": 3.3,
+    "tax_expense": 0.4,
+    "net_income": 2.9,
+    "net_income_yoy_pct": 23.0
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

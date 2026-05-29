@@ -1,0 +1,21 @@
+{
+  "ticker": "BAC",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Consumer Banking",
+      "sub_segments": [
+        "Card Income",
+        "Service Charges",
+        "All Other Income",
+        "Other Consumer Banking",
+        "Deposits",
+        "Consumer Lending"
+      ]
+    },
+    {
+      "name": "All Other",
+      "sub_segments": []
+    }
+  ]
+}

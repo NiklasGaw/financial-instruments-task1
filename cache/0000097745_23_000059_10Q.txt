@@ -1,0 +1,1553 @@
+tmo-20230701 0000097745 FALSE 12/31 2023 Q2 P3Y http://fasb.org/us-gaap/2023#SellingGeneralAndAdministrativeExpense http://fasb.org/us-gaap/2023#SellingGeneralAndAdministrativeExpense http://fasb.org/us-gaap/2023#OtherAssetsCurrent http://fasb.org/us-gaap/2023#OtherAssetsCurrent http://fasb.org/us-gaap/2023#OtherAssetsNoncurrent http://fasb.org/us-gaap/2023#OtherAssetsNoncurrent 0000097745 2023-01-01 2023-07-01 0000097745 us-gaap:CommonStockMember 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes0.75Due2024Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes0.125Due2025Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes200Due2025Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes3200Due2026Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes1.40Due2026Member 2023-01-01 2023-07-01 0000097745 tmo:A1.45SeniorNotesDue2027Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes175Due2027Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes0.500Due2028Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes1.375Due2028Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes1.95Due2029Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes0.875Due2031Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes2375Due2032Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes3650Due2034Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes2.875Due2037Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes1.500Due2039Member 2023-01-01 2023-07-01 0000097745 tmo:SeniorNotes1.875Due2049Member 2023-01-01 2023-07-01 0000097745 2023-07-01 xbrli:shares iso4217:USD 0000097745 2022-12-31 iso4217:USD xbrli:shares 0000097745 us-gaap:ProductMember 2023-04-02 2023-07-01 0000097745 us-gaap:ProductMember 2022-04-03 2022-07-02 0000097745 us-gaap:ProductMember 2023-01-01 2023-07-01 0000097745 us-gaap:ProductMember 2022-01-01 2022-07-02 0000097745 us-gaap:ServiceMember 2023-04-02 2023-07-01 0000097745 us-gaap:ServiceMember 2022-04-03 2022-07-02 0000097745 us-gaap:ServiceMember 2023-01-01 2023-07-01 0000097745 us-gaap:ServiceMember 2022-01-01 2022-07-02 0000097745 2023-04-02 2023-07-01 0000097745 2022-04-03 2022-07-02 0000097745 2022-01-01 2022-07-02 0000097745 2021-12-31 0000097745 2022-07-02 0000097745 2023-04-01 0000097745 us-gaap:CommonStockMember 2023-04-01 0000097745 us-gaap:AdditionalPaidInCapitalMember 2023-04-01 0000097745 us-gaap:RetainedEarningsMember 2023-04-01 0000097745 us-gaap:TreasuryStockCommonMember 2023-04-01 0000097745 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-04-01 0000097745 us-gaap:ParentMember 2023-04-01 0000097745 us-gaap:NoncontrollingInterestMember 2023-04-01 0000097745 us-gaap:AdditionalPaidInCapitalMember 2023-04-02 2023-07-01 0000097745 us-gaap:TreasuryStockCommonMember 2023-04-02 2023-07-01 0000097745 us-gaap:ParentMember 2023-04-02 2023-07-01 0000097745 us-gaap:RetainedEarningsMember 2023-04-02 2023-07-01 0000097745 us-gaap:NoncontrollingInterestMember 2023-04-02 2023-07-01 0000097745 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-04-02 2023-07-01 0000097745 us-gaap:CommonStockMember 2023-07-01 0000097745 us-gaap:AdditionalPaidInCapitalMember 2023-07-01 0000097745 us-gaap:RetainedEarningsMember 2023-07-01 0000097745 us-gaap:TreasuryStockCommonMember 2023-07-01 0000097745 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-07-01 0000097745 us-gaap:ParentMember 2023-07-01 0000097745 us-gaap:NoncontrollingInterestMember 2023-07-01 0000097745 2022-04-02 0000097745 us-gaap:CommonStockMember 2022-04-02 0000097745 us-gaap:AdditionalPaidInCapitalMember 2022-04-02 0000097745 us-gaap:RetainedEarningsMember 2022-04-02 0000097745 us-gaap:TreasuryStockCommonMember 2022-04-02 0000097745 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-04-02 0000097745 us-gaap:ParentMember 2022-04-02 0000097745 us-gaap:NoncontrollingInterestMember 2022-04-02 0000097745 us-gaap:AdditionalPaidInCapitalMember 2022-04-03 2022-07-02 0000097745 us-gaap:TreasuryStockCommonMember 2022-04-03 2022-07-02 0000097745 us-gaap:ParentMember 2022-04-03 2022-07-02 0000097745 us-gaap:RetainedEarningsMember 2022-04-03 2022-07-02 0000097745 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-04-03 2022-07-02 0000097745 us-gaap:NoncontrollingInterestMember 2022-04-03 2022-07-02 0000097745 us-gaap:CommonStockMember 2022-07-02 0000097745 us-gaap:AdditionalPaidInCapitalMember 2022-07-02 0000097745 us-gaap:RetainedEarningsMember 2022-07-02 0000097745 us-gaap:TreasuryStockCommonMember 2022-07-02 0000097745 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-07-02 0000097745 us-gaap:ParentMember 2022-07-02 0000097745 us-gaap:NoncontrollingInterestMember 2022-07-02 0000097745 us-gaap:CommonStockMember 2022-12-31 0000097745 us-gaap:AdditionalPaidInCapitalMember 2022-12-31 0000097745 us-gaap:RetainedEarningsMember 2022-12-31 0000097745 us-gaap:TreasuryStockCommonMember 2022-12-31 0000097745 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-12-31 0000097745 us-gaap:ParentMember 2022-12-31 0000097745 us-gaap:NoncontrollingInterestMember 2022-12-31 0000097745 us-gaap:AdditionalPaidInCapitalMember 2023-01-01 2023-07-01 0000097745 us-gaap:TreasuryStockCommonMember 2023-01-01 2023-07-01 0000097745 us-gaap:ParentMember 2023-01-01 2023-07-01 0000097745 us-gaap:RetainedEarningsMember 2023-01-01 2023-07-01 0000097745 us-gaap:NoncontrollingInterestMember 2023-01-01 2023-07-01 0000097745 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2023-01-01 2023-07-01 0000097745 us-gaap:CommonStockMember 2021-12-31 0000097745 us-gaap:AdditionalPaidInCapitalMember 2021-12-31 0000097745 us-gaap:RetainedEarningsMember 2021-12-31 0000097745 us-gaap:TreasuryStockCommonMember 2021-12-31 0000097745 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2021-12-31 0000097745 us-gaap:ParentMember 2021-12-31 0000097745 us-gaap:NoncontrollingInterestMember 2021-12-31 0000097745 us-gaap:CommonStockMember 2022-01-01 2022-07-02 0000097745 us-gaap:AdditionalPaidInCapitalMember 2022-01-01 2022-07-02 0000097745 us-gaap:TreasuryStockCommonMember 2022-01-01 2022-07-02 0000097745 us-gaap:ParentMember 2022-01-01 2022-07-02 0000097745 us-gaap:RetainedEarningsMember 2022-01-01 2022-07-02 0000097745 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2022-01-01 2022-07-02 0000097745 us-gaap:NoncontrollingInterestMember 2022-01-01 2022-07-02 0000097745 tmo:TheBindingSiteGroupMember 2023-01-03 2023-01-03 0000097745 us-gaap:CustomerRelationshipsMember tmo:TheBindingSiteGroupMember 2023-01-03 0000097745 tmo:TheBindingSiteGroupMember us-gaap:TechnologyBasedIntangibleAssetsMember 2023-01-03 0000097745 us-gaap:TradeNamesMember tmo:TheBindingSiteGroupMember 2023-01-03 0000097745 tmo:TheBindingSiteGroupMember 2023-01-03 0000097745 us-gaap:CustomerRelationshipsMember tmo:TheBindingSiteGroupMember 2023-01-01 2023-07-01 0000097745 tmo:TheBindingSiteGroupMember us-gaap:TechnologyBasedIntangibleAssetsMember 2023-01-01 2023-07-01 0000097745 us-gaap:TradeNamesMember tmo:TheBindingSiteGroupMember 2023-01-01 2023-07-01 0000097745 tmo:TheBindingSiteGroupMember 2023-01-01 2023-07-01 0000097745 tmo:CorEvitasLLCMember 2023-01-01 2023-07-01 0000097745 tmo:ConsumablesMember 2023-04-02 2023-07-01 0000097745 tmo:ConsumablesMember 2022-04-03 2022-07-02 0000097745 tmo:ConsumablesMember 2023-01-01 2023-07-01 0000097745 tmo:ConsumablesMember 2022-01-01 2022-07-02 0000097745 tmo:InstrumentsMember 2023-04-02 2023-07-01 0000097745 tmo:InstrumentsMember 2022-04-03 2022-07-02 0000097745 tmo:InstrumentsMember 2023-01-01 2023-07-01 0000097745 tmo:InstrumentsMember 2022-01-01 2022-07-02 0000097745 srt:NorthAmericaMember 2023-04-02 2023-07-01 0000097745 srt:NorthAmericaMember 2022-04-03 2022-07-02 0000097745 srt:NorthAmericaMember 2023-01-01 2023-07-01 0000097745 srt:NorthAmericaMember 2022-01-01 2022-07-02 0000097745 srt:EuropeMember 2023-04-02 2023-07-01 0000097745 srt:EuropeMember 2022-04-03 2022-07-02 0000097745 srt:EuropeMember 2023-01-01 2023-07-01 0000097745 srt:EuropeMember 2022-01-01 2022-07-02 0000097745 srt:AsiaPacificMember 2023-04-02 2023-07-01 0000097745 srt:AsiaPacificMember 2022-04-03 2022-07-02 0000097745 srt:AsiaPacificMember 2023-01-01 2023-07-01 0000097745 srt:AsiaPacificMember 2022-01-01 2022-07-02 0000097745 tmo:OtherRegionsMember 2023-04-02 2023-07-01 0000097745 tmo:OtherRegionsMember 2022-04-03 2022-07-02 0000097745 tmo:OtherRegionsMember 2023-01-01 2023-07-01 0000097745 tmo:OtherRegionsMember 2022-01-01 2022-07-02 0000097745 2023-07-02 2023-07-01 xbrli:pure 0000097745 srt:MinimumMember 2023-07-01 0000097745 srt:MaximumMember 2023-07-01 0000097745 us-gaap:OperatingSegmentsMember tmo:LifeSciencesSolutionsMember 2023-04-02 2023-07-01 0000097745 us-gaap:OperatingSegmentsMember tmo:LifeSciencesSolutionsMember 2022-04-03 2022-07-02 0000097745 us-gaap:OperatingSegmentsMember tmo:LifeSciencesSolutionsMember 2023-01-01 2023-07-01 0000097745 us-gaap:OperatingSegmentsMember tmo:LifeSciencesSolutionsMember 2022-01-01 2022-07-02 0000097745 tmo:AnalyticalInstrumentsMember us-gaap:OperatingSegmentsMember 2023-04-02 2023-07-01 0000097745 tmo:AnalyticalInstrumentsMember us-gaap:OperatingSegmentsMember 2022-04-03 2022-07-02 0000097745 tmo:AnalyticalInstrumentsMember us-gaap:OperatingSegmentsMember 2023-01-01 2023-07-01 0000097745 tmo:AnalyticalInstrumentsMember us-gaap:OperatingSegmentsMember 2022-01-01 2022-07-02 0000097745 tmo:SpecialtyDiagnosticsMember us-gaap:OperatingSegmentsMember 2023-04-02 2023-07-01 0000097745 tmo:SpecialtyDiagnosticsMember us-gaap:OperatingSegmentsMember 2022-04-03 2022-07-02 0000097745 tmo:SpecialtyDiagnosticsMember us-gaap:OperatingSegmentsMember 2023-01-01 2023-07-01 0000097745 tmo:SpecialtyDiagnosticsMember us-gaap:OperatingSegmentsMember 2022-01-01 2022-07-02 0000097745 us-gaap:OperatingSegmentsMember tmo:LaboratoryProductsandServicesMember 2023-04-02 2023-07-01 0000097745 us-gaap:OperatingSegmentsMember tmo:LaboratoryProductsandServicesMember 2022-04-03 2022-07-02 0000097745 us-gaap:OperatingSegmentsMember tmo:LaboratoryProductsandServicesMember 2023-01-01 2023-07-01 0000097745 us-gaap:OperatingSegmentsMember tmo:LaboratoryProductsandServicesMember 2022-01-01 2022-07-02 0000097745 us-gaap:IntersegmentEliminationMember 2023-04-02 2023-07-01 0000097745 us-gaap:IntersegmentEliminationMember 2022-04-03 2022-07-02 0000097745 us-gaap:IntersegmentEliminationMember 2023-01-01 2023-07-01 0000097745 us-gaap:IntersegmentEliminationMember 2022-01-01 2022-07-02 0000097745 us-gaap:OperatingSegmentsMember 2023-04-02 2023-07-01 0000097745 us-gaap:OperatingSegmentsMember 2022-04-03 2022-07-02 0000097745 us-gaap:OperatingSegmentsMember 2023-01-01 2023-07-01 0000097745 us-gaap:OperatingSegmentsMember 2022-01-01 2022-07-02 0000097745 us-gaap:MaterialReconcilingItemsMember 2023-04-02 2023-07-01 0000097745 us-gaap:MaterialReconcilingItemsMember 2022-04-03 2022-07-02 0000097745 us-gaap:MaterialReconcilingItemsMember 2023-01-01 2023-07-01 0000097745 us-gaap:MaterialReconcilingItemsMember 2022-01-01 2022-07-02 0000097745 country:US 2023-04-02 2023-07-01 0000097745 country:US 2022-04-03 2022-07-02 0000097745 country:US 2023-01-01 2023-07-01 0000097745 country:US 2022-01-01 2022-07-02 0000097745 country:CN 2023-04-02 2023-07-01 0000097745 country:CN 2022-04-03 2022-07-02 0000097745 country:CN 2023-01-01 2023-07-01 0000097745 country:CN 2022-01-01 2022-07-02 0000097745 tmo:AllOtherCountriesMember 2023-04-02 2023-07-01 0000097745 tmo:AllOtherCountriesMember 2022-04-03 2022-07-02 0000097745 tmo:AllOtherCountriesMember 2023-01-01 2023-07-01 0000097745 tmo:AllOtherCountriesMember 2022-01-01 2022-07-02 tmo:country 0000097745 us-gaap:CommercialPaperMember 2023-07-01 0000097745 us-gaap:CommercialPaperMember 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:FloatingRateSOFR03518MonthSeniorNotesDue2023Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:FloatingRateSOFR03518MonthSeniorNotesDue2023Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:FloatingRateSOFR039SeniorNotesDue2023Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:FloatingRateSOFR039SeniorNotesDue2023Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:FloatingRateSOFR039SeniorNotesDue2023Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0797Due2023Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0797Due2023Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0797Due2023Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:FloatingRate2YearSeniorNotesDue2023Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:FloatingRate2YearSeniorNotesDue2023Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:FloatingRate2YearSeniorNotesDue2023Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0000Due2023Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0000Due2023Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0000Due2023Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0.75Due2024Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0.75Due2024Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0.75Due2024Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:FloatingRateSOFR053SeniorNotesDue2024Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:FloatingRateSOFR053SeniorNotesDue2024Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:FloatingRateSOFR053SeniorNotesDue2024Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1215Due2024Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1215Due2024Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1215Due2024Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0.125Due2025Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0.125Due2025Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0.125Due2025Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes200Due2025Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes200Due2025Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes200Due2025Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0853Due2025Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0853Due2025Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0853Due2025Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0000Due2025Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0000Due2025Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0000Due2025Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes320Due2026Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes320Due2026Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes320Due2026Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.40Due2026Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.40Due2026Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.40Due2026Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:A1.45SeniorNotesDue2027Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:A1.45SeniorNotesDue2027Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:A1.45SeniorNotesDue2027Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes175Due2027Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes175Due2027Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes175Due2027Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1054Due2027Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1054Due2027Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1054Due2027Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes48Due2027Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes48Due2027Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes48Due2027Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0.500Due2028Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0.500Due2028Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0.500Due2028Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.375Due2028Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.375Due2028Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.375Due2028Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1750Due2028Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1750Due2028Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1750Due2028Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.95Due2029Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.95Due2029Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.95Due2029Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2.60Due2029Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2.60Due2029Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2.60Due2029Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1279Due2029Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1279Due2029Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1279Due2029Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes080Due2030Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes080Due2030Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes080Due2030Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0.875Due2031Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0.875Due2031Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes0.875Due2031Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2000Due2031Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2000Due2031Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2000Due2031Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2375Due2032Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2375Due2032Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2375Due2032Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes149Due2032Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes149Due2032Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes149Due2032Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes495Due2032Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes495Due2032Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes495Due2032Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1125Due2033Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1125Due2033Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1125Due2033Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes365Due2034Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes365Due2034Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes365Due2034Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2.875Due2037Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2.875Due2037Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2.875Due2037Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.500Due2039Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.500Due2039Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.500Due2039Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2800Due2041Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2800Due2041Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2800Due2041Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1625Due2041Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1625Due2041Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1625Due2041Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2069Due2042Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2069Due2042Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2069Due2042Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes530Due2044Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes530Due2044Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes530Due2044Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes4.10Due2047Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes4.10Due2047Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes4.10Due2047Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.875Due2049Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.875Due2049Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes1.875Due2049Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes200Due2051Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes200Due2051Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes200Due2051Member 2022-12-31 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2382Due2052Member 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2382Due2052Member 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes2382Due2052Member 2022-12-31 0000097745 tmo:OtherDebtMember 2023-07-01 0000097745 tmo:OtherDebtMember 2022-12-31 0000097745 us-gaap:RevolvingCreditFacilityMember 2023-07-01 0000097745 us-gaap:RevolvingCreditFacilityMember 2023-01-01 2023-07-01 0000097745 us-gaap:CommercialPaperMember tmo:U.S.CommercialPaperProgramMember 2023-01-01 2023-07-01 0000097745 us-gaap:CommercialPaperMember tmo:EuroCommercialPaperProgramMember 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember 2023-01-01 2023-07-01 0000097745 us-gaap:SeniorNotesMember tmo:SeniorNotes3.65Due2025Member 2022-04-02 0000097745 2022-01-01 2022-04-02 0000097745 us-gaap:AccumulatedTranslationAdjustmentMember 2022-12-31 0000097745 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2022-12-31 0000097745 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2022-12-31 0000097745 us-gaap:AccumulatedTranslationAdjustmentMember 2023-01-01 2023-07-01 0000097745 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2023-01-01 2023-07-01 0000097745 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2023-01-01 2023-07-01 0000097745 us-gaap:AccumulatedTranslationAdjustmentMember 2023-07-01 0000097745 us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember 2023-07-01 0000097745 us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember 2023-07-01 0000097745 us-gaap:FairValueMeasurementsRecurringMember 2023-07-01 0000097745 us-gaap:FairValueMeasurementsRecurringMember us-gaap:FairValueInputsLevel1Member 2023-07-01 0000097745 us-gaap:FairValueMeasurementsRecurringMember us-gaap:FairValueInputsLevel2Member 2023-07-01 0000097745 us-gaap:FairValueMeasurementsRecurringMember us-gaap:FairValueInputsLevel3Member 2023-07-01 0000097745 us-gaap:FairValueMeasurementsRecurringMember 2022-12-31 0000097745 us-gaap:FairValueMeasurementsRecurringMember us-gaap:FairValueInputsLevel1Member 2022-12-31 0000097745 us-gaap:FairValueMeasurementsRecurringMember us-gaap:FairValueInputsLevel2Member 2022-12-31 0000097745 us-gaap:FairValueMeasurementsRecurringMember us-gaap:FairValueInputsLevel3Member 2022-12-31 0000097745 tmo:ContingentConsiderationMember 2023-04-01 0000097745 tmo:ContingentConsiderationMember 2022-04-02 0000097745 tmo:ContingentConsiderationMember 2022-12-31 0000097745 tmo:ContingentConsiderationMember 2021-12-31 0000097745 tmo:ContingentConsiderationMember 2023-04-02 2023-07-01 0000097745 tmo:ContingentConsiderationMember 2022-04-03 2022-07-02 0000097745 tmo:ContingentConsiderationMember 2023-01-01 2023-07-01 0000097745 tmo:ContingentConsiderationMember 2022-01-01 2022-07-02 0000097745 tmo:ContingentConsiderationMember 2023-07-01 0000097745 tmo:ContingentConsiderationMember 2022-07-02 0000097745 us-gaap:CrossCurrencyInterestRateContractMember us-gaap:NetInvestmentHedgingMember 2023-07-01 0000097745 us-gaap:CrossCurrencyInterestRateContractMember us-gaap:NetInvestmentHedgingMember 2022-12-31 0000097745 us-gaap:ForeignExchangeContractMember 2023-07-01 0000097745 us-gaap:ForeignExchangeContractMember 2022-12-31 0000097745 us-gaap:CrossCurrencyInterestRateContractMember us-gaap:DesignatedAsHedgingInstrumentMember 2023-07-01 0000097745 us-gaap:CrossCurrencyInterestRateContractMember us-gaap:DesignatedAsHedgingInstrumentMember 2022-12-31 0000097745 us-gaap:NondesignatedMember us-gaap:ForeignExchangeContractMember 2023-07-01 0000097745 us-gaap:NondesignatedMember us-gaap:ForeignExchangeContractMember 2022-12-31 0000097745 us-gaap:OtherExpenseMember us-gaap:InterestRateSwapMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:CashFlowHedgingMember 2023-04-02 2023-07-01 0000097745 us-gaap:OtherExpenseMember us-gaap:InterestRateSwapMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:CashFlowHedgingMember 2022-04-03 2022-07-02 0000097745 us-gaap:OtherExpenseMember us-gaap:InterestRateSwapMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:CashFlowHedgingMember 2023-01-01 2023-07-01 0000097745 us-gaap:OtherExpenseMember us-gaap:InterestRateSwapMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:CashFlowHedgingMember 2022-01-01 2022-07-02 0000097745 tmo:ForeigncurrencydenominateddebtMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:NetInvestmentHedgingMember 2023-04-02 2023-07-01 0000097745 tmo:ForeigncurrencydenominateddebtMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:NetInvestmentHedgingMember 2022-04-03 2022-07-02 0000097745 tmo:ForeigncurrencydenominateddebtMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:NetInvestmentHedgingMember 2023-01-01 2023-07-01 0000097745 tmo:ForeigncurrencydenominateddebtMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:NetInvestmentHedgingMember 2022-01-01 2022-07-02 0000097745 us-gaap:CrossCurrencyInterestRateContractMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:NetInvestmentHedgingMember 2023-04-02 2023-07-01 0000097745 us-gaap:CrossCurrencyInterestRateContractMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:NetInvestmentHedgingMember 2022-04-03 2022-07-02 0000097745 us-gaap:CrossCurrencyInterestRateContractMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:NetInvestmentHedgingMember 2023-01-01 2023-07-01 0000097745 us-gaap:CrossCurrencyInterestRateContractMember us-gaap:DesignatedAsHedgingInstrumentMember us-gaap:NetInvestmentHedgingMember 2022-01-01 2022-07-02 0000097745 us-gaap:NondesignatedMember us-gaap:CostOfSalesMember us-gaap:ForeignExchangeContractMember 2023-04-02 2023-07-01 0000097745 us-gaap:NondesignatedMember us-gaap:CostOfSalesMember us-gaap:ForeignExchangeContractMember 2022-04-03 2022-07-02 0000097745 us-gaap:NondesignatedMember us-gaap:CostOfSalesMember us-gaap:ForeignExchangeContractMember 2023-01-01 2023-07-01 0000097745 us-gaap:NondesignatedMember us-gaap:CostOfSalesMember us-gaap:ForeignExchangeContractMember 2022-01-01 2022-07-02 0000097745 us-gaap:NondesignatedMember us-gaap:OtherExpenseMember us-gaap:ForeignExchangeContractMember 2023-04-02 2023-07-01 0000097745 us-gaap:NondesignatedMember us-gaap:OtherExpenseMember us-gaap:ForeignExchangeContractMember 2022-04-03 2022-07-02 0000097745 us-gaap:NondesignatedMember us-gaap:OtherExpenseMember us-gaap:ForeignExchangeContractMember 2023-01-01 2023-07-01 0000097745 us-gaap:NondesignatedMember us-gaap:OtherExpenseMember us-gaap:ForeignExchangeContractMember 2022-01-01 2022-07-02 0000097745 us-gaap:SeniorNotesMember 2023-07-01 0000097745 us-gaap:SeniorNotesMember 2022-12-31 0000097745 srt:ScenarioForecastMember 2023-08-04 0000097745 us-gaap:CorporateNonSegmentMember 2023-04-02 2023-07-01 0000097745 us-gaap:CorporateNonSegmentMember 2023-01-01 2023-07-01 
+
+ UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+
+ FORM 10-Q 
+
+ &#9746; Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 for the quarterly period ended July 1, 2023 or 
+ &#9744; Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+ Commission File Number 1-8002 
+ THERMO FISHER SCIENTIFIC INC. 
+ (Exact name of Registrant as specified in its charter) 
+ Delaware 04-2209186 
+ (State of incorporation) (I.R.S. Employer Identification No.) 
+
+ 168 Third Avenue 
+ Waltham , Massachusetts 02451 
+ (Address of principal executive offices) (Zip Code) 
+ Registrant&#8217;s telephone number, including area code: ( 781 ) 622-1000 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Common Stock, $1.00 par value TMO New York Stock Exchange 
+ 0.750% Notes due 2024 TMO 24A New York Stock Exchange 
+ 0.125% Notes due 2025 TMO 25B New York Stock Exchange 
+ 2.000% Notes due 2025 TMO 25 New York Stock Exchange 
+ 3.200% Notes due 2026 TMO 26B New York Stock Exchange 
+ 1.400% Notes due 2026 TMO 26A New York Stock Exchange 
+ 1.450% Notes due 2027 TMO 27 New York Stock Exchange 
+ 1.750% Notes due 2027 TMO 27B New York Stock Exchange 
+ 0.500% Notes due 2028 TMO 28A New York Stock Exchange 
+ 1.375% Notes due 2028 TMO 28 New York Stock Exchange 
+ 1.950% Notes due 2029 TMO 29 New York Stock Exchange 
+ 0.875% Notes due 2031 TMO 31 New York Stock Exchange 
+ 2.375% Notes due 2032 TMO 32 New York Stock Exchange 
+ 3.650% Notes due 2034 TMO 34 New York Stock Exchange 
+ 2.875% Notes due 2037 TMO 37 New York Stock Exchange 
+ 1.500% Notes due 2039 TMO 39 New York Stock Exchange 
+ 1.875% Notes due 2049 TMO 49 New York Stock Exchange 
+
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes &#9746; No &#9744; 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (&#167; 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes &#9746; No &#9744; 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of &#8220;large accelerated filer,&#8221; &#8220;accelerated filer,&#8221; &#8220;smaller reporting company,&#8221; and &#8220;emerging growth company&#8221; in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer &#9746; Accelerated filer &#9744; Non-accelerated filer &#9744; 
+ Smaller reporting company &#9744; Emerging growth company &#9744; 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. &#9744; 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes &#9744; No &#9746; 
+ As of July 1, 2023, the Registrant had 385,949,773 shares of Common Stock outstanding. 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ QUARTERLY REPORT ON FORM 10-Q 
+ FOR THE QUARTER ENDED JULY 1, 2023 
+ TABLE OF CONTENTS 
+ Page 
+ PART I - FINANCIAL INFORMATION 
+
+ Item 1. 
+ Financial Statements 
+ 3 
+
+ Item 2. 
+ Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+ 22 
+
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 30 
+
+ Item 4. 
+ Controls and Procedures 
+ 30 
+
+ PART II - OTHER INFORMATION 
+
+ Item 1. 
+ Legal Proceedings 
+ 31 
+
+ Item 1A. 
+ Risk Factors 
+ 31 
+
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 31 
+
+ Item 5. 
+ Other Information 
+ 31 
+
+ Item 6. 
+ Exhibits 
+ 31 
+
+ 2 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ PART I FINANCIAL INFORMATION 
+
+ Item 1. Financial Statements 
+
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (Unaudited) 
+ July 1, December 31, 
+ (In millions except share and per share amounts) 2023 2022 
+ Assets 
+ Current assets: 
+ Cash and cash equivalents $ 3,133 $ 8,524 
+ Accounts receivable, less allowances of $ 180 and $ 189 
+ 8,019 8,115 
+ Inventories 5,655 5,634 
+ Contract assets, net 1,467 1,312 
+
+ Other current assets 1,721 1,644 
+ Total current assets 19,995 25,229 
+ Property, plant and equipment, net 9,292 9,280 
+ Acquisition-related intangible assets, net 17,437 17,442 
+ Other assets 4,108 4,007 
+ Goodwill 43,273 41,196 
+ Total assets $ 94,105 $ 97,154 
+
+ Liabilities, redeemable noncontrolling interest and equity 
+ Current liabilities: 
+ Short-term obligations and current maturities of long-term obligations $ 4,814 $ 5,579 
+ Accounts payable 2,423 3,381 
+ Accrued payroll and employee benefits 1,310 2,095 
+ Contract liabilities 2,590 2,601 
+ Other accrued expenses 2,975 3,354 
+ Total current liabilities 14,112 17,010 
+ Deferred income taxes 2,842 2,849 
+ Other long-term liabilities 4,042 4,238 
+ Long-term obligations 29,194 28,909 
+ Redeemable noncontrolling interest 113 116 
+ Equity: 
+ Thermo Fisher Scientific Inc. shareholders&#8217; equity: 
+ Preferred stock, $ 100 par value, 50,000 shares authorized; none issued 
+ — — 
+ Common stock, $ 1 par value, 1,200,000,000 shares authorized; 441,398,059 and 440,668,112 shares issued 
+ 441 441 
+ Capital in excess of par value 17,030 16,743 
+ Retained earnings 44,289 41,910 
+ Treasury stock at cost, 55,448,286 and 50,157,275 shares 
+ ( 15,084 ) ( 12,017 ) 
+ Accumulated other comprehensive income/(loss) ( 2,924 ) ( 3,099 ) 
+ Total Thermo Fisher Scientific Inc. shareholders&#8217; equity 43,752 43,978 
+ Noncontrolling interests 50 54 
+ Total equity 43,802 44,032 
+ Total liabilities, redeemable noncontrolling interest and equity $ 94,105 $ 97,154 
+
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 3 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ CONDENSED CONSOLIDATED STATEMENTS OF INCOME 
+ (Unaudited) 
+ Three months ended Six months ended 
+ July 1, July 2, July 1, July 2, 
+ (In millions except per share amounts) 2023 2022 2023 2022 
+ Revenues 
+
+ Product revenues 
+ $ 6,271 $ 7,003 $ 12,675 $ 15,020 
+ Service revenues 
+ 4,416 3,967 8,722 7,768 
+ Total revenues 
+ 10,687 10,970 21,397 22,788 
+
+ Costs and operating expenses: 
+ Cost of product revenues 
+ 3,278 3,516 6,615 7,071 
+ Cost of service revenues 
+ 3,158 2,855 6,391 5,654 
+ Selling, general and administrative expenses 
+ 2,145 2,209 4,264 4,486 
+ Research and development expenses 
+ 345 365 691 729 
+ Restructuring and other costs 
+ 183 24 295 26 
+ Total costs and operating expenses 
+ 9,109 8,969 18,256 17,966 
+ Operating income 1,578 2,001 3,141 4,822 
+ Interest income 178 36 324 54 
+ Interest expense ( 326 ) ( 148 ) ( 626 ) ( 284 ) 
+ Other income/(expense) 
+ — 28 ( 46 ) ( 135 ) 
+ Income before income taxes 
+ 1,430 1,917 2,793 4,457 
+ Provision for income taxes 
+ ( 52 ) ( 198 ) ( 98 ) ( 499 ) 
+ Equity in earnings/(losses) of unconsolidated entities ( 16 ) ( 51 ) ( 41 ) ( 70 ) 
+ Net income 1,362 1,668 2,654 3,888 
+ Less: net income/(losses) attributable to noncontrolling interests and redeemable noncontrolling interest 1 4 4 9 
+ Net income attributable to Thermo Fisher Scientific Inc. $ 1,361 $ 1,664 $ 2,650 $ 3,879 
+
+ Earnings per share attributable to Thermo Fisher Scientific Inc. 
+ Basic $ 3.53 $ 4.25 $ 6.86 $ 9.90 
+ Diluted $ 3.51 $ 4.22 $ 6.83 $ 9.83 
+
+ Weighted average shares 
+ Basic 386 392 386 392 
+ Diluted 388 394 388 394 
+
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+
+ 4 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+ (Unaudited) 
+
+ Three months ended Six months ended 
+ July 1, July 2, July 1, July 2, 
+ (In millions) 2023 2022 2023 2022 
+ Comprehensive income 
+
+ Net income $ 1,362 $ 1,668 $ 2,654 $ 3,888 
+ Other comprehensive income/(loss): 
+
+ Currency translation adjustment: 
+
+ Currency translation adjustment (net of tax provision (benefit) of $ 0 , $ 173 , $( 36 ) and $ 262 ) 
+ 125 ( 386 ) 169 ( 416 ) 
+
+ Unrealized gains and losses on hedging instruments: 
+
+ Reclassification adjustment for losses included in net income (net of tax benefit of $ 0 , $ 1 , $ 1 and $ 1 ) 
+ 1 — 4 1 
+ Pension and other postretirement benefit liability adjustments: 
+
+ Pension and other postretirement benefit liability adjustments arising during the period (net of tax (provision) benefit of $ 1 , $( 2 ), $ 0 and $( 3 )) 
+ ( 1 ) 6 — 9 
+ Amortization of net loss included in net periodic pension cost (net of tax benefit of $ 0 , $ 1 , $ 0 and $ 2 ) 
+ ( 2 ) 2 ( 2 ) 4 
+ Total other comprehensive income/(loss) 123 ( 378 ) 171 ( 402 ) 
+ Comprehensive income 
+ 1,485 1,290 2,825 3,486 
+ Less: comprehensive income/(loss) attributable to noncontrolling interests and redeemable noncontrolling interest 
+ ( 6 ) 7 — 2 
+ Comprehensive income attributable to Thermo Fisher Scientific Inc. 
+ $ 1,491 $ 1,283 $ 2,825 $ 3,484 
+
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+
+ 5 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (Unaudited) 
+ Six months ended 
+ July 1, July 2, 
+ (In millions) 2023 2022 
+ Operating activities 
+ Net income 
+ $ 2,654 $ 3,888 
+ Adjustments to reconcile net income to net cash provided by operating activities: 
+
+ Depreciation of property, plant and equipment 
+ 523 486 
+ Amortization of acquisition-related intangible assets 
+ 1,191 1,209 
+ Change in deferred income taxes 
+ ( 328 ) ( 601 ) 
+
+ Loss on early extinguishment of debt — 26 
+ Stock-based compensation 
+ 150 155 
+ Other non-cash expenses, net 
+ 330 291 
+ Changes in assets and liabilities, excluding the effects of acquisitions ( 2,251 ) ( 1,724 ) 
+ Net cash provided by operating activities 
+ 2,269 3,730 
+
+ Investing activities 
+ Acquisitions, net of cash acquired 
+ ( 2,751 ) ( 40 ) 
+
+ Purchase of property, plant and equipment 
+ ( 742 ) ( 1,146 ) 
+ Proceeds from sale of property, plant and equipment 
+ 10 14 
+ Other investing activities, net 
+ ( 102 ) 83 
+ Net cash used in investing activities 
+ ( 3,585 ) ( 1,089 ) 
+
+ Financing activities 
+
+ Repayment of debt 
+ ( 1,000 ) ( 375 ) 
+ Proceeds from issuance of commercial paper 
+ 1,620 1,032 
+ Repayments of commercial paper 
+ ( 1,441 ) ( 3,490 ) 
+ Purchases of company common stock 
+ ( 3,000 ) ( 2,000 ) 
+ Dividends paid 
+ ( 252 ) ( 220 ) 
+
+ Other financing activities, net 
+ 24 3 
+ Net cash used in financing activities 
+ ( 4,049 ) ( 5,050 ) 
+
+ Exchange rate effect on cash ( 19 ) ( 177 ) 
+ Decrease in cash, cash equivalents and restricted cash 
+ ( 5,384 ) ( 2,586 ) 
+ Cash, cash equivalents and restricted cash at beginning of period 
+ 8,537 4,491 
+ Cash, cash equivalents and restricted cash at end of period 
+ $ 3,153 $ 1,905 
+
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 6 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ CONDENSED CONSOLIDATED STATEMENT OF REDEEMABLE NONCONTROLLING INTEREST AND EQUITY 
+ (Unaudited) 
+
+ Redeemable Noncontrolling Interest Common Stock Capital in Excess of Par Value Retained Earnings Treasury Stock Accumulated Other Comprehensive Items Total 
+Thermo Fisher Scientific Inc. Shareholders&#8217; Equity Noncontrolling Interests Total Equity 
+ (In millions) Shares Amount Shares Amount 
+
+ Three months ended July 1, 2023 
+ Balance at April 1, 2023 $ 123 441 $ 441 $ 16,889 $ 43,064 55 $ ( 15,083 ) $ ( 3,054 ) $ 42,257 $ 53 $ 42,310 
+ Issuance of shares under employees' and directors' stock plans 
+ — — — 67 — — ( 2 ) — 65 — 65 
+ Stock-based compensation 
+ — — — 74 — — — — 74 — 74 
+
+ Dividends declared ($ 0.35 per share) 
+ — — — — ( 136 ) — — — ( 136 ) — ( 136 ) 
+ Net income/(loss) 
+ 4 — — — 1,361 — — — 1,361 ( 3 ) 1,358 
+ Other comprehensive items 
+ ( 7 ) — — — — — — 130 130 — 130 
+ Contributions from (distributions to) noncontrolling interests ( 7 ) — — — — — — — — — — 
+ Excise tax from stock repurchases — — — — — — 1 — 1 — 1 
+ Balance at July 1, 2023 $ 113 441 $ 441 $ 17,030 $ 44,289 55 $ ( 15,084 ) $ ( 2,924 ) $ 43,752 $ 50 $ 43,802 
+
+ Three months ended July 2, 2022 
+ Balance at April 2, 2022 $ 113 440 $ 440 $ 16,292 $ 37,528 48 $ ( 10,961 ) $ ( 2,343 ) $ 40,956 $ 62 $ 41,018 
+
+ Issuance of shares under employees' and directors' stock plans 
+ — — — 98 — — ( 3 ) — 95 — 95 
+ Stock-based compensation 
+ — — — 77 — — — — 77 — 77 
+
+ Dividends declared ($ 0.30 per share) 
+ — — — — ( 118 ) — — — ( 118 ) — ( 118 ) 
+ Net income/(loss) 
+ 4 — — — 1,664 — — — 1,664 — 1,664 
+ Other comprehensive items 
+ 4 — — — — — — ( 381 ) ( 381 ) ( 1 ) ( 382 ) 
+ Contributions from (distributions to) noncontrolling interests ( 4 ) — — — — — — — — — — 
+ Balance at July 2, 2022 $ 117 440 $ 440 $ 16,467 $ 39,074 48 $ ( 10,964 ) $ ( 2,724 ) $ 42,293 $ 61 $ 42,354 
+
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 7 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ CONDENSED CONSOLIDATED STATEMENT OF REDEEMABLE NONCONTROLLING INTEREST AND EQUITY (Continued) 
+ (Unaudited) 
+
+ Redeemable Noncontrolling Interest Common Stock Capital in Excess of Par Value Retained Earnings Treasury Stock Accumulated Other Comprehensive Items Total 
+Thermo Fisher Scientific Inc. Shareholders&#8217; Equity Noncontrolling Interests Total Equity 
+ (In millions) Shares Amount Shares Amount 
+
+ Six months ended July 1, 2023 
+ Balance at December 31, 2022 $ 116 441 $ 441 $ 16,743 $ 41,910 50 $ ( 12,017 ) $ ( 3,099 ) $ 43,978 $ 54 $ 44,032 
+
+ Issuance of shares under employees' and directors' stock plans 
+ — — — 137 — — ( 38 ) — 99 — 99 
+ Stock-based compensation 
+ — — — 150 — — — — 150 — 150 
+ Purchases of company common stock 
+ — — — — — 5 ( 3,000 ) — ( 3,000 ) — ( 3,000 ) 
+ Dividends declared ($ 0.70 per share) 
+ — — — — ( 271 ) — — — ( 271 ) — ( 271 ) 
+
+ Net income/(loss) 
+ 8 — — — 2,650 — — — 2,650 ( 4 ) 2,646 
+ Other comprehensive income/(loss) 
+ ( 4 ) — — — — — — 175 175 — 175 
+ Contributions from (distributions to) noncontrolling interests ( 7 ) — — — — — — — — — — 
+ Excise tax from stock repurchases — — — — — — ( 29 ) — ( 29 ) — ( 29 ) 
+
+ Balance at July 1, 2023 $ 113 441 $ 441 $ 17,030 $ 44,289 55 $ ( 15,084 ) $ ( 2,924 ) $ 43,752 $ 50 $ 43,802 
+
+ Six months ended July 2, 2022 
+ Balance at December 31, 2021 $ 122 439 $ 439 $ 16,174 $ 35,431 45 $ ( 8,922 ) $ ( 2,329 ) $ 40,793 $ 62 $ 40,855 
+
+ Issuance of shares under employees' and directors' stock plans 
+ — 1 1 138 — — ( 42 ) — 97 — 97 
+ Stock-based compensation 
+ — — — 155 — — — — 155 — 155 
+ Purchases of company common stock 
+ — — — — — 3 ( 2,000 ) — ( 2,000 ) — ( 2,000 ) 
+ Dividends declared ($ 0.60 per share) 
+ — — — — ( 236 ) — — — ( 236 ) — ( 236 ) 
+ Net income/(loss) 
+ 9 — — — 3,879 — — — 3,879 — 3,879 
+ Other comprehensive income/(loss) 
+ ( 7 ) — — — — — — ( 395 ) ( 395 ) — ( 395 ) 
+ Contributions from (distributions to) noncontrolling interests ( 7 ) — — — — — — — — ( 1 ) ( 1 ) 
+ Balance at July 2, 2022 $ 117 440 $ 440 $ 16,467 $ 39,074 48 $ ( 10,964 ) $ ( 2,724 ) $ 42,293 $ 61 $ 42,354 
+
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 8 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Note 1. Nature of Operations and Summary of Significant Accounting Policies 
+ Nature of Operations 
+ Thermo Fisher Scientific Inc. (the company or Thermo Fisher) enables customers to make the world healthier, cleaner and safer by helping them accelerate life sciences research, solve complex analytical challenges, increase laboratory productivity, and improve patient health through diagnostics and the development and manufacture of life-changing therapies. Markets served include pharmaceutical and biotech, academic and government, industrial and applied, as well as healthcare and diagnostics. 
+ Interim Financial Statements 
+ The interim condensed consolidated financial statements presented herein have been prepared by the company, are unaudited and, in the opinion of management, reflect all adjustments of a normal recurring nature necessary for a fair statement of the financial position at July 1, 2023, the results of operations for the three- and six-month periods ended July 1, 2023 and July 2, 2022, and the cash flows for the six-month periods ended July 1, 2023 and July 2, 2022. Interim results are not necessarily indicative of results for a full year. 
+ The condensed consolidated balance sheet presented as of December 31, 2022 has been derived from the audited consolidated financial statements as of that date. The condensed consolidated financial statements and notes are presented as permitted by Form 10-Q and do not contain all information that is included in the annual financial statements and notes thereto of the company. The condensed consolidated financial statements and notes included in this report should be read in conjunction with the 2022 financial statements and notes included in the company&#8217;s Annual Report on Form 10-K filed with the Securities and Exchange Commission (SEC). Certain reclassifications of prior year amounts have been made to conform to the current year presentation. 
+ Note 1 to the consolidated financial statements for 2022 describes the significant accounting estimates and policies used in preparation of the consolidated financial statements. There have been no material changes in the company&#8217;s significant accounting policies during the six months ended July 1, 2023. 
+ Inventories 
+ The components of inventories are as follows: 
+
+ (In millions) July 1, 2023 December 31, 2022 
+ Raw materials $ 2,368 $ 2,405 
+ Work in process 760 660 
+ Finished goods 2,527 2,569 
+ Inventories $ 5,655 $ 5,634 
+
+ Use of Estimates 
+ The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. 
+ The company&#8217;s estimates include, among others, asset reserve requirements as well as the amounts of future cash flows associated with certain assets and businesses that are used in assessing the risk of impairment. Actual results could differ from those estimates. 
+ Recent Accounting Pronouncements 
+ In September 2022, the FASB issued new guidance to require entities to disclose information about supplier finance programs. Among other things, the new guidance requires expanded disclosure about key program terms, payment terms, and amounts outstanding for obligations under these programs for each period presented. The company adopted some aspects of this guidance in 2023 using a retrospective method and will adopt other aspects in 2024 using a prospective method. The adoption of this guidance did not have, and is not expected to have, a material impact on the company&#8217;s disclosures; however, the impact in future periods will be dependent on the extent of arrangements of this nature entered into by the company. 
+ In November 2021, the FASB issued new guidance to require entities to disclose information about certain types of government assistance they receive, including cash grants and tax credits. Among other things, the new guidance requires expanded disclosure regarding the qualitative and quantitative characteristics of the nature, amount, timing, and significant terms and conditions of transactions with a government arising from a grant or other forms of assistance accounted for under a contribution model. The company adopted this guidance in the fourth quarter of 2022 using a prospective method. The adoption of this guidance did not have a material impact on the company&#8217;s disclosures. 
+ 9 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Note 2. Acquisitions 
+ The company&#8217;s acquisitions have historically been made at prices above the determined fair value of the acquired identifiable net assets, resulting in goodwill, primarily due to expectations of the synergies that will be realized by combining the businesses and the benefits that will be gained from the assembled workforces. These synergies include the elimination of redundant facilities, functions and staffing; use of the company&#8217;s existing commercial infrastructure to expand sales of the acquired businesses&#8217; products and services; and use of the commercial infrastructure of the acquired businesses to cost-effectively expand sales of company products and services. 
+ Acquisitions have been accounted for using the acquisition method of accounting, and the acquired companies&#8217; results have been included in the accompanying financial statements from their respective dates of acquisition. 
+ 2023 
+ On January 3, 2023, the company acquired, within the Specialty Diagnostics segment, The Binding Site Group, a U.K.-based provider of specialty diagnostic assays and instruments to improve the diagnosis and management of blood cancers and immune system disorders. The acquisition expands the segment&#8217;s portfolio with the addition of pioneering innovation in diagnostics and monitoring for multiple myeloma. The goodwill recorded as a result of this business combination is not tax deductible. 
+ The components of the purchase price and net assets acquired are as follows: 
+ (In millions) The Binding Site 
+ Purchase price 
+
+ Cash paid 
+ $ 2,412 
+ Debt settled 
+ 307 
+
+ Cash acquired 
+ ( 20 ) 
+ $ 2,699 
+
+ Net assets acquired 
+
+ Definite-lived intangible assets: 
+
+ Customer relationships 
+ $ 868 
+ Product technology 
+ 172 
+ Tradenames 
+ 42 
+
+ Goodwill 
+ 1,755 
+ Net tangible assets 
+ 141 
+
+ Deferred tax assets (liabilities) 
+ ( 279 ) 
+
+ $ 2,699 
+
+ In addition, in 2023, the company acquired, within the Analytical Instruments segment, a U.S.-based developer of Raman-based spectroscopy solutions for in-line measurement. 
+ The weighted-average amortization period for definite-lived intangible assets acquired in 2023 are 18 years for customer relationships, 14 years for product technology and 15 years for tradenames. The weighted average amortization period for all definite-lived intangible assets acquired in 2023 is 17 years. 
+ Pending Acquisition 
+ The company has entered into an agreement to acquire CorEvitas, LLC for approximately $ 0.91 billion in cash. CorEvitas provides regulatory-grade, real-world evidence for approved medical treatments and therapies. The transaction, which is expected to be completed by the end of 2023, is subject to customary closing conditions, including regulatory approvals. Upon completion, CorEvitas will become part of the Laboratory Products and Biopharma Services segment. 
+ 10 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Note 3. Revenues and Contract-related Balances 
+ Disaggregated Revenues 
+ Revenues by type are as follows: 
+ Three months ended Six months ended 
+
+ (In millions) July 1, 2023 July 2, 2022 July 1, 2023 July 2, 2022 
+ Revenues 
+
+ Consumables 
+ $ 4,433 $ 4,993 $ 8,939 $ 11,103 
+ Instruments 
+ 1,838 2,010 3,736 3,917 
+ Services 
+ 4,416 3,967 8,722 7,768 
+ Consolidated revenues $ 10,687 $ 10,970 $ 21,397 $ 22,788 
+
+ Revenues by geographic region based on customer location are as follows: 
+ Three months ended Six months ended 
+
+ (In millions) July 1, 2023 July 2, 2022 July 1, 2023 July 2, 2022 
+ Revenues 
+
+ North America 
+ $ 5,714 $ 6,032 $ 11,492 $ 12,355 
+ Europe 
+ 2,654 2,551 5,255 5,601 
+ Asia-Pacific 
+ 1,902 2,042 3,888 4,106 
+ Other regions 
+ 417 345 762 726 
+ Consolidated revenues $ 10,687 $ 10,970 $ 21,397 $ 22,788 
+
+ Each reportable segment earns revenues from consumables, instruments and services in North America, Europe, Asia-Pacific and other regions. See Note 4 for revenues by reportable segment and other geographic data. 
+ Remaining Performance Obligations 
+ The aggregate amount of the transaction price allocated to the remaining performance obligations for all open customer contracts as of July 1, 2023 was $ 25.39 billion. The company will recognize revenues for these performance obligations as they are satisfied, approximately 56 % of which is expected to occur within the next twelve months . Amounts expected to occur thereafter generally relate to contract manufacturing, clinical research and extended warranty service agreements, which typically have durations of three to five years . 
+ Contract-related Balances 
+ Noncurrent contract assets and noncurrent contract liabilities are included within other assets and other long-term liabilities in the accompanying balance sheet, respectively. Contract asset and liability balances are as follows: 
+
+ (In millions) July 1, 2023 December 31, 2022 
+ Current contract assets, net $ 1,467 $ 1,312 
+ Noncurrent contract assets, net 6 7 
+ Current contract liabilities 2,590 2,601 
+ Noncurrent contract liabilities 1,098 1,179 
+
+ In the three and six months ended July 1, 2023, the company recognized revenues of $ 0.68 billion and $ 1.98 billion, respectively, that were included in the contract liabilities balance at December 31, 2022. In the three and six months ended July 2, 2022, the company recognized revenues of $ 0.71 billion and $ 1.99 billion, respectively, that were included in the contract liabilities balance at December 31, 2021. 
+ 11 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Note 4. Business Segment and Geographical Information 
+ Business Segment Information 
+ Three months ended Six months ended 
+ July 1, July 2, July 1, July 2, 
+ (In millions) 2023 2022 2023 2022 
+ Revenues 
+
+ Life Sciences Solutions 
+ $ 2,463 $ 3,292 $ 5,075 $ 7,523 
+ Analytical Instruments 
+ 1,749 1,607 3,472 3,125 
+ Specialty Diagnostics 
+ 1,109 1,101 2,217 2,583 
+ Laboratory Products and Biopharma Services 
+ 5,831 5,537 11,594 10,979 
+ Eliminations 
+ ( 465 ) ( 567 ) ( 961 ) ( 1,422 ) 
+ Consolidated revenues 
+ 10,687 10,970 21,397 22,788 
+
+ Segment Income 
+
+ Life Sciences Solutions 
+ 817 1,327 1,653 3,503 
+ Analytical Instruments 
+ 432 344 853 645 
+ Specialty Diagnostics 
+ 297 243 577 596 
+ Laboratory Products and Biopharma Services 
+ 824 691 1,617 1,311 
+ Subtotal reportable segments 
+ 2,370 2,605 4,700 6,055 
+ Cost of revenues adjustments 
+ ( 18 ) ( 8 ) ( 59 ) ( 19 ) 
+ Selling, general and administrative expenses adjustments 
+ ( 6 ) 28 ( 14 ) 21 
+ Restructuring and other costs 
+ ( 183 ) ( 24 ) ( 295 ) ( 26 ) 
+ Amortization of acquisition-related intangible assets 
+ ( 585 ) ( 600 ) ( 1,191 ) ( 1,209 ) 
+ Consolidated operating income 
+ 1,578 2,001 3,141 4,822 
+ Interest income 178 36 324 54 
+ Interest expense ( 326 ) ( 148 ) ( 626 ) ( 284 ) 
+ Other income/(expense) 
+ — 28 ( 46 ) ( 135 ) 
+ Consolidated income before taxes 
+ $ 1,430 $ 1,917 $ 2,793 $ 4,457 
+
+ Cost of revenues adjustments included in the above table consist of charges for the sale of inventories revalued at the date of acquisition, inventory write-downs associated with large-scale abandonment of product lines, and accelerated depreciation on manufacturing assets to be abandoned due to facility consolidations. Selling, general and administrative expenses adjustments included in the above table consist of third-party transaction/integration costs related to recent acquisitions and charges/credits for changes in estimates of contingent acquisition consideration. 
+ Geographical Information 
+ Revenues by country based on customer location are as follows: 
+ Three months ended Six months ended 
+
+ (In millions) July 1, 2023 July 2, 2022 July 1, 2023 July 2, 2022 
+ Revenues 
+
+ United States 
+ $ 5,531 $ 5,846 $ 11,118 $ 11,943 
+ China 
+ 856 1,001 1,726 1,911 
+ Other 
+ 4,300 4,123 8,553 8,934 
+ Consolidated revenues 
+ $ 10,687 $ 10,970 $ 21,397 $ 22,788 
+
+ 12 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Note 5. Income Taxes 
+ The provision for income taxes in the accompanying statements of income differs from the provision calculated by applying the statutory federal income tax rate to income before provision for income taxes due to the following: 
+ Six months ended 
+
+ (In millions) July 1, 2023 July 2, 2022 
+ Statutory federal income tax rate 
+ 21 % 21 % 
+ Provision for income taxes at statutory rate 
+ $ 587 $ 936 
+ Increases (decreases) resulting from: 
+
+ Foreign rate differential 
+ ( 125 ) ( 138 ) 
+ Income tax credits 
+ ( 136 ) ( 117 ) 
+ Global intangible low-taxed income 
+ 46 46 
+ Foreign-derived intangible income 
+ ( 55 ) ( 71 ) 
+ Excess tax benefits from stock options and restricted stock units 
+ ( 37 ) ( 31 ) 
+ Provision for (reversal of) tax reserves, net 
+ 8 13 
+ Intra-entity transfers 
+ ( 144 ) ( 18 ) 
+ Foreign exchange loss on inter-company debt refinancing 
+ ( 112 ) — 
+ Provision for (reversal of) valuation allowances, net 
+ 66 ( 175 ) 
+ Withholding taxes 
+ 12 33 
+
+ Tax return reassessments and settlements 
+ ( 38 ) ( 4 ) 
+ State income taxes, net of federal tax 
+ 53 67 
+ Other, net 
+ ( 27 ) ( 42 ) 
+ Provision for income taxes 
+ $ 98 $ 499 
+
+ The company has operations and a taxable presence in approximately 70 countries outside the U.S. The company's effective income tax rate differs from the U.S. federal statutory rate each year due to certain operations that are subject to tax incentives, state and local taxes, and foreign taxes that are different than the U.S. federal statutory rate. 
+ Unrecognized Tax Benefits 
+ As of July 1, 2023 the company had $ 0.56 billion of unrecognized tax benefits substantially all of which, if recognized, would reduce the effective tax rate. A reconciliation of the beginning and ending amounts of unrecognized tax benefits is as follows: 
+
+ (In millions) 2023 
+ Balance at beginning of year 
+ $ 572 
+
+ Additions for tax positions of current year 
+ 4 
+ Additions for tax positions of prior years 
+ 26 
+ Reductions for tax positions of prior years 
+ ( 27 ) 
+
+ Settlements 
+ ( 18 ) 
+ Balance at end of period 
+ $ 557 
+
+ Note 6. Earnings per Share 
+
+ Three months ended Six months ended 
+ July 1, July 2, July 1, July 2, 
+
+ (In millions except per share amounts) 2023 2022 2023 2022 
+ Net income attributable to Thermo Fisher Scientific Inc. $ 1,361 $ 1,664 $ 2,650 $ 3,879 
+
+ Basic weighted average shares 386 392 386 392 
+ Plus effect of: stock options and restricted stock units 2 2 2 2 
+ Diluted weighted average shares 388 394 388 394 
+
+ Basic earnings per share $ 3.53 $ 4.25 $ 6.86 $ 9.90 
+ Diluted earnings per share $ 3.51 $ 4.22 $ 6.83 $ 9.83 
+
+ Antidilutive stock options excluded from diluted weighted average shares 
+ 2 2 2 2 
+
+ 13 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Note 7. Debt and Other Financing Arrangements 
+
+ Effective interest rate at July 1, July 1, December 31, 
+ (Dollars in millions) 2023 2023 2022 
+ Commercial Paper 5.59 % $ 500 $ 310 
+
+ Floating Rate (SOFR + 0.35 %) 1.5 -Year Senior Notes, Due 4/18/2023 
+ — 1,000 
+ Floating Rate (SOFR + 0.39 %) 2 -Year Senior Notes, Due 10/18/2023 
+ 500 500 
+ 0.797 % 2 -Year Senior Notes, Due 10/18/2023 
+ 1.03 % 1,350 1,350 
+ Floating Rate (EURIBOR + 0.20 %) 2 -Year Senior Notes, Due 11/18/2023 (euro-denominated) 
+ 3.41 % 1,854 1,819 
+ 0.000 % 2 -Year Senior Notes, Due 11/18/2023 (euro-denominated) 
+ 0.06 % 600 589 
+ 0.75 % 8 -Year Senior Notes, Due 9/12/2024 (euro-denominated) 
+ 0.93 % 1,091 1,071 
+ Floating Rate (SOFR + 0.53 %) 3 -Year Senior Notes, Due 10/18/2024 
+ 500 500 
+ 1.215 % 3 -Year Senior Notes, Due 10/18/2024 
+ 1.42 % 2,500 2,500 
+ 0.125 % 5.5 -Year Senior Notes, Due 3/1/2025 (euro-denominated) 
+ 0.41 % 873 857 
+ 2.00 % 10 -Year Senior Notes, Due 4/15/2025 (euro-denominated) 
+ 2.10 % 698 686 
+ 0.853 % 3 -Year Senior Notes, Due 10/20/2025 (yen-denominated) 
+ 1.05 % 155 170 
+ 0.000 % 4 -Year Senior Notes, Due 11/18/2025 (euro-denominated) 
+ 0.15 % 600 589 
+ 3.20 % 3 -Year Senior Notes, Due 1/21/2026 (euro-denominated) 
+ 3.39 % 545 535 
+ 1.40 % 8.5 -Year Senior Notes, Due 1/23/2026 (euro-denominated) 
+ 1.53 % 764 749 
+ 1.45 % 10 -Year Senior Notes, Due 3/16/2027 (euro-denominated) 
+ 1.65 % 545 535 
+ 1.75 % 7 -Year Senior Notes, Due 4/15/2027 (euro-denominated) 
+ 1.96 % 654 642 
+ 1.054 % 5 -Year Senior Notes, Due 10/20/2027 (yen-denominated) 
+ 1.18 % 200 221 
+ 4.80 % 5 -Year Senior Notes, Due 11/21/2027 
+ 5.00 % 600 600 
+ 0.50 % 8.5 -Year Senior Notes, Due 3/1/2028 (euro-denominated) 
+ 0.77 % 873 857 
+ 1.375 % 12 -Year Senior Notes, Due 9/12/2028 (euro-denominated) 
+ 1.46 % 654 642 
+ 1.75 % 7 -Year Senior Notes, Due 10/15/2028 
+ 1.89 % 700 700 
+ 1.95 % 12 -Year Senior Notes, Due 7/24/2029 (euro-denominated) 
+ 2.08 % 764 749 
+ 2.60 % 10 -Year Senior Notes, Due 10/1/2029 
+ 2.74 % 900 900 
+ 1.279 % 7 -Year Senior Notes, Due 10/19/2029 (yen-denominated) 
+ 1.44 % 33 36 
+ 0.80 % 9 -Year Senior Notes, Due 10/18/2030 (euro-denominated) 
+ 0.88 % 1,909 1,873 
+ 0.875 % 12 -Year Senior Notes, Due 10/1/2031 (euro-denominated) 
+ 1.13 % 982 963 
+ 2.00 % 10 -Year Senior Notes, Due 10/15/2031 
+ 2.23 % 1,200 1,200 
+ 2.375 % 12 -Year Senior Notes, Due 4/15/2032 (euro-denominated) 
+ 2.55 % 654 642 
+ 1.49 % 10 -Year Senior Notes, Due 10/20/2032 (yen-denominated) 
+ 1.60 % 44 48 
+ 4.95 % 10 -Year Senior Notes, Due 11/21/2032 
+ 5.09 % 600 600 
+ 1.125 % 12 -Year Senior Notes, Due 10/18/2033 (euro-denominated) 
+ 1.20 % 1,636 1,606 
+ 3.65 % 12 -Year Senior Notes, Due 11/21/2034 (euro-denominated) 
+ 3.76 % 818 803 
+ 2.875 % 20 -Year Senior Notes, Due 7/24/2037 (euro-denominated) 
+ 2.94 % 764 749 
+ 1.50 % 20 -Year Senior Notes, Due 10/1/2039 (euro-denominated) 
+ 1.73 % 982 963 
+ 2.80 % 20 -Year Senior Notes, Due 10/15/2041 
+ 2.90 % 1,200 1,200 
+ 1.625 % 20 -Year Senior Notes, Due 10/18/2041 (euro-denominated) 
+ 1.77 % 1,364 1,339 
+ 2.069 % 20 -Year Senior Notes, Due 10/20/2042 (yen-denominated) 
+ 2.13 % 101 111 
+ 5.30 % 30 -Year Senior Notes, Due 2/1/2044 
+ 5.37 % 400 400 
+ 4.10 % 30 -Year Senior Notes, Due 8/15/2047 
+ 4.23 % 750 750 
+ 1.875 % 30 -Year Senior Notes, Due 10/1/2049 (euro-denominated) 
+ 1.98 % 1,091 1,071 
+
+ 14 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Effective interest rate at July 1, July 1, December 31, 
+ (Dollars in millions) 2023 2023 2022 
+ 2.00 % 30 -Year Senior Notes, Due 10/18/2051 (euro-denominated) 
+ 2.07 % 818 803 
+ 2.382 % 30 -Year Senior Notes, Due 10/18/2052 (yen-denominated) 
+ 2.43 % 231 254 
+ Other 76 79 
+ Total borrowings at par value 
+ 34,073 34,561 
+
+ Unamortized discount 
+ ( 112 ) ( 112 ) 
+ Unamortized debt issuance costs 
+ ( 155 ) ( 171 ) 
+ Total borrowings at carrying value 
+ 33,806 34,278 
+ Finance lease liabilities 
+ 202 210 
+ Less: Short-term obligations and current maturities 
+ 4,814 5,579 
+ Long-term obligations $ 29,194 $ 28,909 
+
+ SOFR - Secured Overnight Financing Rate 
+ EURIBOR - Euro Interbank Offered Rate 
+ The effective interest rates for the fixed-rate debt include the stated interest on the notes, the accretion of any discounts/premiums and the amortization of any debt issuance costs. 
+ See Note 10 for fair value information pertaining to the company&#8217;s long-term borrowings. 
+ Credit Facilities 
+ The company has a revolving credit facility (the Facility) with a bank group that provides for up to $ 5.00 billion of unsecured multi-currency revolving credit. The Facility expires on January 7, 2027. The revolving credit agreement calls for interest at either a Term SOFR, a EURIBOR-based rate (for funds drawn in euro) or a rate based on the prime lending rate of the agent bank, at the company&#8217;s option. The agreement contains affirmative, negative and financial covenants, and events of default customary for facilities of this type. The covenants in the Facility include a Consolidated Net Interest Coverage Ratio (Consolidated EBITDA to Consolidated Net Interest Expense), as such terms are defined in the Facility. Specifically, the company has agreed that, so long as any lender has any commitment under the Facility, any letter of credit is outstanding under the Facility, or any loan or other obligation is outstanding under the Facility, it will maintain a minimum Consolidated Net Interest Coverage Ratio of 3.5 :1.0 as of the last day of any fiscal quarter. As of July 1, 2023, no borrowings were outstanding under the Facility, although available capacity was reduced by immaterial outstanding letters of credit. 
+ Commercial Paper Programs 
+ The company has commercial paper programs pursuant to which it may issue and sell unsecured, short-term promissory notes (CP Notes). Under the U.S. program, a) maturities may not exceed 397 days from the date of issue and b) the CP Notes are issued on a private placement basis under customary terms in the commercial paper market and are not redeemable prior to maturity nor subject to voluntary prepayment. Under the euro program, maturities may not exceed 183 days and may be denominated in euro, U.S. dollars, Japanese yen, British pounds sterling, Swiss franc, Canadian dollars or other currencies. Under both programs, the CP Notes are issued at a discount from par (or premium to par, in the case of negative interest rates), or, alternatively, are sold at par and bear varying interest rates on a fixed or floating basis. 
+ Senior Notes 
+ Interest is payable quarterly on the floating rate senior notes, annually on the euro-denominated fixed rate senior notes and semi-annually on all other senior notes. Each of the U.S. dollar and euro-denominated fixed rate senior notes may be redeemed at a redemption price of 100 % of the principal amount plus a specified make-whole premium and accrued interest. Except for the euro-denominated floating rate senior notes, which may not be redeemed early, the floating rate senior notes may be redeemed in whole or in part on or after their applicable call dates at a redemption price of 100 % of the principal amount plus accrued interest. The company is subject to certain affirmative and negative covenants under the indentures governing the senior notes, the most restrictive of which limits the ability of the company to pledge principal properties as security under borrowing arrangements. The company was in compliance with all covenants at July 1, 2023. 
+ In the first quarter of 2022, the company redeemed all of its 3.650 % Senior Notes due 2025. In connection with the redemption, the company incurred $ 26 million of losses on the early extinguishment of debt included in other income/(expense) on the accompanying statements of income. 
+ 15 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Thermo Fisher Scientific (Finance I) B.V. (Thermo Fisher International), a wholly-owned finance subsidiary of the company, issued each of the Floating Rate Senior Notes due 2023, the 0.00 % Senior Notes due 2023, the 0.00 % Senior Notes due 2025, the 0.80 % Senior Notes due 2030, the 1.125 % Senior Notes due 2033, the 1.625 % Senior Notes due 2041, and the 2.00 % Senior Notes due 2051 included in the table above (collectively, the &#8220;Euronotes&#8221;) in registered public offerings. The company has fully and unconditionally guaranteed all of Thermo Fisher International&#8217;s obligations under the Euronotes and all of Thermo Fisher International&#8217;s other debt securities, and no other subsidiary of the company will guarantee these obligations. Thermo Fisher International is a &#8220;finance subsidiary&#8221; as defined in Rule 13-01(a)(4)(vi) of the Exchange Act, with no assets or operations other than those related to the issuance, administration and repayment of the Euronotes and other debt securities issued by Thermo Fisher International from time to time. The financial condition, results of operations and cash flows of Thermo Fisher International are consolidated in the financial statements of the company. 
+
+ Note 8. Commitments and Contingencies 
+ Environmental Matters 
+ The company is currently involved in various stages of investigation and remediation related to environmental matters. The company cannot predict all potential costs related to environmental remediation matters and the possible impact on future operations given the uncertainties regarding the extent of the required cleanup, the complexity and interpretation of applicable laws and regulations, the varying costs of alternative cleanup methods and the extent of the company&#8217;s responsibility. Expenses for environmental remediation matters related to the costs of installing, operating and maintaining groundwater-treatment systems and other remedial activities related to historical environmental contamination at the company&#8217;s domestic and international facilities were not material in any period presented. At July 1, 2023, there have been no material changes to the accruals for pending environmental-related matters disclosed in the company&#8217;s 2022 financial statements and notes included in the company&#8217;s Annual Report on Form 10-K. While management believes the accruals for environmental remediation are adequate based on current estimates of remediation costs, the company may be subject to additional remedial or compliance costs due to future events such as changes in existing laws and regulations, changes in agency direction or enforcement policies, developments in remediation technologies or changes in the conduct of the company&#8217;s operations, which could have a material adverse effect on the company&#8217;s financial position, results of operations and cash flows. 
+ Litigation and Related Contingencies 
+ The company is involved in various disputes, governmental and/or regulatory inspections, inquiries, investigations and proceedings, and litigation matters that arise from time to time in the ordinary course of business. The disputes and litigation matters include product liability, intellectual property, employment and commercial issues. Due to the inherent uncertainties associated with pending litigation or claims, the company cannot predict the outcome, nor, with respect to certain pending litigation or claims where no liability has been accrued, make a meaningful estimate of the reasonably possible loss or range of loss that could result from an unfavorable outcome. The company has no material accruals for pending litigation or claims for which accrual amounts are not disclosed in the company&#8217;s 2022 financial statements and notes included in the company&#8217;s Annual Report on Form 10-K, nor are material losses deemed probable for such matters. It is reasonably possible, however, that an unfavorable outcome that exceeds the company&#8217;s current accrual estimate, if any, for one or more such matters could have a material adverse effect on the company&#8217;s results of operations, financial position and cash flows. 
+ Product Liability, Workers Compensation and Other Personal Injury Matters 
+ The company is involved in various proceedings and litigation that arise from time to time in connection with product liability, workers compensation and other personal injury matters. At July 1, 2023, there have been no material changes to the accruals for pending product liability, workers compensation, and other personal injury matters disclosed in the company&#8217;s 2022 financial statements and notes included in the company&#8217;s Annual Report on Form 10-K. Although the company believes that the amounts accrued and estimated insurance recoveries are probable and appropriate based on available information, including actuarial studies of loss estimates, the process of estimating losses and insurance recoveries involves a considerable degree of judgment by management and the ultimate amounts could vary, which could have a material adverse effect on the company&#8217;s results of operations, financial position, and cash flows. Insurance contracts do not relieve the company of its primary obligation with respect to any losses incurred. The collectability of amounts due from its insurers is subject to the solvency and willingness of the insurer to pay, as well as the legal sufficiency of the insurance claims. Management monitors the payment history as well as the financial condition and ratings of its insurers on an ongoing basis. 
+ 16 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Note 9. Comprehensive Income/(Loss) 
+ Changes in each component of accumulated other comprehensive income/(loss), net of tax, are as follows: 
+ (In millions) Currency
+translation
+adjustment Unrealized
+losses on
+hedging
+instruments Pension and
+other
+postretirement
+benefit
+liability
+adjustment Total 
+ Balance at December 31, 2022 $ ( 2,880 ) $ ( 33 ) $ ( 186 ) $ ( 3,099 ) 
+ Other comprehensive income/(loss) before reclassifications 
+ 169 — — 169 
+ Amounts reclassified from accumulated other comprehensive income/(loss) 
+ 4 4 ( 2 ) 6 
+ Net other comprehensive income/(loss) 
+ 173 4 ( 2 ) 175 
+ Balance at July 1, 2023 $ ( 2,707 ) $ ( 29 ) $ ( 188 ) $ ( 2,924 ) 
+
+ Note 10. Fair Value Measurements and Fair Value of Financial Instruments 
+ Fair Value Measurements 
+ The following tables present information about the company&#8217;s financial assets and liabilities measured at fair value on a recurring basis: 
+ July 1, Quoted
+prices in
+active
+markets Significant
+other
+observable
+inputs Significant
+unobservable
+inputs 
+ (In millions) 2023 (Level 1) (Level 2) (Level 3) 
+ Assets 
+
+ Cash equivalents 
+ $ 810 $ 810 $ — $ — 
+ Investments 
+ 23 23 — — 
+ Warrants 
+ 11 — 11 — 
+ Insurance contracts 
+ 192 — 192 — 
+ Derivative contracts 
+ 7 — 7 — 
+ Total assets 
+ $ 1,043 $ 833 $ 210 $ — 
+
+ Liabilities 
+
+ Derivative contracts 
+ $ 16 $ — $ 16 $ — 
+ Contingent consideration 
+ 90 — — 90 
+ Total liabilities 
+ $ 106 $ — $ 16 $ 90 
+
+ 17 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ December 31, Quoted
+prices in
+active
+markets Significant
+other
+observable
+inputs Significant
+unobservable
+inputs 
+ (In millions) 2022 (Level 1) (Level 2) (Level 3) 
+ Assets 
+
+ Cash equivalents 
+ $ 5,804 $ 5,804 $ — $ — 
+ Investments 
+ 25 25 — — 
+ Warrants 
+ 12 — 12 — 
+ Insurance contracts 
+ 162 — 162 — 
+ Derivative contracts 
+ 79 — 79 — 
+ Total assets 
+ $ 6,082 $ 5,829 $ 253 $ — 
+
+ Liabilities 
+
+ Derivative contracts 
+ $ 101 $ — $ 101 $ — 
+ Contingent consideration 
+ 174 — — 174 
+ Total liabilities 
+ $ 275 $ — $ 101 $ 174 
+
+ The company uses the Black-Scholes model to value its warrants. The company determines the fair value of its insurance contracts by obtaining the cash surrender value of the contracts from the issuer. The fair value of derivative contracts is the estimated amount that the company would receive/pay upon liquidation of the contracts, taking into account the change in interest rates and currency exchange rates. The company initially measures the fair value of acquisition-related contingent consideration based on amounts expected to be transferred (probability-weighted) discounted to present value. Changes to the fair value of contingent consideration are recorded in selling, general and administrative expense. 
+ In the six months ended July 1, 2023, the company recorded $ 44 million, of net losses on investments, which are included in other income/(expense) in the accompanying statements of income. In the three and six months ended July 2, 2022, the company recorded $ 17 million and $( 122 ) million, respectively, of net gains (losses) on investments, which are included in other income/(expense) in the accompanying statements of income. 
+ The following table provides a rollforward of the fair value, as determined by level 3 inputs (such as likelihood of achieving production or revenue milestones, as well as changes in the fair values of the investments underlying a recapitalization investment portfolio), of the contingent consideration. 
+ Three months ended Six months ended 
+ July 1, July 2, July 1, July 2, 
+ (In millions) 2023 2022 2023 2022 
+ Contingent consideration 
+
+ Beginning balance $ 136 $ 261 $ 174 $ 317 
+ Acquisitions (including assumed balances) 1 — 1 ( 18 ) 
+ Payments ( 43 ) ( 2 ) ( 58 ) ( 32 ) 
+ Changes in fair value included in earnings ( 4 ) ( 43 ) ( 27 ) ( 51 ) 
+ Ending balance $ 90 $ 216 $ 90 $ 216 
+
+ Derivative Contracts 
+ The following table provides the aggregate notional value of outstanding derivative contracts. 
+
+ (In millions) July 1, 2023 December 31, 2022 
+ Notional amount 
+
+ Cross-currency interest rate swaps - designated as net investment hedges 
+ $ 2,200 $ 2,100 
+
+ Currency exchange contracts 
+ 1,500 2,434 
+
+ 18 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ While certain derivatives are subject to netting arrangements with counterparties, the company does not offset derivative assets and liabilities within the balance sheet. The following tables present the fair value of derivative instruments in the accompanying balance sheets and statements of income. 
+ Fair value – assets Fair value – liabilities 
+ July 1, December 31, July 1, December 31, 
+ (In millions) 2023 2022 2023 2022 
+ Derivatives designated as hedging instruments 
+
+ Cross-currency interest rate swaps (a) 
+ $ 6 $ 77 $ 15 $ 85 
+ Derivatives not designated as hedging instruments 
+
+ Currency exchange contracts (b) 
+ 1 2 1 16 
+
+ Total derivatives $ 7 $ 79 $ 16 $ 101 
+
+ (a) The fair value of the cross-currency interest rate swaps is included in the accompanying balance sheet under the caption other assets or other long-term liabilities. 
+ (b) The fair value of the currency exchange contracts is included in the accompanying balance sheet under the captions other current assets or other accrued expenses. 
+
+ Gain (loss) recognized 
+ Three months ended Six months ended 
+ July 1, July 2, July 1, July 2, 
+ (In millions) 2023 2022 2023 2022 
+
+ Derivatives designated as cash flow hedges 
+
+ Interest rate swaps 
+
+ Amount reclassified from accumulated other comprehensive items to other income/(expense) 
+ $ ( 1 ) $ ( 1 ) $ ( 5 ) $ ( 2 ) 
+ Financial instruments designated as net investment hedges 
+
+ Foreign currency-denominated debt and other payables 
+
+ Included in currency translation adjustment within other comprehensive items 
+ ( 62 ) 671 ( 206 ) 1,033 
+ Cross-currency interest rate swaps 
+
+ Included in currency translation adjustment within other comprehensive items 
+ 59 51 50 74 
+ Included in other income/(expense) 
+ 16 4 33 6 
+ Derivatives not designated as hedging instruments 
+
+ Currency exchange contracts 
+
+ Included in cost of product revenues 
+ — 21 ( 3 ) 12 
+ Included in other income/(expense) 
+ ( 25 ) 13 ( 2 ) 12 
+
+ Gains and losses recognized on currency exchange contracts are included in the accompanying statements of income together with the corresponding, offsetting losses and gains on the underlying hedged transactions. 
+ The company uses foreign currency-denominated debt, certain foreign currency-denominated payables, and cross-currency interest rate swaps to partially hedge its net investments in foreign operations against adverse movements in exchange rates. A portion of the company&#8217;s euro-denominated senior notes, certain foreign currency-denominated payables, and its cross-currency interest rate swaps have been designated as, and are effective as, economic hedges of part of the net investment in a foreign operation. Accordingly, foreign currency transaction gains or losses due to spot rate fluctuations on the euro-denominated debt instruments and certain foreign currency-denominated payables, and contract fair value changes on the cross-currency interest rate swaps, excluding interest accruals, are included in currency translation adjustment within other comprehensive items and shareholders&#8217; equity. 
+ See Note 1 to the consolidated financial statements for 2022 included in the company&#8217;s Annual Report on Form 10-K for additional information on the company&#8217;s risk management objectives and strategies. 
+ 19 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Fair Value of Other Financial Instruments 
+ The carrying value and fair value of the company&#8217;s debt instruments are as follows: 
+ July 1, 2023 December 31, 2022 
+ Carrying Fair Carrying Fair 
+ (In millions) value value value value 
+ Senior notes 
+ $ 33,230 $ 29,536 $ 33,889 $ 29,901 
+
+ Commercial paper 
+ 500 500 310 310 
+ Other 
+ 76 76 79 79 
+ $ 33,806 $ 30,112 $ 34,278 $ 30,290 
+
+ The fair value of debt instruments was determined based on quoted market prices and on borrowing rates available to the company at the respective period ends, which represent level 2 measurements. 
+
+ Note 11. Supplemental Cash Flow Information 
+
+ Six months ended 
+
+ (In millions) July 1, 2023 July 2, 2022 
+ Non-cash investing and financing activities 
+
+ Acquired but unpaid property, plant and equipment 
+ $ 231 $ 234 
+
+ Declared but unpaid dividends 
+ 137 119 
+ Issuance of stock upon vesting of restricted stock units 
+ 97 107 
+ Excise tax from stock repurchases 
+ 29 — 
+
+ Cash, cash equivalents and restricted cash is included in the accompanying balance sheet as follows: 
+
+ (In millions) July 1, 2023 December 31, 2022 
+ Cash and cash equivalents $ 3,133 $ 8,524 
+ Restricted cash included in other current assets 13 12 
+ Restricted cash included in other assets 7 1 
+ Cash, cash equivalents and restricted cash $ 3,153 $ 8,537 
+
+ Amounts included in restricted cash primarily represent funds held as collateral for bank guarantees and incoming cash in China awaiting government administrative clearance. 
+
+ Note 12. Restructuring and Other Costs 
+ In the first six months of 2023, restructuring and other costs primarily included continuing charges for headcount reductions and facility consolidations in an effort to streamline operations, impairment of long-lived assets, and, to a lesser extent, net charges for pre-acquisition litigation and other matters. In 2023, severance actions associated with facility consolidations and cost reduction measures affected approximately 3 % of the company&#8217;s workforce. 
+ As of August 4, 2023, the company has identified restructuring actions that will result in additional charges of approximately $ 85 million, primarily in 2023, and expects to identify additional actions in future periods which will be recorded when specified criteria are met, such as communication of benefit arrangements or when the costs have been incurred. 
+ Restructuring and other costs by segment are as follows: 
+
+ Three months ended Six months ended 
+
+ (In millions) July 1, 2023 July 1, 2023 
+ Life Sciences Solutions 
+ $ 20 $ 80 
+ Analytical Instruments 
+ 23 23 
+ Specialty Diagnostics 
+ 2 10 
+ Laboratory Products and Biopharma Services 
+ 133 176 
+ Corporate 
+ 5 6 
+ $ 183 $ 295 
+
+ 20 
+
+ THERMO FISHER SCIENTIFIC INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ The following table summarizes the changes in the company&#8217;s accrued restructuring balance, which is included in other accrued expenses in the accompanying balance sheet. Other amounts reported as restructuring and other costs in the accompanying statements of income have been summarized in the notes to the table. 
+
+ (In millions) Total (a) 
+ Balance at December 31, 2022 $ 41 
+ Net restructuring charges incurred in 2023 (b) 
+ 137 
+ Payments 
+ ( 80 ) 
+
+ Balance at July 1, 2023 $ 98 
+
+ (a) The movements in the restructuring liability principally consist of severance and other costs associated with facility consolidations. 
+ (b) Excludes $ 158 million of net charges, principally $ 99 million of charges for impairment of long-lived assets in the Laboratory Products and Biopharma Services and Life Sciences Solutions segments, $ 26 million of contract termination costs associated with facility closures in the Laboratory Products and Biopharma Services segment, and, to a lesser extent, $ 18 million of net charges for pre-acquisition litigation and other matters. 
+ The company expects to pay accrued restructuring costs primarily through 2023. 
+
+ 21 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ Item 2. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+ Forward-looking statements, within the meaning of Section 21E of the Securities Exchange Act of 1934 (the Exchange Act), are made throughout this Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations. Any statements contained herein that are not statements of historical fact may be deemed to be forward-looking statements, including without limitation statements regarding: projections of revenues, expenses, earnings, margins, tax rates, tax provisions, cash flows, pension and benefit obligations and funding requirements, and our liquidity position; cost reductions, restructuring activities, new product and service developments, competitive strengths or market position, acquisitions or divestitures; growth, declines and other trends in markets we sell into; new or modified laws, regulations and accounting pronouncements; outstanding claims, legal proceedings, tax audits and assessments and other contingent liabilities; foreign currency exchange rates and fluctuations in those rates; general economic and capital markets conditions; the timing of any of the foregoing; assumptions underlying any of the foregoing; the COVID-19 pandemic; and any other statements that address events or developments that Thermo Fisher intends or believes will or may occur in the future. Without limiting the foregoing, the words &#8220;believes,&#8221; &#8220;anticipates,&#8221; &#8220;plans,&#8221; &#8220;expects,&#8221; &#8220;seeks,&#8221; &#8220;estimates,&#8221; and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements are accompanied by such words. While the company may elect to update forward-looking statements in the future, it specifically disclaims any obligation to do so, even if the company&#8217;s estimates change, and readers should not rely on those forward-looking statements as representing the company&#8217;s views as of any date subsequent to the date of the filing of this report. 
+ A number of important factors could cause the results of the company to differ materially from those indicated by such forward-looking statements, including those detailed under the caption &#8220;Risk Factors&#8221; in the company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2022 (which is on file with the SEC). Important factors that could cause actual results to differ materially from those indicated by forward-looking statements include risks and uncertainties relating to: the COVID-19 pandemic; the need to develop new products and adapt to significant technological change; implementation of strategies for improving growth; general economic conditions and related uncertainties; dependence on customers&#8217; capital spending policies and government funding policies; the effect of economic and political conditions and exchange rate fluctuations on international operations; use and protection of intellectual property; the effect of changes in governmental regulations; any natural disaster, public health crisis or other catastrophic event; and the effect of laws and regulations governing government contracts, as well as the possibility that expected benefits related to recent or pending acquisitions may not materialize as expected. 
+ The company refers to various amounts or measures not prepared in accordance with generally accepted accounting principles (non-GAAP measures). These non-GAAP measures are further described and reconciled to their most directly comparable amount or measure under the section &#8220; Non-GAAP Measures &#8221; later in this &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations.&#8221; 
+
+ Overview 
+ Thermo Fisher Scientific Inc. enables customers to make the world healthier, cleaner and safer by helping them accelerate life sciences research, solve complex analytical challenges, increase laboratory productivity, and improve patient health through diagnostics and the development and manufacture of life-changing therapies. Markets served include pharmaceutical and biotech, academic and government, industrial and applied, as well as healthcare and diagnostics. The company&#8217;s operations fall into four segments (Note 4): Life Sciences Solutions, Analytical Instruments, Specialty Diagnostics and Laboratory Products and Biopharma Services. 
+ Consolidated Results 
+
+ Three months ended Six months ended 
+ July 1, July 2, July 1, July 2, 
+ (Dollars in millions except per share amounts) 2023 2022 Change 2023 2022 Change 
+ Revenues 
+ $ 10,687 $ 10,970 (3) % $ 21,397 $ 22,788 (6) % 
+ GAAP operating income 1,578 2,001 (21) % 3,141 4,822 (35) % 
+ GAAP operating income margin 14.8 % 18.2 % (3.4) pt 14.7 % 21.2 % (6.5) pt 
+ Adjusted operating income (non-GAAP measure) 
+ 2,370 2,605 (9) % 4,700 6,055 (22) % 
+ Adjusted operating income margin (non-GAAP measure) 
+ 22.2 % 23.7 % (1.5) pt 22.0 % 26.6 % (4.6) pt 
+ GAAP diluted earnings per share attributable to Thermo Fisher Scientific Inc. 3.51 4.22 (17) % 6.83 9.83 (31) % 
+ Adjusted earnings per share (non-GAAP measure) 
+ 5.15 5.51 (7) % 10.18 12.76 (20) % 
+
+ 22 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ Organic Revenue Growth 
+
+ Three months ended Six months ended 
+ July 1, 2023 July 1, 2023 
+ Revenue growth (3) % (6) % 
+ Impact of acquisitions 1 % 1 % 
+ Impact of currency translation 0 % (1) % 
+ Organic revenue growth* (non-GAAP measure) 
+ (3) % (6) % 
+
+ * Results may not sum due to rounding 
+ Since 2020, the Life Sciences Solutions and Specialty Diagnostics segments as well as the laboratory products business have supported COVID-19 diagnostic testing, scaling and evolving their molecular diagnostics solutions and plastic consumables businesses to respond to the COVID-19 pandemic. The biosciences and bioproduction businesses have expanded their capacity to meet the needs of pharma and biotech customers as they have expanded their own production volumes to meet global vaccine manufacturing requirements. Additionally, our pharma services business has provided our pharma and biotech customers with the services they needed to develop and produce vaccines and therapies globally. These positive impacts are expected to continue at much lower levels in 2023 as customer testing as well as therapy and vaccine demand declines. Sales of products related to COVID-19 testing were $0.08 billion and $0.63 billion in the second quarter of 2023 and 2022, respectively, and $0.22 billion and $2.31 billion in the first six months of 2023 and 2022, respectively. 
+ During the second quarter of 2023, growth was flat from pharma and biotech customers driven by lower demand associated with COVID-19 vaccine and therapies, the impact on customers from a more challenging macroeconomic environment and the slow economic recovery in China. We saw very strong growth across the academic and government market with great customer adoption of our high-impact innovation. The industrial and applied market grew slightly, driven by continued strong demand for our analytical instruments serving our semiconductor and materials science customers, partially offset by the impact of a slow economic recovery in China. The diagnostics and healthcare market declined due to decreased demand for COVID-19 testing products. During the second quarter of 2023, sales growth in North America and Asia Pacific declined, while Europe grew slightly. Sales growth in all regions was impacted by decreased demand in 2023 for COVID-19 related products and the impact on customers from a more challenging macroeconomic environment. Asia Pacific was impacted by the slow economic recovery in China. Contributions to organic revenue during the second quarter of 2023 from the Laboratory Products and Biopharma Services and Analytical Instruments segments were more than offset by declines in the Life Sciences Solutions and Specialty Diagnostics segments. 
+ During the first six months of 2023, we saw good demand from pharma and biotech customers driven by our trusted partner status, partially offset by the impact on customers from a more challenging macroeconomic environment. We saw broad based strength across the academic and government market. The industrial and applied market was strong, driven by continued strong demand for our analytical instruments serving our semiconductor and materials science customers. The diagnostics and healthcare market declined due to decreased demand for COVID-19 testing products. During the first six months of 2023, sales growth in all major regions declined due to decreased demand for COVID-19 related products. Contributions to organic revenue during the first six months of 2023 from the Laboratory Products and Biopharma Services and Analytical Instruments segments were more than offset by declines in the Life Sciences Solutions and Specialty Diagnostics segments. 
+ The company continues to execute its proven growth strategy which consists of three pillars: 
+ • High-impact innovation, 
+ • Our trusted partner status with customers, and 
+ • Our unparalleled commercial engine. 
+ GAAP operating income margin and adjusted operating income margin decreased in the second quarter and first six months of 2023 due primarily to lower COVID-19 related revenue, strategic growth investments and effects of currency translation. This was partially offset by strong productivity improvements and strong pricing realization across all segments to address higher inflation. GAAP operating income margin in the second quarter and first six months of 2023 was also impacted by restructuring and other charges incurred for headcount reductions and facility consolidations in an effort to streamline operations and limit the impact of expected lower revenue (Note 9). 
+ The company&#8217;s references to strategic growth investments generally refer to targeted spending for enhancing commercial capabilities, including expansion of geographic sales reach and e-commerce platforms, marketing initiatives, expanded service and operational infrastructure, research and development projects and other expenditures to enhance the customer experience, as well as incentive compensation and recognition for employees. The company&#8217;s references throughout this discussion to productivity improvements generally refer to improved cost efficiencies from its Practical Process Improvement (PPI) business system including reduced costs resulting from implementing continuous improvement methodologies, global sourcing 
+ 23 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ initiatives, a lower cost structure following restructuring actions including headcount reductions and consolidation of facilities, and low cost region manufacturing. 
+ Notable Recent Acquisitions 
+ On January 3, 2023, the company acquired, within the Specialty Diagnostics segment, The Binding Site Group, a U.K.-based provider of specialty diagnostic assays and instruments to improve the diagnosis and management of blood cancers and immune system disorders. The acquisition expands the segment&#8217;s portfolio with the addition of pioneering innovation in diagnostics and monitoring for multiple myeloma. 
+
+ Segment Results 
+ The company&#8217;s management evaluates segment operating performance using operating income before certain charges/credits as defined in Note 4 to the Consolidated Financial Statements of the company&#8217;s Annual Report on Form 10-K for 2022. Accordingly, the following segment data are reported on this basis. 
+
+ Three months ended Six months ended 
+ July 1, July 2, July 1, July 2, 
+ (Dollars in millions) 2023 2022 2023 2022 
+ Revenues 
+
+ Life Sciences Solutions 
+ $ 2,463 $ 3,292 $ 5,075 $ 7,523 
+ Analytical Instruments 
+ 1,749 1,607 3,472 3,125 
+ Specialty Diagnostics 
+ 1,109 1,101 2,217 2,583 
+ Laboratory Products and Biopharma Services 
+ 5,831 5,537 11,594 10,979 
+ Eliminations 
+ (465) (567) (961) (1,422) 
+ Consolidated revenues 
+ $ 10,687 $ 10,970 $ 21,397 $ 22,788 
+
+ Life Sciences Solutions 
+ Three months ended Organic* (non-GAAP measure) 
+
+ (Dollars in millions) July 1,
+2023 July 2,
+2022 Total
+Change Currency
+Translation Acquisitions/ Divestitures 
+ Revenues $ 2,463 $ 3,292 (25) % 0 % 0 % (25) % 
+ Segment income 817 1,327 (38) % 
+ Segment income margin 33.2 % 40.3 % -7.1 pt 
+
+ The decrease in organic revenues in the second quarter of 2023 was primarily due to moderation in COVID-19 related revenue and, to a lesser extent, the impact on customers from a more challenging macroeconomic environment. The decrease in segment income margin resulted primarily from significantly lower COVID-19 related revenue and business mix. These decreases were partially offset by very strong productivity improvements. 
+
+ Six months ended Organic* (non-GAAP measure) 
+
+ (Dollars in millions) July 1,
+2023 July 2,
+2022 Total
+Change Currency
+Translation Acquisitions/ Divestitures 
+ Revenues $ 5,075 $ 7,523 (33) % (1) % 0 % (31) % 
+ Segment income 1,653 3,503 (53) % 
+ Segment income margin 32.6 % 46.6 % -14.0 pt 
+
+ The decrease in organic revenues in the first six months of 2023 was primarily due to moderation in COVID-19 related revenue and, to a lesser extent, the impact on customers from a more challenging macroeconomic environment. The decrease in segment income margin resulted primarily from significantly lower COVID-19 related revenue and business mix, partially offset by very strong productivity improvements. 
+ 24 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ Analytical Instruments 
+
+ Three months ended Organic* (non-GAAP measure) 
+
+ (Dollars in millions) July 1,
+2023 July 2,
+2022 Total
+Change Currency
+Translation Acquisitions/ Divestitures 
+ Revenues $ 1,749 $ 1,607 9 % (1) % 0 % 10 % 
+ Segment income 432 344 26 % 
+ Segment income margin 24.7 % 21.4 % 3.3 pt 
+
+ The increase in organic revenues in the second quarter of 2023 was driven by increased demand across each of the segment&#8217;s businesses, with particular strength in the electron microscopy business. The increase in segment income margin resulted primarily from very strong productivity improvements, strong volume and business mix, offset in part by strategic growth investments and effects of currency translation. 
+
+ Six months ended Organic* (non-GAAP measure) 
+
+ (Dollars in millions) July 1,
+2023 July 2,
+2022 Total
+Change Currency
+Translation Acquisitions/ Divestitures 
+ Revenues $ 3,472 $ 3,125 11 % (2) % 0 % 13 % 
+ Segment income 853 645 32 % 
+ Segment income margin 24.6 % 20.6 % 4.0 pt 
+
+ The increase in organic revenues in the first six months of 2023 was due to increased demand across all the segment&#8217;s businesses, with particular strength in the chromatography and mass spectrometry and electron microscopy businesses. The increase in segment income margin resulted primarily from strong volume, business mix, and very strong productivity improvements, offset in part by strategic growth investments and effects of currency translation. 
+
+ Specialty Diagnostics 
+
+ Three months ended Organic* (non-GAAP measure) 
+
+ (Dollars in millions) July 1,
+2023 July 2,
+2022 Total
+Change Currency
+Translation Acquisitions/ Divestitures 
+ Revenues $ 1,109 $ 1,101 1 % 0 % 6 % (5) % 
+ Segment income 297 243 22 % 
+ Segment income margin 26.7 % 22.1 % 4.6 pt 
+
+ The decrease in organic revenues in the second quarter of 2023 was due to decreased demand, primarily driven by products addressing diagnosis of COVID-19, offset in part by underlying growth in the microbiology, immunodiagnostics and transplant diagnostics businesses. The impact of lower COVID-19 testing volume on segment income margin was more than offset by business mix and very strong productivity improvements. 
+
+ Six months ended Organic* (non-GAAP measure) 
+
+ (Dollars in millions) July 1,
+2023 July 2,
+2022 Total
+Change Currency
+Translation Acquisitions/ Divestitures 
+ Revenues $ 2,217 $ 2,583 (14) % (1) % 5 % (18) % 
+ Segment income 577 596 (3) % 
+ Segment income margin 26.0 % 23.1 % 2.9 pt 
+
+ The decrease in organic revenues in the first six months of 2023 was due to decreased demand, primarily driven by products addressing diagnosis of COVID-19, partially offset by underlying growth in the immunodiagnostics and transplant diagnostics businesses. The impact of lower COVID-19 testing volume on segment income margin was more than offset by business mix and very strong productivity improvements. 
+ 25 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ Laboratory Products and Biopharma Services 
+
+ Three months ended Organic* (non-GAAP measure) 
+
+ (Dollars in millions) July 1,
+2023 July 2,
+2022 Total
+Change Currency
+Translation Acquisitions/ Divestitures 
+ Revenues $ 5,831 $ 5,537 5 % 0 % 0 % 5 % 
+ Segment income 824 691 19 % 
+ Segment income margin 14.1 % 12.5 % 1.6 pt 
+
+ The increase in organic revenues in the second quarter of 2023 was primarily due to higher sales in the clinical research and pharma services businesses. The increase in segment income margin was primarily due to very strong productivity improvements, partially offset by effects of currency translation and strategic growth investments. 
+
+ Six months ended Organic* (non-GAAP measure) 
+
+ (Dollars in millions) July 1,
+2023 July 2,
+2022 Total
+Change Currency
+Translation Acquisitions/ Divestitures 
+ Revenues $ 11,594 $ 10,979 6 % (1) % 0 % 6 % 
+ Segment income 1,617 1,311 23 % 
+ Segment income margin 14.0 % 11.9 % 2.1 pt 
+
+ The increase in organic revenues in the first six months of 2023 was primarily due to higher sales in the pharma services and clinical research businesses. The increase in segment income margin was primarily due to very strong productivity improvements. 
+ * Results may not sum due to rounding 
+
+ Non-operating Items 
+
+ Three months ended Six months ended 
+ July 1, July 2, July 1, July 2, 
+ (Dollars and shares in millions) 2023 2022 2023 2022 
+ Net interest expense 
+ $ 148 $ 112 $ 302 $ 230 
+ GAAP other income/(expense) — 28 (46) (135) 
+ Adjusted other income/(expense) (non-GAAP measure) 
+ (1) 10 (1) 14 
+ GAAP tax rate 3.6 % 10.4 % 3.5 % 11.2 % 
+ Adjusted tax rate (non-GAAP measure) 
+ 10.0 % 13.0 % 10.0 % 13.6 % 
+ Weighted average diluted shares 388 394 388 394 
+
+ Net interest expense (interest expense less interest income) increased due primarily to the company&#8217;s capital deployment initiatives, which included financing stock buybacks and the acquisition of The Binding Site Group (Note 2). See additional discussion under the caption &#8220;Liquidity and Capital Resources&#8221; below. 
+ GAAP other income/(expense) and adjusted other income/(expense) includes currency transaction gains, losses on non-operating monetary assets and liabilities, and net periodic pension benefit cost/income, excluding the service cost component. GAAP other income/(expense) in the first six months of 2023 also includes $43 million of net losses on investments. GAAP other income/(expense) in the second quarter and first six months of 2022 also includes $18 million and $(123) million, respectively, of net gains/(losses) on investments. GAAP other income/expense in the first six months of 2022 also includes $26 million of losses on the early extinguishment of debt (Note 7). 
+ The company&#8217;s GAAP and adjusted tax rates decreased in 2023 compared to 2022 primarily due to tax planning initiatives, including a tax benefit of $91 million, net of related tax expenses, from a foreign exchange loss on an intercompany debt refinancing transaction in the second quarter of 2023, as well as a $144 million tax benefit resulting from a capital loss generated in the first quarter of 2023 as part of an intra-entity transaction. The GAAP and adjusted tax rates in 2023 were also impacted, to a lesser extent, by a decrease in pre-tax earnings compared to 2022. The company&#8217;s GAAP and adjusted tax rates in 2022 were impacted by releases of valuation allowances of $88 million and $175 million in the second quarter and first six months of 2022, respectively, in jurisdictions where the deferred tax assets are now expected to be realized. 
+ The effective tax rates in both 2023 and 2022 were also affected by relatively significant earnings in lower tax jurisdictions. Due primarily to the non-deductibility of intangible asset amortization for tax purposes, the company&#8217;s cash payments for income taxes are higher than its income tax expense for financial reporting purposes and are expected to total approximately $1.40 billion in 2023. 
+ 26 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ The company expects its GAAP effective tax rate in 2023 will be between 5% and 7% based on currently forecasted rates of profitability in the countries in which the company conducts business and expected generation of foreign tax credits. The effective tax rate can vary significantly from period to period as a result of discrete income tax factors and events. The company expects its adjusted tax rate will be approximately 10% in 2023. 
+ The company has operations and a taxable presence in approximately 70 countries outside the U.S. Some of these countries have lower tax rates than the U.S. The company&#8217;s ability to obtain a benefit from lower tax rates outside the U.S. is dependent on its relative levels of income in countries outside the U.S. and on the statutory tax rates in those countries. Based on the dispersion of the company&#8217;s non-U.S. income tax provision among many countries, the company believes that a change in the statutory tax rate in any individual country is not likely to materially affect the company&#8217;s income tax provision or net income, aside from any resulting one-time adjustment to the company&#8217;s deferred tax balances to reflect a new rate. 
+ Weighted average diluted shares decreased in 2023 compared to 2022 due to share repurchases, net of option dilution. 
+
+ Liquidity and Capital Resources 
+ The company&#8217;s proven growth strategy has enabled it to generate free cash flow as well as access the capital markets. The company deploys its capital primarily via mergers and acquisitions and secondarily via share buybacks and dividends. 
+
+ (In millions) July 1, 2023 December 31, 2022 
+ Cash and cash equivalents $ 3,133 $ 8,524 
+ Total debt 34,008 34,488 
+
+ Approximately half of the company&#8217;s cash balances and cash flows from operations are from outside the U.S. The company uses its non-U.S. cash for needs outside of the U.S. including acquisitions, capacity expansion, and repayment of third-party foreign debt by foreign subsidiaries. In addition, the company also transfers cash to the U.S. using non-taxable returns of capital as well as dividends where the related U.S. dividend received deduction or foreign tax credit equals any tax cost arising from the dividends. As a result of using such means of transferring cash to the U.S., the company does not expect any material adverse liquidity effects from its significant non-U.S. cash balances for the foreseeable future. 
+ The company believes that its existing cash and cash equivalents and its future cash flow from operations together with available borrowing capacity under its revolving credit agreement will be sufficient to meet the cash requirements of its existing businesses for the foreseeable future, including at least the next 24 months. 
+ As of July 1, 2023, the company&#8217;s short-term debt totaled $4.81 billion. The company has a revolving credit facility with a bank group that provides up to $5.00 billion of unsecured multi-currency revolving credit (Note 7). If the company borrows under this facility, it intends to leave undrawn an amount equivalent to outstanding commercial paper to provide a source of funds in the event that commercial paper markets are not available. As of July 1, 2023, no borrowings were outstanding under the company&#8217;s revolving credit facility, although available capacity was reduced by immaterial outstanding letters of credit. 
+
+ Six months ended 
+
+ (In millions) July 1, 2023 July 2, 2022 
+ Net cash provided by operating activities 
+ $ 2,269 $ 3,730 
+ Net cash used in investing activities 
+ (3,585) (1,089) 
+ Net cash used in financing activities 
+ (4,049) (5,050) 
+ Free cash flow (non-GAAP measure) 
+ 1,537 2,598 
+
+ Operating Activities 
+ During the first six months of 2023, cash provided by income was offset in part by investments in working capital. Changes in other assets and other liabilities used cash of $1.50 billion primarily due to the timing of payments for compensation and income taxes. A decrease in accounts payable used cash of $0.87 billion. Cash payments for income taxes were $0.78 billion during the first six months of 2023. 
+ During the first six months of 2022, cash provided by income was offset in part by investments in working capital. An increase in inventories used cash of $0.87 billion, primarily to support growth in sales. Changes in other assets and other liabilities used cash of $0.74 billion primarily due to the timing of payments for compensation. Cash payments for income taxes were $0.83 billion during the first six months of 2022. 
+ 27 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ Investing Activities 
+ During the first six months of 2023, acquisitions used cash of $2.75 billion. The company&#8217;s investing activities also included purchases of $0.74 billion of property, plant and equipment for capacity and capability investments. 
+ During the first six months of 2022, acquisitions used cash of $0.04 billion. The company&#8217;s investing activities also included purchases of $1.15 billion of property, plant and equipment for capacity and capability investments. 
+ The company expects that for all of 2023, expenditures for property, plant and equipment, net of disposals, will be approximately $1.7 billion. 
+ Financing Activities 
+ During the first six months of 2023, repayment of senior notes used cash of $1.00 billion. The company&#8217;s financing activities also included the repurchase of $3.00 billion of the company&#8217;s common stock (5.2 million shares) and the payment of $0.25 billion in cash dividends. On November 10, 2022, the Board of Directors authorized the repurchase of up to $4.00 billion of the company&#8217;s common stock. All of the shares of common stock repurchased by the company during the first quarter of 2023 were under this program. At August 4, 2023, authorization remained for $1.00 billion of future repurchases of the company&#8217;s common stock. 
+ During the first six months of 2022, repayment of senior notes and net commercial paper activity used cash of $0.38 billion and $2.46 billion, respectively. The company&#8217;s financing activities also included the repurchase of $2.00 billion of the company&#8217;s common stock (3.3 million shares) and the payment of $0.22 billion in cash dividends. 
+ The company&#8217;s commitments for purchases of property, plant and equipment, contractual obligations and other commercial commitments did not change materially subsequent to July 1, 2023, except for the agreement to acquire CorEvitas, LLC. 
+
+ Non-GAAP Measures 
+ In addition to the financial measures prepared in accordance with generally accepted accounting principles (GAAP), we use certain non-GAAP financial measures such as organic revenue growth, which is reported revenue growth, excluding the impacts of revenues from acquired/divested businesses and the effects of currency translation. We report organic revenue growth because Thermo Fisher management believes that in order to understand the company&#8217;s short-term and long-term financial trends, investors may wish to consider the impact of acquisitions/divestitures and foreign currency translation on revenues. Thermo Fisher management uses organic revenue growth to forecast and evaluate the operational performance of the company as well as to compare revenues of current periods to prior periods. 
+ We report adjusted operating income, adjusted operating income margin, adjusted other income/(expense), adjusted tax rate, and adjusted EPS. We believe that the use of these non-GAAP financial measures, in addition to GAAP financial measures, helps investors to gain a better understanding of our core operating results and future prospects, consistent with how management measures and forecasts the company&#8217;s core operating performance, especially when comparing such results to previous periods, forecasts, and to the performance of our competitors. Such measures are also used by management in their financial and operating decision-making and for compensation purposes. To calculate these measures we exclude, as applicable: 
+ • Certain acquisition-related costs, including charges for the sale of inventories revalued at the date of acquisition, significant transaction/acquisition-related costs, including changes in estimates of contingent acquisition-related consideration, and other costs associated with obtaining short-term financing commitments for pending/recent acquisitions. We exclude these costs because we do not believe they are indicative of our normal operating costs. 
+ • Costs/income associated with restructuring activities and large-scale abandonments of product lines, such as reducing overhead and consolidating facilities. We exclude these costs because we believe that the costs related to restructuring activities and large-scale abandonment of product lines are not indicative of our normal operating costs. 
+ • Equity in earnings/losses of unconsolidated entities; impairments of long-lived assets; and certain other gains and losses that are either isolated or cannot be expected to occur again with any predictability, including gains/losses on investments, the sale of businesses, product lines, and real estate, significant litigation-related matters, curtailments/settlements of pension plans, and the early retirement of debt. We exclude these items because they are outside of our normal operations and/or, in certain cases, are difficult to forecast accurately for future periods. 
+ • The expense associated with the amortization of acquisition-related intangible assets because a significant portion of the purchase price for acquisitions may be allocated to intangible assets that have lives of up to 20 years. Exclusion of the amortization expense allows comparisons of operating results that are consistent over time for both our newly acquired and long-held businesses and with both acquisitive and non-acquisitive peer companies. 
+ 28 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ • The tax impacts of the above items and the impact of significant tax audits or events (such as changes in deferred taxes from enacted tax rate/law changes), the latter of which we exclude because they are outside of our normal operations and difficult to forecast accurately for future periods. 
+ We report free cash flow, which is operating cash flow excluding net capital expenditures, to provide a view of the continuing operations&#8217; ability to generate cash for use in acquisitions and other investing and financing activities. The company also uses this measure as an indication of the strength of the company. Free cash flow is not a measure of cash available for discretionary expenditures since we have certain non-discretionary obligations such as debt service that are not deducted from the measure. 
+ The non-GAAP financial measures of the company&#8217;s results of operations and cash flows included in this Form 10-Q are not meant to be considered superior to or a substitute for the company&#8217;s results of operations prepared in accordance with GAAP. Reconciliations of such non-GAAP financial measures to the most directly comparable GAAP financial measures are set forth within the &#8220;Overview&#8221; and &#8220;Results of Operations&#8221; sections and below. 
+
+ Three months ended Six months ended 
+ July 1, July 2, July 1, July 2, 
+ (Dollars in millions except per share amounts) 2023 2022 2023 2022 
+
+ Reconciliation of adjusted operating income 
+ GAAP operating income 
+ $ 1,578 $ 2,001 $ 3,141 $ 4,822 
+ Cost of revenues adjustments (a) 
+ 18 8 59 19 
+ Selling, general and administrative expenses adjustments (b) 
+ 6 (28) 14 (21) 
+ Restructuring and other costs (c) 
+ 183 24 295 26 
+ Amortization of acquisition-related intangible assets 585 600 1,191 1,209 
+ Adjusted operating income (non-GAAP measure) 
+ $ 2,370 $ 2,605 $ 4,700 $ 6,055 
+
+ Reconciliation of adjusted operating income margin 
+ GAAP operating income margin 14.8 % 18.2 % 14.7 % 21.2 % 
+ Cost of revenues adjustments (a) 0.2 % 0.1 % 0.3 % 0.1 % 
+ Selling, general and administrative expenses adjustments (b) 0.1 % (0.3) % 0.1 % (0.1) % 
+ Restructuring and other costs (c) 1.7 % 0.2 % 1.4 % 0.1 % 
+ Amortization of acquisition-related intangible assets 5.4 % 5.5 % 5.5 % 5.3 % 
+ Adjusted operating income margin ( non-GAAP measure) 
+ 22.2 % 23.7 % 22.0 % 26.6 % 
+
+ Reconciliation of adjusted other income/(expense) 
+ GAAP other income/(expense) $ — $ 28 $ (46) $ (135) 
+ Adjustments (d) (1) (18) 45 149 
+ Adjusted other income/(expense) (non-GAAP measure) 
+ $ (1) $ 10 $ (1) $ 14 
+
+ Reconciliation of adjusted tax rate 
+ GAAP tax rate 3.6 % 10.4 % 3.5 % 11.2 % 
+ Adjustments (e) 6.4 % 2.6 % 6.5 % 2.4 % 
+ Adjusted tax rate (non-GAAP measure) 
+ 10.0 % 13.0 % 10.0 % 13.6 % 
+
+ Reconciliation of adjusted earnings per share 
+ GAAP diluted earnings per share (EPS) attributable to Thermo Fisher Scientific Inc. $ 3.51 $ 4.22 $ 6.83 $ 9.83 
+ Cost of revenues adjustments (a) 0.05 0.02 0.15 0.05 
+ Selling, general and administrative expenses adjustments (b) 0.01 (0.07) 0.03 (0.05) 
+ Restructuring and other costs (c) 0.47 0.06 0.76 0.06 
+ Amortization of acquisition-related intangible assets 1.51 1.52 3.07 3.06 
+ Other income/expense adjustments (d) — (0.05) 0.11 0.38 
+ Provision for income taxes adjustments (e) (0.44) (0.32) (0.88) (0.75) 
+ Equity in earnings/losses of unconsolidated entities 0.04 0.13 0.11 0.18 
+ Adjusted EPS (non-GAAP measure) 
+ $ 5.15 $ 5.51 $ 10.18 $ 12.76 
+
+ 29 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ Three months ended Six months ended 
+ July 1, July 2, July 1, July 2, 
+ (Dollars in millions except per share amounts) 2023 2022 2023 2022 
+
+ Reconciliation of free cash flow 
+ GAAP net cash provided by operating activities $ 1,540 $ 1,528 $ 2,269 $ 3,730 
+ Purchases of property, plant and equipment (284) (506) (742) (1,146) 
+ Proceeds from sale of property, plant and equipment 4 12 10 14 
+ Free cash flow (non-GAAP measure) 
+ $ 1,260 $ 1,034 $ 1,537 $ 2,598 
+
+ (a) Adjusted results in 2023 and in 2022 exclude charges for the sale of inventories revalued at the date of acquisition. Adjusted results in the second quarter and first six months of 2023 also exclude $2 million and $33 million, respectively, of inventory write-downs associated with large-scale abandonment of product lines. Adjusted results in the second quarter of 2023 also excludes $5 million of accelerated depreciation on manufacturing assets to be abandoned due to facility consolidations. 
+ (b) Adjusted results in 2023 and 2022 exclude certain third-party expenses, principally transaction/integration costs related to recent acquisitions and charges/credits for changes in estimates of contingent acquisition consideration. 
+ (c) Adjusted results in 2023 and 2022 exclude restructuring and other costs consisting principally of severance, impairments of long-lived assets, abandoned facility and other expenses of headcount reductions and real estate consolidations. Adjusted results in the second quarter of 2023 also exclude $26 million of contract termination costs associated with facility closures. Adjusted results in the first six months of 2023 also exclude $18 million of net charges for pre-acquisition litigation and other matters. 
+ (d) Adjusted results in 2023 and 2022 exclude net gains/losses on investments. Adjusted results in 2022 also exclude $26 million of losses on the early extinguishment of debt. 
+ (e) Adjusted provision for income taxes in 2023 and 2022 excludes incremental tax impacts for the reconciling items between GAAP and adjusted net income, incremental tax impacts as a result of tax rate/law changes and the tax impacts from audit settlements. 
+
+ Critical Accounting Policies and Estimates 
+ Management&#8217;s Discussion and Analysis and Note 1 to the Consolidated Financial Statements of the company&#8217;s Annual Report on Form 10-K for 2022 describe the significant accounting estimates and policies used in preparation of the consolidated financial statements. There have been no significant changes in the company&#8217;s critical accounting policies during the first six months of 2023. 
+
+ Recent Accounting Pronouncements 
+ A description of recently issued accounting standards is included under the heading &#8220; Recent Accounting Pronouncements &#8221; in Note 1. 
+
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ The company&#8217;s exposure to market risk from changes in interest rates and currency exchange rates has not changed materially from its exposure discussed in the company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2022. 
+
+ Item 4. Controls and Procedures 
+ Management&#8217;s Evaluation of Disclosure Controls and Procedures 
+ The company&#8217;s management, with the participation of the company&#8217;s chief executive officer and chief financial officer, has evaluated the effectiveness of the company&#8217;s disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this report. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives, and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based on such evaluation, the company&#8217;s chief executive officer and chief financial officer concluded that, as of the end of such period, the company&#8217;s disclosure controls and procedures were effective at the reasonable assurance level. 
+ Changes in Internal Control over Financial Reporting 
+ There have been no changes in the company&#8217;s internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) during the fiscal quarter ended July 1, 2023, that have materially affected or are reasonably likely to materially affect the company&#8217;s internal control over financial reporting. 
+ 30 
+
+ THERMO FISHER SCIENTIFIC INC. 
+
+ PART II OTHER INFORMATION 
+
+ Item 1. Legal Proceedings 
+ There are various lawsuits and claims against the company involving product liability, intellectual property, employment and commercial issues. See Note 8 to our Condensed Consolidated Financial Statements under the heading &#8220; Commitments and Contingencies .&#8221; 
+
+ Item 1A. Risk Factors 
+ The risks that we believe are material to our investors are discussed in the company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2022 under the caption &#8220;Risk Factors,&#8221; which is on file with the SEC. 
+
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ Issuer Purchases of Equity Securities 
+
+ There was no share repurchase activity for the company's second quarter of 2023. On November 10, 2022, the Board of Directors authorized the repurchase of up to $4.00 billion of the company&#8217;s common stock. At July 1, 2023, $1.00 billion was available for future repurchases of the company&#8217;s common stock under this authorization. 
+
+ Item 5. Other Information 
+ Director and Officer Trading Arrangements 
+ None of our directors or officers adopted or terminated a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement (as defined in Item 408(c) of Regulation S-K) during the quarterly period covered by this report. 
+
+ Item 6. Exhibits 
+ Exhibit
+Number Description of Exhibit 
+ 10.1 Form of Thermo Fisher Scientific Inc.&#8217;s Restricted Stock Unit Agreement for Directors .* 
+
+ 31.1 Certification of Chief Executive Officer required by Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+ 31.2 Certification of Chief Financial Officer required by Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+ 32.1 Certification of Chief Executive Officer required by Exchange Act Rules 13a-14(b) and 15d-14(b), as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 .** 
+
+ 32.2 Certification of Chief Financial Officer required by Exchange Act Rules 13a-14(b) and 15d-14(b), as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 .** 
+
+ 101.INS XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 
+
+ 101.SCH XBRL Taxonomy Extension Schema Document. 
+ 101.CAL XBRL Taxonomy Calculation Linkbase Document. 
+ 101.DEF XBRL Taxonomy Definition Linkbase Document. 
+ 101.LAB XBRL Taxonomy Label Linkbase Document. 
+ 101.PRE XBRL Taxonomy Presentation Linkbase Document. 
+ 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+ The Registrant agrees, pursuant to Item 601(b)(4)(iii)(A) of Regulation S-K, to furnish to the Commission, upon request, a copy of each instrument with respect to long-term debt of the Registrant or its consolidated subsidiaries. 
+
+ _______________________ 
+ * Indicates management contract or compensatory plan, contract or arrangement. 
+ ** Certification is not deemed &#8220;filed&#8221; for purposes of Section 18 of the Exchange Act or otherwise subject to the liability of that section. Such certification is not deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act except to the extent that the registrant specifically incorporates it by reference. 
+ 31 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+ Date: August 4, 2023 THERMO FISHER SCIENTIFIC INC. 
+
+ /s/ Stephen Williamson 
+ Stephen Williamson 
+ Senior Vice President and Chief Financial Officer 
+
+ /s/ Joseph R. Holmes 
+ Joseph R. Holmes 
+ Vice President and Chief Accounting Officer 
+
+ 32

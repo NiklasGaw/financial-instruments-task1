@@ -1,0 +1,38 @@
+{
+  "company": "Philip Morris International",
+  "ticker": "PM",
+  "report_date": "2026-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [],
+  "income_statement": {
+    "total_revenue": 10.1,
+    "total_revenue_yoy_pct": 9.1,
+    "cost_of_revenue": 3.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 6.9,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null,
+      "other_operating": 3.0
+    },
+    "total_operating_expenses": 3.0,
+    "operating_income": 3.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.8,
+    "income_before_tax": 3.7,
+    "tax_expense": 0.7,
+    "net_income": 2.4,
+    "net_income_yoy_pct": -9.4
+  },
+  "notes": "XBRL IS + LLM segments (batch).",
+  "_is_bank": false,
+  "_needs_retry": true,
+  "_quality_score": 30
+}

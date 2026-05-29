@@ -1,0 +1,65 @@
+{
+  "company": "HSBC Holdings plc",
+  "ticker": "HSBC",
+  "report_date": "2024-12-31",
+  "form_type": "Annual Report",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Wealth and Personal Banking",
+      "revenue": 28.7,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Commercial Banking",
+      "revenue": 21.6,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Global Banking and Markets",
+      "revenue": 17.5,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Corporate Centre",
+      "revenue": -1.9,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 65.9,
+    "total_revenue_yoy_pct": -0.3,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": 33.0,
+    "operating_income": 29.4,
+    "operating_income_yoy_pct": -3.7,
+    "other_income_expense": -3.4,
+    "income_before_tax": 32.3,
+    "tax_expense": 7.3,
+    "net_income": 25.0,
+    "net_income_yoy_pct": 1.8
+  },
+  "notes": "Two-pass LLM extraction. [manual segment patch: canonical structure OLD]",
+  "_quality_score": 90,
+  "_needs_retry": false
+}

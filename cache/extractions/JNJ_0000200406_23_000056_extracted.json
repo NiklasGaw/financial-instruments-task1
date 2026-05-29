@@ -1,0 +1,202 @@
+{
+  "company": "Johnson & Johnson",
+  "ticker": "JNJ",
+  "report_date": "2023-04-02",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Consumer Health",
+      "revenue": 3.9,
+      "operating_income": 0.8,
+      "yoy_growth_pct": 7.4,
+      "sub_segments": [
+        {
+          "name": "OTC",
+          "revenue": 1.6,
+          "yoy_growth_pct": 12.4
+        },
+        {
+          "name": "Skin Health/Beauty",
+          "revenue": 1.1,
+          "yoy_growth_pct": 9.7
+        },
+        {
+          "name": "Oral Care",
+          "revenue": 0.4,
+          "yoy_growth_pct": -1.3
+        },
+        {
+          "name": "Baby Care",
+          "revenue": 0.4,
+          "yoy_growth_pct": 1.0
+        },
+        {
+          "name": "Women\u2019s Health",
+          "revenue": 0.2,
+          "yoy_growth_pct": -4.8
+        },
+        {
+          "name": "Wound Care/Other",
+          "revenue": 0.2,
+          "yoy_growth_pct": -0.1
+        }
+      ]
+    },
+    {
+      "name": "Pharmaceutical",
+      "revenue": 13.4,
+      "operating_income": 4.4,
+      "yoy_growth_pct": 4.2,
+      "sub_segments": [
+        {
+          "name": "Immunology",
+          "revenue": 4.1,
+          "yoy_growth_pct": -0.2
+        },
+        {
+          "name": "REMICADE",
+          "revenue": 0.5,
+          "yoy_growth_pct": -26.5
+        },
+        {
+          "name": "SIMPONI / SIMPONI ARIA",
+          "revenue": 0.5,
+          "yoy_growth_pct": -5.8
+        },
+        {
+          "name": "STELARA",
+          "revenue": 2.4,
+          "yoy_growth_pct": 6.8
+        },
+        {
+          "name": "TREMFYA",
+          "revenue": 0.6,
+          "yoy_growth_pct": 8.4
+        },
+        {
+          "name": "Other Immunology",
+          "revenue": 0.0,
+          "yoy_growth_pct": -51.3
+        },
+        {
+          "name": "Infectious Diseases",
+          "revenue": 1.6,
+          "yoy_growth_pct": 22.3
+        },
+        {
+          "name": "COVID-19 VACCINE",
+          "revenue": 0.7,
+          "yoy_growth_pct": 63.4
+        },
+        {
+          "name": "EDURANT / rilpivirine",
+          "revenue": 0.3,
+          "yoy_growth_pct": 12.8
+        },
+        {
+          "name": "PREZISTA / PREZCOBIX / REZOLSTA / SYMTUZA",
+          "revenue": 0.5,
+          "yoy_growth_pct": -4.8
+        },
+        {
+          "name": "Other Infectious Diseases",
+          "revenue": 0.1,
+          "yoy_growth_pct": -9.8
+        },
+        {
+          "name": "Neuroscience",
+          "revenue": 1.8,
+          "yoy_growth_pct": 3.6
+        },
+        {
+          "name": "Oncology",
+          "revenue": 4.1,
+          "yoy_growth_pct": 4.1
+        },
+        {
+          "name": "Pulmonary Hypertension",
+          "revenue": 0.9,
+          "yoy_growth_pct": 2.4
+        },
+        {
+          "name": "Cardiovascular / Metabolism / Other",
+          "revenue": 0.9,
+          "yoy_growth_pct": 1.8
+        }
+      ]
+    },
+    {
+      "name": "MedTech",
+      "revenue": 7.5,
+      "operating_income": 1.4,
+      "yoy_growth_pct": 7.3,
+      "sub_segments": [
+        {
+          "name": "Interventional Solutions",
+          "revenue": 1.5,
+          "yoy_growth_pct": 37.6
+        },
+        {
+          "name": "Electrophysiology",
+          "revenue": 1.1,
+          "yoy_growth_pct": 9.1
+        },
+        {
+          "name": "ABIOMED",
+          "revenue": 0.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Interventional Solutions",
+          "revenue": 0.1,
+          "yoy_growth_pct": -3.9
+        },
+        {
+          "name": "Orthopaedics",
+          "revenue": 2.2,
+          "yoy_growth_pct": 2.6
+        },
+        {
+          "name": "Surgery",
+          "revenue": 2.4,
+          "yoy_growth_pct": 0.0
+        },
+        {
+          "name": "Vision",
+          "revenue": 1.3,
+          "yoy_growth_pct": 3.4
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 24.7,
+    "total_revenue_yoy_pct": 5.6,
+    "cost_of_revenue": 8.4,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 16.4,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 6.1
+    },
+    "total_operating_expenses": 6.1,
+    "operating_income": 10.3,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -11.1,
+    "income_before_tax": -0.7,
+    "tax_expense": -0.7,
+    "net_income": -0.1,
+    "net_income_yoy_pct": -101.3
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

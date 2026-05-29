@@ -1,0 +1,830 @@
+[
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2025-06-29",
+    "form_type": "10-K",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [],
+    "income_statement": {
+      "total_revenue": 18.4,
+      "total_revenue_yoy_pct": 23.7,
+      "cost_of_revenue": 9.5,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 9.0,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 2.1,
+        "selling_general_administrative": 1.0
+      },
+      "total_operating_expenses": 3.1,
+      "operating_income": 5.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 0.1,
+      "income_before_tax": 6.0,
+      "tax_expense": 0.6,
+      "net_income": 5.4,
+      "net_income_yoy_pct": 40.0
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": true,
+    "_quality_score": 30
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2024-06-30",
+    "form_type": "10-K",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor Equipment",
+        "revenue": 14.9,
+        "operating_income": 4.3,
+        "yoy_growth_pct": -14.5,
+        "sub_segments": [
+          {
+            "name": "Etch",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Deposition",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Clean",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 14.9,
+      "total_revenue_yoy_pct": -14.5,
+      "cost_of_revenue": 7.9,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 7.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.9,
+        "selling_general_administrative": 0.9
+      },
+      "total_operating_expenses": 2.8,
+      "operating_income": 4.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 4.4,
+      "tax_expense": 0.5,
+      "net_income": 3.8,
+      "net_income_yoy_pct": -15.1
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2023-06-25",
+    "form_type": "10-K",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "FY",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor Production Equipment",
+        "revenue": 17.4,
+        "operating_income": 5.2,
+        "yoy_growth_pct": 1.2,
+        "sub_segments": [
+          {
+            "name": "Etch",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Deposition",
+            "revenue": null,
+            "yoy_growth_pct": null
+          },
+          {
+            "name": "Clean",
+            "revenue": null,
+            "yoy_growth_pct": null
+          }
+        ]
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 17.4,
+      "total_revenue_yoy_pct": 1.2,
+      "cost_of_revenue": 9.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 7.8,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 1.7,
+        "selling_general_administrative": 0.8
+      },
+      "total_operating_expenses": 2.6,
+      "operating_income": 5.2,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.1,
+      "income_before_tax": 5.1,
+      "tax_expense": 0.6,
+      "net_income": 4.5,
+      "net_income_yoy_pct": -2.0
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2026-03-29",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Customer support-related revenue and other",
+        "revenue": 5.9,
+        "operating_income": null,
+        "yoy_growth_pct": 12.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 5.8,
+      "total_revenue_yoy_pct": 23.8,
+      "cost_of_revenue": 2.9,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 2.9,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.6,
+        "selling_general_administrative": 0.3
+      },
+      "total_operating_expenses": 0.9,
+      "operating_income": 2.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 2.0,
+      "tax_expense": 0.2,
+      "net_income": 1.8,
+      "net_income_yoy_pct": 37.2
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2025-12-28",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Customer Support-Related Revenue and Other",
+        "revenue": 3.8,
+        "operating_income": null,
+        "yoy_growth_pct": 6.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 5.3,
+      "total_revenue_yoy_pct": 22.1,
+      "cost_of_revenue": 2.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 2.7,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.6,
+        "selling_general_administrative": 0.3
+      },
+      "total_operating_expenses": 0.9,
+      "operating_income": 1.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.8,
+      "tax_expense": 0.2,
+      "net_income": 1.6,
+      "net_income_yoy_pct": 33.8
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2025-09-28",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2026",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Systems",
+        "revenue": 3.5,
+        "operating_income": null,
+        "yoy_growth_pct": 48.2,
+        "sub_segments": []
+      },
+      {
+        "name": "Customer Support-Related Revenue and Other",
+        "revenue": 1.8,
+        "operating_income": null,
+        "yoy_growth_pct": 0.1,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 5.3,
+      "total_revenue_yoy_pct": 27.7,
+      "cost_of_revenue": 2.6,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 2.7,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.6,
+        "selling_general_administrative": 0.3
+      },
+      "total_operating_expenses": 0.9,
+      "operating_income": 1.8,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 0.1,
+      "income_before_tax": 1.9,
+      "tax_expense": 0.3,
+      "net_income": 1.6,
+      "net_income_yoy_pct": 40.5
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2025-03-30",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Customer Support-Related Revenue and Other",
+        "revenue": 5.2,
+        "operating_income": null,
+        "yoy_growth_pct": 21.7,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 4.7,
+      "total_revenue_yoy_pct": 24.4,
+      "cost_of_revenue": 2.4,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 2.3,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 0.2
+      },
+      "total_operating_expenses": 0.7,
+      "operating_income": 1.6,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.1,
+      "income_before_tax": 1.5,
+      "tax_expense": 0.2,
+      "net_income": 1.3,
+      "net_income_yoy_pct": 37.8
+    },
+    "notes": "XBRL IS + LLM segments (batch).",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 70
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2024-12-29",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor Equipment",
+        "revenue": 4.4,
+        "operating_income": 1.3,
+        "yoy_growth_pct": 16.4,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 4.4,
+      "total_revenue_yoy_pct": 16.4,
+      "cost_of_revenue": 2.3,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 2.1,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 0.2
+      },
+      "total_operating_expenses": 0.8,
+      "operating_income": 1.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": 0.1,
+      "income_before_tax": 1.3,
+      "tax_expense": 0.2,
+      "net_income": 1.2,
+      "net_income_yoy_pct": 24.8
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2024-09-29",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor Equipment",
+        "revenue": 4.2,
+        "operating_income": 1.3,
+        "yoy_growth_pct": 19.7,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 4.2,
+      "total_revenue_yoy_pct": 19.7,
+      "cost_of_revenue": 2.2,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 2.0,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 0.2
+      },
+      "total_operating_expenses": 0.7,
+      "operating_income": 1.3,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.3,
+      "tax_expense": 0.2,
+      "net_income": 1.1,
+      "net_income_yoy_pct": 25.8
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2024-03-31",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor Equipment",
+        "revenue": 3.8,
+        "operating_income": 1.1,
+        "yoy_growth_pct": -1.9,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 3.8,
+      "total_revenue_yoy_pct": -2.0,
+      "cost_of_revenue": 2.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 1.8,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 0.2
+      },
+      "total_operating_expenses": 0.7,
+      "operating_income": 1.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.1,
+      "tax_expense": 0.1,
+      "net_income": 1.0,
+      "net_income_yoy_pct": 18.7
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2023-12-24",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor Equipment",
+        "revenue": 3.8,
+        "operating_income": 1.1,
+        "yoy_growth_pct": -28.8,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 3.8,
+      "total_revenue_yoy_pct": -28.8,
+      "cost_of_revenue": 2.0,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 1.8,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 0.2
+      },
+      "total_operating_expenses": 0.7,
+      "operating_income": 1.1,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.1,
+      "tax_expense": 0.1,
+      "net_income": 1.0,
+      "net_income_yoy_pct": -35.0
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2023-09-24",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor Equipment",
+        "revenue": 3.5,
+        "operating_income": 1.0,
+        "yoy_growth_pct": -31.4,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 3.5,
+      "total_revenue_yoy_pct": -31.4,
+      "cost_of_revenue": 1.8,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 1.7,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 0.2
+      },
+      "total_operating_expenses": 0.7,
+      "operating_income": 1.0,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.0,
+      "tax_expense": 0.1,
+      "net_income": 0.9,
+      "net_income_yoy_pct": -37.8
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2023-03-26",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q3",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor Equipment",
+        "revenue": 3.9,
+        "operating_income": 0.9,
+        "yoy_growth_pct": -4.7,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 3.9,
+      "total_revenue_yoy_pct": -4.7,
+      "cost_of_revenue": 2.3,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 1.6,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 0.2
+      },
+      "total_operating_expenses": 0.7,
+      "operating_income": 0.9,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 0.9,
+      "tax_expense": 0.1,
+      "net_income": 0.8,
+      "net_income_yoy_pct": -20.3
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2022-12-25",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q2",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor Equipment",
+        "revenue": 5.3,
+        "operating_income": 1.7,
+        "yoy_growth_pct": 24.9,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 5.3,
+      "total_revenue_yoy_pct": 24.9,
+      "cost_of_revenue": 2.9,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 2.4,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 0.2
+      },
+      "total_operating_expenses": 0.7,
+      "operating_income": 1.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": null,
+      "income_before_tax": 1.7,
+      "tax_expense": 0.2,
+      "net_income": 1.5,
+      "net_income_yoy_pct": 22.9
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2022-09-25",
+    "form_type": "10-Q",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q1",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor Equipment",
+        "revenue": 5.1,
+        "operating_income": 1.7,
+        "yoy_growth_pct": 17.9,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 5.1,
+      "total_revenue_yoy_pct": 17.9,
+      "cost_of_revenue": 2.7,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit": 2.3,
+      "gross_profit_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 0.2
+      },
+      "total_operating_expenses": 0.6,
+      "operating_income": 1.7,
+      "operating_income_yoy_pct": null,
+      "other_income_expense": -0.1,
+      "income_before_tax": 1.7,
+      "tax_expense": 0.2,
+      "net_income": 1.4,
+      "net_income_yoy_pct": 20.9
+    },
+    "notes": "XBRL IS + LLM segments.",
+    "_is_bank": false,
+    "_needs_retry": false,
+    "_quality_score": 90
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2025-06-29",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2025",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [],
+    "income_statement": {
+      "total_revenue": 5.1,
+      "cost_of_revenue": 2.6,
+      "gross_profit": 2.6,
+      "total_operating_expenses": 0.9,
+      "operating_income": 1.7,
+      "other_income_expense": 0.1,
+      "income_before_tax": 1.9,
+      "tax_expense": -0.0,
+      "net_income": 1.8,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.6,
+        "selling_general_administrative": 0.4
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 30,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": true
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2024-06-30",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2024",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [
+      {
+        "name": "Semiconductor Equipment",
+        "revenue": 3.8,
+        "operating_income": 1.1,
+        "yoy_growth_pct": null,
+        "sub_segments": []
+      }
+    ],
+    "income_statement": {
+      "total_revenue": 3.8,
+      "cost_of_revenue": 2.1,
+      "gross_profit": 1.8,
+      "total_operating_expenses": 0.7,
+      "operating_income": 1.1,
+      "other_income_expense": null,
+      "income_before_tax": 1.2,
+      "tax_expense": 0.2,
+      "net_income": 0.9,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.5,
+        "selling_general_administrative": 0.3
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 90,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": false
+  },
+  {
+    "company": "Lam Research Corp.",
+    "ticker": "LRCX",
+    "report_date": "2023-06-25",
+    "form_type": "Calculated",
+    "fiscal_year": "FY2023",
+    "fiscal_period": "Q4",
+    "currency": "USD",
+    "exchange_rate_to_usd": null,
+    "unit": "billions",
+    "segments": [],
+    "income_statement": {
+      "total_revenue": 3.1,
+      "cost_of_revenue": 1.8,
+      "gross_profit": 1.5,
+      "total_operating_expenses": 0.6,
+      "operating_income": 0.9,
+      "other_income_expense": null,
+      "income_before_tax": 0.8,
+      "tax_expense": 0.1,
+      "net_income": 0.8,
+      "total_revenue_yoy_pct": null,
+      "cost_of_revenue_yoy_pct": null,
+      "cost_of_revenue_breakdown": null,
+      "gross_profit_yoy_pct": null,
+      "operating_income_yoy_pct": null,
+      "net_income_yoy_pct": null,
+      "operating_expenses": {
+        "research_and_development": 0.4,
+        "selling_general_administrative": 0.2
+      }
+    },
+    "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+    "_quality_score": 30,
+    "_synthetic_q4": true,
+    "_is_bank": false,
+    "_needs_retry": true
+  }
+]

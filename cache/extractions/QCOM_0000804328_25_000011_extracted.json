@@ -1,0 +1,68 @@
+{
+  "company": "Qualcomm Incorporated",
+  "ticker": "QCOM",
+  "report_date": "2024-12-29",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "QCT",
+      "revenue": 10.1,
+      "operating_income": 3.2,
+      "yoy_growth_pct": 20.0,
+      "sub_segments": [
+        {
+          "name": "Handsets",
+          "revenue": 7.6,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Automotive",
+          "revenue": 1.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "IoT",
+          "revenue": 1.5,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "QTL",
+      "revenue": 1.5,
+      "operating_income": 1.2,
+      "yoy_growth_pct": 5.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 11.7,
+    "total_revenue_yoy_pct": 17.5,
+    "cost_of_revenue": 5.2,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 6.5,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 2.2,
+      "selling_general_administrative": 0.7
+    },
+    "total_operating_expenses": 3.0,
+    "operating_income": 3.6,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.1,
+    "income_before_tax": 3.6,
+    "tax_expense": 0.5,
+    "net_income": 3.2,
+    "net_income_yoy_pct": 14.9
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

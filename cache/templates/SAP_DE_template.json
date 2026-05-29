@@ -1,0 +1,41 @@
+{
+  "ticker": "SAP.DE",
+  "source": "cache: 20-F 2023-12-31",
+  "segments": [
+    {
+      "name": "Applications, Technology & Support",
+      "sub_segments": [
+        "Cloud",
+        "Cloud ERP Suite",
+        "Extension Suite",
+        "IaaS",
+        "Software licenses",
+        "Software support",
+        "Software licenses and support",
+        "Services"
+      ]
+    },
+    {
+      "name": "Core Services",
+      "sub_segments": [
+        "Services"
+      ]
+    },
+    {
+      "name": "Software licenses",
+      "sub_segments": []
+    },
+    {
+      "name": "Applications, Technology & Services",
+      "sub_segments": [
+        "Cloud Revenue",
+        "Cloud ERP Suite",
+        "Software Licenses",
+        "Software Support",
+        "Services",
+        "Consulting and Premium Support",
+        "Other Services"
+      ]
+    }
+  ]
+}

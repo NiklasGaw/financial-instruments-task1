@@ -1,0 +1,175 @@
+{
+  "company": "Commonwealth Bank of Australia",
+  "ticker": "CBA.AX",
+  "report_date": "2023-12-31",
+  "form_type": "Annual Report",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "AUD",
+  "exchange_rate_to_usd": 1.48,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Retail Banking Services",
+      "revenue": 12.5,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 11.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Commissions",
+          "revenue": 1.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Lending fees",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Trading and other income",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Business Banking",
+      "revenue": 8.8,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 7.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Commissions",
+          "revenue": 0.5,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Lending fees",
+          "revenue": 0.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Trading and other income",
+          "revenue": 0.3,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Institutional Banking and Markets",
+      "revenue": 2.4,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 1.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Commissions",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Lending fees",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Trading and other income",
+          "revenue": 0.6,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "revenue": 3.1,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 2.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Commissions",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Lending fees",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Trading and other income",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Corporate Centre and Other",
+      "revenue": 0.4,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Net interest income",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Commissions",
+          "revenue": -0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Lending fees",
+          "revenue": 0.0,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Trading and other income",
+          "revenue": 0.3,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 27.5,
+    "total_revenue_yoy_pct": 10.0,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": 10.8,
+    "operating_income": null,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.5,
+    "income_before_tax": null,
+    "tax_expense": 2.2,
+    "net_income": 10.2,
+    "net_income_yoy_pct": 5.0
+  },
+  "notes": "Two-pass LLM extraction."
+}

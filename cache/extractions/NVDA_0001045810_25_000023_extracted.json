@@ -1,0 +1,89 @@
+{
+  "company": "NVIDIA Corp",
+  "ticker": "NVDA",
+  "report_date": "2025-01-26",
+  "form_type": "10-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Compute & Networking",
+      "revenue": 116.2,
+      "operating_income": 82.9,
+      "yoy_growth_pct": 145.0,
+      "sub_segments": [
+        {
+          "name": "Data Center computing",
+          "revenue": null,
+          "yoy_growth_pct": 162.0
+        },
+        {
+          "name": "Data Center networking",
+          "revenue": null,
+          "yoy_growth_pct": 51.0
+        }
+      ]
+    },
+    {
+      "name": "Graphics",
+      "revenue": 14.3,
+      "operating_income": 5.1,
+      "yoy_growth_pct": 6.0,
+      "sub_segments": [
+        {
+          "name": "GeForce GPUs for gaming and PCs",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "GeForce NOW game streaming service and related infrastructure",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Quadro/NVIDIA RTX GPUs for enterprise workstation graphics",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "vGPU software for cloud-based visual and virtual computing",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Omniverse Enterprise software",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 130.5,
+    "total_revenue_yoy_pct": 114.2,
+    "cost_of_revenue": 32.6,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 97.9,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 12.9,
+      "selling_general_administrative": 3.5
+    },
+    "total_operating_expenses": 16.4,
+    "operating_income": 81.5,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 2.5,
+    "income_before_tax": 84.0,
+    "tax_expense": 11.1,
+    "net_income": 72.9,
+    "net_income_yoy_pct": 144.9
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

@@ -1,0 +1,52 @@
+{
+  "company": "Broadcom Inc.",
+  "ticker": "AVGO",
+  "report_date": "2025-11-02",
+  "form_type": "10-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Semiconductor solutions",
+      "revenue": null,
+      "operating_income": 21.2,
+      "yoy_growth_pct": 26.7,
+      "sub_segments": []
+    },
+    {
+      "name": "Infrastructure software",
+      "revenue": null,
+      "operating_income": 20.8,
+      "yoy_growth_pct": 48.6,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 63.9,
+    "total_revenue_yoy_pct": 23.9,
+    "cost_of_revenue": 20.6,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 43.3,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 11.0,
+      "selling_general_administrative": 4.2
+    },
+    "total_operating_expenses": 15.2,
+    "operating_income": 25.5,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 22.7,
+    "tax_expense": -0.4,
+    "net_income": null,
+    "net_income_yoy_pct": null
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 40
+}

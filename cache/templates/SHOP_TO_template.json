@@ -1,0 +1,21 @@
+{
+  "ticker": "SHOP.TO",
+  "source": "cache: 40-F 2023-12-31",
+  "segments": [
+    {
+      "name": "Subscription solutions",
+      "sub_segments": []
+    },
+    {
+      "name": "Merchant solutions",
+      "sub_segments": [
+        "Payment processing",
+        "Shopify Capital",
+        "Shopify Shipping",
+        "Shopify Fulfillment Network",
+        "Shopify Markets",
+        "Other Merchant Solutions"
+      ]
+    }
+  ]
+}

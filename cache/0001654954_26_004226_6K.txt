@@ -1,0 +1,532 @@
+6-K
+ 1
+ a7026c.htm
+ FDA ODAC RECOMMENDS TRUQAP IN PROSTATE CANCER
+
+ a7026c 
+
+FORM 6-K 
+
+ &#xA0; 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+ &#xA0; 
+
+ &#xA0; 
+
+ Report
+of Foreign Issuer 
+
+ &#xA0; 
+
+ Pursuant
+to Rule 13a-16 or 15d-16 of 
+
+ the
+Securities Exchange Act of 1934 
+
+ &#xA0; 
+
+ For the
+month of May 2026&#xA0; 
+
+ &#xA0; 
+
+ Commission
+File Number: 001-11960 
+
+ &#xA0; 
+
+AstraZeneca PLC 
+
+ &#xA0; 
+
+ 1
+Francis Crick Avenue 
+
+ Cambridge
+Biomedical Campus 
+
+ Cambridge
+CB2 0AA 
+
+ United
+Kingdom 
+
+ &#xA0; 
+
+ &#xA0; 
+
+ Indicate
+by check mark whether the registrant files or will file annual
+reports under cover of Form 20-F or Form 40-F. 
+
+ &#xA0; 
+
+ Form
+20-F X Form 40-F __ 
+
+ &#xA0; 
+
+ Indicate
+by check mark if the registrant is submitting the Form 6-K in paper
+as permitted by Regulation S-T Rule 101(b)(1): 
+
+ &#xA0; 
+
+ Indicate
+by check mark if the registrant is submitting the Form 6-K in paper
+as permitted by Regulation S-T Rule 101(b)(7): ______ 
+
+ &#xA0; 
+
+ Indicate
+by check mark whether the registrant by furnishing the information
+contained in this Form is also thereby furnishing the information
+to the Commission pursuant to Rule 12g3-2(b) under the Securities
+Exchange Act of 1934. 
+
+ &#xA0; 
+
+ Yes __
+No X 
+
+ &#xA0; 
+
+ If
+&#x201C;Yes&#x201D; is marked, indicate below the file number
+assigned to the Registrant in connection with Rule 12g3-2(b):
+82-_____________ 
+
+ &#xA0; 
+
+ &#xA0; 
+
+ &#xA0; 
+
+AstraZeneca PLC 
+
+ &#xA0; 
+
+ INDEX
+TO EXHIBITS 
+
+ &#xA0; 
+
+ 1.
+FDA ODAC recommends Truqap in prostate cancer 
+
+ &#xA0; 
+
+&#xA0; 
+
+01 May 2026 
+
+ &#xA0; 
+
+ Truqap &#xA0;recommended by FDA Advisory Committee for
+PTEN-deficient metastatic hormone-sensitive prostate
+cancer 
+
+ &#xA0; 
+
+ &#xA0; ODAC
+overwhelming majority voted that Truqap plus abiraterone and ADT
+demonstrated a favourable benefit risk profile for patients based
+on the CAPItello-281 Phase III trial results 
+
+ &#xA0;&#xA0; 
+
+First and only targeted treatment combination to demonstrate
+benefit in this subtype of prostate cancer addresses significant
+unmet patient need 
+
+ &#xA0; 
+
+The US Food and Drug Administration's (FDA) Oncologic Drugs
+Advisory Committee (ODAC) has recognised a favourable benefit risk
+profile for AstraZeneca's&#xA0; Truqap &#xA0; (capivasertib) &#xA0;in
+combination with abiraterone and androgen deprivation therapy (ADT)
+for the treatment of patients with PTEN-deficient metastatic
+hormone-sensitive prostate cancer (mHSPC), based on the
+CAPItello-281 Phase III trial. The Committee voted 7 to 1, with 1
+abstaining. 
+
+ &#xA0; 
+
+In August 2025, the FDA accepted the supplemental New Drug
+Application (sNDA) for&#xA0; Truqap &#xA0;in combination with abiraterone and ADT
+based on positive results from the CAPItello-281 Phase III trial,
+presented at the 2025 European Society for Medical Oncology (ESMO)
+Congress and simultaneously published in&#xA0; Annals
+of Oncology . 1 
+
+&#xA0; 
+
+Daniel George, MD, Director of Genitourinary Oncology at Duke
+Cancer Institute and investigator for the trial, said: "Patients
+identified to have PTEN-deficient metastatic hormone-sensitive
+prostate cancer have an aggressive form of the disease and
+currently experience&#xA0;poor outcomes. Their
+disease&#xA0;significantly impacts their quality of life and
+inevitably progresses&#xA0;to more advanced stages that are
+associated with high mortality rates. In addition to this poor
+prognosis,&#xA0;patients currently have&#xA0;limited treatment
+options,&#xA0;which is why today's recommendation of the
+capivasertib combination is welcome news for both patients and
+clinicians to address an urgent need for new treatments that delay
+progression." 
+
+&#xA0; 
+
+Susan Galbraith, Executive Vice President, Oncology Haematology
+R&D, AstraZeneca, said: "CAPItello-281 is the first pivotal
+trial to prospectively define PTEN-deficient metastatic
+hormone-sensitive prostate cancer and its severe course of disease.
+The Committee's recognition of the unmet need in patients with
+PTEN-deficiency and of the benefit seen with
+the&#xA0; Truqap &#xA0;combination verifies its potential to
+address this significant need and optimise outcomes for
+patients.&#xA0;We are committed to working closely with the FDA to
+bring the first and only targeted treatment option to the one in
+four patients with this form of metastatic hormone-sensitive
+prostate cancer." 
+
+&#xA0; 
+
+Results from the primary analysis of the CAPItello-281 Phase III
+trial showed a statistically significant 19% reduction in the risk
+of radiographic disease progression or death and a clinically
+meaningful improvement in median&#xA0; radiographic
+progression-free survival&#xA0;( rPFS) of 7.5 months with
+the&#xA0; Truqap &#xA0;combination versus treatment with
+abiraterone and ADT with placebo (based on a hazard ratio [HR] of
+0.81; 95% confidence interval [CI] 0.66-0.98; p=0.034). Median rPFS
+was 33.2 months for the&#xA0; Truqap &#xA0;combination versus 25.7 months for the
+comparator arm. 1 
+
+&#xA0; 
+
+A consistent benefit was observed with the&#xA0; Truqap &#xA0;combination versus&#xA0;treatment with
+abiraterone and ADT with placebo in key secondary endpoints of the
+trial , including prolonged
+time to castration resistance (29.5 vs. 22.0 months [HR 0.77; 95%
+CI: 0.63-0.94]) and prostate-specific antigen (PSA) progression
+( HR&#xA0; 0.73; 95% CI:
+0.52-1.01), and fewer and delayed events in terms of symptomatic
+skeletal event-free survival (SSE-FS) (42.5 vs. 37.3 months [HR
+0.82, 95% CI: 0.66-1.02]). 1 
+
+&#xA0; 
+
+Overall survival (OS) data were immature at the time of primary
+analysis; however, subsequent interim results for OS numerically
+favoured the&#xA0; Truqap &#xA0;combination
+versus the comparator arm. The trial will continue as planned to
+further assess OS as a key secondary endpoint. 
+
+&#xA0; 
+
+The safety profile of&#xA0; Truqap &#xA0;in
+combination with abiraterone and ADT in CAPItello-281 was broadly
+consistent with the known profile of each
+medicine . &#xA0;Consistent
+with the addition of a targeted treatment to background therapy,
+Grade 3 or higher adverse events occurred in 67% of patients
+treated with the&#xA0; Truqap &#xA0;combination
+versus 40.4% of patients treated with abiraterone and ADT with
+placebo. The most common Grade 3 or higher adverse events in
+the&#xA0; Truqap &#xA0;arm
+were rash (12.3%), hyperglycaemia (10.3%), hypokalaemia (8.7%),
+diarrhoea (6.2%), hypertension (5.8%) and anaemia
+(5.2%). 1 
+
+&#xA0; 
+
+The ODAC provides the FDA with independent, expert advice and
+recommendations on marketed and investigational medicines for use
+in the treatment of cancer. The FDA will consider the feedback as
+it reviews the submission and is not bound by the Committee's
+recommendation. 
+
+&#xA0; 
+
+A regulatory application for&#xA0; Truqap &#xA0;in combination with abiraterone and ADT for
+the treatment of PTEN-deficient mHSPC is under review in the EU
+based on the CAPItello-281 Phase III trial. 
+
+&#xA0; 
+
+Notes 
+
+&#xA0; 
+
+Prostate cancer &#xA0; 
+
+Prostate cancer is the second most prevalent cancer in men and the
+fifth leading cause of male cancer death globally, with an
+incidence of more than 1.4 million and approximately 397,000 deaths
+in 2022. 2 &#xA0;In
+the US, prostate cancer is the most common cancer in men, with more
+than 300,000 new cases of the disease diagnosed annually, and more
+than 36,000 deaths. 3 
+
+&#xA0; 
+
+Metastatic prostate cancer is associated with a significant
+mortality rate, with only one third of patients surviving five
+years after diagnosis. 4 &#xA0;Development
+of prostate cancer is often driven by male sex hormones called
+androgens, including testosterone. 5 
+
+&#xA0; 
+
+Metastatic hormone-sensitive prostate cancer 
+
+In patients with mHSPC, also known as metastatic
+castration-sensitive prostate cancer (mCSPC), prostate cancer cells
+need high levels of androgens to drive cancer
+growth. 5,6 &#xA0;Hormone
+therapies, such as ADT, are widely used to block the action of male
+sex hormones and lower the levels of androgens in the
+body. 6,7 &#xA0;However,
+resistance to these therapies is common and there is a need to
+extend their use to delay disease progression and castration
+resistance, where the prostate cancer grows and spreads to other
+parts of the body despite the use of these
+therapies. 6-8 
+
+&#xA0; 
+
+Newly diagnosed mHSPC is an aggressive form of the disease
+associated with poor outcomes and survival. 6,8 &#xA0;Globally,
+approximately 200,000 patients are diagnosed with mHSPC each year,
+with 35,000 patients diagnosed with the disease in the
+US. 9 &#xA0;One
+in four of these patients have PTEN-deficient
+tumours. 9 
+
+&#xA0; 
+
+PTEN-loss or deficiency fuels the growth of cancer cells, leading
+to dysregulation of the PI3K/AKT pathway, and is associated with
+poor outcomes in patients with prostate cancer. 10,11 
+
+&#xA0; 
+
+CAPItello-281 
+
+CAPItello-281 is a Phase III, double-blind, randomised trial
+evaluating the efficacy and safety of&#xA0; Truqap &#xA0;in
+combination with abiraterone and ADT versus abiraterone and ADT in
+combination with placebo in the treatment of patients with
+PTEN-deficient&#xA0; de
+novo &#xA0;mHSPC. 
+
+&#xA0; 
+
+The global trial enrolled 1,012 adult patients with histologically
+confirmed&#xA0; de
+novo &#xA0;hormone-sensitive
+prostate adenocarcinoma and PTEN deficiency as confirmed by central
+testing. The primary endpoint of the CAPItello-281 trial is rPFS as
+assessed by investigator, with OS as a secondary
+endpoint. 
+
+&#xA0; 
+
+Truqap 
+
+Truqap &#xA0;is a
+first-in-class, potent, adenosine triphosphate (ATP)-competitive
+inhibitor of all three AKT isoforms ( AKT1/2/3 ).&#xA0; Truqap &#xA0;400mg is administered twice daily according
+to an intermittent dosing schedule of four days on and three days
+off. This was chosen in early phase trials based on tolerability
+and the degree of target inhibition. 
+
+&#xA0; 
+
+Truqap &#xA0;in combination
+with&#xA0; Faslodex &#xA0;(fulvestrant) is approved in the US, EU,
+Japan, China and a number of other countries for the treatment of
+adult patients with HR-positive (or estrogen receptor-positive),
+HER2-negative locally advanced or metastatic breast cancer with one
+or more biomarker alterations ( PIK3CA ,&#xA0; AKT1 &#xA0;or&#xA0; PTEN ) following recurrence or progression on or after
+an endocrine-based regimen based on the results from the
+CAPItello-291 trial.&#xA0; Truqap &#xA0;is also approved in Australia for the
+treatment of adult patients with HR-positive, HER2-negative locally
+advanced or metastatic breast cancer following recurrence or
+progression on or after an endocrine based regimen based on these
+trial results. 
+
+&#xA0; 
+
+Truqap &#xA0;is currently being
+evaluated in Phase III trials for the treatment of breast cancer
+(CAPItello-292) and prostate cancer (CAPItello-281) in combination
+with established treatments. 
+
+&#xA0; 
+
+Truqap &#xA0;was discovered by
+AstraZeneca subsequent to a collaboration with Astex Therapeutics
+(and its collaboration with the Institute of Cancer Research and
+Cancer Research Technology Limited). 
+
+&#xA0; 
+
+AstraZeneca in oncology &#xA0; 
+
+AstraZeneca is leading a revolution in oncology with the ambition
+to provide cures for cancer in every form, following the science to
+understand cancer and all its complexities to discover, develop and
+deliver life-changing medicines to patients.&#xA0; 
+
+&#xA0; 
+
+The Company's focus is on some of the most challenging cancers. It
+is through persistent innovation that AstraZeneca has built one of
+the most diverse portfolios and pipelines in the industry, with the
+potential to catalyse changes in the practice of medicine and
+transform the patient experience.&#xA0; 
+
+&#xA0; 
+
+AstraZeneca has the vision to redefine cancer care and, one
+day,&#xA0;eliminate&#xA0;cancer as a cause of death. 
+
+&#xA0; 
+
+AstraZeneca 
+
+AstraZeneca (LSE/STO/NYSE: AZN) is a global, science-led
+biopharmaceutical company that focuses on the discovery,
+development, and commercialisation of prescription medicines in
+Oncology, Rare Diseases, and BioPharmaceuticals, including
+Cardiovascular, Renal & Metabolism, and Respiratory &
+Immunology. Based in Cambridge, UK, AstraZeneca's innovative
+medicines are sold in more than 125 countries and used by millions
+of patients worldwide. Please visit&#xA0; astrazeneca.com &#xA0;and
+follow the Company on Social Media&#xA0; @AstraZeneca . 
+
+&#xA0; 
+
+Contacts 
+
+For details on how to contact the Investor Relations Team, please
+click&#xA0; here .
+For Media contacts, click&#xA0; here . 
+
+&#xA0; 
+
+References 
+
+ 1.&#xA0;&#xA0; Fizazi K, et al. Capivasertib plus
+abiraterone in PTEN-deficient metastatic hormone sensitive prostate
+cancer: CAPItello-281 phase III study.&#xA0; Ann Oncol &#xA0;2026; 37(1):53-68. 
+
+ 2.&#xA0;&#xA0; Bray F, et al. Global cancer
+statistics 2022: GLOBOCAN estimates of incidence and mortality
+worldwide for 36 cancers in 185 countries.&#xA0; CA Cancer J
+Clin . 2024 Apr 4. doi:
+10.3322/caac.21834. 
+
+ 3.&#xA0;&#xA0; American Cancer Society. Key
+Statistics for Prostate cancer. Available
+at:&#xA0; https://www.cancer.org/cancer/types/prostate-cancer/about/key-statistics.html .
+Accessed April 2026. 
+
+ 4.&#xA0;&#xA0;
+Chowdhury S, et al. Real-World Outcomes in First-Line Treatment of
+Metastatic Castration-Resistant Prostate Cancer: The Prostate
+Cancer Registry. Target Oncol. 2020;15(3):301-315. 
+
+ 5.&#xA0;&#xA0; National Cancer Institute. Hormone
+Therapy for Prostate Cancer Fact Sheet. Available
+at:&#xA0; https://www.cancer.gov/types/prostate/prostate-hormone-therapy-fact-sheet .
+Accessed April 2026. 
+
+ 6.&#xA0;&#xA0; American Society of Clinical
+Oncology Educational Book. Metastatic Hormone-Sensitive Prostate
+Cancer: Toward an Era of Adaptive and Personalized Treatment.
+Available at:&#xA0; https://ascopubs.org/doi/pdf/10.1200/EDBK_390166 .
+Accessed April 2026. 
+
+ 7.&#xA0;&#xA0; Cancer Research UK. Hormone therapy
+for metastatic prostate cancer. Available
+at:&#xA0; https://www.cancerresearchuk.org/about-cancer/prostate-cancer/metastatic-cancer/treatment/hormone-therapy-for-metastatic-prostate-cancer .
+Accessed April 2026. 
+
+ 8.&#xA0;&#xA0;
+Hussain M, et al. Metastatic Hormone-Sensitive Prostate Cancer and
+Combination Treatment Outcomes A Review. JAMA Oncol.
+2024;10(6):807-820. 
+
+ 9.&#xA0;&#xA0;
+Cerner CancerMPact database. Accessed April 2026. 
+
+ 10.&#xA0;
+Cuzick J, et al. Prognostic value of PTEN loss in men with
+conservatively managed localised prostate cancer. Br J Cancer.
+2013;108(12):2582-2589. 
+
+ 11.&#xA0;
+Gasmi A, et al. Overview of the Development and Use of Akt
+Inhibitors in Prostate Cancer. J Clin Med.
+2021;11(1):160. 
+
+&#xA0; 
+
+Matthew Bowden 
+
+Company Secretary 
+
+AstraZeneca PLC 
+
+ &#xA0; 
+
+&#xA0; 
+
+SIGNATURES 
+
+ &#xA0; 
+
+ Pursuant
+to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized. 
+
+ &#xA0; 
+
+ &#xA0; 
+
+ AstraZeneca
+PLC 
+
+ &#xA0; 
+
+ &#xA0; 
+
+Date: 01 May 2026 
+
+ &#xA0; 
+
+ &#xA0; 
+
+ By: /s/
+Matthew Bowden 
+
+ &#xA0; 
+
+ Name:
+Matthew Bowden 
+
+ &#xA0; 
+
+ Title:
+Company Secretary

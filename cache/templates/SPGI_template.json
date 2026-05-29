@@ -1,0 +1,57 @@
+{
+  "ticker": "SPGI",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Market Intelligence",
+      "sub_segments": [
+        "Subscription",
+        "Recurring variable",
+        "Non-subscription / Transaction"
+      ]
+    },
+    {
+      "name": "Ratings",
+      "sub_segments": [
+        "Non-transaction",
+        "Non-subscription / Transaction"
+      ]
+    },
+    {
+      "name": "Energy",
+      "sub_segments": [
+        "Subscription",
+        "Sales usage-based royalties",
+        "Non-subscription / Transaction"
+      ]
+    },
+    {
+      "name": "Mobility",
+      "sub_segments": [
+        "Subscription",
+        "Non-subscription / Transaction"
+      ]
+    },
+    {
+      "name": "Indices",
+      "sub_segments": [
+        "Asset-linked fees",
+        "Subscription",
+        "Sales usage-based royalties",
+        "Other Indices"
+      ]
+    },
+    {
+      "name": "Commodity Insights",
+      "sub_segments": [
+        "Subscription",
+        "Non-subscription / Transaction",
+        "Sales usage-based royalties"
+      ]
+    },
+    {
+      "name": "Engineering Solutions",
+      "sub_segments": []
+    }
+  ]
+}

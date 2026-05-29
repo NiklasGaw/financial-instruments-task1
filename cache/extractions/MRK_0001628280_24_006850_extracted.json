@@ -1,0 +1,126 @@
+{
+  "company": "Merck & Co. Inc.",
+  "ticker": "MRK",
+  "report_date": "2023-12-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Pharmaceutical",
+      "revenue": 53.6,
+      "operating_income": 38.9,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": [
+        {
+          "name": "Keytruda",
+          "revenue": 25.0,
+          "yoy_growth_pct": 19.5
+        },
+        {
+          "name": "Gardasil/Gardasil 9",
+          "revenue": 8.9,
+          "yoy_growth_pct": 28.8
+        },
+        {
+          "name": "Januvia/Janumet",
+          "revenue": 3.4,
+          "yoy_growth_pct": -25.4
+        },
+        {
+          "name": "ProQuad/M-M-R II/Varivax",
+          "revenue": 2.4,
+          "yoy_growth_pct": 5.7
+        },
+        {
+          "name": "Bridion",
+          "revenue": 1.8,
+          "yoy_growth_pct": 9.3
+        },
+        {
+          "name": "Lagevrio",
+          "revenue": 1.4,
+          "yoy_growth_pct": -74.9
+        },
+        {
+          "name": "Alliance revenue - Lynparza",
+          "revenue": 1.2,
+          "yoy_growth_pct": 7.4
+        },
+        {
+          "name": "Alliance revenue - Lenvima",
+          "revenue": 1.0,
+          "yoy_growth_pct": 9.6
+        },
+        {
+          "name": "RotaTeq",
+          "revenue": 0.8,
+          "yoy_growth_pct": -1.8
+        },
+        {
+          "name": "Vaxneuvance",
+          "revenue": 0.7,
+          "yoy_growth_pct": 291.2
+        },
+        {
+          "name": "Other Pharmaceutical",
+          "revenue": 7.0,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Animal Health",
+      "revenue": 5.6,
+      "operating_income": 1.7,
+      "yoy_growth_pct": 1.4,
+      "sub_segments": [
+        {
+          "name": "Livestock",
+          "revenue": 3.3,
+          "yoy_growth_pct": 1.1
+        },
+        {
+          "name": "Companion Animal",
+          "revenue": 2.3,
+          "yoy_growth_pct": 1.7
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "revenue": 0.9,
+      "operating_income": -38.7,
+      "yoy_growth_pct": -47.5,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 60.1,
+    "total_revenue_yoy_pct": 1.4,
+    "cost_of_revenue": 16.1,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 44.0,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 30.5,
+      "selling_general_administrative": 10.5
+    },
+    "total_operating_expenses": 41.0,
+    "operating_income": 3.0,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.1,
+    "income_before_tax": 1.9,
+    "tax_expense": 1.5,
+    "net_income": 0.4,
+    "net_income_yoy_pct": -97.5
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

@@ -1,0 +1,73 @@
+{
+  "company": "Costco Wholesale Corporation",
+  "ticker": "COST",
+  "report_date": "2025-05-11",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Other International",
+      "revenue": 8.6,
+      "operating_income": 0.4,
+      "yoy_growth_pct": 6.4,
+      "sub_segments": []
+    },
+    {
+      "name": "Foods and Sundries",
+      "revenue": 25.1,
+      "operating_income": null,
+      "yoy_growth_pct": 9.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Non-Foods",
+      "revenue": 16.1,
+      "operating_income": null,
+      "yoy_growth_pct": 10.8,
+      "sub_segments": []
+    },
+    {
+      "name": "Fresh Foods",
+      "revenue": 8.8,
+      "operating_income": null,
+      "yoy_growth_pct": 11.4,
+      "sub_segments": []
+    },
+    {
+      "name": "Membership Fees",
+      "revenue": 1.2,
+      "operating_income": null,
+      "yoy_growth_pct": 10.4,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 63.2,
+    "total_revenue_yoy_pct": 8.0,
+    "cost_of_revenue": 55.0,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 8.2,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 5.7
+    },
+    "total_operating_expenses": 5.7,
+    "operating_income": 2.5,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.1,
+    "income_before_tax": 2.6,
+    "tax_expense": 0.7,
+    "net_income": 1.9,
+    "net_income_yoy_pct": 13.2
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

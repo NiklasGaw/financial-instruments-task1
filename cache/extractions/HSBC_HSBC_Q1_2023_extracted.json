@@ -1,0 +1,59 @@
+{
+  "company": "HSBC Holdings plc",
+  "ticker": "HSBC",
+  "report_date": "2023-12-31",
+  "form_type": "Quarterly Report",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q1",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Wealth and Personal Banking",
+      "revenue": 9.0,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Commercial Banking",
+      "revenue": 6.7,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Global Banking and Markets",
+      "revenue": 4.5,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 20.2,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": null,
+    "operating_income": 12.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": null,
+    "tax_expense": null,
+    "net_income": 10.3,
+    "net_income_yoy_pct": null
+  },
+  "notes": "Revenue-only trading update (no full income statement). [manual segment patch: canonical structure OLD] [IS patch: OI/NI from HSBC public release]",
+  "_revenue_only": true,
+  "_quality_score": 90,
+  "_needs_retry": false
+}

@@ -1,0 +1,90 @@
+{
+  "company": "Oracle Corporation",
+  "ticker": "ORCL",
+  "report_date": "2026-02-28",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2026",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Cloud and license",
+      "revenue": 15.0,
+      "operating_income": null,
+      "yoy_growth_pct": 24.0,
+      "sub_segments": [
+        {
+          "name": "Cloud services and license support",
+          "revenue": 8.9,
+          "yoy_growth_pct": 43.5
+        },
+        {
+          "name": "Cloud license and on-premise license",
+          "revenue": 1.2,
+          "yoy_growth_pct": 1.9
+        },
+        {
+          "name": "Cloud services",
+          "revenue": 8.9,
+          "yoy_growth_pct": 43.5
+        },
+        {
+          "name": "License support",
+          "revenue": 4.9,
+          "yoy_growth_pct": 3.6
+        },
+        {
+          "name": "Applications cloud services and license support",
+          "revenue": 4.0,
+          "yoy_growth_pct": 13.2
+        },
+        {
+          "name": "Infrastructure cloud services and license support",
+          "revenue": 4.9,
+          "yoy_growth_pct": 84.3
+        }
+      ]
+    },
+    {
+      "name": "Hardware",
+      "revenue": 0.7,
+      "operating_income": null,
+      "yoy_growth_pct": 2.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Services",
+      "revenue": 1.4,
+      "operating_income": null,
+      "yoy_growth_pct": 12.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 17.2,
+    "total_revenue_yoy_pct": 21.7,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 2.6,
+      "selling_general_administrative": 2.4
+    },
+    "total_operating_expenses": 5.0,
+    "operating_income": 5.5,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.1,
+    "income_before_tax": 4.4,
+    "tax_expense": 0.7,
+    "net_income": 3.7,
+    "net_income_yoy_pct": 26.7
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

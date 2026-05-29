@@ -1,0 +1,84 @@
+{
+  "company": "Verizon Communications",
+  "ticker": "VZ",
+  "report_date": "2024-06-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Consumer",
+      "revenue": 24.9,
+      "operating_income": 7.6,
+      "yoy_growth_pct": 1.5,
+      "sub_segments": [
+        {
+          "name": "Service",
+          "revenue": 19.2,
+          "yoy_growth_pct": 3.0
+        },
+        {
+          "name": "Wireless equipment",
+          "revenue": 4.1,
+          "yoy_growth_pct": -6.5
+        },
+        {
+          "name": "Other",
+          "revenue": 1.5,
+          "yoy_growth_pct": 6.0
+        }
+      ]
+    },
+    {
+      "name": "Business",
+      "revenue": 7.3,
+      "operating_income": 0.5,
+      "yoy_growth_pct": -2.4,
+      "sub_segments": [
+        {
+          "name": "Enterprise and Public Sector",
+          "revenue": 3.5,
+          "yoy_growth_pct": -6.3
+        },
+        {
+          "name": "Business Markets and Other",
+          "revenue": 3.2,
+          "yoy_growth_pct": 3.1
+        },
+        {
+          "name": "Wholesale",
+          "revenue": 0.5,
+          "yoy_growth_pct": -6.8
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 32.8,
+    "total_revenue_yoy_pct": 0.6,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 8.0
+    },
+    "total_operating_expenses": 8.0,
+    "operating_income": 7.8,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.9,
+    "income_before_tax": 6.0,
+    "tax_expense": 1.3,
+    "net_income": 4.6,
+    "net_income_yoy_pct": -1.2
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

@@ -1,0 +1,65 @@
+{
+  "ticker": "ABBV",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Immunology",
+      "sub_segments": [
+        "Skyrizi",
+        "Rinvoq",
+        "Humira"
+      ]
+    },
+    {
+      "name": "Neuroscience",
+      "sub_segments": [
+        "Vraylar",
+        "Botox Therapeutic",
+        "Ubrelvy",
+        "Qulipta",
+        "Vyalev",
+        "Duodopa",
+        "Other Neuroscience",
+        "Other Neuroscience"
+      ]
+    },
+    {
+      "name": "Oncology",
+      "sub_segments": [
+        "Imbruvica",
+        "Venclexta",
+        "Other Oncology",
+        "Elahere",
+        "Epkinly"
+      ]
+    },
+    {
+      "name": "Other Key Products",
+      "sub_segments": [
+        "Mavyret",
+        "Creon",
+        "Linzess/Constella",
+        "Other Other Key Products"
+      ]
+    },
+    {
+      "name": "All other",
+      "sub_segments": []
+    },
+    {
+      "name": "Aesthetics",
+      "sub_segments": [
+        "Botox Cosmetic",
+        "Juvederm Collection",
+        "Other Aesthetics"
+      ]
+    },
+    {
+      "name": "Eye Care",
+      "sub_segments": [
+        "Ozurdex",
+        "Lumigan/Ganfort"
+      ]
+    }
+  ]
+}

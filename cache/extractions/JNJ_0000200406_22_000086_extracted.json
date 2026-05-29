@@ -1,0 +1,106 @@
+{
+  "company": "Johnson & Johnson",
+  "ticker": "JNJ",
+  "report_date": "2022-10-02",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2022",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "MedTech",
+      "revenue": 20.7,
+      "operating_income": null,
+      "yoy_growth_pct": 2.2,
+      "sub_segments": [
+        {
+          "name": "Interventional Solutions",
+          "revenue": 3.2,
+          "yoy_growth_pct": 8.5
+        },
+        {
+          "name": "Orthopaedics",
+          "revenue": 6.4,
+          "yoy_growth_pct": 0.1
+        },
+        {
+          "name": "Hips",
+          "revenue": 1.1,
+          "yoy_growth_pct": 2.5
+        },
+        {
+          "name": "Knees",
+          "revenue": 1.0,
+          "yoy_growth_pct": 2.3
+        },
+        {
+          "name": "Trauma",
+          "revenue": 2.2,
+          "yoy_growth_pct": 0.2
+        },
+        {
+          "name": "Spine, Sports & Other",
+          "revenue": 2.1,
+          "yoy_growth_pct": -2.1
+        },
+        {
+          "name": "Surgery",
+          "revenue": 7.3,
+          "yoy_growth_pct": 0.1
+        },
+        {
+          "name": "Advanced Surgery",
+          "revenue": 3.5,
+          "yoy_growth_pct": 0.9
+        },
+        {
+          "name": "General Surgery",
+          "revenue": 3.8,
+          "yoy_growth_pct": -0.6
+        },
+        {
+          "name": "Vision",
+          "revenue": 3.7,
+          "yoy_growth_pct": 5.3
+        },
+        {
+          "name": "Contact Lenses/Other",
+          "revenue": 2.7,
+          "yoy_growth_pct": 4.0
+        },
+        {
+          "name": "Surgical Vision",
+          "revenue": 1.0,
+          "yoy_growth_pct": 9.0
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 23.8,
+    "total_revenue_yoy_pct": 1.9,
+    "cost_of_revenue": 7.8,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 16.0,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 6.1
+    },
+    "total_operating_expenses": 6.1,
+    "operating_income": 9.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -4.0,
+    "income_before_tax": 5.8,
+    "tax_expense": 1.4,
+    "net_income": 4.5,
+    "net_income_yoy_pct": 21.6
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

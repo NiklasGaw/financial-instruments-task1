@@ -1,0 +1,45 @@
+{
+  "company": "Sony Group Corporation",
+  "ticker": "6758.T",
+  "report_date": "2026-04-14",
+  "form_type": "6-K",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": 151.2,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "All Other",
+      "revenue": 345.2,
+      "operating_income": 45.6,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 76.7,
+    "total_revenue_yoy_pct": 13.0,
+    "cost_of_revenue": 43.1,
+    "cost_of_revenue_yoy_pct": 12.1,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 33.6,
+    "gross_profit_yoy_pct": 14.2,
+    "operating_expenses": {
+      "research_and_development": 6.7,
+      "selling_general_administrative": 12.1
+    },
+    "total_operating_expenses": 18.8,
+    "operating_income": 14.9,
+    "operating_income_yoy_pct": 18.7,
+    "other_income_expense": -0.8,
+    "income_before_tax": 14.0,
+    "tax_expense": 3.4,
+    "net_income": 10.7,
+    "net_income_yoy_pct": 16.8
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 70
+}

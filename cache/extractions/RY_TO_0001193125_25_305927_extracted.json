@@ -1,0 +1,106 @@
+{
+  "company": "Royal Bank of Canada",
+  "ticker": "RY.TO",
+  "report_date": "2025-10-31",
+  "form_type": "40-F",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": 1.35,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Personal & Commercial Banking",
+      "revenue": 16.5,
+      "operating_income": 6.6,
+      "yoy_growth_pct": 5.1,
+      "sub_segments": [
+        {
+          "name": "Canadian Banking",
+          "revenue": 13.9,
+          "yoy_growth_pct": 4.8
+        },
+        {
+          "name": "Caribbean & U.S. Banking",
+          "revenue": 2.7,
+          "yoy_growth_pct": 6.5
+        }
+      ]
+    },
+    {
+      "name": "Wealth Management",
+      "revenue": 6.3,
+      "operating_income": 2.1,
+      "yoy_growth_pct": 7.2,
+      "sub_segments": [
+        {
+          "name": "Canadian Wealth Management",
+          "revenue": 3.9,
+          "yoy_growth_pct": 6.1
+        },
+        {
+          "name": "U.S. & International Wealth Management",
+          "revenue": 2.4,
+          "yoy_growth_pct": 9.0
+        }
+      ]
+    },
+    {
+      "name": "Insurance",
+      "revenue": 3.0,
+      "operating_income": 0.9,
+      "yoy_growth_pct": 3.8,
+      "sub_segments": []
+    },
+    {
+      "name": "Investor & Treasury Services",
+      "revenue": 2.5,
+      "operating_income": 0.8,
+      "yoy_growth_pct": 2.7,
+      "sub_segments": []
+    },
+    {
+      "name": "Capital Markets",
+      "revenue": 5.8,
+      "operating_income": 1.9,
+      "yoy_growth_pct": 8.3,
+      "sub_segments": [
+        {
+          "name": "Corporate & Investment Banking",
+          "revenue": 3.3,
+          "yoy_growth_pct": 7.1
+        },
+        {
+          "name": "Global Markets",
+          "revenue": 2.4,
+          "yoy_growth_pct": 10.0
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 53.6,
+    "total_revenue_yoy_pct": 10.2,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 20.8
+    },
+    "total_operating_expenses": 20.8,
+    "operating_income": 32.8,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -1.6,
+    "income_before_tax": 9.1,
+    "tax_expense": 2.1,
+    "net_income": 7.0,
+    "net_income_yoy_pct": 12.6
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 80
+}

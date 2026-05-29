@@ -1,0 +1,64 @@
+{
+  "ticker": "AMGN",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Product Sales",
+      "sub_segments": [
+        "Prolia",
+        "Repatha",
+        "Otezla",
+        "ENBREL",
+        "EVENITY",
+        "XGEVA",
+        "TEPEZZA",
+        "BLINCYTO",
+        "Nplate",
+        "TEZSPIRE",
+        "KYPROLIS",
+        "Aranesp",
+        "KRYSTEXXA",
+        "Vectibix",
+        "Other Products",
+        "Neulasta",
+        "MVASI",
+        "AMJEVITA",
+        "AMGEVITA",
+        "Parsabiv",
+        "Aimovig",
+        "LUMAKRAS",
+        "EPOGEN",
+        "KANJINTI",
+        "TAVNEOS",
+        "RAVICTI",
+        "UPLIZNA",
+        "PROCYSBI"
+      ]
+    },
+    {
+      "name": "Other Revenues",
+      "sub_segments": []
+    },
+    {
+      "name": "Human Therapeutics",
+      "sub_segments": [
+        "Prolia",
+        "ENBREL",
+        "XGEVA",
+        "Repatha",
+        "Otezla",
+        "TEPEZZA",
+        "EVENITY",
+        "KYPROLIS",
+        "Nplate",
+        "Aranesp",
+        "BLINCYTO",
+        "KRYSTEXXA",
+        "Vectibix",
+        "TEZSPIRE",
+        "Other products",
+        "Other Human Therapeutics"
+      ]
+    }
+  ]
+}

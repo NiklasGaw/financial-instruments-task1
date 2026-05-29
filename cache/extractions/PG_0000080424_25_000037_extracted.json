@@ -1,0 +1,73 @@
+{
+  "company": "Procter & Gamble Co.",
+  "ticker": "PG",
+  "report_date": "2025-03-31",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "Q3",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Beauty",
+      "revenue": 3.5,
+      "operating_income": 0.7,
+      "yoy_growth_pct": -2.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Grooming",
+      "revenue": 1.5,
+      "operating_income": 0.4,
+      "yoy_growth_pct": -2.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Health Care",
+      "revenue": 2.9,
+      "operating_income": 0.7,
+      "yoy_growth_pct": 0.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Fabric & Home Care",
+      "revenue": 6.9,
+      "operating_income": 1.6,
+      "yoy_growth_pct": -3.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Baby, Feminine & Family Care",
+      "revenue": 4.8,
+      "operating_income": 1.2,
+      "yoy_growth_pct": -4.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 19.8,
+    "total_revenue_yoy_pct": -2.1,
+    "cost_of_revenue": 9.7,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 10.1,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 5.5
+    },
+    "total_operating_expenses": 5.5,
+    "operating_income": 4.6,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": 0.1,
+    "income_before_tax": 4.7,
+    "tax_expense": 0.9,
+    "net_income": 3.8,
+    "net_income_yoy_pct": 0.4
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 90
+}

@@ -1,0 +1,135 @@
+{
+  "company": "Sony Group Corporation",
+  "ticker": "6758.T",
+  "report_date": "2024-03-31",
+  "form_type": "20-F",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "JPY",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Game & Network Services (G&NS)",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": 17.3,
+      "sub_segments": [
+        {
+          "name": "Digital Software and Add-on Content",
+          "revenue": 0.0,
+          "yoy_growth_pct": 27.0
+        },
+        {
+          "name": "Network Services",
+          "revenue": 0.0,
+          "yoy_growth_pct": 17.4
+        },
+        {
+          "name": "Hardware & Others",
+          "revenue": 0.0,
+          "yoy_growth_pct": 9.2
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Pictures",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Entertainment, Technology & Services (ET&S)",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Imaging & Sensing Solutions (I&SS)",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": -8.8,
+      "sub_segments": []
+    },
+    {
+      "name": "Financial Services",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": -45.4,
+      "sub_segments": [
+        {
+          "name": "Insurance Services",
+          "revenue": null,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other Financial Services",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "All Other",
+      "revenue": 0.0,
+      "operating_income": 0.0,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 13020.8,
+    "total_revenue_yoy_pct": 12.8,
+    "cost_of_revenue": 8089.3,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 742.8,
+      "selling_general_administrative": 2156.2
+    },
+    "total_operating_expenses": 11822.4,
+    "operating_income": 1208.8,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": null,
+    "income_before_tax": 1268.7,
+    "tax_expense": 288.2,
+    "net_income": 980.5,
+    "net_income_yoy_pct": 3.9
+  },
+  "notes": "Two-pass LLM extraction.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 40,
+  "total_revenue": 13020.8,
+  "total_revenue_yoy_pct": 12.8,
+  "cost_of_revenue": 8089.3,
+  "cost_of_revenue_yoy_pct": null,
+  "cost_of_revenue_breakdown": null,
+  "gross_profit": null,
+  "gross_profit_yoy_pct": null,
+  "operating_expenses": {
+    "research_and_development": 742.8,
+    "selling_general_administrative": 2156.2
+  },
+  "total_operating_expenses": 11822.4,
+  "operating_income": 1208.8,
+  "operating_income_yoy_pct": null,
+  "other_income_expense": null,
+  "income_before_tax": 1268.7,
+  "tax_expense": 288.2,
+  "net_income": 980.5,
+  "net_income_yoy_pct": 3.9,
+  "accession_number": "0001193125-24-167500",
+  "cik": "0000313838"
+}

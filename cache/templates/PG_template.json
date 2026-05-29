@@ -1,0 +1,36 @@
+{
+  "ticker": "PG",
+  "source": "cache: 10-K 2023-06-30",
+  "segments": [
+    {
+      "name": "Beauty",
+      "sub_segments": []
+    },
+    {
+      "name": "Grooming",
+      "sub_segments": []
+    },
+    {
+      "name": "Health Care",
+      "sub_segments": [
+        "Oral Care",
+        "Personal Health Care"
+      ]
+    },
+    {
+      "name": "Fabric & Home Care",
+      "sub_segments": [
+        "Fabric Care",
+        "Home Care"
+      ]
+    },
+    {
+      "name": "Baby, Feminine & Family Care",
+      "sub_segments": [
+        "Baby Care",
+        "Feminine Care",
+        "Family Care"
+      ]
+    }
+  ]
+}

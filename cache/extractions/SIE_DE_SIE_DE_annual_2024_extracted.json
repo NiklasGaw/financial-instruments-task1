@@ -1,0 +1,82 @@
+{
+  "company": "Siemens AG",
+  "ticker": "SIE.DE",
+  "report_date": "2024-12-31",
+  "form_type": "Annual Report",
+  "fiscal_year": "FY2024",
+  "fiscal_period": "FY",
+  "currency": "EUR",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Digital Industries",
+      "revenue": 18.2,
+      "operating_income": 3.5,
+      "yoy_growth_pct": -10.1,
+      "sub_segments": [
+        {
+          "name": "Software business",
+          "revenue": 6.3,
+          "yoy_growth_pct": 24.1
+        }
+      ]
+    },
+    {
+      "name": "Smart Infrastructure",
+      "revenue": 21.0,
+      "operating_income": 3.7,
+      "yoy_growth_pct": 7.4,
+      "sub_segments": [
+        {
+          "name": "Service business",
+          "revenue": 4.6,
+          "yoy_growth_pct": 7.4
+        }
+      ]
+    },
+    {
+      "name": "Mobility",
+      "revenue": 11.4,
+      "operating_income": 1.0,
+      "yoy_growth_pct": 8.2,
+      "sub_segments": []
+    },
+    {
+      "name": "Siemens Healthineers",
+      "revenue": 22.4,
+      "operating_income": 3.2,
+      "yoy_growth_pct": 3.4,
+      "sub_segments": []
+    },
+    {
+      "name": "Siemens Financial Services",
+      "revenue": 0.4,
+      "operating_income": 0.6,
+      "yoy_growth_pct": -11.8,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 75.9,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue": 46.1,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 29.8,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 6.3,
+      "selling_general_administrative": 14.0
+    },
+    "total_operating_expenses": 20.8,
+    "operating_income": 11.2,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.5,
+    "income_before_tax": 11.2,
+    "tax_expense": 2.3,
+    "net_income": 9.0,
+    "net_income_yoy_pct": null
+  },
+  "notes": "Two-pass LLM extraction."
+}

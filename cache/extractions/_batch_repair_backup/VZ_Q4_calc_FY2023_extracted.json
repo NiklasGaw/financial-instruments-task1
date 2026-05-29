@@ -1,0 +1,85 @@
+{
+  "company": "Verizon Communications",
+  "ticker": "VZ",
+  "report_date": "2023-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Consumer",
+      "revenue": 26.9,
+      "operating_income": 7.1,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Service",
+          "revenue": 18.9,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Wireless equipment",
+          "revenue": 6.4,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Other",
+          "revenue": 1.7,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Business",
+      "revenue": 7.6,
+      "operating_income": 0.5,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "Enterprise and Public Sector",
+          "revenue": 3.7,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Business Markets and Other",
+          "revenue": 3.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "Wholesale",
+          "revenue": 0.5,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 35.2,
+    "cost_of_revenue": null,
+    "gross_profit": null,
+    "total_operating_expenses": 8.9,
+    "operating_income": 0.6,
+    "other_income_expense": -2.5,
+    "income_before_tax": -1.8,
+    "tax_expense": 0.8,
+    "net_income": -2.7,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 8.9
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 100,
+  "_synthetic_q4": true,
+  "_is_bank": true,
+  "_needs_retry": false
+}

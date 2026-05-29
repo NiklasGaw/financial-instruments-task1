@@ -1,0 +1,55 @@
+{
+  "ticker": "GE",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Commercial Engines & Services",
+      "sub_segments": [
+        "Equipment",
+        "Services"
+      ]
+    },
+    {
+      "name": "Defense & Propulsion Technologies",
+      "sub_segments": [
+        "Defense & Systems",
+        "Propulsion & Additive Technologies"
+      ]
+    },
+    {
+      "name": "Corporate & Other",
+      "sub_segments": []
+    },
+    {
+      "name": "Aerospace",
+      "sub_segments": [
+        "Commercial Engines and Services",
+        "Defense",
+        "Systems & Other"
+      ]
+    },
+    {
+      "name": "Renewable Energy",
+      "sub_segments": [
+        "Onshore Wind",
+        "Grid Solutions equipment and services",
+        "Hydro, Offshore Wind and Hybrid Solutions"
+      ]
+    },
+    {
+      "name": "Power",
+      "sub_segments": [
+        "Gas Power",
+        "Steam Power",
+        "Power Conversion, Nuclear and other"
+      ]
+    },
+    {
+      "name": "Corporate",
+      "sub_segments": [
+        "GE Digital revenues",
+        "Insurance revenues"
+      ]
+    }
+  ]
+}

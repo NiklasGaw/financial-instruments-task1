@@ -1,0 +1,61 @@
+{
+  "ticker": "JPM",
+  "source": "cache: 10-K 2023-12-31",
+  "segments": [
+    {
+      "name": "Consumer & Community Banking",
+      "sub_segments": [
+        "Card income",
+        "Mortgage fees and related income",
+        "Other Consumer & Community Banking",
+        "Net interest income",
+        "Noninterest revenue"
+      ]
+    },
+    {
+      "name": "Commercial & Investment Bank",
+      "sub_segments": [
+        "Investment banking fees",
+        "Principal transactions",
+        "Lending- and deposit-related fees",
+        "Commissions and other fees",
+        "Markets",
+        "Fixed Income Markets",
+        "Equity Markets"
+      ]
+    },
+    {
+      "name": "Asset & Wealth Management",
+      "sub_segments": [
+        "Asset Management",
+        "Global Private Bank",
+        "Asset management fees",
+        "Commissions and other fees",
+        "Net interest income",
+        "Noninterest revenue"
+      ]
+    },
+    {
+      "name": "Corporate & Investment Bank",
+      "sub_segments": [
+        "Net interest income",
+        "Noninterest revenue",
+        "Investment banking fees",
+        "Principal transactions",
+        "Lending- and deposit-related fees",
+        "Commissions and other fees"
+      ]
+    },
+    {
+      "name": "Commercial Banking",
+      "sub_segments": [
+        "Net interest income",
+        "Noninterest revenue"
+      ]
+    },
+    {
+      "name": "Corporate",
+      "sub_segments": []
+    }
+  ]
+}

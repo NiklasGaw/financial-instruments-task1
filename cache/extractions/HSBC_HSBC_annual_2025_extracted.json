@@ -1,0 +1,72 @@
+{
+  "company": "HSBC Holdings plc",
+  "ticker": "HSBC",
+  "report_date": "2025-12-31",
+  "form_type": "Annual Report",
+  "fiscal_year": "FY2025",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Hong Kong",
+      "revenue": 15.9,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "UK",
+      "revenue": 12.9,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Corporate and Institutional Banking",
+      "revenue": 27.6,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "International Wealth and Premier Banking",
+      "revenue": 14.5,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Corporate Centre",
+      "revenue": -2.7,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 68.3,
+    "total_revenue_yoy_pct": 4.0,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": null
+    },
+    "total_operating_expenses": 36.4,
+    "operating_income": 28.0,
+    "operating_income_yoy_pct": -5.0,
+    "other_income_expense": -3.9,
+    "income_before_tax": 29.9,
+    "tax_expense": 6.8,
+    "net_income": 23.1,
+    "net_income_yoy_pct": -7.0
+  },
+  "notes": "Two-pass LLM extraction. [manual segment patch: canonical structure NEW]",
+  "_quality_score": 90,
+  "_needs_retry": false
+}

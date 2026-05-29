@@ -1,0 +1,58 @@
+{
+  "ticker": "INTC",
+  "source": "cache: 10-K 2023-12-30",
+  "segments": [
+    {
+      "name": "Intel Products - Client Computing Group (CCG)",
+      "sub_segments": []
+    },
+    {
+      "name": "Intel Products - Data Center and AI (DCAI)",
+      "sub_segments": []
+    },
+    {
+      "name": "All Other",
+      "sub_segments": [
+        "Mobileye",
+        "Other All Other",
+        "Altera"
+      ]
+    },
+    {
+      "name": "CCG",
+      "sub_segments": []
+    },
+    {
+      "name": "DCAI",
+      "sub_segments": []
+    },
+    {
+      "name": "NEX",
+      "sub_segments": []
+    },
+    {
+      "name": "Client Computing",
+      "sub_segments": [
+        "Desktop",
+        "Notebook",
+        "Other"
+      ]
+    },
+    {
+      "name": "Data Center and AI",
+      "sub_segments": []
+    },
+    {
+      "name": "Network and Edge",
+      "sub_segments": []
+    },
+    {
+      "name": "Mobileye",
+      "sub_segments": []
+    },
+    {
+      "name": "Intel Foundry Services",
+      "sub_segments": []
+    }
+  ]
+}

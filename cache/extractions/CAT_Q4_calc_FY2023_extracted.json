@@ -1,0 +1,61 @@
+{
+  "company": "Caterpillar Inc.",
+  "ticker": "CAT",
+  "report_date": "2023-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Construction Industries",
+      "revenue": 6.4,
+      "operating_income": 1.6,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Resource Industries",
+      "revenue": 2.9,
+      "operating_income": 0.6,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Financial Products Segment",
+      "revenue": 1.0,
+      "operating_income": 0.3,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 17.1,
+    "cost_of_revenue": 11.0,
+    "gross_profit": 6.1,
+    "total_operating_expenses": 2.9,
+    "operating_income": 3.2,
+    "other_income_expense": null,
+    "income_before_tax": 3.3,
+    "tax_expense": 0.6,
+    "net_income": null,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 0.5,
+      "selling_general_administrative": 1.8,
+      "other_operating": 0.6
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 40,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

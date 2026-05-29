@@ -1,0 +1,89 @@
+{
+  "company": "Siemens AG",
+  "ticker": "SIE.DE",
+  "report_date": "2023-12-31",
+  "form_type": "Annual Report",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "EUR",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Digital Industries",
+      "revenue": 21.5,
+      "operating_income": 4.9,
+      "yoy_growth_pct": 12.5,
+      "sub_segments": [
+        {
+          "name": "Software",
+          "revenue": 5.1,
+          "yoy_growth_pct": 8.0
+        }
+      ]
+    },
+    {
+      "name": "Smart Infrastructure",
+      "revenue": 19.6,
+      "operating_income": 3.1,
+      "yoy_growth_pct": 15.2,
+      "sub_segments": [
+        {
+          "name": "Services",
+          "revenue": 4.2,
+          "yoy_growth_pct": 10.0
+        }
+      ]
+    },
+    {
+      "name": "Mobility",
+      "revenue": 10.5,
+      "operating_income": 0.9,
+      "yoy_growth_pct": 8.8,
+      "sub_segments": []
+    },
+    {
+      "name": "Siemens Healthineers",
+      "revenue": 21.7,
+      "operating_income": 2.5,
+      "yoy_growth_pct": -0.2,
+      "sub_segments": []
+    },
+    {
+      "name": "Siemens Financial Services",
+      "revenue": 0.4,
+      "operating_income": 0.6,
+      "yoy_growth_pct": -33.1,
+      "sub_segments": []
+    },
+    {
+      "name": "Portfolio Companies",
+      "revenue": 3.1,
+      "operating_income": 0.3,
+      "yoy_growth_pct": 1.8,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 77.8,
+    "total_revenue_yoy_pct": 8.0,
+    "cost_of_revenue": 48.1,
+    "cost_of_revenue_yoy_pct": 4.3,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 29.7,
+    "gross_profit_yoy_pct": 14.7,
+    "operating_expenses": {
+      "research_and_development": 6.2,
+      "selling_general_administrative": 13.9
+    },
+    "total_operating_expenses": 20.6,
+    "operating_income": 9.1,
+    "operating_income_yoy_pct": 56.6,
+    "other_income_expense": -0.4,
+    "income_before_tax": 11.2,
+    "tax_expense": 2.7,
+    "net_income": 8.5,
+    "net_income_yoy_pct": 94.2
+  },
+  "notes": "Two-pass LLM extraction."
+}

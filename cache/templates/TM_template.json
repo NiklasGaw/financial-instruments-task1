@@ -1,0 +1,18 @@
+{
+  "ticker": "TM",
+  "source": "cache: 20-F 2023-03-31",
+  "segments": [
+    {
+      "name": "Automotive",
+      "sub_segments": []
+    },
+    {
+      "name": "Financial Services",
+      "sub_segments": []
+    },
+    {
+      "name": "All Other",
+      "sub_segments": []
+    }
+  ]
+}

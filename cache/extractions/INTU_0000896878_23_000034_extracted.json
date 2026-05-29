@@ -1,0 +1,97 @@
+{
+  "company": "Intuit Inc.",
+  "ticker": "INTU",
+  "report_date": "2023-07-31",
+  "form_type": "10-K",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "FY",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Small Business & Self-Employed",
+      "revenue": 8.0,
+      "operating_income": 4.5,
+      "yoy_growth_pct": 24.0,
+      "sub_segments": [
+        {
+          "name": "QuickBooks Online Accounting",
+          "revenue": 2.8,
+          "yoy_growth_pct": 26.0
+        },
+        {
+          "name": "Online Services",
+          "revenue": 2.9,
+          "yoy_growth_pct": 34.0
+        },
+        {
+          "name": "Total Online Ecosystem",
+          "revenue": 5.8,
+          "yoy_growth_pct": 30.0
+        },
+        {
+          "name": "QuickBooks Desktop Accounting",
+          "revenue": 1.1,
+          "yoy_growth_pct": 30.0
+        },
+        {
+          "name": "Desktop Services and Supplies",
+          "revenue": 1.2,
+          "yoy_growth_pct": 0.0
+        },
+        {
+          "name": "Total Desktop Ecosystem",
+          "revenue": 2.3,
+          "yoy_growth_pct": 13.0
+        }
+      ]
+    },
+    {
+      "name": "Consumer",
+      "revenue": 4.1,
+      "operating_income": 2.7,
+      "yoy_growth_pct": 6.0,
+      "sub_segments": []
+    },
+    {
+      "name": "Credit Karma",
+      "revenue": 1.6,
+      "operating_income": 0.4,
+      "yoy_growth_pct": -9.0,
+      "sub_segments": []
+    },
+    {
+      "name": "ProTax",
+      "revenue": 0.6,
+      "operating_income": 0.4,
+      "yoy_growth_pct": 3.0,
+      "sub_segments": []
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 14.4,
+    "total_revenue_yoy_pct": 12.9,
+    "cost_of_revenue": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": null,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": 2.5,
+      "selling_general_administrative": 5.1
+    },
+    "total_operating_expenses": 11.2,
+    "operating_income": 3.1,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.1,
+    "income_before_tax": 3.0,
+    "tax_expense": 0.6,
+    "net_income": 2.4,
+    "net_income_yoy_pct": 15.4
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": true,
+  "_needs_retry": false,
+  "_quality_score": 100
+}

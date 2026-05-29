@@ -1,0 +1,38 @@
+{
+  "ticker": "SHEL.L",
+  "source": "cache: 20-F 2023-12-31",
+  "segments": [
+    {
+      "name": "Integrated Gas",
+      "sub_segments": [
+        "LNG",
+        "Natural gas and NGL"
+      ]
+    },
+    {
+      "name": "Upstream",
+      "sub_segments": [
+        "Crude oil"
+      ]
+    },
+    {
+      "name": "Marketing",
+      "sub_segments": []
+    },
+    {
+      "name": "Renewables and Energy Solutions",
+      "sub_segments": [
+        "Power",
+        "Other Renewables and Energy Solutions"
+      ]
+    },
+    {
+      "name": "Chemicals and Products",
+      "sub_segments": [
+        "Oil products",
+        "Chemicals products",
+        "Lubricants"
+      ]
+    }
+  ]
+}

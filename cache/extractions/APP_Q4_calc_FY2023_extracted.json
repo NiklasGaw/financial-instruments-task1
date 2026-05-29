@@ -1,0 +1,64 @@
+{
+  "company": "AppLovin Corp.",
+  "ticker": "APP",
+  "report_date": "2023-12-31",
+  "form_type": "Calculated",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q4",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Advertising",
+      "revenue": 0.5,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": []
+    },
+    {
+      "name": "Apps",
+      "revenue": 0.3,
+      "operating_income": null,
+      "yoy_growth_pct": null,
+      "sub_segments": [
+        {
+          "name": "In-App Purchases Revenue",
+          "revenue": 0.3,
+          "yoy_growth_pct": null
+        },
+        {
+          "name": "In-App Advertising Revenue",
+          "revenue": 0.2,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 0.9,
+    "cost_of_revenue": 0.2,
+    "gross_profit": 0.7,
+    "total_operating_expenses": 0.5,
+    "operating_income": 0.2,
+    "other_income_expense": null,
+    "income_before_tax": 0.2,
+    "tax_expense": 0.0,
+    "net_income": 0.2,
+    "total_revenue_yoy_pct": null,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit_yoy_pct": null,
+    "operating_income_yoy_pct": null,
+    "net_income_yoy_pct": null,
+    "operating_expenses": {
+      "selling_general_administrative": 0.3,
+      "research_and_development": 0.2
+    }
+  },
+  "notes": "Calculated as FY minus Q1+Q2+Q3 (no separate Q4 filing exists)",
+  "_quality_score": 80,
+  "_synthetic_q4": true,
+  "_is_bank": false,
+  "_needs_retry": false
+}

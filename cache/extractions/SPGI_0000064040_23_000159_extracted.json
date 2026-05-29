@@ -1,0 +1,158 @@
+{
+  "company": "S&P Global Inc.",
+  "ticker": "SPGI",
+  "report_date": "2023-06-30",
+  "form_type": "10-Q",
+  "fiscal_year": "FY2023",
+  "fiscal_period": "Q2",
+  "currency": "USD",
+  "exchange_rate_to_usd": null,
+  "unit": "billions",
+  "segments": [
+    {
+      "name": "Market Intelligence",
+      "revenue": 1.1,
+      "operating_income": 0.2,
+      "yoy_growth_pct": 4.8,
+      "sub_segments": [
+        {
+          "name": "Subscription",
+          "revenue": 0.9,
+          "yoy_growth_pct": 5.0
+        },
+        {
+          "name": "Recurring variable",
+          "revenue": 0.1,
+          "yoy_growth_pct": 7.4
+        },
+        {
+          "name": "Non-subscription / Transaction",
+          "revenue": 0.0,
+          "yoy_growth_pct": -7.1
+        },
+        {
+          "name": "Other Market Intelligence",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Ratings",
+      "revenue": 0.9,
+      "operating_income": 0.5,
+      "yoy_growth_pct": 6.9,
+      "sub_segments": [
+        {
+          "name": "Non-transaction",
+          "revenue": 0.5,
+          "yoy_growth_pct": 3.5
+        },
+        {
+          "name": "Non-subscription / Transaction",
+          "revenue": 0.4,
+          "yoy_growth_pct": 11.3
+        }
+      ]
+    },
+    {
+      "name": "Energy",
+      "revenue": 0.5,
+      "operating_income": 0.2,
+      "yoy_growth_pct": 5.5,
+      "sub_segments": [
+        {
+          "name": "Subscription",
+          "revenue": 0.4,
+          "yoy_growth_pct": 5.8
+        },
+        {
+          "name": "Sales usage-based royalties",
+          "revenue": 0.0,
+          "yoy_growth_pct": 20.0
+        },
+        {
+          "name": "Non-subscription / Transaction",
+          "revenue": 0.0,
+          "yoy_growth_pct": -8.3
+        },
+        {
+          "name": "Other Energy",
+          "revenue": 0.1,
+          "yoy_growth_pct": null
+        }
+      ]
+    },
+    {
+      "name": "Mobility",
+      "revenue": 0.4,
+      "operating_income": 0.1,
+      "yoy_growth_pct": 9.5,
+      "sub_segments": [
+        {
+          "name": "Subscription",
+          "revenue": 0.3,
+          "yoy_growth_pct": 10.6
+        },
+        {
+          "name": "Non-subscription / Transaction",
+          "revenue": 0.1,
+          "yoy_growth_pct": 5.5
+        }
+      ]
+    },
+    {
+      "name": "Indices",
+      "revenue": 0.3,
+      "operating_income": 0.2,
+      "yoy_growth_pct": 2.7,
+      "sub_segments": [
+        {
+          "name": "Asset-linked fees",
+          "revenue": 0.2,
+          "yoy_growth_pct": -1.4
+        },
+        {
+          "name": "Subscription",
+          "revenue": 0.1,
+          "yoy_growth_pct": 2.9
+        },
+        {
+          "name": "Sales usage-based royalties",
+          "revenue": 0.1,
+          "yoy_growth_pct": 13.8
+        },
+        {
+          "name": "Other Indices",
+          "revenue": null,
+          "yoy_growth_pct": null
+        }
+      ]
+    }
+  ],
+  "income_statement": {
+    "total_revenue": 3.1,
+    "total_revenue_yoy_pct": 3.6,
+    "cost_of_revenue": 1.0,
+    "cost_of_revenue_yoy_pct": null,
+    "cost_of_revenue_breakdown": null,
+    "gross_profit": 2.1,
+    "gross_profit_yoy_pct": null,
+    "operating_expenses": {
+      "research_and_development": null,
+      "selling_general_administrative": 0.8
+    },
+    "total_operating_expenses": 0.8,
+    "operating_income": 0.9,
+    "operating_income_yoy_pct": null,
+    "other_income_expense": -0.1,
+    "income_before_tax": 0.8,
+    "tax_expense": 0.3,
+    "net_income": 0.5,
+    "net_income_yoy_pct": -47.4
+  },
+  "notes": "XBRL IS + LLM segments.",
+  "_is_bank": false,
+  "_needs_retry": false,
+  "_quality_score": 100
+}
